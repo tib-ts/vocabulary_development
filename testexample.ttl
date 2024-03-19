@@ -38,8 +38,3 @@
     rdfs:description "bla";
     rdfs:status "bla";
     rdfs:comment "bla".
-<https://example.com#007> rdf:type owl:Thing;
-    rdfs:label "aamir";
-    rdfs:description "aamir";
-    rdfs:status "aamir";
-    rdfs:comment "aamir".
