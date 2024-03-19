@@ -57,7 +57,13 @@
     rdfs:status "dsfa";
     rdfs:comment "dafs".
 <https://example.com#afd> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "daf";
     rdfs:description "fdas";
     rdfs:status "fdas";
     rdfs:comment "asfd".
+<https://example.com#dsfaadsf> rdf:type owl:Thing;
+    rdfs:label "fdasf";
+    rdfs:description "asfdf";
+    rdfs:status "afds";
+    rdfs:comment "afsdf".
