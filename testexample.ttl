@@ -9,11 +9,10 @@
     rdfs:description "some description";
     rdfs:status "East Daphne".
 <https://example.com#002> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "Fawad";
-    rdfs:comment "Khan";
+    rdfs:label "Fawadiko";
     rdfs:description "yousafzai";
-    rdfs:status "swabi".
+    rdfs:status "swabi";
+    rdfs:comment "Khan".
 <https://example.com#003> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "Jawad";
@@ -21,7 +20,8 @@
     rdfs:description "Khan";
     rdfs:status "Mandar".
 <https://example.com#004> rdf:type owl:Thing;
-    rdfs:label "da swabi badmash";
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "khan";
     rdfs:description "khan";
     rdfs:status "khan";
     rdfs:comment "khan".
