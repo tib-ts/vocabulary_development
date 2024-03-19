@@ -32,8 +32,8 @@
     rdfs:description "sdaf";
     rdfs:status "adsf";
     rdfs:comment "adsf".
-<https://example.com#dsfa> rdf:type owl:Thing;
-    rdfs:label "dsfa";
-    rdfs:description "dsfa";
-    rdfs:status "fdsa";
+<https://example.com#sfda> rdf:type owl:Thing;
+    rdfs:label "fdsaf";
+    rdfs:description "sfda";
+    rdfs:status "asfd";
     rdfs:comment "fdas".
