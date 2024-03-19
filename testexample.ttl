@@ -39,7 +39,13 @@
     rdfs:status "sdaf";
     rdfs:comment "sdafsdaf".
 <https://example.com#iray> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "giray";
     rdfs:description "giray";
     rdfs:status "giray";
     rdfs:comment "giray".
+<https://example.com#new> rdf:type owl:Thing;
+    rdfs:label "new";
+    rdfs:description "new";
+    rdfs:status "new";
+    rdfs:comment "new".
