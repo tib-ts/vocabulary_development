@@ -26,3 +26,14 @@
     rdfs:description "sfda";
     rdfs:status "sfda";
     rdfs:comment "sfda".
+<https://example.com#asdf> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "dfdasf";
+    rdfs:description "dsaf";
+    rdfs:status "fdsaf";
+    rdfs:comment "fadsf".
+<https://example.com#fsdafda> rdf:type owl:Thing;
+    rdfs:label "dfds";
+    rdfs:description "sdafsda";
+    rdfs:status "sdaf";
+    rdfs:comment "sdafsdaf".
