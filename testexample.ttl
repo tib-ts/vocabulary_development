@@ -50,8 +50,8 @@
     rdfs:description "dasf";
     rdfs:status "afds";
     rdfs:comment "afd".
-<https://example.com#fds> rdf:type owl:Thing;
-    rdfs:label "tes";
-    rdfs:description "dsf";
+<https://example.com#dsf> rdf:type owl:Thing;
+    rdfs:label "dsf";
+    rdfs:description "dsaf";
     rdfs:status "dsfa";
-    rdfs:comment "fdsa".
+    rdfs:comment "dafs".
