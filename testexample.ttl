@@ -26,8 +26,3 @@
     rdfs:description "sfda";
     rdfs:status "sfda";
     rdfs:comment "sfda".
-<https://example.com#sdafa> rdf:type owl:Thing;
-    rdfs:label "dfads";
-    rdfs:description "sdaf";
-    rdfs:status "sdaf";
-    rdfs:comment "asfdaf".
