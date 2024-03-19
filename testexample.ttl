@@ -38,8 +38,8 @@
     rdfs:description "test";
     rdfs:status "test";
     rdfs:comment "testfadsf".
-<https://example.com#sfda> rdf:type owl:Thing;
-    rdfs:label "daf";
-    rdfs:description "dsfa";
-    rdfs:status "fdas";
-    rdfs:comment "afds".
+<https://example.com#t> rdf:type owl:Thing;
+    rdfs:label "test";
+    rdfs:description "t";
+    rdfs:status "t";
+    rdfs:comment "t".
