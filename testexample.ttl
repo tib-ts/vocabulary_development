@@ -14,8 +14,3 @@
     rdfs:description "yousafzai";
     rdfs:status "swabi";
     rdfs:comment "Khan".
-<https://example.com#003> rdf:type owl:Thing;
-    rdfs:label "test";
-    rdfs:description "fadsf";
-    rdfs:status "adsf";
-    rdfs:comment "asfd".
