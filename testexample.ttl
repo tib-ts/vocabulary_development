@@ -21,3 +21,7 @@
     rdfs:description "sdaf";
     rdfs:status "sfda";
     rdfs:comment "afd".
+<https://example.com#004> rdfs:label "khan";
+    rdfs:description "khan";
+    rdfs:status "khan";
+    rdfs:comment "khan".
