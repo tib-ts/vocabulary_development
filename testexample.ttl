@@ -20,12 +20,6 @@
     rdfs:comment "Khan";
     rdfs:description "yousafzai";
     rdfs:status "swabi".
-<https://example.com#003> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "Jawad";
-    rdfs:comment "Ali";
-    rdfs:description "Khan";
-    rdfs:status "Mandar".
 <https://example.com#sdaf> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "dfsa";
@@ -38,8 +32,3 @@
     rdfs:description "dsaf";
     rdfs:status "fdsaf";
     rdfs:comment "fadsf".
-<https://example.com#zzzzzzzzzzzzz> rdf:type owl:Thing;
-    rdfs:label "zzzzzzzzzz";
-    rdfs:description "zzzzzzzzzzzz";
-    rdfs:status "zzzzzzzzz";
-    rdfs:comment "zzzzzzzzzzz".
