@@ -38,8 +38,8 @@
     rdfs:description "dasf";
     rdfs:status "sfda";
     rdfs:comment "afds".
-<https://example.com#kha> rdf:type owl:Thing;
-    rdfs:label "kha";
-    rdfs:description "kha kh";
-    rdfs:status "kha";
-    rdfs:comment "kha".
+<https://example.com#21332> rdf:type owl:Thing;
+    rdfs:label "23424";
+    rdfs:description "34324";
+    rdfs:status "3242";
+    rdfs:comment "23442".
