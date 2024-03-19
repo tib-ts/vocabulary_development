@@ -2,47 +2,47 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#001> rdf:type "owl:Thing";
+<https://example.com#001> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "john";
     rdfs:comment "some comment";
     rdfs:description "some description";
     rdfs:status "East Daphne";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#002> rdf:type "owl:Thing";
+<https://example.com#002> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "Fawad";
     rdfs:comment "Khan";
     rdfs:description "yousafzai";
     rdfs:status "swabi";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#003> rdf:type "owl:Thing";
+<https://example.com#003> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "Jawad";
     rdfs:comment "Ali";
     rdfs:description "Khan";
     rdfs:status "Mandar";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#sdaf> rdf:type "owl:Thing";
+<https://example.com#sdaf> rdf:type owl:Thing;
     rdfs:label "fasdf";
     rdfs:description "sdaf";
     rdfs:status "sfda";
     rdfs:comment "afd";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#004> rdf:type "owl:Thing";
+<https://example.com#004> rdf:type owl:Thing;
     rdfs:label "khan";
     rdfs:description "khan";
     rdfs:status "khan";
     rdfs:comment "khan";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#006> rdf:type "owl:Thing";
+<https://example.com#006> rdf:type owl:Thing;
     rdfs:label "hello";
     rdfs:description "hello";
     rdfs:status "hello";
     rdfs:comment "hello";
     rdfs:rdf:type "owl:Thing".
-<https://example.com#007> rdf:type "owl:Thing";
-    rdfs:label "fast";
-    rdfs:description "fast";
-    rdfs:status "fast";
-    rdfs:comment "fast".
+<https://example.com#008> rdf:type owl:Thing;
+    rdfs:label "good";
+    rdfs:description "good";
+    rdfs:status "good";
+    rdfs:comment "good".
