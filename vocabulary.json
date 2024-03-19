@@ -1,1 +1,1 @@
-[{"id":"001","type":"http://www.w3.org/2002/07/owl#Thing","label":"john","comment":"some comment","description":"some description","status":"East Daphne"},{"id":"002","type":"http://www.w3.org/2002/07/owl#Thing","label":"Fawad","comment":"Khan","description":"yousafzai","status":"swabi"}]
+[{"id":"001","type":"http://www.w3.org/2002/07/owl#Thing","label":"john","comment":"some comment","description":"some description","status":"East Daphne"},{"id":"003","type":"http://www.w3.org/2002/07/owl#Thing","label":"Jawad","comment":"Ali","description":"Khan","status":"Mandar"}]
