@@ -15,7 +15,13 @@
     rdfs:status "swabi";
     rdfs:comment "Khan".
 <https://example.com#003> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "test";
     rdfs:description "test";
     rdfs:status "test";
     rdfs:comment "test".
+<https://example.com#004> rdf:type owl:Thing;
+    rdfs:label "testsdfa";
+    rdfs:description "testafds";
+    rdfs:status "testafds";
+    rdfs:comment "testfdas".
