@@ -20,12 +20,12 @@
     rdfs:comment "Ali";
     rdfs:description "Khan";
     rdfs:status "Mandar".
-<https://example.com#004> rdf:type owl:Thing;
+<https://example.com#005> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "khan";
-    rdfs:description "khan";
-    rdfs:status "khan";
-    rdfs:comment "khan".
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:status "test";
+    rdfs:comment "test".
 <https://example.com#006> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "bla";
