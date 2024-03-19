@@ -14,9 +14,3 @@
     rdfs:description "yousafzai";
     rdfs:status "swabi";
     rdfs:comment "Khan".
-<https://example.com#003> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "Jawad";
-    rdfs:comment "Ali";
-    rdfs:description "Khan";
-    rdfs:status "Mandar".
