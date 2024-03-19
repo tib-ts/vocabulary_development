@@ -21,8 +21,7 @@
     rdfs:description "Khan";
     rdfs:status "Mandar".
 <https://example.com#004> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "khan";
+    rdfs:label "janan";
     rdfs:description "khan";
     rdfs:status "khan";
     rdfs:comment "khan".
