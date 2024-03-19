@@ -25,3 +25,7 @@
     rdfs:description "khan";
     rdfs:status "khan";
     rdfs:comment "khan".
+<https://example.com#005> rdfs:label "time";
+    rdfs:description "time";
+    rdfs:status "time";
+    rdfs:comment "time".
