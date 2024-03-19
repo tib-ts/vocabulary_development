@@ -9,6 +9,7 @@
     rdfs:description "some description";
     rdfs:status "East Daphne".
 <https://example.com#002> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "Fawadiko";
     rdfs:description "yousafzai";
     rdfs:status "swabi";
@@ -19,9 +20,3 @@
     rdfs:comment "Ali";
     rdfs:description "Khan";
     rdfs:status "Mandar".
-<https://example.com#004> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "khan";
-    rdfs:description "khan";
-    rdfs:status "khan";
-    rdfs:comment "khan".
