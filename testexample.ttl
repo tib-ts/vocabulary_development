@@ -20,6 +20,12 @@
     rdfs:comment "Ali";
     rdfs:description "Khan";
     rdfs:status "Mandar".
+<https://example.com#004> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "khan";
+    rdfs:description "khan";
+    rdfs:status "khan";
+    rdfs:comment "khan".
 <https://example.com#005> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "test";
@@ -32,9 +38,3 @@
     rdfs:description "bla";
     rdfs:status "bla";
     rdfs:comment "bla".
-<https://example.com#007> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "aamir";
-    rdfs:description "aamir";
-    rdfs:status "aamir";
-    rdfs:comment "aamir".
