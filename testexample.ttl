@@ -20,3 +20,14 @@
     rdfs:comment "Ali";
     rdfs:description "Khan";
     rdfs:status "Mandar".
+<https://example.com#sdaf> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "dfsa";
+    rdfs:description "sfda";
+    rdfs:status "sfda";
+    rdfs:comment "sfda".
+<https://example.com#sdafa> rdf:type owl:Thing;
+    rdfs:label "dfads";
+    rdfs:description "sdaf";
+    rdfs:status "sdaf";
+    rdfs:comment "asfdaf".
