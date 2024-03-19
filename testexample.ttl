@@ -21,7 +21,13 @@
     rdfs:description "Khan";
     rdfs:status "Mandar".
 <https://example.com#dsaf> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "dfa";
     rdfs:description "fdsa";
     rdfs:status "fdas";
     rdfs:comment "fad".
+<https://example.com#adsf> rdf:type owl:Thing;
+    rdfs:label "fdasf";
+    rdfs:description "sdaf";
+    rdfs:status "adsf";
+    rdfs:comment "adsf".
