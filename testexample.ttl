@@ -68,8 +68,8 @@
     rdfs:description "adsf";
     rdfs:status "dasf";
     rdfs:comment "adf".
-<https://example.com#dasfads> rdf:type owl:Thing;
-    rdfs:label "fads";
-    rdfs:description "fadsf";
-    rdfs:status "adfa";
-    rdfs:comment "adfsf".
+<https://example.com#fdasd> rdf:type owl:Thing;
+    rdfs:label "fadsf";
+    rdfs:description "dsfasd";
+    rdfs:status "sdafsa";
+    rdfs:comment "asfdsdaf".
