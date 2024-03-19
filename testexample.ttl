@@ -32,3 +32,14 @@
     rdfs:description "dsaf";
     rdfs:status "fdsaf";
     rdfs:comment "fadsf".
+<https://example.com#admond> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "admond";
+    rdfs:description "admond";
+    rdfs:status "admond";
+    rdfs:comment "admond".
+<https://example.com#aaaa> rdf:type owl:Thing;
+    rdfs:label "aaaaaaaaa";
+    rdfs:description "aaaaaaaaa";
+    rdfs:status "aaaaaaaaaaa";
+    rdfs:comment "aaaaaaaaaa".
