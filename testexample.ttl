@@ -1,75 +1,21 @@
-@prefix owl: <http://www.w3.org/2002/07/owl#>.
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
-<https://example.com#21332> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "23424";
-    rdfs:description "34324";
-    rdfs:status "3242";
-    rdfs:comment "23442".
-<https://example.com#001> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "john";
-    rdfs:comment "some comment";
-    rdfs:description "some description";
-    rdfs:status "East Daphne".
-<https://example.com#002> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "Fawadiko";
-    rdfs:description "yousafzai";
-    rdfs:status "swabi";
-    rdfs:comment "Khan".
-<https://example.com#003> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "test";
-    rdfs:description "test";
-    rdfs:status "test";
-    rdfs:comment "test".
-<https://example.com#004> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "testsdfa";
-    rdfs:description "testafds";
-    rdfs:status "testafds";
-    rdfs:comment "testfdas".
-<https://example.com#005> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "Hello";
-    rdfs:description "test";
-    rdfs:status "test";
-    rdfs:comment "testfadsf".
-<https://example.com#t> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "test";
-    rdfs:description "t";
-    rdfs:status "t";
-    rdfs:comment "t".
-<https://example.com#sdaf> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "fda";
-    rdfs:description "dasf";
-    rdfs:status "afds";
-    rdfs:comment "afd".
-<https://example.com#dsf> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "dsf";
-    rdfs:description "dsaf";
-    rdfs:status "dsfa";
-    rdfs:comment "dafs".
-<https://example.com#afd> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "daf";
-    rdfs:description "fdas";
-    rdfs:status "fdas";
-    rdfs:comment "asfd".
-<https://example.com#asdf> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "dfas";
-    rdfs:description "adsf";
-    rdfs:status "dasf";
-    rdfs:comment "adf".
-<https://example.com#fdasd> rdf:type owl:Thing;
-    rdfs:label "fadsf";
-    rdfs:description "dsfasd";
-    rdfs:status "sdafsa";
-    rdfs:comment "asfdsdaf".
+<http://example.com#001>  rdf:type owl:Thing;
+          rdfs:label "john";
+          rdfs:comment "some comment";
+          rdfs:description "some description";
+          rdfs:status "East Daphne" .
+
+<http://example.com#002>  rdf:type owl:Thing;
+          rdfs:label "Fawad";
+          rdfs:comment "Khan";
+          rdfs:description "yousafzai";
+          rdfs:status "swabi" .
+
+<http://example.com#003>  rdf:type owl:Thing;
+          rdfs:label "Jawad";
+          rdfs:comment "Ali";
+          rdfs:description "Khan";
+          rdfs:status "Mandar" .
