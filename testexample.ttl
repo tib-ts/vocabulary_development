@@ -39,7 +39,13 @@
     rdfs:status "test";
     rdfs:comment "testfadsf".
 <https://example.com#t> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "test";
     rdfs:description "t";
     rdfs:status "t";
     rdfs:comment "t".
+<https://example.com#sdaf> rdf:type owl:Thing;
+    rdfs:label "fda";
+    rdfs:description "dasf";
+    rdfs:status "afds";
+    rdfs:comment "afd".
