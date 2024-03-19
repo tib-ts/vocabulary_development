@@ -44,8 +44,8 @@
     rdfs:description "dasf";
     rdfs:status "sfda";
     rdfs:comment "afds".
-<https://example.com#sdaf> rdf:type owl:Thing;
-    rdfs:label "sdfa";
-    rdfs:description "sfda";
-    rdfs:status "sfda";
-    rdfs:comment "sfda".
+<https://example.com#d> rdf:type owl:Thing;
+    rdfs:label "sd";
+    rdfs:description "d";
+    rdfs:status "d";
+    rdfs:comment "d".
