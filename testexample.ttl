@@ -32,3 +32,8 @@
     rdfs:description "dsaf";
     rdfs:status "fdsaf";
     rdfs:comment "fadsf".
+<https://example.com#212121> rdf:type owl:Thing;
+    rdfs:label "12121";
+    rdfs:description "121212";
+    rdfs:status "12121";
+    rdfs:comment "22121212".
