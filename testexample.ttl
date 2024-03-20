@@ -50,3 +50,9 @@
     rdfs:description "nielsh";
     rdfs:status "nilesh";
     rdfs:comment "nilesh".
+<https://example.com#9d592665-a6d4-44a6-bf70-3de2f412762a> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "Hello";
+    rdfs:description "Helllo";
+    rdfs:status "Hello";
+    rdfs:comment "Hello".
