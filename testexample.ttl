@@ -39,7 +39,13 @@
     rdfs:status "test";
     rdfs:comment "test".
 <https://example.com#asdfdsa> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "dfdsa";
     rdfs:description "fads";
     rdfs:status "sdafdsa";
     rdfs:comment "fdsafasdf".
+<https://example.com#nielsh> rdf:type owl:Thing;
+    rdfs:label "nilesh";
+    rdfs:description "nielsh";
+    rdfs:status "nilesh";
+    rdfs:comment "nilesh".
