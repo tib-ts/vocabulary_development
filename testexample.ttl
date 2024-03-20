@@ -57,7 +57,13 @@
     rdfs:status "fasdf";
     rdfs:comment "fdaasdf".
 <https://example.com#term> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "term";
     rdfs:description "term";
     rdfs:status "term";
     rdfs:comment "term".
+<https://example.com#7a01e936-f372-4f03-8a05-f00a199e9b50> rdf:type owl:Thing;
+    rdfs:label "hello";
+    rdfs:description "helllo";
+    rdfs:status "helllo";
+    rdfs:comment "helloo".
