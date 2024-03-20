@@ -51,7 +51,13 @@
     rdfs:status "nilesh";
     rdfs:comment "nilesh".
 <https://example.com#sdaf> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "fdsaf";
     rdfs:description "fsdasd";
     rdfs:status "fasdf";
     rdfs:comment "fdaasdf".
+<https://example.com#term> rdf:type owl:Thing;
+    rdfs:label "term";
+    rdfs:description "term";
+    rdfs:status "term";
+    rdfs:comment "term".
