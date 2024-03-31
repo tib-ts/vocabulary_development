@@ -15,7 +15,13 @@
     rdfs:description "asdff";
     rdfs:status "adsfs".
 <https://example.com#e4029a1d-96b2-4300-a306-2d3ff06b8187> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "fawad";
     rdfs:comment "asdf";
     rdfs:description "asdf";
     rdfs:status "adfs".
+<https://example.com#6a03576a-7c44-4d15-b958-556d272c20cf> rdf:type owl:Thing;
+    rdfs:label "khan";
+    rdfs:comment "khan";
+    rdfs:description "khan";
+    rdfs:status "khan".
