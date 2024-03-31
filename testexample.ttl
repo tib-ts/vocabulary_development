@@ -14,12 +14,6 @@
     rdfs:comment "khan";
     rdfs:description "khan";
     rdfs:status "khan".
-<https://example.com#e4465eb4-69a1-4d8c-904d-9ded8e1dfbb1> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "test";
-    rdfs:comment "test";
-    rdfs:description "test";
-    rdfs:status "test".
 <https://example.com#5e7691f9-d121-4f23-9aa1-a83f4a5a07cf> rdf:type owl:Thing;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "hello";
