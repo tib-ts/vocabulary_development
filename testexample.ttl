@@ -20,8 +20,3 @@
     rdfs:comment "hello";
     rdfs:description "helllo";
     rdfs:status "helllo".
-<https://example.com#6ac7472a-362a-431c-84eb-21a393da0643> rdf:type owl:Thing;
-    rdfs:label "tatat";
-    rdfs:comment "tata";
-    rdfs:description "tata";
-    rdfs:status "tata".
