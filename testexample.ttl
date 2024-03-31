@@ -2,13 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#11dab648-0b3d-442f-a9e6-f89d79a015ed> rdf:type owl:Thing;
-    rdfs:label "fawad";
-    rdfs:comment "yousafaati ";
-    rdfs:description "swabi";
-    rdfs:status "pakisan".
-<https://example.com#1e706574-67fa-4203-93fd-3a6dbe914d50> rdf:type owl:Thing;
-    rdfs:label "blabla";
-    rdfs:comment "bla";
-    rdfs:description "bla";
-    rdfs:status "bla".
+<https://example.com#undefined> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
+    rdfs:label "Hello";
+    rdfs:comment "Hello";
+    rdfs:description "Helllo";
+    rdfs:status "Hello".
