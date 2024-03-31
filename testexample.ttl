@@ -8,14 +8,3 @@
     rdfs:comment "Hello";
     rdfs:description "Helllo";
     rdfs:status "Hello".
-<https://example.com#2824a627-476f-4546-aaba-10c9bd93e646> rdf:type owl:Thing;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "aaaaa";
-    rdfs:description "asassaa";
-    rdfs:status "aaaaa";
-    rdfs:comment "aaaaaa".
-<https://example.com#ebe4cbcd-d1e8-4c38-9809-bc79b20c29eb> rdf:type owl:Thing;
-    rdfs:label "fdasfa";
-    rdfs:comment "sdafasd";
-    rdfs:description "sdafsda";
-    rdfs:status "sdafdsa".
