@@ -14,8 +14,8 @@
     rdfs:comment "dasff";
     rdfs:description "asdff";
     rdfs:status "adsfs".
-<https://example.com#f1ff39b7-49aa-4eb4-9b85-0784e6802c11> rdf:type owl:Thing;
-    rdfs:label "test";
-    rdfs:comment "test";
-    rdfs:description "test";
-    rdfs:status "test".
+<https://example.com#65d09448-eb50-481d-9cfe-0365d05ca971> rdf:type owl:Thing;
+    rdfs:label "fda";
+    rdfs:comment "asdf";
+    rdfs:description "asdf";
+    rdfs:status "adsf".
