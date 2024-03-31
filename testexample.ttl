@@ -20,3 +20,8 @@
     rdfs:comment "khan";
     rdfs:description "khan";
     rdfs:status "khan".
+<https://example.com#99e7bacc-bcb7-4066-8cee-503d77c5067b> rdf:type owl:Thing;
+    rdfs:label "dil";
+    rdfs:comment "dil";
+    rdfs:description "dil";
+    rdfs:status "dil".
