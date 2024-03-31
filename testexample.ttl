@@ -9,7 +9,13 @@
     rdfs:description "Helllo";
     rdfs:status "Hello".
 <https://example.com#b5e4d1ea-6763-4383-8778-cc7345151e1c> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "fadsf";
     rdfs:comment "dasff";
     rdfs:description "asdff";
     rdfs:status "adsfs".
+<https://example.com#f1ff39b7-49aa-4eb4-9b85-0784e6802c11> rdf:type owl:Thing;
+    rdfs:label "test";
+    rdfs:comment "test";
+    rdfs:description "test";
+    rdfs:status "test".
