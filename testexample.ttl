@@ -2,20 +2,26 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#e4029a1d-96b2-4300-a306-2d3ff06b8187> rdf:type owl:Thing;
+<https://example.com#e4029a1d-96b2-4300-a306-2d3ff06b8187> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "fawad";
     rdfs:comment "asdf";
     rdfs:description "asdf";
     rdfs:status "adfs".
-<https://example.com#6a03576a-7c44-4d15-b958-556d272c20cf> rdf:type owl:Thing;
+<https://example.com#6a03576a-7c44-4d15-b958-556d272c20cf> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "khan";
     rdfs:comment "khan";
     rdfs:description "khan";
     rdfs:status "khan".
-<https://example.com#5e7691f9-d121-4f23-9aa1-a83f4a5a07cf> rdf:type owl:Thing;
+<https://example.com#5e7691f9-d121-4f23-9aa1-a83f4a5a07cf> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "updated label";
     rdfs:comment "hello";
     rdfs:description "helllo";
     rdfs:status "helllo".
+<https://example.com#4b8f5cc5-3580-47b9-8f1c-f320328c4a2f> rdf:type rdfs:Resource;
+    rdfs:label "ttests";
+    rdfs:comment "ahha";
+    rdfs:description "hahah";
+    rdfs:status "hahah".
