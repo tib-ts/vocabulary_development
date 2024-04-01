@@ -21,7 +21,13 @@
     rdfs:description "helllo";
     rdfs:status "helllo".
 <https://example.com#3da43020-69f0-4a89-a232-6927fe2c24c2> rdf:type owl:Thing;
+    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "jan";
     rdfs:comment "jan";
     rdfs:description "jan";
     rdfs:status "jan".
+<https://example.com#5cbab89d-ed2a-4af7-8da6-40e2c467f3e4> rdf:type owl:Thing;
+    rdfs:label "test";
+    rdfs:comment "test";
+    rdfs:description "test";
+    rdfs:status "test".
