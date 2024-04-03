@@ -21,7 +21,18 @@
     rdfs:description "helllo";
     rdfs:status "helllo".
 <https://example.com#4b8f5cc5-3580-47b9-8f1c-f320328c4a2f> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "ttests";
     rdfs:comment "ahha";
     rdfs:description "hahah";
     rdfs:status "hahah".
+<https://example.com#067d69df-5bfe-4b08-9994-f91dd43299a3> rdf:type rdfs:Resource;
+    rdfs:label "data";
+    rdfs:comment "data";
+    rdfs:description "data";
+    rdfs:status "data".
+<https://example.com#c6bbcb9c-0024-4714-b12f-92c0fe861955> rdf:type rdfs:Resource;
+    rdfs:label "new";
+    rdfs:comment "new";
+    rdfs:description "new";
+    rdfs:status "new".
