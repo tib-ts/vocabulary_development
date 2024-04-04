@@ -27,7 +27,18 @@
     rdfs:description "new";
     rdfs:status "new".
 <https://example.com#aa98194b-16f0-4cb0-9666-5e7b714b6912> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Term";
     rdfs:comment "term";
     rdfs:description "Term";
     rdfs:status "Term".
+<https://example.com#300ea99a-bb29-45df-be2b-3e3b7744085b> rdf:type rdfs:Resource;
+    rdfs:label "Agent";
+    rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:status "draft".
+<https://example.com#1cefbc26-467a-42f7-bcc3-7507379b9eb0> rdf:type rdfs:Resource;
+    rdfs:label "dafa";
+    rdfs:comment "sdafs";
+    rdfs:description "sdafdsa";
+    rdfs:status "sdafas".
