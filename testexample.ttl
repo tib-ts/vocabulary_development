@@ -2,18 +2,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#e4029a1d-96b2-4300-a306-2d3ff06b8187> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "fawad";
-    rdfs:comment "asdf";
-    rdfs:description "asdf";
-    rdfs:status "adfs".
-<https://example.com#6a03576a-7c44-4d15-b958-556d272c20cf> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "khan";
-    rdfs:comment "khan";
-    rdfs:description "khan";
-    rdfs:status "khan".
 <https://example.com#5e7691f9-d121-4f23-9aa1-a83f4a5a07cf> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2002/07/owl#Thing";
     rdfs:label "updated label";
@@ -27,12 +15,19 @@
     rdfs:description "hahah";
     rdfs:status "hahah".
 <https://example.com#067d69df-5bfe-4b08-9994-f91dd43299a3> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "data";
     rdfs:comment "data";
     rdfs:description "data";
     rdfs:status "data".
 <https://example.com#c6bbcb9c-0024-4714-b12f-92c0fe861955> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "new";
     rdfs:comment "new";
     rdfs:description "new";
     rdfs:status "new".
+<https://example.com#aa98194b-16f0-4cb0-9666-5e7b714b6912> rdf:type rdfs:Resource;
+    rdfs:label "Term";
+    rdfs:comment "term";
+    rdfs:description "Term";
+    rdfs:status "Term".
