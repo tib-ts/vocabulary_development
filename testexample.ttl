@@ -2,9 +2,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#5e7691f9-d121-4f23-9aa1-a83f4a5a07cf> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2002/07/owl#Thing";
-    rdfs:label "updated label";
-    rdfs:comment "hello";
-    rdfs:description "helllo";
-    rdfs:status "helllo".
+<https://example.com#b3f152a3-252c-4230-9bb9-881a58239628> rdf:type rdfs:Resource;
+    rdfs:label "Document";
+    rdfs:comment "A physical object, or electronic counterpart, that is characterized by containing writing which is meant to be human-readable.";
+    rdfs:description "A physical object, or electronic counterpart, that is characterized by containing writing which is meant to be human-readable.";
+    rdfs:status "draft".
