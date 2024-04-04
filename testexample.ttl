@@ -8,37 +8,3 @@
     rdfs:comment "hello";
     rdfs:description "helllo";
     rdfs:status "helllo".
-<https://example.com#4b8f5cc5-3580-47b9-8f1c-f320328c4a2f> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "ttests";
-    rdfs:comment "ahha";
-    rdfs:description "hahah";
-    rdfs:status "hahah".
-<https://example.com#067d69df-5bfe-4b08-9994-f91dd43299a3> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "data";
-    rdfs:comment "data";
-    rdfs:description "data";
-    rdfs:status "data".
-<https://example.com#c6bbcb9c-0024-4714-b12f-92c0fe861955> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "new";
-    rdfs:comment "new";
-    rdfs:description "new";
-    rdfs:status "new".
-<https://example.com#aa98194b-16f0-4cb0-9666-5e7b714b6912> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Term";
-    rdfs:comment "term";
-    rdfs:description "Term";
-    rdfs:status "Term".
-<https://example.com#300ea99a-bb29-45df-be2b-3e3b7744085b> rdf:type rdfs:Resource;
-    rdfs:label "Agent";
-    rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
-    rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
-    rdfs:status "draft".
-<https://example.com#1cefbc26-467a-42f7-bcc3-7507379b9eb0> rdf:type rdfs:Resource;
-    rdfs:label "dafa";
-    rdfs:comment "sdafs";
-    rdfs:description "sdafdsa";
-    rdfs:status "sdafas".
