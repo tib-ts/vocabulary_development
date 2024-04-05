@@ -9,22 +9,31 @@
     rdfs:description "A physical object, or electronic counterpart, that is characterized by containing writing which is meant to be human-readable.";
     rdfs:status "draft".
 <https://example.com#56a7b848-96d2-4cd3-a8d4-f0055120e593> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Computer";
     rdfs:comment "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
     rdfs:description "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
     rdfs:status "draft".
 <https://example.com#1caa6b81-6c8e-4bb0-9694-16b370000c3a> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "System Lifetime";
     rdfs:comment "The System continues to operate as defined using SystemCapability. If, however, the SurvivalRange is violated, the System is 'damaged' and SystemCapability specifications may no longer hold.";
     rdfs:description "The System continues to operate as defined using SystemCapability. If, however, the SurvivalRange is violated, the System is 'damaged' and SystemCapability specifications may no longer hold.";
     rdfs:status "draft".
 <https://example.com#22a74e0d-9bd3-4030-a02d-0509ebd4c7ac> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Stability";
     rdfs:comment "The quality of being free from change or variation or not taking part readily in chemical change.";
     rdfs:description "The quality of being free from change or variation or not taking part readily in chemical change.";
     rdfs:status "draft".
 <https://example.com#8611242b-2a4b-4638-91a4-3c5e17d4f619> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Material Flow Simulation";
     rdfs:comment "Material Flow Simulation";
     rdfs:description "Material Flow Simulation";
+    rdfs:status "draft".
+<https://example.com#e2213ecf-b62f-45e0-8873-9833930d0048> rdf:type rdfs:Resource;
+    rdfs:label "skyscraper";
+    rdfs:comment "A building which historically has at least 10 floors.";
+    rdfs:description "A building which historically has at least 10 floors.";
     rdfs:status "draft".
