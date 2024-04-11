@@ -39,12 +39,19 @@
     rdfs:description "A building which historically has at least 10 floors.";
     rdfs:status "draft".
 <https://example.com#a84e38fb-285c-409e-ad47-df0c474596a7> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Test";
     rdfs:comment "this is a test";
     rdfs:description "test";
     rdfs:status "draft".
 <https://example.com#22e3feb7-73f4-4c2c-a816-25b4da4134da> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Agent";
     rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
     rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:status "draft".
+<https://example.com#62750f6a-ac48-4b08-94d6-47c8e9cc8abb> rdf:type rdfs:Resource;
+    rdfs:label "Agent";
+    rdfs:comment "A resource that acts or has the power to act.";
+    rdfs:description "A resource that acts or has the power to act.";
     rdfs:status "draft".
