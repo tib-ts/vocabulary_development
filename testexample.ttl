@@ -57,6 +57,7 @@
     rdfs:description "A resource that acts or has the power to act.";
     rdfs:status "draft".
 <https://example.com#81e233d5-2fbf-4be3-ad95-72469d73eb2b> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Test";
     rdfs:comment "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
     rdfs:description "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
