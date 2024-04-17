@@ -50,15 +50,3 @@
     rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
     rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
     rdfs:status "draft".
-<https://example.com#62750f6a-ac48-4b08-94d6-47c8e9cc8abb> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Agent";
-    rdfs:comment "A resource that acts or has the power to act.";
-    rdfs:description "A resource that acts or has the power to act.";
-    rdfs:status "draft".
-<https://example.com#81e233d5-2fbf-4be3-ad95-72469d73eb2b> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Test";
-    rdfs:comment "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
-    rdfs:description "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
-    rdfs:status "draft".
