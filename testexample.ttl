@@ -45,7 +45,13 @@
     rdfs:description "test";
     rdfs:status "draft".
 <https://example.com#a4e6c686-6759-46bc-ba16-9dd8389c0a07> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Hello";
     rdfs:comment "hello";
     rdfs:description "Hello";
     rdfs:status "Helloo".
+<https://example.com#a4af7eb7-765b-4dc4-9e37-5f65106f7c1c> rdf:type rdfs:Resource;
+    rdfs:label "Agent";
+    rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:status "draft".
