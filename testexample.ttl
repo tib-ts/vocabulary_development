@@ -14,3 +14,8 @@
     rdfs:comment "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
     rdfs:description "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
     rdfs:status "draft".
+<https://example.com#ba0744cb-c7cf-4451-be61-70ab62f98574> rdf:type rdfs:Resource;
+    rdfs:label "Age";
+    rdfs:comment "How long something has existed; elapsed time since birth.";
+    rdfs:description "How long something has existed; elapsed time since birth.";
+    rdfs:status "draft".
