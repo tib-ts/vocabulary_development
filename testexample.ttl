@@ -38,3 +38,8 @@
     rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
     rdfs:description "[object Object]";
     rdfs:status "draft".
+<https://example.com#d70395a8-5dcc-4da0-8f7e-696930f9d371> rdf:type rdfs:Resource;
+    rdfs:label "Test";
+    rdfs:comment "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
+    rdfs:description "[object Object]";
+    rdfs:status "draft".
