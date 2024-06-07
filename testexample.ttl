@@ -33,6 +33,7 @@
     rdfs:description "[object Object]";
     rdfs:status "draft".
 <https://example.com#a5ac83b1-f646-4b3c-9317-2dac73a25452> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Symbolic";
     rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
     rdfs:description "[object Object]";
