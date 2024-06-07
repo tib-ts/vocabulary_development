@@ -26,20 +26,8 @@
     rdfs:comment "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.";
     rdfs:description "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.";
     rdfs:status "draft".
-<https://example.com#807b8750-3161-44a9-9c74-c9af1757c210> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
+<https://example.com#329f016a-5877-4af0-968e-0d327b1588f8> rdf:type rdfs:Resource;
     rdfs:label "Symbolic";
     rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
-    rdfs:description "[object Object]";
-    rdfs:status "draft".
-<https://example.com#a5ac83b1-f646-4b3c-9317-2dac73a25452> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Symbolic";
-    rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
-    rdfs:description "[object Object]";
-    rdfs:status "draft".
-<https://example.com#d70395a8-5dcc-4da0-8f7e-696930f9d371> rdf:type rdfs:Resource;
-    rdfs:label "Test";
-    rdfs:comment "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
-    rdfs:description "[object Object]";
+    rdfs:description "https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_057e7d57_aff0_49de_911a_8861d85cef40";
     rdfs:status "draft".
