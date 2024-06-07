@@ -21,7 +21,13 @@
     rdfs:description "How long something has existed; elapsed time since birth.";
     rdfs:status "draft".
 <https://example.com#17ccf608-0240-4c59-a7a4-727f49b95ac4> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "ageing";
     rdfs:comment "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.";
     rdfs:description "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.";
+    rdfs:status "draft".
+<https://example.com#807b8750-3161-44a9-9c74-c9af1757c210> rdf:type rdfs:Resource;
+    rdfs:label "Symbolic";
+    rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
+    rdfs:description "[object Object]";
     rdfs:status "draft".
