@@ -14,3 +14,8 @@
     rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_057e7d57_aff0_49de_911a_8861d85cef40";
     rdfs:status "draft".
+<https://example.com#4491bd5e-679d-4d3e-88d0-7bd3d82ab347> rdf:type rdfs:Resource;
+    rdfs:label "link";
+    rdfs:comment "https://raw.githubusercontent.com/tib-ts/vocabulary_development/main/testexample.ttl";
+    rdfs:description "link";
+    rdfs:status "draft".
