@@ -14,8 +14,3 @@
     rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_057e7d57_aff0_49de_911a_8861d85cef40";
     rdfs:status "draft".
-<https://example.com#7973681d-d693-446d-a11b-cc6a7c157a9a> rdf:type rdfs:Resource;
-    rdfs:label "galaxy";
-    rdfs:comment "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter.";
-    rdfs:description "url:undefinedenvo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_01000807";
-    rdfs:status "draft".
