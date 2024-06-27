@@ -2,18 +2,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#56a7b848-96d2-4cd3-a8d4-f0055120e593> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Computer";
-    rdfs:comment "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
-    rdfs:description "A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming";
-    rdfs:status "draft".
-<https://example.com#ef04069f-8b91-45ee-adab-03119305cf30> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Symbolic";
-    rdfs:comment "A discrete data whose elements can be decoded as tokens from one or more alphabets, without necessarily respecting syntactic rules.";
-    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_057e7d57_aff0_49de_911a_8861d85cef40";
-    rdfs:status "draft".
 <https://example.com#d3d5aaf9-021a-4951-9e68-b668fe8d89bf> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "test";
@@ -39,6 +27,7 @@
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/snomedct/terms?iri=http%3A%2F%2Fsnomed.info%2Fid%2F719567002";
     rdfs:status "draft".
 <https://example.com#23927651-ff58-41f0-9265-8283281d5f4b> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "test";
     rdfs:comment "test";
     rdfs:description "test";
