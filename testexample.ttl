@@ -8,3 +8,8 @@
     rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C1708";
     rdfs:status "draft".
+<https://example.com#d485c543-596f-4ce7-88f9-ae7ec06d8235> rdf:type rdfs:Resource;
+    rdfs:label "Stock Depth";
+    rdfs:comment "definitio is taken from WP4 slidedeck \"Demand and supply dynamics in the semiconductor supply chain\"";
+    rdfs:description "Test description";
+    rdfs:status "undefined".
