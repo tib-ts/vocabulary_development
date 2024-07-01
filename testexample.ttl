@@ -8,3 +8,8 @@
     rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C1708";
     rdfs:status "draft".
+<https://example.com#2620e32a-fdf2-4699-8a93-b226869bd1a2> rdf:type rdfs:Resource;
+    rdfs:label "test";
+    rdfs:comment "test";
+    rdfs:description "test";
+    rdfs:status "undefined".
