@@ -15,6 +15,7 @@
     rdfs:description "test";
     rdfs:status "undefined".
 <https://example.com#06980239-ffee-4e4e-9609-a2c0263815c2> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "New";
     rdfs:comment "New";
     rdfs:description "new";
