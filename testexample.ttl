@@ -20,3 +20,8 @@
     rdfs:comment "New";
     rdfs:description "new";
     rdfs:status "draft".
+<https://example.com#09fa5b6c-e349-4640-ae42-dc38c18409f3> rdf:type rdfs:Resource;
+    rdfs:label "fawad";
+    rdfs:comment "fawad";
+    rdfs:description "fawad";
+    rdfs:status "fawad".
