@@ -33,6 +33,7 @@
     rdfs:description "dsafasd";
     rdfs:status "dsfdas".
 <https://example.com#0e5e3b16-c933-4fdf-896b-aea663959b55> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "new";
     rdfs:comment "new";
     rdfs:description "new";
