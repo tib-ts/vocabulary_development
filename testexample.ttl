@@ -21,7 +21,13 @@
     rdfs:description "new";
     rdfs:status "draft".
 <https://example.com#09fa5b6c-e349-4640-ae42-dc38c18409f3> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "fawad";
     rdfs:comment "fawad";
     rdfs:description "fawad";
     rdfs:status "fawad".
+<https://example.com#8c4a542e-8e3c-4f7a-9fca-2e142fc1f833> rdf:type rdfs:Resource;
+    rdfs:label "fdsaf";
+    rdfs:comment "dsaf";
+    rdfs:description "dsafasd";
+    rdfs:status "dsfdas".
