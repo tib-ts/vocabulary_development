@@ -38,3 +38,8 @@
     rdfs:comment "new";
     rdfs:description "new";
     rdfs:status "new".
+<https://example.com#f6bda430-2239-4630-bd69-960238f8dce8> rdf:type rdfs:Resource;
+    rdfs:label "aaaaaaaaaaaaaa";
+    rdfs:comment "aaaaaaaaaaaaaaaaaaa";
+    rdfs:description "aaaaaaaaaaaaaaaaaaaaa";
+    rdfs:status "aaaaaaaaaaaaaaaaaaaa".
