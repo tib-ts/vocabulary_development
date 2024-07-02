@@ -45,7 +45,13 @@
     rdfs:description "aaaaaaaaaaaaaaaaaaaaa";
     rdfs:status "aaaaaaaaaaaaaaaaaaaa".
 <https://example.com#50d43fd9-d547-4dc1-ab6c-4f78f56687c1> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Test";
     rdfs:comment "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C47891";
     rdfs:status "draft".
+<https://example.com#285f245c-dd27-410d-8dfa-40bf6079f286> rdf:type rdfs:Resource;
+    rdfs:label "Push Out";
+    rdfs:comment "same as cancellation";
+    rdfs:description "Test description";
+    rdfs:status "undefined".
