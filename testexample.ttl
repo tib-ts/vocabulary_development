@@ -2,12 +2,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#64d067cf-2dbb-4687-b0ab-b724e57603ca> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Agent";
-    rdfs:comment "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
-    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C1708";
-    rdfs:status "draft".
 <https://example.com#2620e32a-fdf2-4699-8a93-b226869bd1a2> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "test";
@@ -33,7 +27,18 @@
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0032764";
     rdfs:status "draft".
 <https://example.com#3846717b-1b9a-4ab0-a888-ab9a4ba246ce> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Face";
     rdfs:comment "A flat surface of an object.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C126364";
+    rdfs:status "draft".
+<https://example.com#8c1d7522-be05-4e73-aa64-159b33aae1b8> rdf:type rdfs:Resource;
+    rdfs:label "yousafzai";
+    rdfs:comment "yousafzai";
+    rdfs:description "yousafzai";
+    rdfs:status "yousafzai".
+<https://example.com#93b71329-c43a-40a4-87c8-bb197d6ddd73> rdf:type rdfs:Resource;
+    rdfs:label "Thank You";
+    rdfs:comment "An expression of gratitude.";
+    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C94783";
     rdfs:status "draft".
