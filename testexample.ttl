@@ -21,12 +21,19 @@
     rdfs:description "new";
     rdfs:status "draft".
 <https://example.com#f32dab39-d108-4bb8-81dc-ce39951e7b55> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "khan";
     rdfs:comment "sadf";
     rdfs:description "sdafdas";
     rdfs:status "fasdf".
 <https://example.com#2019aa2a-643c-4b85-89d5-af2df716af27> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Khan-Khan-Katsanis syndrome";
     rdfs:comment "Not Available";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0032764";
+    rdfs:status "draft".
+<https://example.com#3846717b-1b9a-4ab0-a888-ab9a4ba246ce> rdf:type rdfs:Resource;
+    rdfs:label "Face";
+    rdfs:comment "A flat surface of an object.";
+    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C126364";
     rdfs:status "draft".
