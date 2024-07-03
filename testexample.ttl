@@ -20,3 +20,13 @@
     rdfs:comment "New";
     rdfs:description "new";
     rdfs:status "draft".
+<https://example.com#f32dab39-d108-4bb8-81dc-ce39951e7b55> rdf:type rdfs:Resource;
+    rdfs:label "khan";
+    rdfs:comment "sadf";
+    rdfs:description "sdafdas";
+    rdfs:status "fasdf".
+<https://example.com#2019aa2a-643c-4b85-89d5-af2df716af27> rdf:type rdfs:Resource;
+    rdfs:label "Khan-Khan-Katsanis syndrome";
+    rdfs:comment "Not Available";
+    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0032764";
+    rdfs:status "draft".
