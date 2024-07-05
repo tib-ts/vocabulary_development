@@ -3,7 +3,13 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
 <https://example.com#ed768e5c-6163-41ba-8c93-21dab9d55aae> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Brand New Term";
     rdfs:description "this is a brand new term";
     rdfs:seeAlso "nothing to see";
+    rdfs:status "draft".
+<https://example.com#65afd70f-f79f-4219-9f24-0ba76e9bb343> rdf:type rdfs:Resource;
+    rdfs:label "organism";
+    rdfs:description "A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/vibso/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0100026";
     rdfs:status "draft".
