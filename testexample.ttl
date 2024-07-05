@@ -6,4 +6,4 @@
     rdfs:label "Brand New Term";
     rdfs:description "this is a brand new term";
     rdfs:seeAlso "nothing to see";
-    rdfs:status " draft".
+    rdfs:status "draft".
