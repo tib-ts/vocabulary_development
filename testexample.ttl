@@ -2,3 +2,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
+<https://example.com#ed768e5c-6163-41ba-8c93-21dab9d55aae> rdf:type rdfs:Resource;
+    rdfs:label "Brand New Term";
+    rdfs:description "this is a brand new term";
+    rdfs:seeAlso "nothing to see";
+    rdfs:status " draft".
