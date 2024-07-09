@@ -9,7 +9,18 @@
     rdfs:seeAlso "nothing to see";
     rdfs:status "draft".
 <https://example.com#65afd70f-f79f-4219-9f24-0ba76e9bb343> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "organism";
     rdfs:description "A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/vibso/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0100026";
+    rdfs:status "draft".
+<https://example.com#01cb8a19-fcb2-4bc0-9f7b-7881d94f3709> rdf:type rdfs:Resource;
+    rdfs:label "Khan-Khan-Katsanis syndrome";
+    rdfs:comment "Not Available";
+    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0032764";
+    rdfs:status "draft".
+<https://example.com#a6115bd2-5f66-4d5b-be40-bbd762f322ca> rdf:type rdfs:Resource;
+    rdfs:label "NAA10 Gene";
+    rdfs:comment "This gene is involved in protein acetylation.";
+    rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C95850";
     rdfs:status "draft".
