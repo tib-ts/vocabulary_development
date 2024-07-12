@@ -15,12 +15,24 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/vibso/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FOBI_0100026";
     rdfs:status "draft".
 <https://example.com#01cb8a19-fcb2-4bc0-9f7b-7881d94f3709> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Khan-Khan-Katsanis syndrome";
     rdfs:comment "Not Available";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0032764";
     rdfs:status "draft".
 <https://example.com#a6115bd2-5f66-4d5b-be40-bbd762f322ca> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "NAA10 Gene";
     rdfs:comment "This gene is involved in protein acetylation.";
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C95850";
+    rdfs:status "draft".
+<https://example.com#bc1fa092-fb90-4fb5-afe3-eea9fbaf697d> rdf:type rdfs:Resource;
+    rdfs:label "arrangement";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/s4bldg/terms?iri=https%3A%2F%2Fsaref.etsi.org%2Fsaref4bldg%2Farrangement";
+    rdfs:status "draft".
+<https://example.com#c573b730-2f4a-4c54-9b98-1c57db718060> rdf:type rdfs:Resource;
+    rdfs:label "hello";
+    rdfs:description "hello";
+    rdfs:seeAlso "hello";
     rdfs:status "draft".
