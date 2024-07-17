@@ -27,12 +27,14 @@
     rdfs:description "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C95850";
     rdfs:status "draft".
 <https://example.com#bc1fa092-fb90-4fb5-afe3-eea9fbaf697d> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "arrangement";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/s4bldg/terms?iri=https%3A%2F%2Fsaref.etsi.org%2Fsaref4bldg%2Farrangement";
     rdfs:status "draft".
 <https://example.com#c573b730-2f4a-4c54-9b98-1c57db718060> rdf:type rdfs:Resource;
-    rdfs:label "hello";
-    rdfs:description "hello";
-    rdfs:seeAlso "hello";
-    rdfs:status "draft".
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
+    rdfs:label "fawad";
+    rdfs:description "fawad";
+    rdfs:seeAlso "fawad";
+    rdfs:status "ready".
