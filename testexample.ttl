@@ -4,10 +4,10 @@
 
 <https://example.com#ed768e5c-6163-41ba-8c93-21dab9d55aae> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "Old term now";
-    rdfs:description "Old Term now";
-    rdfs:seeAlso "Old Term now";
-    rdfs:status "accepted".
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "ready".
 <https://example.com#65afd70f-f79f-4219-9f24-0ba76e9bb343> rdf:type rdfs:Resource;
     rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "organism";
