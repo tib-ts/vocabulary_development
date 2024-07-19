@@ -3,11 +3,13 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
 <https://example.com#fa4b78c4-fe8c-4349-8874-470752039aad> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "New Term";
     rdfs:description "this is a new term";
     rdfs:seeAlso "Nothing to see";
     rdfs:status "draft".
 <https://example.com#7f79e098-4790-4005-8f0a-e46b12974fec> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "Ontology";
     rdfs:description "In information science, an explicit formal specification of how to represent the objects, concepts and other entities that are assumed to exist in some area of interest and the relationships among them.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C21270";
