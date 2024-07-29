@@ -29,3 +29,9 @@
     rdfs:description "haha";
     rdfs:seeAlso "haha";
     rdfs:status "draft".
+<https://example.com#7cde696c-fd53-4ff0-bc7b-282fa774dd86> rdf:type rdfs:Resource;
+    rdfs:id "7cde696c-fd53-4ff0-bc7b-282fa774dd86";
+    rdfs:label "goog";
+    rdfs:description "goog";
+    rdfs:seeAlso "goog";
+    rdfs:status "draft".
