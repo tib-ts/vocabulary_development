@@ -14,38 +14,3 @@
     rdfs:description "In information science, an explicit formal specification of how to represent the objects, concepts and other entities that are assumed to exist in some area of interest and the relationships among them.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C21270";
     rdfs:status "draft".
-<https://example.com#799c6bd4-8f2c-400c-b532-2fbe5edce88b> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "fawad";
-    rdfs:description "fawad";
-    rdfs:seeAlso "fawad";
-    rdfs:status "draft".
-<https://example.com#8d0eae4d-587b-418c-bd53-bde1f8037c93> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "jawad";
-    rdfs:description "khan";
-    rdfs:seeAlso "khan";
-    rdfs:status "draft".
-<https://example.com#4df51e46-8854-484d-84f1-60937b2bf6d8> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "bla";
-    rdfs:description "bla";
-    rdfs:seeAlso "bla";
-    rdfs:status "draft".
-<https://example.com#c6edbd97-190f-4bd6-a625-28e08b17f230> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "cup";
-    rdfs:description "cup";
-    rdfs:seeAlso "cup";
-    rdfs:status "draft".
-<https://example.com#873e9f90-061b-476a-b5ef-9471ebe01ebb> rdf:type rdfs:Resource;
-    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
-    rdfs:label "jeep";
-    rdfs:description "jeep";
-    rdfs:seeAlso "jeep";
-    rdfs:status "draft".
-<https://example.com#4eff7b3e-d28f-4b43-be86-3ee5814bd6b5> rdf:type rdfs:Resource;
-    rdfs:label "nikola";
-    rdfs:description "nikola";
-    rdfs:seeAlso "nikola";
-    rdfs:status "draft".
