@@ -14,3 +14,8 @@
     rdfs:description "In information science, an explicit formal specification of how to represent the objects, concepts and other entities that are assumed to exist in some area of interest and the relationships among them.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C21270";
     rdfs:status "draft".
+<https://example.com#4435607e-75e4-4aa9-9aca-05ef023263f1> rdf:type rdfs:Resource;
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
