@@ -15,7 +15,13 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C21270";
     rdfs:status "draft".
 <https://example.com#799c6bd4-8f2c-400c-b532-2fbe5edce88b> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "fawad";
     rdfs:description "fawad";
     rdfs:seeAlso "fawad";
+    rdfs:status "draft".
+<https://example.com#8d0eae4d-587b-418c-bd53-bde1f8037c93> rdf:type rdfs:Resource;
+    rdfs:label "jawad";
+    rdfs:description "khan";
+    rdfs:seeAlso "khan";
     rdfs:status "draft".
