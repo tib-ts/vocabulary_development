@@ -25,13 +25,21 @@
     rdfs:status "draft".
 <https://example.com#23e2c927-8eb2-4d6c-9397-06f6170f1e4c> rdf:type rdfs:Resource;
     rdfs:id "23e2c927-8eb2-4d6c-9397-06f6170f1e4c";
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "haha";
     rdfs:description "haha";
     rdfs:seeAlso "haha";
     rdfs:status "draft".
 <https://example.com#7cde696c-fd53-4ff0-bc7b-282fa774dd86> rdf:type rdfs:Resource;
     rdfs:id "7cde696c-fd53-4ff0-bc7b-282fa774dd86";
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "goog";
     rdfs:description "goog";
     rdfs:seeAlso "goog";
+    rdfs:status "draft".
+<https://example.com#b62b1965-d470-474b-bc67-95ce75323a11> rdf:type rdfs:Resource;
+    rdfs:id "b62b1965-d470-474b-bc67-95ce75323a11";
+    rdfs:label "natalia";
+    rdfs:description "natalia";
+    rdfs:seeAlso "natalia";
     rdfs:status "draft".
