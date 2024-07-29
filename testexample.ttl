@@ -33,7 +33,13 @@
     rdfs:seeAlso "bla";
     rdfs:status "draft".
 <https://example.com#c6edbd97-190f-4bd6-a625-28e08b17f230> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "cup";
     rdfs:description "cup";
     rdfs:seeAlso "cup";
+    rdfs:status "draft".
+<https://example.com#873e9f90-061b-476a-b5ef-9471ebe01ebb> rdf:type rdfs:Resource;
+    rdfs:label "jeep";
+    rdfs:description "jeep";
+    rdfs:seeAlso "jeep";
     rdfs:status "draft".
