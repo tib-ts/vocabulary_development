@@ -21,7 +21,13 @@
     rdfs:seeAlso "fawad";
     rdfs:status "draft".
 <https://example.com#8d0eae4d-587b-418c-bd53-bde1f8037c93> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "jawad";
     rdfs:description "khan";
     rdfs:seeAlso "khan";
+    rdfs:status "draft".
+<https://example.com#4df51e46-8854-484d-84f1-60937b2bf6d8> rdf:type rdfs:Resource;
+    rdfs:label "bla";
+    rdfs:description "bla";
+    rdfs:seeAlso "bla";
     rdfs:status "draft".
