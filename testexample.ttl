@@ -15,7 +15,13 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C21270";
     rdfs:status "draft".
 <https://example.com#2ab53635-ab3f-410c-8fcc-3f39622a2273> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "tesla";
     rdfs:description "tesla";
     rdfs:seeAlso "tesla";
+    rdfs:status "draft".
+<https://example.com#7461a92b-96eb-4218-af6e-03f5038d4dba> rdf:type rdfs:Resource;
+    rdfs:label "git";
+    rdfs:description "git";
+    rdfs:seeAlso "git";
     rdfs:status "draft".
