@@ -27,7 +27,13 @@
     rdfs:seeAlso "git";
     rdfs:status "draft".
 <https://example.com#cb884b5d-cd99-43e0-9470-851a061562f5> rdf:type rdfs:Resource;
+    rdfs:type "http://www.w3.org/2000/01/rdf-schema#Resource";
     rdfs:label "canoo";
     rdfs:description "canoo";
     rdfs:seeAlso "canoo";
+    rdfs:status "draft".
+<https://example.com#314d992d-f30f-418e-81f9-8c99be920716> rdf:type rdfs:Resource;
+    rdfs:label "janu";
+    rdfs:description "janu";
+    rdfs:seeAlso "janu";
     rdfs:status "draft".
