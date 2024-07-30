@@ -26,3 +26,9 @@
     rdfs:description "hello";
     rdfs:seeAlso "hello";
     rdfs:status "draft".
+<https://example.com#dd1d58a7-325d-4eb8-8862-7a889f6670b3> rdf:type rdfs:Resource;
+    rdfs:id "dd1d58a7-325d-4eb8-8862-7a889f6670b3";
+    rdfs:label "chrome";
+    rdfs:description "chrome";
+    rdfs:seeAlso "chrome";
+    rdfs:status "draft".
