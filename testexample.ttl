@@ -8,3 +8,9 @@
     rdfs:description "new term";
     rdfs:seeAlso "new term";
     rdfs:status "draft".
+<https://example.com#0f54eb9c-b0c4-4b9b-902c-bcd123d34030> rdf:type rdfs:Resource;
+    rdfs:id "0f54eb9c-b0c4-4b9b-902c-bcd123d34030";
+    rdfs:label "another";
+    rdfs:description "another";
+    rdfs:seeAlso "another";
+    rdfs:status "draft".
