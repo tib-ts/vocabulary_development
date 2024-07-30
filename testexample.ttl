@@ -50,3 +50,9 @@
     rdfs:description "aaaaaaaaaaaaaaaaaa";
     rdfs:seeAlso "aaaaaaaaaaaaaaaaaaa";
     rdfs:status "draft".
+<https://example.com#638bb483-a73e-4e3f-8095-9aebbdf0cf81> rdf:type rdfs:Resource;
+    rdfs:id "638bb483-a73e-4e3f-8095-9aebbdf0cf81";
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
