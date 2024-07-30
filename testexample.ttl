@@ -26,3 +26,15 @@
     rdfs:description "hello";
     rdfs:seeAlso "hello";
     rdfs:status "draft".
+<https://example.com#bfb8bda8-3d85-4b75-bf6a-1e8218acf8bc> rdf:type rdfs:Resource;
+    rdfs:id "bfb8bda8-3d85-4b75-bf6a-1e8218acf8bc";
+    rdfs:label "firefox";
+    rdfs:description "firefox";
+    rdfs:seeAlso "firefox";
+    rdfs:status "draft".
+<https://example.com#741b3786-94aa-4174-ae54-547883476e25> rdf:type rdfs:Resource;
+    rdfs:id "741b3786-94aa-4174-ae54-547883476e25";
+    rdfs:label "na";
+    rdfs:description "na";
+    rdfs:seeAlso "na";
+    rdfs:status "draft".
