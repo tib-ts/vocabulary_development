@@ -38,3 +38,9 @@
     rdfs:description "janan";
     rdfs:seeAlso "janan";
     rdfs:status "draft".
+<https://example.com#ecdbeac8-da75-41fd-9b6a-8f3d09277406> rdf:type rdfs:Resource;
+    rdfs:id "ecdbeac8-da75-41fd-9b6a-8f3d09277406";
+    rdfs:label "fawad";
+    rdfs:description "fawad";
+    rdfs:seeAlso "fawad";
+    rdfs:status "draft".
