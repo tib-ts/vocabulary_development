@@ -44,9 +44,3 @@
     rdfs:description "jawad";
     rdfs:seeAlso "jawad";
     rdfs:status "draft".
-<https://example.com#0bb1f3be-9a1a-4ddc-a19c-870335312247> rdf:type rdfs:Resource;
-    rdfs:id "0bb1f3be-9a1a-4ddc-a19c-870335312247";
-    rdfs:label "brand";
-    rdfs:description "brand";
-    rdfs:seeAlso "brand";
-    rdfs:status "draft".
