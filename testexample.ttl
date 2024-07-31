@@ -3,8 +3,8 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
 <https://example.com#undefined> rdf:type rdfs:Resource;
-    rdfs:0 "1";
-    rdfs:1 "9";
+    rdfs:0 "[object Object]";
+    rdfs:1 "[object Object]";
     rdfs:2 "8";
     rdfs:3 "9";
     rdfs:4 "3";
@@ -43,6 +43,4 @@
     rdfs:37 "e";
     rdfs:38 "a";
     rdfs:39 "1";
-    rdf:type rdfs:Resource;
-    rdfs:0 "[object Object]";
-    rdfs:1 "[object Object]".
+    rdfs:id "undefined".
