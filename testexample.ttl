@@ -2,15 +2,47 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
-<https://example.com#3ca80dda-426b-4b48-aa81-070132e16d3b> rdf:type rdfs:Resource;
-    rdfs:id "3ca80dda-426b-4b48-aa81-070132e16d3b";
-    rdfs:label "new term";
-    rdfs:description "new term";
-    rdfs:seeAlso "new term";
-    rdfs:status "draft".
-<https://example.com#0f54eb9c-b0c4-4b9b-902c-bcd123d34030> rdf:type rdfs:Resource;
-    rdfs:id "0f54eb9c-b0c4-4b9b-902c-bcd123d34030";
-    rdfs:label "another";
-    rdfs:description "another";
-    rdfs:seeAlso "another";
-    rdfs:status "draft".
+<https://example.com#undefined> rdf:type rdfs:Resource;
+    rdfs:0 "1";
+    rdfs:1 "8";
+    rdfs:2 "d";
+    rdfs:3 "e";
+    rdfs:4 "1";
+    rdfs:5 "0";
+    rdfs:6 "c";
+    rdfs:7 "5";
+    rdfs:8 "2";
+    rdfs:9 "1";
+    rdfs:10 "7";
+    rdfs:11 "b";
+    rdfs:12 "7";
+    rdfs:13 "5";
+    rdfs:14 "d";
+    rdfs:15 "4";
+    rdfs:16 "9";
+    rdfs:17 "9";
+    rdfs:18 "3";
+    rdfs:19 "7";
+    rdfs:20 "5";
+    rdfs:21 "1";
+    rdfs:22 "a";
+    rdfs:23 "0";
+    rdfs:24 "4";
+    rdfs:25 "b";
+    rdfs:26 "5";
+    rdfs:27 "6";
+    rdfs:28 "c";
+    rdfs:29 "f";
+    rdfs:30 "b";
+    rdfs:31 "3";
+    rdfs:32 "e";
+    rdfs:33 "5";
+    rdfs:34 "d";
+    rdfs:35 "9";
+    rdfs:36 "d";
+    rdfs:37 "1";
+    rdfs:38 "b";
+    rdfs:39 "f";
+    rdf:type rdfs:Resource;
+    rdfs:0 "[object Object]";
+    rdfs:1 "[object Object]".
