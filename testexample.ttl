@@ -32,3 +32,9 @@
     rdfs:description "khan";
     rdfs:seeAlso "khan";
     rdfs:status "draft".
+<https://example.com#bd8dd5ef-aee0-461d-9ced-f67dfdcc8e67> rdf:type rdfs:Resource;
+    rdfs:id "bd8dd5ef-aee0-461d-9ced-f67dfdcc8e67";
+    rdfs:label "new";
+    rdfs:description "new";
+    rdfs:seeAlso "new";
+    rdfs:status "draft".
