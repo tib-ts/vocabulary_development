@@ -20,3 +20,9 @@
     rdfs:description "dddd";
     rdfs:seeAlso "dddd";
     rdfs:status "draft".
+<https://example.com#245244d3-91d7-4777-b9c4-465bc5069fa7> rdf:type rdfs:Resource;
+    rdfs:id "245244d3-91d7-4777-b9c4-465bc5069fa7";
+    rdfs:label "ghhgh";
+    rdfs:description "fghgh";
+    rdfs:seeAlso "ghfgh";
+    rdfs:status "draft".
