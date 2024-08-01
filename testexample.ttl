@@ -14,3 +14,9 @@
     rdfs:description "sdafda";
     rdfs:seeAlso "dasfsa";
     rdfs:status "draft".
+<https://example.com#0bff70b3-7eda-4907-8bd2-ab0d5cca5eaf> rdf:type rdfs:Resource;
+    rdfs:id "0bff70b3-7eda-4907-8bd2-ab0d5cca5eaf";
+    rdfs:label "ddddd";
+    rdfs:description "dddd";
+    rdfs:seeAlso "dddd";
+    rdfs:status "draft".
