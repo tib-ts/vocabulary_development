@@ -44,3 +44,9 @@
     rdfs:description "raw";
     rdfs:seeAlso "raw";
     rdfs:status "draft".
+<https://example.com#12f8a409-6e1b-4d1d-b2e8-6cdd6827e30f> rdf:type rdfs:Resource;
+    rdfs:id "12f8a409-6e1b-4d1d-b2e8-6cdd6827e30f";
+    rdfs:label "arc";
+    rdfs:description "arc";
+    rdfs:seeAlso "arc";
+    rdfs:status "draft".
