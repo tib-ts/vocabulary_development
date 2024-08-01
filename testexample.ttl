@@ -8,3 +8,9 @@
     rdfs:description "test";
     rdfs:seeAlso "test";
     rdfs:status "draft".
+<https://example.com#226afa3e-c42d-4d39-8c0e-2b0a109911f1> rdf:type rdfs:Resource;
+    rdfs:id "226afa3e-c42d-4d39-8c0e-2b0a109911f1";
+    rdfs:label "dfa";
+    rdfs:description "sdafda";
+    rdfs:seeAlso "dasfsa";
+    rdfs:status "draft".
