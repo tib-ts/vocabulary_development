@@ -26,3 +26,9 @@
     rdfs:description "fawad";
     rdfs:seeAlso "fawad";
     rdfs:status "draft".
+<https://example.com#f1ae2463-282d-44d3-a48e-08ec2ec0cd89> rdf:type rdfs:Resource;
+    rdfs:id "f1ae2463-282d-44d3-a48e-08ec2ec0cd89";
+    rdfs:label "khan";
+    rdfs:description "khan";
+    rdfs:seeAlso "khan";
+    rdfs:status "draft".
