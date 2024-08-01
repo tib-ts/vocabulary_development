@@ -38,3 +38,9 @@
     rdfs:description "new";
     rdfs:seeAlso "new";
     rdfs:status "draft".
+<https://example.com#d36a78a3-b339-4f5a-ad25-4f78b8c29ba6> rdf:type rdfs:Resource;
+    rdfs:id "d36a78a3-b339-4f5a-ad25-4f78b8c29ba6";
+    rdfs:label "raw";
+    rdfs:description "raw";
+    rdfs:seeAlso "raw";
+    rdfs:status "draft".
