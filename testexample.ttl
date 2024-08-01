@@ -2,3 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
+<https://example.com#a9eefa88-8e30-40b2-9a28-090afc58fa5a> rdf:type rdfs:Resource;
+    rdfs:id "a9eefa88-8e30-40b2-9a28-090afc58fa5a";
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
