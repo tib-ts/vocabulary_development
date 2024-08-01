@@ -20,3 +20,9 @@
     rdfs:description "sfdafasdf";
     rdfs:seeAlso "sdafsdaf";
     rdfs:status "draft".
+<https://example.com#5a1a6eae-a4ad-4f7d-bc56-52e2f9a00c5c> rdf:type rdfs:Resource;
+    rdfs:id "5a1a6eae-a4ad-4f7d-bc56-52e2f9a00c5c";
+    rdfs:label "fawad";
+    rdfs:description "fawad";
+    rdfs:seeAlso "fawad";
+    rdfs:status "draft".
