@@ -50,3 +50,9 @@
     rdfs:description "arc";
     rdfs:seeAlso "arc";
     rdfs:status "draft".
+<https://example.com#9df05e46-782d-4327-b524-42eb85a628ea> rdf:type rdfs:Resource;
+    rdfs:label "Agent";
+    rdfs:id "9df05e46-782d-4327-b524-42eb85a628ea";
+    rdfs:description "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C1708";
+    rdfs:status "draft".
