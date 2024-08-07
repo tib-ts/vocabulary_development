@@ -2,3 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 
+<https://example.com#69ea11a6-f1cc-45ca-af7c-f2c36175b5db> rdf:type rdfs:Resource;
+    rdfs:label "Demand";
+    rdfs:description "Outgoing/ incoming Shipments (bound by capacity, mostly not directly forecasted, mostly historic values) ";
+    rdfs:seeAlso "undefined";
+    rdfs:status "draft";
+    rdfs:id "69ea11a6-f1cc-45ca-af7c-f2c36175b5db".
