@@ -16,8 +16,14 @@
     rdfs:seeAlso "new";
     rdfs:status "draft".
 <https://example.com#6c75f883-fd05-4b33-a8d7-211886b5c43d> rdf:type rdfs:Resource;
-    rdfs:label "Age";
     rdfs:id "6c75f883-fd05-4b33-a8d7-211886b5c43d";
+    rdfs:label "Age";
     rdfs:description "How long something has existed; elapsed time since birth.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25150";
+    rdfs:status "draft".
+<https://example.com#e27bf49a-5cd7-418b-8a62-16e29965077b> rdf:type rdfs:Resource;
+    rdfs:label "soil";
+    rdfs:id "e27bf49a-5cd7-418b-8a62-16e29965077b";
+    rdfs:description "The upper layer of earth that may be dug or plowed and in which plants grow.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bto/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FBTO_0003809";
     rdfs:status "draft".
