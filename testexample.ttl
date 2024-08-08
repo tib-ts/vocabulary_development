@@ -8,9 +8,3 @@
     rdfs:description "Outgoing/ incoming Shipments (bound by capacity, mostly not directly forecasted, mostly historic values) ";
     rdfs:seeAlso "undefined";
     rdfs:status "draft".
-<https://example.com#f4142c6a-83de-40a7-8a24-37b0eb6045d3> rdf:type rdfs:Resource;
-    rdfs:id "f4142c6a-83de-40a7-8a24-37b0eb6045d3";
-    rdfs:label "test";
-    rdfs:description "test";
-    rdfs:seeAlso "test";
-    rdfs:status "draft".
