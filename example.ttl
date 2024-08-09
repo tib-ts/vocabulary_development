@@ -1,6 +1,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
 <https://example.com#69ea11a6-f1cc-45ca-af7c-f2c36175b5db> rdf:type rdfs:Resource;
     rdfs:id "69ea11a6-f1cc-45ca-af7c-f2c36175b5db";
@@ -22,8 +23,15 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25150";
     rdfs:status "draft".
 <https://example.com#e27bf49a-5cd7-418b-8a62-16e29965077b> rdf:type rdfs:Resource;
-    rdfs:label "soil";
     rdfs:id "e27bf49a-5cd7-418b-8a62-16e29965077b";
+    rdfs:label "soil";
     rdfs:description "The upper layer of earth that may be dug or plowed and in which plants grow.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bto/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FBTO_0003809";
     rdfs:status "draft".
+<https://example.com#db86a09c-cf1b-4132-921d-56e0f5264c00> rdf:type rdfs:Resource;
+    rdfs:id "db86a09c-cf1b-4132-921d-56e0f5264c00";
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft";
+    rdfs:altLabel "test".
