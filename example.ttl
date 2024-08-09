@@ -35,3 +35,10 @@
     rdfs:seeAlso "test";
     rdfs:status "draft";
     rdfs:altLabel "test".
+<https://example.com#8b66f0da-b925-4389-a3c6-3b72c897a8c2> rdf:type rdfs:Resource;
+    rdfs:id "8b66f0da-b925-4389-a3c6-3b72c897a8c2";
+    rdfs:label "test";
+    rdfs:altLabel "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
