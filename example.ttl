@@ -49,3 +49,10 @@
     rdfs:description "fawad";
     rdfs:seeAlso "fawad";
     rdfs:status "draft".
+<https://example.com#5da7943f-d021-49fc-a09b-d053976c978e> rdf:type rdfs:Resource;
+    rdfs:id "5da7943f-d021-49fc-a09b-d053976c978e";
+    rdfs:label "ab";
+    rdfs:altLabel "cd";
+    rdfs:description "ef";
+    rdfs:seeAlso "gh";
+    rdfs:status "draft".
