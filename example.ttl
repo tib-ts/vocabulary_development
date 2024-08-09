@@ -42,3 +42,10 @@
     rdfs:description "test";
     rdfs:seeAlso "test";
     rdfs:status "draft".
+<https://example.com#39fff683-2acc-4512-8dd4-85d142990020> rdf:type rdfs:Resource;
+    rdfs:id "39fff683-2acc-4512-8dd4-85d142990020";
+    rdfs:label "fawad";
+    rdfs:altLabel "fawad";
+    rdfs:description "fawad";
+    rdfs:seeAlso "fawad";
+    rdfs:status "draft".
