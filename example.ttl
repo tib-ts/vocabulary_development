@@ -35,24 +35,3 @@
     rdfs:seeAlso "test";
     rdfs:status "draft";
     rdfs:altLabel "test".
-<https://example.com#8b66f0da-b925-4389-a3c6-3b72c897a8c2> rdf:type rdfs:Resource;
-    rdfs:id "8b66f0da-b925-4389-a3c6-3b72c897a8c2";
-    rdfs:label "test";
-    rdfs:altLabel "test";
-    rdfs:description "test";
-    rdfs:seeAlso "test";
-    rdfs:status "draft".
-<https://example.com#39fff683-2acc-4512-8dd4-85d142990020> rdf:type rdfs:Resource;
-    rdfs:id "39fff683-2acc-4512-8dd4-85d142990020";
-    rdfs:label "fawad";
-    rdfs:altLabel "fawad";
-    rdfs:description "fawad";
-    rdfs:seeAlso "fawad";
-    rdfs:status "draft".
-<https://example.com#5da7943f-d021-49fc-a09b-d053976c978e> rdf:type rdfs:Resource;
-    rdfs:id "5da7943f-d021-49fc-a09b-d053976c978e";
-    rdfs:label "ab";
-    rdfs:altLabel "cd";
-    rdfs:description "ef";
-    rdfs:seeAlso "gh";
-    rdfs:status "draft".
