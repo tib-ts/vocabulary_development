@@ -38,21 +38,35 @@
 <https://example.com#6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4> rdf:type rdfs:Resource;
     rdfs:id "6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4";
     rdfs:label "afdsf";
-    skos:altLabel "dsfdsaf", " fawad";
+    skos:altLabel " fawad";
     rdfs:description "sdafdsa";
     rdfs:seeAlso "fadsf";
     rdfs:status "draft".
 <https://example.com#6e0ba96d-cf72-41da-94ea-d73a381bc152> rdf:type rdfs:Resource;
     rdfs:id "6e0ba96d-cf72-41da-94ea-d73a381bc152";
     rdfs:label "dfdsaf";
-    skos:altLabel "1111", " 222";
+    skos:altLabel " 222";
     rdfs:description "fdasf";
     rdfs:seeAlso "dsfdsaf";
     rdfs:status "draft".
 <https://example.com#af38a9ec-6240-454b-b5fb-34d3d35f3b17> rdf:type rdfs:Resource;
     rdfs:id "af38a9ec-6240-454b-b5fb-34d3d35f3b17";
     rdfs:label "fasd";
-    skos:altLabel "11dfdfdasf", " 222dfadsfdasf";
+    skos:altLabel " 222dfadsfdasf";
     rdfs:description "dfdsa";
     rdfs:seeAlso "dfasdf";
+    rdfs:status "draft".
+<https://example.com#81d6233d-4307-469b-9135-9229673d343e> rdf:type rdfs:Resource;
+    rdfs:id "81d6233d-4307-469b-9135-9229673d343e";
+    rdfs:label "dsafsd";
+    skos:altLabel "aaaaaaaaaaaaaaaa", " bbbbbbbbbbbbbbbb";
+    rdfs:description "afddsf";
+    rdfs:seeAlso "fdsdaf";
+    rdfs:status "draft".
+<https://example.com#ef3dd3a4-1ced-41af-b1c8-6fdb0a8b285f> rdf:type rdfs:Resource;
+    rdfs:id "ef3dd3a4-1ced-41af-b1c8-6fdb0a8b285f";
+    rdfs:label "dafa";
+    skos:altLabel "aaaa", " bbb";
+    rdfs:description "dfasdf";
+    rdfs:seeAlso "fdsa";
     rdfs:status "draft".
