@@ -44,7 +44,14 @@
 <https://example.com#35f85795-dfa7-4781-a0ee-c85caaebaa8c> rdf:type rdfs:Resource;
     rdfs:id "35f85795-dfa7-4781-a0ee-c85caaebaa8c";
     rdfs:label "dfads";
-    rdfs:altLabel "aaaaaaa", "bbbbb", "cccccccc";
+    rdfs:altLabel "cccccccc";
     rdfs:description "dfads";
     rdfs:seeAlso "dfadsf";
+    rdfs:status "draft".
+<https://example.com#dc261284-ddf6-4f20-a6a1-bb0b478ae89b> rdf:type rdfs:Resource;
+    rdfs:id "dc261284-ddf6-4f20-a6a1-bb0b478ae89b";
+    rdfs:label "dsfdas";
+    rdfs:altLabel "asdfdsfd", "fdsafdsaf";
+    rdfs:description "dsfds";
+    rdfs:seeAlso "sdfdsa";
     rdfs:status "draft".
