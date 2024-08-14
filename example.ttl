@@ -10,3 +10,10 @@
     rdfs:description "new description";
     rdfs:seeAlso "Nothing to see here";
     rdfs:status "draft".
+<https://example.com#c4547acd-7d08-40ae-a0c7-076c1e49dc52> rdf:type rdfs:Resource;
+    rdfs:id "c4547acd-7d08-40ae-a0c7-076c1e49dc52";
+    rdfs:label "fdasf";
+    rdfs:altLabel "";
+    rdfs:description "adfdasf";
+    rdfs:seeAlso "dasfads";
+    rdfs:status "draft".
