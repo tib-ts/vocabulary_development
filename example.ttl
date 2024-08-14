@@ -60,7 +60,8 @@
     rdfs:seeAlso "fdsafsa";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "fawad 5".
+    rdfs:altLabel "fawad 5";
+    rdfs:altLabelsDisjointed "undefined".
 <https://example.com#d94f45ff-1849-4746-a4e7-33e610b80855> rdf:type rdfs:Resource;
     rdfs:id "d94f45ff-1849-4746-a4e7-33e610b80855";
     rdfs:label "fadsf";
@@ -68,7 +69,8 @@
     rdfs:seeAlso "dfads";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "222222222222".
+    rdfs:altLabel "222222222222";
+    rdfs:altLabelsDisjointed "undefined".
 <https://example.com#e0af9c8b-fcac-4d48-bd4a-39d09b7acddb> rdf:type rdfs:Resource;
     rdfs:id "e0af9c8b-fcac-4d48-bd4a-39d09b7acddb";
     rdfs:label "khan";
@@ -76,15 +78,8 @@
     rdfs:seeAlso "kahn";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "Khan 1";
-    rdf:type rdfs:Resource;
-    rdfs:id "e0af9c8b-fcac-4d48-bd4a-39d09b7acddb";
-    rdfs:label "khan";
-    rdfs:description "khan";
-    rdfs:seeAlso "kahn";
-    rdfs:status "draft";
-    rdfs:fawad "fawad";
-    rdfs:altLabel "Khan 2".
+    rdfs:altLabel "Khan 2";
+    rdfs:altLabelsDisjointed "undefined".
 <https://example.com#4eee24c9-ca66-405b-9949-dfef448b83ee> rdf:type rdfs:Resource;
     rdfs:id "4eee24c9-ca66-405b-9949-dfef448b83ee";
     rdfs:label "fadsf";
@@ -92,12 +87,13 @@
     rdfs:seeAlso "dfadsf";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "dasfsdaf 1111";
-    rdf:type rdfs:Resource;
-    rdfs:id "4eee24c9-ca66-405b-9949-dfef448b83ee";
-    rdfs:label "fadsf";
-    rdfs:description "fdsfads";
-    rdfs:seeAlso "dfadsf";
+    rdfs:altLabel "dfsdafdsf 2222";
+    rdfs:altLabelsDisjointed "undefined".
+<https://example.com#7d30e6fa-e788-4eb9-bbec-411143d1d38b> rdf:type rdfs:Resource;
+    rdfs:id "7d30e6fa-e788-4eb9-bbec-411143d1d38b";
+    rdfs:label "sdafasdf";
+    rdfs:description "asdfdsa";
+    rdfs:seeAlso "sdafsdaf";
     rdfs:status "draft";
-    rdfs:fawad "fawad";
-    rdfs:altLabel "dfsdafdsf 2222".
+    rdfs:altLabel "333";
+    rdfs:altLabelsDisjointed "undefined".
