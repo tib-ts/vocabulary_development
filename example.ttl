@@ -3,38 +3,3 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://example.com#f11b7824-fa0c-42d4-938f-2b5c0fbe1e23> rdf:type rdfs:Resource;
-    rdfs:id "f11b7824-fa0c-42d4-938f-2b5c0fbe1e23";
-    rdfs:label "Brand New Term";
-    rdfs:altLabel "";
-    rdfs:description "new description";
-    rdfs:seeAlso "Nothing to see here";
-    rdfs:status "draft".
-<https://example.com#c4547acd-7d08-40ae-a0c7-076c1e49dc52> rdf:type rdfs:Resource;
-    rdfs:id "c4547acd-7d08-40ae-a0c7-076c1e49dc52";
-    rdfs:label "fdasf";
-    rdfs:altLabel "";
-    rdfs:description "adfdasf";
-    rdfs:seeAlso "dasfads";
-    rdfs:status "draft".
-<https://example.com#cb1b1cf7-ab27-4958-a547-5782e67f385c> rdf:type rdfs:Resource;
-    rdfs:id "cb1b1cf7-ab27-4958-a547-5782e67f385c";
-    rdfs:label "fdasfas";
-    rdfs:altLabel "";
-    rdfs:description "dasfad";
-    rdfs:seeAlso "sdafas";
-    rdfs:status "draft".
-<https://example.com#9409b52a-8c24-42f0-85d7-35235b1eb2ed> rdf:type rdfs:Resource;
-    rdfs:id "9409b52a-8c24-42f0-85d7-35235b1eb2ed";
-    rdfs:label "dfasd";
-    rdfs:altLabel "";
-    rdfs:description "dsafsd";
-    rdfs:seeAlso "sdafads";
-    rdfs:status "draft".
-<https://example.com#02e1245d-9159-4152-bc9f-a4eceed3d3ab> rdf:type rdfs:Resource;
-    rdfs:id "02e1245d-9159-4152-bc9f-a4eceed3d3ab";
-    rdfs:label "dsfas";
-    rdfs:altLabel "";
-    rdfs:description "sdafdsa";
-    rdfs:seeAlso "dsfas";
-    rdfs:status "draft".
