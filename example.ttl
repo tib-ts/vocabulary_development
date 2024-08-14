@@ -9,7 +9,7 @@
     rdfs:description "no altlabel";
     rdfs:seeAlso "no altlabel";
     rdfs:status "draft";
-    rdfs:altLabel "new alternativedfawad".
+    rdfs:altLabel "new alternativedfawad", "second".
 <https://example.com#9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745> rdf:type rdfs:Resource;
     rdfs:id "9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745";
     rdfs:label "With altLabel";
