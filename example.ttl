@@ -28,3 +28,17 @@
     rdfs:description "The upper layer of earth that may be dug or plowed and in which plants grow.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bto/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FBTO_0003809";
     rdfs:status "draft".
+<https://example.com#d49d9213-7fe4-49bb-be68-0b885a33e391> rdf:type rdfs:Resource;
+    rdfs:id "d49d9213-7fe4-49bb-be68-0b885a33e391";
+    rdfs:label "dasfsdf";
+    rdfs:description "dfadsf";
+    rdfs:seeAlso "dfdsf";
+    rdfs:status "draft";
+    rdfs:altLabel "sdafdsf 11111111";
+    rdf:type rdfs:Resource;
+    rdfs:id "d49d9213-7fe4-49bb-be68-0b885a33e391";
+    rdfs:label "dasfsdf";
+    rdfs:description "dfadsf";
+    rdfs:seeAlso "dfdsf";
+    rdfs:status "draft";
+    rdfs:altLabel "dfasfsdaf 222222222".
