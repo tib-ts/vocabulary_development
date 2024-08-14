@@ -17,3 +17,10 @@
     rdfs:description "adfdasf";
     rdfs:seeAlso "dasfads";
     rdfs:status "draft".
+<https://example.com#cb1b1cf7-ab27-4958-a547-5782e67f385c> rdf:type rdfs:Resource;
+    rdfs:id "cb1b1cf7-ab27-4958-a547-5782e67f385c";
+    rdfs:label "fdasfas";
+    rdfs:altLabel "";
+    rdfs:description "dasfad";
+    rdfs:seeAlso "sdafas";
+    rdfs:status "draft".
