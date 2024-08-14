@@ -35,3 +35,10 @@
     rdfs:seeAlso "fsdaf";
     rdfs:status "draft";
     rdfs:testLabels "[object Object],[object Object]".
+<https://example.com#6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4> rdf:type rdfs:Resource;
+    rdfs:id "6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4";
+    rdfs:label "afdsf";
+    rdfs:altLabel "dsfdsaf, fawad";
+    rdfs:description "sdafdsa";
+    rdfs:seeAlso "fadsf";
+    rdfs:status "draft".
