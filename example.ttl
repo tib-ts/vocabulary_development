@@ -6,7 +6,12 @@
 <https://example.com#48600a47-e6fc-4c09-a54e-65f6e516e597> rdf:type rdfs:Resource;
     rdfs:id "48600a47-e6fc-4c09-a54e-65f6e516e597";
     rdfs:label "test";
-    rdfs:altLabel "";
     rdfs:description "test";
     rdfs:seeAlso "test";
+    rdfs:status "draft".
+<https://example.com#93886cc3-e6c3-4032-bb77-be723f41525a> rdf:type rdfs:Resource;
+    rdfs:id "93886cc3-e6c3-4032-bb77-be723f41525a";
+    rdfs:label "fdfsf";
+    rdfs:description "sdfsf";
+    rdfs:seeAlso "sdfsd";
     rdfs:status "draft".
