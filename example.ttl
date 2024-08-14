@@ -3,3 +3,30 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
+<https://example.com#370e000c-6199-4923-babe-1193dba80e86> rdf:type rdfs:Resource;
+    rdfs:id "370e000c-6199-4923-babe-1193dba80e86";
+    rdfs:label "Label with no altLabel";
+    rdfs:description "no altlabel";
+    rdfs:seeAlso "no altlabel";
+    rdfs:status "draft".
+<https://example.com#9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745> rdf:type rdfs:Resource;
+    rdfs:id "9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745";
+    rdfs:label "With altLabel";
+    rdfs:altLabel "Alternative Label";
+    rdfs:description "one alt";
+    rdfs:seeAlso "nothing";
+    rdfs:status "draft".
+<https://example.com#26d19cb8-a1ad-4d12-8123-019cf5c1e865> rdf:type rdfs:Resource;
+    rdfs:id "26d19cb8-a1ad-4d12-8123-019cf5c1e865";
+    rdfs:label "two alt";
+    rdfs:altLabel "new label 1", "new label 2";
+    rdfs:description "new des";
+    rdfs:seeAlso "see something";
+    rdfs:status "draft".
+<https://example.com#6f4348d7-c874-4dc6-a333-7e1ddc1e6ed5> rdf:type rdfs:Resource;
+    rdfs:id "6f4348d7-c874-4dc6-a333-7e1ddc1e6ed5";
+    rdfs:label "upto 5 alt labels";
+    rdfs:altLabel "one", "two", "three", "four", "five";
+    rdfs:description "this contains 5 alt labels";
+    rdfs:seeAlso "check it out";
+    rdfs:status "draft".
