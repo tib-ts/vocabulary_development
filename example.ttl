@@ -3,3 +3,10 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
+<https://example.com#f11b7824-fa0c-42d4-938f-2b5c0fbe1e23> rdf:type rdfs:Resource;
+    rdfs:id "f11b7824-fa0c-42d4-938f-2b5c0fbe1e23";
+    rdfs:label "Brand New Term";
+    rdfs:altLabel "";
+    rdfs:description "new description";
+    rdfs:seeAlso "Nothing to see here";
+    rdfs:status "draft".
