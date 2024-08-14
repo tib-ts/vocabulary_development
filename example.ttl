@@ -68,3 +68,11 @@
     rdfs:seeAlso "chus";
     rdfs:status "draft";
     rdfs:fawad "fawad".
+<https://example.com#cc4b745c-1d10-49b1-926b-c13c5b348248> rdf:type rdfs:Resource;
+    rdfs:id "cc4b745c-1d10-49b1-926b-c13c5b348248";
+    rdfs:label "dafdsf";
+    rdfs:altLabel "dsafdas";
+    rdfs:description "sdafdsa";
+    rdfs:seeAlso "dsafdsaf";
+    rdfs:status "draft";
+    rdfs:fawad "fawad".
