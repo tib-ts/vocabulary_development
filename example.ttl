@@ -60,3 +60,10 @@
     rdfs:description "fdfdsaf";
     rdfs:seeAlso "dsfasd";
     rdfs:status "draft".
+<https://example.com#45fc3715-2665-42f8-b581-99567dca93fc> rdf:type rdfs:Resource;
+    rdfs:id "45fc3715-2665-42f8-b581-99567dca93fc";
+    rdfs:label "dsafas";
+    rdfs:description "fsdafsd";
+    rdfs:seeAlso "sdafasdf";
+    rdfs:status "draft";
+    rdfs:testLabels "[object Object],[object Object]".
