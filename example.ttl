@@ -36,11 +36,20 @@
     rdfs:status "draft";
     rdfs:altLabel "test".
 <https://example.com#4beb76a1-ea4a-4a63-bf80-f52c001a23fa> rdf:type rdfs:Resource;
-    rdfs:mrt-row-expand "undefined";
     rdfs:id "4beb76a1-ea4a-4a63-bf80-f52c001a23fa";
+    rdfs:mrt-row-expand "undefined";
     rdfs:label "new label";
     rdfs:altLabel "New alternative label, new alternative label 2";
     rdfs:description "new description";
     rdfs:seeAlso "new also";
+    rdfs:status "draft";
+    rdfs:mrt-row-actions "undefined".
+<https://example.com#42565148-6461-4ed2-bc82-dd266257c75b> rdf:type rdfs:Resource;
+    rdfs:mrt-row-expand "undefined";
+    rdfs:id "42565148-6461-4ed2-bc82-dd266257c75b";
+    rdfs:label "test";
+    rdfs:altLabel "test 11, test 2";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
     rdfs:status "draft";
     rdfs:mrt-row-actions "undefined".
