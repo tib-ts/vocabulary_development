@@ -22,3 +22,10 @@
     rdfs:description "How long something has existed; elapsed time since birth.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25150";
     rdfs:status "draft".
+<https://example.com#7e83e84e-5fe6-434d-a702-f8a8f747c079> rdf:type rdfs:Resource;
+    rdfs:id "7e83e84e-5fe6-434d-a702-f8a8f747c079";
+    rdfs:label "dsaf";
+    skos:altLabel "11111111111", " 22222222222";
+    rdfs:description "dfa";
+    rdfs:seeAlso "dsafasd";
+    rdfs:status "draft".
