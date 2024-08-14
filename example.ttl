@@ -60,3 +60,11 @@
     rdfs:description "swabi";
     rdfs:seeAlso "pakistan";
     rdfs:status "draft".
+<https://example.com#16f6482e-c992-4ca1-bc40-e19ceb46c8df> rdf:type rdfs:Resource;
+    rdfs:id "16f6482e-c992-4ca1-bc40-e19ceb46c8df";
+    rdfs:label "chus";
+    rdfs:altLabel "chus, chus";
+    rdfs:description "chus";
+    rdfs:seeAlso "chus";
+    rdfs:status "draft";
+    rdfs:fawad "fawad".
