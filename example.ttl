@@ -36,6 +36,8 @@
     rdfs:status "draft".
 <https://example.com#undefined> rdf:type rdfs:Resource;
     rdfs:0 "[object Object]";
+    rdfs:1 "[object Object]";
+    rdfs:id "undefined";
     rdfs:item "[object Object]".
 <https://example.com#77cf9fc3-cd25-429e-983d-66a249504a4f> rdf:type rdfs:Resource;
     rdfs:id "77cf9fc3-cd25-429e-983d-66a249504a4f";
@@ -43,7 +45,17 @@
     rdfs:description "dfadsf";
     rdfs:seeAlso "fdsaf";
     rdfs:status "draft".
-<https://example.com#undefined> rdf:type rdfs:Resource;
-    rdfs:0 "[object Object]";
-    rdfs:1 "[object Object]";
-    rdfs:item "[object Object]".
+<https://example.com#5adffd8e-80bc-49a4-b96a-21f1fdc51ead> rdf:type rdfs:Resource;
+    rdfs:id "5adffd8e-80bc-49a4-b96a-21f1fdc51ead";
+    rdfs:label "dfaasd";
+    rdfs:description "fasdf";
+    rdfs:seeAlso "sdafdsa";
+    rdfs:status "draft";
+    rdfs:altLabel "asdfdsa";
+    rdf:type rdfs:Resource;
+    rdfs:id "5adffd8e-80bc-49a4-b96a-21f1fdc51ead";
+    rdfs:label "dfaasd";
+    rdfs:description "fasdf";
+    rdfs:seeAlso "sdafdsa";
+    rdfs:status "draft";
+    rdfs:altLabel "sdafdsaf".
