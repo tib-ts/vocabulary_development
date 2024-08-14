@@ -45,11 +45,18 @@
     rdfs:status "draft";
     rdfs:mrt-row-actions "undefined".
 <https://example.com#42565148-6461-4ed2-bc82-dd266257c75b> rdf:type rdfs:Resource;
-    rdfs:mrt-row-expand "undefined";
     rdfs:id "42565148-6461-4ed2-bc82-dd266257c75b";
+    rdfs:mrt-row-expand "undefined";
     rdfs:label "test";
     rdfs:altLabel "test 11, test 2";
     rdfs:description "test";
     rdfs:seeAlso "test";
     rdfs:status "draft";
     rdfs:mrt-row-actions "undefined".
+<https://example.com#3d7170d4-6a81-4828-b7b3-c43fcf773a82> rdf:type rdfs:Resource;
+    rdfs:id "3d7170d4-6a81-4828-b7b3-c43fcf773a82";
+    rdfs:label "fawad";
+    rdfs:altLabel "khan, yousafzai";
+    rdfs:description "swabi";
+    rdfs:seeAlso "pakistan";
+    rdfs:status "draft".
