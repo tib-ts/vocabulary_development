@@ -33,12 +33,16 @@
     rdfs:label "dasfsdf";
     rdfs:description "dfadsf";
     rdfs:seeAlso "dfdsf";
-    rdfs:status "draft";
-    rdfs:altLabel "sdafdsf 11111111";
-    rdf:type rdfs:Resource;
-    rdfs:id "d49d9213-7fe4-49bb-be68-0b885a33e391";
-    rdfs:label "dasfsdf";
-    rdfs:description "dfadsf";
-    rdfs:seeAlso "dfdsf";
-    rdfs:status "draft";
+    rdfs:status "draft".
+<https://example.com#undefined> rdf:type rdfs:Resource;
     rdfs:altLabel "dfasfsdaf 222222222".
+<https://example.com#77cf9fc3-cd25-429e-983d-66a249504a4f> rdf:type rdfs:Resource;
+    rdfs:id "77cf9fc3-cd25-429e-983d-66a249504a4f";
+    rdfs:label "dafdas";
+    rdfs:description "dfadsf";
+    rdfs:seeAlso "fdsaf";
+    rdfs:status "draft".
+<https://example.com#undefined> rdf:type rdfs:Resource;
+    rdfs:altLabel "111111111111111";
+    rdf:type rdfs:Resource;
+    rdfs:altLabel "2222222222dfdf".
