@@ -5,10 +5,11 @@
 
 <https://example.com#370e000c-6199-4923-babe-1193dba80e86> rdf:type rdfs:Resource;
     rdfs:id "370e000c-6199-4923-babe-1193dba80e86";
-    rdfs:label "Label with no altLabel";
+    rdfs:label "Label with no altLabelbla";
     rdfs:description "no altlabel";
     rdfs:seeAlso "no altlabel";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    rdfs:altLabel "new alternative".
 <https://example.com#9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745> rdf:type rdfs:Resource;
     rdfs:id "9d85ab7c-e9e8-43a9-8f7c-1fbbbe706745";
     rdfs:label "With altLabel";
