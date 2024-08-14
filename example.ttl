@@ -60,8 +60,8 @@
     rdfs:seeAlso "fdsafsa";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "fawad 5";
-    rdfs:altLabelsDisjointed "undefined".
+    rdfs:altLabelsDisjointed "undefined";
+    rdfs:altLabel "fawad 5".
 <https://example.com#d94f45ff-1849-4746-a4e7-33e610b80855> rdf:type rdfs:Resource;
     rdfs:id "d94f45ff-1849-4746-a4e7-33e610b80855";
     rdfs:label "fadsf";
@@ -69,8 +69,8 @@
     rdfs:seeAlso "dfads";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "222222222222";
-    rdfs:altLabelsDisjointed "undefined".
+    rdfs:altLabelsDisjointed "undefined";
+    rdfs:altLabel "222222222222".
 <https://example.com#e0af9c8b-fcac-4d48-bd4a-39d09b7acddb> rdf:type rdfs:Resource;
     rdfs:id "e0af9c8b-fcac-4d48-bd4a-39d09b7acddb";
     rdfs:label "khan";
@@ -78,8 +78,8 @@
     rdfs:seeAlso "kahn";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "Khan 2";
-    rdfs:altLabelsDisjointed "undefined".
+    rdfs:altLabelsDisjointed "undefined";
+    rdfs:altLabel "Khan 2".
 <https://example.com#4eee24c9-ca66-405b-9949-dfef448b83ee> rdf:type rdfs:Resource;
     rdfs:id "4eee24c9-ca66-405b-9949-dfef448b83ee";
     rdfs:label "fadsf";
@@ -87,13 +87,21 @@
     rdfs:seeAlso "dfadsf";
     rdfs:status "draft";
     rdfs:fawad "fawad";
-    rdfs:altLabel "dfsdafdsf 2222";
-    rdfs:altLabelsDisjointed "undefined".
+    rdfs:altLabelsDisjointed "undefined";
+    rdfs:altLabel "dfsdafdsf 2222".
 <https://example.com#7d30e6fa-e788-4eb9-bbec-411143d1d38b> rdf:type rdfs:Resource;
     rdfs:id "7d30e6fa-e788-4eb9-bbec-411143d1d38b";
     rdfs:label "sdafasdf";
     rdfs:description "asdfdsa";
     rdfs:seeAlso "sdafsdaf";
     rdfs:status "draft";
-    rdfs:altLabel "333";
+    rdfs:altLabelsDisjointed "undefined";
+    rdfs:altLabel "333".
+<https://example.com#659f0c6e-b264-4e48-9b3a-6cf4435d4087> rdf:type rdfs:Resource;
+    rdfs:id "659f0c6e-b264-4e48-9b3a-6cf4435d4087";
+    rdfs:label "dsfasd";
+    rdfs:description "fddsf";
+    rdfs:seeAlso "dfa";
+    rdfs:status "draft";
+    rdfs:altLabel "222222222222";
     rdfs:altLabelsDisjointed "undefined".
