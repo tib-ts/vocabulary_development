@@ -25,7 +25,12 @@
 <https://example.com#7e83e84e-5fe6-434d-a702-f8a8f747c079> rdf:type rdfs:Resource;
     rdfs:id "7e83e84e-5fe6-434d-a702-f8a8f747c079";
     rdfs:label "dsaf";
-    skos:altLabel "11111111111", " 22222222222";
     rdfs:description "dfa";
     rdfs:seeAlso "dsafasd";
+    rdfs:status "draft".
+<https://example.com#940d22d7-3f8f-45cd-9988-f72b888e395f> rdf:type rdfs:Resource;
+    rdfs:id "940d22d7-3f8f-45cd-9988-f72b888e395f";
+    rdfs:label "dsfa";
+    rdfs:description "dfdas";
+    rdfs:seeAlso "dfsdaf";
     rdfs:status "draft".
