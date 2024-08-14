@@ -61,3 +61,11 @@
     rdfs:status "draft";
     rdfs:fawad "fawad";
     rdfs:altLabel "fawad 5".
+<https://example.com#d94f45ff-1849-4746-a4e7-33e610b80855> rdf:type rdfs:Resource;
+    rdfs:id "d94f45ff-1849-4746-a4e7-33e610b80855";
+    rdfs:label "fadsf";
+    rdfs:description "dfdas";
+    rdfs:seeAlso "dfads";
+    rdfs:status "draft";
+    rdfs:fawad "fawad";
+    rdfs:altLabel "222222222222".
