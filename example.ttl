@@ -30,3 +30,10 @@
     rdfs:description "this contains 5 alt labels";
     rdfs:seeAlso "check it out";
     rdfs:status "draft".
+<https://example.com#c62c0c8e-1cd2-4057-913f-73109a68d9cd> rdf:type rdfs:Resource;
+    rdfs:id "c62c0c8e-1cd2-4057-913f-73109a68d9cd";
+    rdfs:label "everything new";
+    rdfs:altLabel "everything new";
+    rdfs:description "new ";
+    rdfs:seeAlso "new";
+    rdfs:status "draft".
