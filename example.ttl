@@ -42,3 +42,10 @@
     rdfs:description "sdafdsa";
     rdfs:seeAlso "fadsf";
     rdfs:status "draft".
+<https://example.com#6e0ba96d-cf72-41da-94ea-d73a381bc152> rdf:type rdfs:Resource;
+    rdfs:id "6e0ba96d-cf72-41da-94ea-d73a381bc152";
+    rdfs:label "dfdsaf";
+    rdfs:altLabel "1111, 222";
+    rdfs:description "fdasf";
+    rdfs:seeAlso "dsfdsaf";
+    rdfs:status "draft".
