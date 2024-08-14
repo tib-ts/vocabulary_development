@@ -38,14 +38,21 @@
 <https://example.com#6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4> rdf:type rdfs:Resource;
     rdfs:id "6a74dc61-9b6a-4b38-9aec-bd1ebf2e0ae4";
     rdfs:label "afdsf";
-    rdfs:altLabel "dsfdsaf, fawad";
+    skos:altLabel "dsfdsaf", " fawad";
     rdfs:description "sdafdsa";
     rdfs:seeAlso "fadsf";
     rdfs:status "draft".
 <https://example.com#6e0ba96d-cf72-41da-94ea-d73a381bc152> rdf:type rdfs:Resource;
     rdfs:id "6e0ba96d-cf72-41da-94ea-d73a381bc152";
     rdfs:label "dfdsaf";
-    rdfs:altLabel "1111, 222";
+    skos:altLabel "1111", " 222";
     rdfs:description "fdasf";
     rdfs:seeAlso "dsfdsaf";
+    rdfs:status "draft".
+<https://example.com#af38a9ec-6240-454b-b5fb-34d3d35f3b17> rdf:type rdfs:Resource;
+    rdfs:id "af38a9ec-6240-454b-b5fb-34d3d35f3b17";
+    rdfs:label "fasd";
+    skos:altLabel "11dfdfdasf", " 222dfadsfdasf";
+    rdfs:description "dfdsa";
+    rdfs:seeAlso "dfasdf";
     rdfs:status "draft".
