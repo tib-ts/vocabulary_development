@@ -69,3 +69,11 @@
     rdfs:status "draft";
     rdfs:fawad "fawad";
     rdfs:altLabel "222222222222".
+<https://example.com#e0af9c8b-fcac-4d48-bd4a-39d09b7acddb> rdf:type rdfs:Resource;
+    rdfs:id "e0af9c8b-fcac-4d48-bd4a-39d09b7acddb";
+    rdfs:label "khan";
+    rdfs:description "khan";
+    rdfs:seeAlso "kahn";
+    rdfs:status "draft";
+    rdfs:fawad "fawad";
+    rdfs:altLabel "Khan 1,Khan 2".
