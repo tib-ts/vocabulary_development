@@ -36,3 +36,19 @@
     rdfs:seeAlso "dsafdsa";
     rdfs:status "draft";
     rdfs:fawad "fawad".
+<https://example.com#d9fcceb9-76e9-4fba-b853-324dd00293d5> rdf:type rdfs:Resource;
+    rdfs:id "d9fcceb9-76e9-4fba-b853-324dd00293d5";
+    rdfs:label "hello";
+    rdfs:altLabel "Label 1";
+    rdfs:description "des";
+    rdfs:seeAlso "see";
+    rdfs:status "draft";
+    rdfs:fawad "fawad";
+    rdf:type rdfs:Resource;
+    rdfs:id "d9fcceb9-76e9-4fba-b853-324dd00293d5";
+    rdfs:label "hello";
+    rdfs:altLabel "Label 2";
+    rdfs:description "des";
+    rdfs:seeAlso "see";
+    rdfs:status "draft";
+    rdfs:fawad "fawad".
