@@ -8,7 +8,8 @@
     rdfs:label "zero";
     rdfs:description "zero";
     rdfs:seeAlso "zero";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "added one".
 <https://example.com#9616b45e-95db-480c-9499-4489031c36a1> rdf:type rdfs:Resource;
     rdfs:id "9616b45e-95db-480c-9499-4489031c36a1";
     rdfs:label "one";
