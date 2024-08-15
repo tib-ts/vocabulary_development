@@ -51,3 +51,10 @@
     rdfs:description "A standardized, finite set of concepts, designations, and relationships for a specialized subject area.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C142730";
     rdfs:status "draft".
+<https://example.com#d0ef5937-f17a-4f61-864d-194755d2773a> rdf:type rdfs:Resource;
+    rdfs:id "d0ef5937-f17a-4f61-864d-194755d2773a";
+    rdfs:label "dfds";
+    skos:altLabel "sdafds", "asfsf";
+    rdfs:description "sdfdsa";
+    rdfs:seeAlso "sdafdas";
+    rdfs:status "draft".
