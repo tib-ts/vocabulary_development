@@ -61,7 +61,7 @@
 <https://example.com#ad5076de-4321-40cc-8ea3-cb856c2801c4> rdf:type rdfs:Resource;
     rdfs:id "ad5076de-4321-40cc-8ea3-cb856c2801c4";
     rdfs:label "new term";
-    skos:altLabel "alt 1";
+    skos:altLabel "alt 1", "dfasdfds";
     rdfs:description "des";
     rdfs:seeAlso "fadsf";
     rdfs:status "draft".
