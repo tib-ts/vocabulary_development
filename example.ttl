@@ -40,7 +40,7 @@
 <https://example.com#adcb2b51-6bfe-41df-bd26-0e46d128cbe5> rdf:type rdfs:Resource;
     rdfs:id "adcb2b51-6bfe-41df-bd26-0e46d128cbe5";
     rdfs:label "five";
-    skos:altLabel "five alt 1 edit", "five alt 2", "five alt 3", "five alt 4", "five alt 5";
+    skos:altLabel "five alt 1edit", "five alt 2", "five alt 3", "five alt 4", "five alt 5";
     rdfs:description "five";
     rdfs:seeAlso "five";
     rdfs:status "draft".
