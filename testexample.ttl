@@ -12,7 +12,7 @@
 <https://example.com#aa6c1b4e-265d-4436-9ef5-b9eafc81d1fa> rdf:type rdfs:Resource;
     rdfs:id "aa6c1b4e-265d-4436-9ef5-b9eafc81d1fa";
     rdfs:label "New Term";
-    skos:altLabel "Alternative Label 1";
+    skos:altLabel "Alternative Label 1", "Test Label 2";
     rdfs:description "description for the new term";
     rdfs:seeAlso "No link available";
     rdfs:status "draft".
