@@ -1,10 +1,18 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
 <https://example.com#69ea11a6-f1cc-45ca-af7c-f2c36175b5db> rdf:type rdfs:Resource;
     rdfs:id "69ea11a6-f1cc-45ca-af7c-f2c36175b5db";
     rdfs:label "Demand";
     rdfs:description "Outgoing/ incoming Shipments (bound by capacity, mostly not directly forecasted, mostly historic values) ";
     rdfs:seeAlso "undefined";
+    rdfs:status "draft".
+<https://example.com#aa6c1b4e-265d-4436-9ef5-b9eafc81d1fa> rdf:type rdfs:Resource;
+    rdfs:id "aa6c1b4e-265d-4436-9ef5-b9eafc81d1fa";
+    rdfs:label "New Term";
+    skos:altLabel "Alternative Label 1";
+    rdfs:description "description for the new term";
+    rdfs:seeAlso "No link available";
     rdfs:status "draft".
