@@ -64,4 +64,4 @@
     skos:altLabel "alt 1", "dfasdfds";
     rdfs:description "des";
     rdfs:seeAlso "fadsf";
-    rdfs:status "draft".
+    rdfs:status "accepted".
