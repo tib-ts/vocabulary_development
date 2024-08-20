@@ -54,7 +54,7 @@
 <https://example.com#d0ef5937-f17a-4f61-864d-194755d2773a> rdf:type rdfs:Resource;
     rdfs:id "d0ef5937-f17a-4f61-864d-194755d2773a";
     rdfs:label "dfds";
-    skos:altLabel "sdafds", "asfsf";
+    skos:altLabel "sdafds lable 1", "asfsf";
     rdfs:description "sdfdsa";
     rdfs:seeAlso "sdafdas";
     rdfs:status "draft".
