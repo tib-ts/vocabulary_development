@@ -38,30 +38,3 @@
     rdfs:description "four";
     rdfs:seeAlso "four";
     rdfs:status "draft".
-<https://example.com#adcb2b51-6bfe-41df-bd26-0e46d128cbe5> rdf:type rdfs:Resource;
-    rdfs:id "adcb2b51-6bfe-41df-bd26-0e46d128cbe5";
-    rdfs:label "five is now one";
-    skos:altLabel "five alt 1edit";
-    rdfs:description "five";
-    rdfs:seeAlso "five";
-    rdfs:status "draft".
-<https://example.com#def8234d-53d1-4308-96e1-c2458741879a> rdf:type rdfs:Resource;
-    rdfs:id "def8234d-53d1-4308-96e1-c2458741879a";
-    rdfs:label "Terminology";
-    rdfs:description "A standardized, finite set of concepts, designations, and relationships for a specialized subject area.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C142730";
-    rdfs:status "draft".
-<https://example.com#d0ef5937-f17a-4f61-864d-194755d2773a> rdf:type rdfs:Resource;
-    rdfs:id "d0ef5937-f17a-4f61-864d-194755d2773a";
-    rdfs:label "dfds";
-    skos:altLabel "sdafds lable 1", "asfsf";
-    rdfs:description "sdfdsa";
-    rdfs:seeAlso "sdafdas";
-    rdfs:status "draft".
-<https://example.com#ad5076de-4321-40cc-8ea3-cb856c2801c4> rdf:type rdfs:Resource;
-    rdfs:id "ad5076de-4321-40cc-8ea3-cb856c2801c4";
-    rdfs:label "new term";
-    skos:altLabel "alt 1", "dfasdfds";
-    rdfs:description "des";
-    rdfs:seeAlso "fadsf";
-    rdfs:status "ready".
