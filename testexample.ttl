@@ -4,8 +4,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
 <https://example.com#288451bd-bed2-4406-b6df-fbbe23ba5b1f> rdf:type rdfs:Resource;
-    rdfs:label "Demand";
     rdfs:id "288451bd-bed2-4406-b6df-fbbe23ba5b1f";
+    rdfs:label "Demand";
     rdfs:description "Demand is a production request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
     rdfs:status "draft".
