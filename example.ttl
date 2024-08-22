@@ -17,24 +17,3 @@
     rdfs:description "one";
     rdfs:seeAlso "one";
     rdfs:status "draft".
-<https://example.com#039875f9-2225-4b4b-9382-2eb091659d74> rdf:type rdfs:Resource;
-    rdfs:id "039875f9-2225-4b4b-9382-2eb091659d74";
-    rdfs:label "two";
-    skos:altLabel "two alt 1", "two alt 2";
-    rdfs:description "two";
-    rdfs:seeAlso "two";
-    rdfs:status "draft".
-<https://example.com#9a602a38-8a0c-4c7f-b7bf-c9ca5ff3c797> rdf:type rdfs:Resource;
-    rdfs:id "9a602a38-8a0c-4c7f-b7bf-c9ca5ff3c797";
-    rdfs:label "three Fawad";
-    skos:altLabel "three alt 1 Swabi", "three alt 2 Delft", "three alt 3 Hannover";
-    rdfs:description "three Khan";
-    rdfs:seeAlso "three Yousafzai";
-    rdfs:status "ready".
-<https://example.com#f063019d-a212-435e-98e0-b56356c31f00> rdf:type rdfs:Resource;
-    rdfs:id "f063019d-a212-435e-98e0-b56356c31f00";
-    rdfs:label "four";
-    skos:altLabel "four alt 1dddd adding to Label 1", "four alt 2ddd to label 2", "four alt 3 to label 3", "four alt 4 to label 4";
-    rdfs:description "four";
-    rdfs:seeAlso "four";
-    rdfs:status "draft".
