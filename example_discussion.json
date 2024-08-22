@@ -5,13 +5,13 @@
             "comments": [
                 {
                     "id": "comment1",
-                    "author": "User1",
+                    "author": "Fawad Khan",
                     "content": "This is a comment on resource zero.",
                     "timestamp": "2024-08-21T12:00:00Z"
                 },
                 {
                     "id": "comment2",
-                    "author": "User2",
+                    "author": "System Admin",
                     "content": "Another comment on resource zero.",
                     "timestamp": "2024-08-21T12:05:00Z"
                 }
