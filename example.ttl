@@ -17,3 +17,9 @@
     rdfs:description "one";
     rdfs:seeAlso "one";
     rdfs:status "draft".
+<https://example.com#c8880f37-3d24-429b-8fa5-39a4713f47fa> rdf:type rdfs:Resource;
+    rdfs:id "c8880f37-3d24-429b-8fa5-39a4713f47fa";
+    rdfs:label "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
