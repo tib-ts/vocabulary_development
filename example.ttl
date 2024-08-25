@@ -24,9 +24,3 @@
     rdfs:description "test";
     rdfs:seeAlso "test";
     rdfs:status "draft".
-<https://example.com#e9b7c490-4445-4eac-ba70-c0049018c07d> rdf:type rdfs:Resource;
-    rdfs:id "e9b7c490-4445-4eac-ba70-c0049018c07d";
-    rdfs:label "test";
-    rdfs:description "test";
-    rdfs:seeAlso "test";
-    rdfs:status "draft".
