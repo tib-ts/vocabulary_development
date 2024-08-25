@@ -1,1 +1,23 @@
-null
+[
+    {
+        "resourceId": "ef53ccb7-300d-4c9f-8a07-025e0f9f76f7",
+        "comments": [
+            {
+                "id": "comment1",
+                "author": "Fawad Khan",
+                "content": "This is a comment on resource zero.",
+                "timestamp": "2024-08-01T12:00:00Z"
+            },
+            {
+                "id": "comment2",
+                "author": "System Admin",
+                "content": "Another comment on resource zero.",
+                "timestamp": "2024-08-21T12:05:00Z"
+            }
+        ]
+    },
+    {
+        "resourceId": "9616b45e-95db-480c-9499-4489031c36a1",
+        "comments": []
+    }
+]
