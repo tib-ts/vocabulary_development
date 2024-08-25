@@ -23,3 +23,10 @@
     rdfs:description "test";
     rdfs:seeAlso "test";
     rdfs:status "draft".
+<https://example.com#6a40b1f6-e689-4e97-9cd5-6fbbb8fd4cdf> rdf:type rdfs:Resource;
+    rdfs:id "6a40b1f6-e689-4e97-9cd5-6fbbb8fd4cdf";
+    rdfs:label "dfdfs";
+    skos:altLabel "fsdf";
+    rdfs:description "fdsfs";
+    rdfs:seeAlso "sdfdsf";
+    rdfs:status "draft".
