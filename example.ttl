@@ -17,3 +17,10 @@
     rdfs:description "one";
     rdfs:seeAlso "one";
     rdfs:status "draft".
+<https://example.com#78807fbd-22b3-4068-b997-2ab8f57f8456> rdf:type rdfs:Resource;
+    rdfs:id "78807fbd-22b3-4068-b997-2ab8f57f8456";
+    rdfs:label "test";
+    skos:altLabel "test", "test";
+    rdfs:description "test";
+    rdfs:seeAlso "test";
+    rdfs:status "draft".
