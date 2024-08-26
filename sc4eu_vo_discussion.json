@@ -66,6 +66,13 @@
   },
   {
     "resourceId": "07ecb673-52a9-4415-8b08-9c59690c29d0",
-    "comments": []
+    "comments": [
+      {
+        "id": "ami53jabl",
+        "author": "felix engel",
+        "content": "Alternative descriptions are: A) - Can be calculated by dividing the current inventory by the average orders a day for the next months B) - Result is the reach in days (Reach, Inventory Coverage, Days of Inventory)",
+        "timestamp": "2024-08-26T14:01:20.858Z"
+      }
+    ]
   }
 ]
