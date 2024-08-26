@@ -67,3 +67,9 @@
     rdfs:description "A low Utilization Rate gives more flexibility, but is very expensive.";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#6a7749d4-03cc-4946-9756-5c6ab4159f57> rdf:type rdfs:Resource;
+    rdfs:id "6a7749d4-03cc-4946-9756-5c6ab4159f57";
+    rdfs:label "Smoothing";
+    rdfs:description "the demand signal. Without smoothing Capex becomes erratic, creating extra over- and undercapacity.";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
