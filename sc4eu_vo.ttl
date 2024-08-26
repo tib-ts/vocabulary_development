@@ -61,3 +61,9 @@
     rdfs:description "caused by the delay in capacity expansions, in combinaton with over-ordering";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#c557f155-90db-4dc2-9ba1-f5020625cbba> rdf:type rdfs:Resource;
+    rdfs:id "c557f155-90db-4dc2-9ba1-f5020625cbba";
+    rdfs:label "Underutilization ";
+    rdfs:description "A low Utilization Rate gives more flexibility, but is very expensive.";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
