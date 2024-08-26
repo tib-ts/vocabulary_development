@@ -55,3 +55,9 @@
     rdfs:description "It is measured in ‘Weeks of inventory’. ";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#5b71df05-24da-4be4-bc67-ddc5bfdc8d0a> rdf:type rdfs:Resource;
+    rdfs:id "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a";
+    rdfs:label "Pork Cycle";
+    rdfs:description "caused by the delay in capacity expansions, in combinaton with over-ordering";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
