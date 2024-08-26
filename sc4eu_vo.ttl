@@ -35,3 +35,9 @@
     rdfs:description "Inventory reach is a measure of how long a company‘s current inventory will last under normal sales conditions.";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#ac8ec0bb-4558-4b19-81b0-c848f4a048fb> rdf:type rdfs:Resource;
+    rdfs:id "ac8ec0bb-4558-4b19-81b0-c848f4a048fb";
+    rdfs:label "True Demand";
+    rdfs:description "True Demand is the incoming demand at the semiconductor manufacturer, without deliberate, conscious behavioral distortions such as shortage gaming, speculative inventory buildup and the effects of independent forecast updating.\"";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
