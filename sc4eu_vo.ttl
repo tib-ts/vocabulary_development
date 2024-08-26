@@ -3,3 +3,9 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
+<https://example.com#6c1d132f-2a5c-4232-a6bf-18ba831aef67> rdf:type rdfs:Resource;
+    rdfs:label "Demand";
+    rdfs:id "6c1d132f-2a5c-4232-a6bf-18ba831aef67";
+    rdfs:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Demand";
+    rdfs:status "draft".
