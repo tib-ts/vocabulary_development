@@ -3,9 +3,3 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://example.com#122e37cb-774e-42de-b3c3-08e0cbd628a9> rdf:type rdfs:Resource;
-    rdfs:label "Term";
-    rdfs:id "122e37cb-774e-42de-b3c3-08e0cbd628a9";
-    rdfs:description "A limited period of time.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25703";
-    rdfs:status "draft".
