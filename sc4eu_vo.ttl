@@ -29,3 +29,9 @@
     rdfs:description "(Expectation of what a company thinks they would be able to sell) based on orders, past billings and more";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#07ecb673-52a9-4415-8b08-9c59690c29d0> rdf:type rdfs:Resource;
+    rdfs:id "07ecb673-52a9-4415-8b08-9c59690c29d0";
+    rdfs:label "Inventory Reach";
+    rdfs:description "Inventory reach is a measure of how long a company‘s current inventory will last under normal sales conditions.";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
