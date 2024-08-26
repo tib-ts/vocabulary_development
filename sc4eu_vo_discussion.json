@@ -1,6 +1,13 @@
 [
   {
     "resourceId": "8a7a7b78-52e4-4bc6-8252-ca0269b6c51c",
-    "comments": []
+    "comments": [
+      {
+        "id": "x833682ma",
+        "author": "System ADMIN",
+        "content": "First comment",
+        "timestamp": "2024-08-26T08:29:19.079Z"
+      }
+    ]
   }
 ]
