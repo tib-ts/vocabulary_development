@@ -3,30 +3,3 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<https://example.com#ef53ccb7-300d-4c9f-8a07-025e0f9f76f7> rdf:type rdfs:Resource;
-    rdfs:id "ef53ccb7-300d-4c9f-8a07-025e0f9f76f7";
-    rdfs:label "zero";
-    rdfs:description "zero";
-    rdfs:seeAlso "zero";
-    rdfs:status "draft";
-    skos:altLabel "added one".
-<https://example.com#9616b45e-95db-480c-9499-4489031c36a1> rdf:type rdfs:Resource;
-    rdfs:id "9616b45e-95db-480c-9499-4489031c36a1";
-    rdfs:label "one";
-    skos:altLabel "one alt";
-    rdfs:description "one";
-    rdfs:seeAlso "one";
-    rdfs:status "draft".
-<https://example.com#c8880f37-3d24-429b-8fa5-39a4713f47fa> rdf:type rdfs:Resource;
-    rdfs:id "c8880f37-3d24-429b-8fa5-39a4713f47fa";
-    rdfs:label "test";
-    rdfs:description "test";
-    rdfs:seeAlso "test";
-    rdfs:status "draft".
-<https://example.com#6a40b1f6-e689-4e97-9cd5-6fbbb8fd4cdf> rdf:type rdfs:Resource;
-    rdfs:id "6a40b1f6-e689-4e97-9cd5-6fbbb8fd4cdf";
-    rdfs:label "dfdfs";
-    skos:altLabel "fsdf";
-    rdfs:description "fdsfs";
-    rdfs:seeAlso "sdfdsf";
-    rdfs:status "draft".
