@@ -73,3 +73,9 @@
     rdfs:description "the demand signal. Without smoothing Capex becomes erratic, creating extra over- and undercapacity.";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#0ba579de-85d8-45f5-b749-95c2a6c54d4c> rdf:type rdfs:Resource;
+    rdfs:id "0ba579de-85d8-45f5-b749-95c2a6c54d4c";
+    rdfs:label "Lagging";
+    rdfs:description "Caused by smoothing and lead time";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
