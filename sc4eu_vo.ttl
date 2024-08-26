@@ -9,3 +9,16 @@
     rdfs:description "Additional lobe: Planning";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Demand";
     rdfs:status "draft".
+<https://example.com#e3247433-b0b9-48e5-9f10-0003c8ef1cc7> rdf:type rdfs:Resource;
+    rdfs:id "e3247433-b0b9-48e5-9f10-0003c8ef1cc7";
+    rdfs:label "Past Demand";
+    rdfs:description "Sales / Billings in units sold (quantity NOT price)";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#74eaf886-7525-490e-a9a2-cb3bc28c6b54> rdf:type rdfs:Resource;
+    rdfs:id "74eaf886-7525-490e-a9a2-cb3bc28c6b54";
+    rdfs:label "Future Demand";
+    skos:altLabel "Forecast";
+    rdfs:description "Sales / Marketing Forecast. Unconstrained customer demand not taking into account the companies capacity. Already adjusted based on multiple business indicators such as orders on hand, historic sales, order backlog, customer information, cycle management and other macro-economic indicators";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
