@@ -22,3 +22,10 @@
     rdfs:description "Sales / Marketing Forecast. Unconstrained customer demand not taking into account the companies capacity. Already adjusted based on multiple business indicators such as orders on hand, historic sales, order backlog, customer information, cycle management and other macro-economic indicators";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#8abc6005-c0c0-4c35-869a-77b75750aa48> rdf:type rdfs:Resource;
+    rdfs:id "8abc6005-c0c0-4c35-869a-77b75750aa48";
+    rdfs:label "Sales and Marketing Forecast ";
+    skos:altLabel "Unconstrained demand";
+    rdfs:description "(Expectation of what a company thinks they would be able to sell) based on orders, past billings and more";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
