@@ -20,5 +20,22 @@
         "timestamp": "2024-08-26T08:53:05.308Z"
       }
     ]
+  },
+  {
+    "resourceId": "6c1d132f-2a5c-4232-a6bf-18ba831aef67",
+    "comments": [
+      {
+        "id": "pp01ffznw",
+        "author": "felix engel",
+        "content": "Several other description (A), B), and C)) have been discussed during some of our meeting. Which description of \"Demand\" fits best in SC4EU? A) - Outgoing/ incoming Shipments (bound by capacity, mostly not directly forecasted, mostly historic values) B -  Outgoing (downstream)/ Incoming (upstream) Orders (already inflated and don’t reflect actual sales because of order cancellations) or C) - Confirmed orders.",
+        "timestamp": "2024-08-26T13:48:03.013Z"
+      },
+      {
+        "id": "bvwjaydnc",
+        "author": "felix engel",
+        "content": ".. the recent definition originates from the Digital Reference Ontology",
+        "timestamp": "2024-08-26T13:48:57.426Z"
+      }
+    ]
   }
 ]
