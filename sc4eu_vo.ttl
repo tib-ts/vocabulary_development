@@ -79,3 +79,9 @@
     rdfs:description "Caused by smoothing and lead time";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#2d93a0a3-cb4f-4682-bb11-e405538e1bfe> rdf:type rdfs:Resource;
+    rdfs:id "2d93a0a3-cb4f-4682-bb11-e405538e1bfe";
+    rdfs:label "Overshoot";
+    rdfs:description "caused by lagging. When the market turns, this gives overcapacity, thus high cost and low prices, or undercapacity, which means loss of market share";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
