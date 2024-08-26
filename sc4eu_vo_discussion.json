@@ -37,5 +37,27 @@
         "timestamp": "2024-08-26T13:48:57.426Z"
       }
     ]
+  },
+  {
+    "resourceId": "e3247433-b0b9-48e5-9f10-0003c8ef1cc7",
+    "comments": [
+      {
+        "id": "eeejo3gi7",
+        "author": "felix engel",
+        "content": "the description is taken from WP5 sildes. Please propose other descriptions",
+        "timestamp": "2024-08-26T13:51:27.062Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "74eaf886-7525-490e-a9a2-cb3bc28c6b54",
+    "comments": [
+      {
+        "id": "rtbig82gf",
+        "author": "felix engel",
+        "content": "Descritption is taken from WP5 meeting slides",
+        "timestamp": "2024-08-26T13:53:21.238Z"
+      }
+    ]
   }
 ]
