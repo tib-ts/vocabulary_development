@@ -48,3 +48,10 @@
     rdfs:description "is defined as the sum of Desired Inventory Coverage between a company and its End Market";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
+    rdfs:id "f47de173-cd8e-48c7-8d39-906648d3aef2";
+    rdfs:label "Desired Inventory Coverage ";
+    skos:altLabel "Desired Inventory Reach";
+    rdfs:description "It is measured in ‘Weeks of inventory’. ";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
