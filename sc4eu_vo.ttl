@@ -92,8 +92,14 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Supply_Chain";
     rdfs:status "draft".
 <https://example.com#a68d9413-ec72-4741-b6c8-6b8c0aa5335f> rdf:type rdfs:Resource;
-    rdfs:label "system dynamics";
     rdfs:id "a68d9413-ec72-4741-b6c8-6b8c0aa5335f";
+    rdfs:label "system dynamics";
     rdfs:description "System dynamics is an approach to understanding the behaviour of complex systems over time. It deals with internal feedback loops and time delays that affect the behaviour of the entire system. What makes using system dynamics different from other approaches to studying complex systems is the use of feedback loops and stocks and flows. These elements help describe how even seemingly simple systems display baffling nonlinearity";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenSystemComplexity%2FSystemDynamics";
+    rdfs:status "draft".
+<https://example.com#c99448c6-751a-43f6-bdb0-d1c75c325790> rdf:type rdfs:Resource;
+    rdfs:id "c99448c6-751a-43f6-bdb0-d1c75c325790";
+    rdfs:label "New Term";
+    rdfs:description "New Description";
+    rdfs:seeAlso "New seeAlso";
     rdfs:status "draft".
