@@ -103,3 +103,9 @@
     rdfs:description "New Description";
     rdfs:seeAlso "New seeAlso";
     rdfs:status "draft".
+<https://example.com#5b890e93-bfaf-480f-89bd-c9a11b1db3de> rdf:type rdfs:Resource;
+    rdfs:id "5b890e93-bfaf-480f-89bd-c9a11b1db3de";
+    rdfs:label "Upstream Demand";
+    rdfs:description ".. not fixed yet. Needs discussion";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
