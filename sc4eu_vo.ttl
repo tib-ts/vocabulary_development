@@ -127,3 +127,21 @@
     rdfs:description "@not defined yet";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#448e29e2-f1f8-4cf6-b31a-201efd63d055> rdf:type rdfs:Resource;
+    rdfs:id "448e29e2-f1f8-4cf6-b31a-201efd63d055";
+    rdfs:label "Lagging";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#81394888-e7ef-4da4-8d26-a742cc008b08> rdf:type rdfs:Resource;
+    rdfs:id "81394888-e7ef-4da4-8d26-a742cc008b08";
+    rdfs:label "overshoot";
+    rdfs:description "@not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#2af7f230-5f50-4c49-810c-b3f99d447455> rdf:type rdfs:Resource;
+    rdfs:id "2af7f230-5f50-4c49-810c-b3f99d447455";
+    rdfs:label "Demand Short-Term ";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
