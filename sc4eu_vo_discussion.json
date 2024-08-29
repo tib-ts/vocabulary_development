@@ -146,5 +146,24 @@
   {
     "resourceId": "fb798594-491b-4f4c-b49b-f1bef968daf5",
     "comments": []
+  },
+  {
+    "resourceId": "448e29e2-f1f8-4cf6-b31a-201efd63d055",
+    "comments": []
+  },
+  {
+    "resourceId": "81394888-e7ef-4da4-8d26-a742cc008b08",
+    "comments": []
+  },
+  {
+    "resourceId": "2af7f230-5f50-4c49-810c-b3f99d447455",
+    "comments": [
+      {
+        "id": "h3mncerq5",
+        "author": "felix engel",
+        "content": "NXP sees demand as incoming requested orders (inflated and biased by “panic buying”)\nExpressed in absolute quantities (what we expect to ship). Slideset: WP5_26_06_2024\n",
+        "timestamp": "2024-08-29T09:09:25.996Z"
+      }
+    ]
   }
 ]
