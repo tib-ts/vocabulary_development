@@ -99,7 +99,7 @@
     rdfs:status "draft".
 <https://example.com#5b890e93-bfaf-480f-89bd-c9a11b1db3de> rdf:type rdfs:Resource;
     rdfs:id "5b890e93-bfaf-480f-89bd-c9a11b1db3de";
-    rdfs:label "Upstream Demand";
+    rdfs:label "Demand Upstream";
     rdfs:description "@ not fixed yet. Needs discussion";
     rdfs:seeAlso "";
     rdfs:status "draft".
@@ -117,7 +117,7 @@
     rdfs:status "draft".
 <https://example.com#d8c79103-75d0-45f9-a26c-cc2edb6bceb6> rdf:type rdfs:Resource;
     rdfs:id "d8c79103-75d0-45f9-a26c-cc2edb6bceb6";
-    rdfs:label "EndMarket Demand";
+    rdfs:label "Demand Endmarket ";
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "";
     rdfs:status "draft".
