@@ -109,3 +109,21 @@
     rdfs:description "@Needs discussion ...";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0> rdf:type rdfs:Resource;
+    rdfs:id "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0";
+    rdfs:label "Desired Inventory";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#d8c79103-75d0-45f9-a26c-cc2edb6bceb6> rdf:type rdfs:Resource;
+    rdfs:id "d8c79103-75d0-45f9-a26c-cc2edb6bceb6";
+    rdfs:label "EndMarket Demand";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#fb798594-491b-4f4c-b49b-f1bef968daf5> rdf:type rdfs:Resource;
+    rdfs:id "fb798594-491b-4f4c-b49b-f1bef968daf5";
+    rdfs:label "Smoothing";
+    rdfs:description "@not defined yet";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
