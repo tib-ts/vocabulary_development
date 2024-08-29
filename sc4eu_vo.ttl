@@ -97,15 +97,15 @@
     rdfs:description "System dynamics is an approach to understanding the behaviour of complex systems over time. It deals with internal feedback loops and time delays that affect the behaviour of the entire system. What makes using system dynamics different from other approaches to studying complex systems is the use of feedback loops and stocks and flows. These elements help describe how even seemingly simple systems display baffling nonlinearity";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenSystemComplexity%2FSystemDynamics";
     rdfs:status "draft".
-<https://example.com#c99448c6-751a-43f6-bdb0-d1c75c325790> rdf:type rdfs:Resource;
-    rdfs:id "c99448c6-751a-43f6-bdb0-d1c75c325790";
-    rdfs:label "New Term";
-    rdfs:description "New Description";
-    rdfs:seeAlso "New seeAlso";
-    rdfs:status "draft".
 <https://example.com#5b890e93-bfaf-480f-89bd-c9a11b1db3de> rdf:type rdfs:Resource;
     rdfs:id "5b890e93-bfaf-480f-89bd-c9a11b1db3de";
     rdfs:label "Upstream Demand";
-    rdfs:description ".. not fixed yet. Needs discussion";
+    rdfs:description "@ not fixed yet. Needs discussion";
+    rdfs:seeAlso "";
+    rdfs:status "draft".
+<https://example.com#96e3059c-540c-4b03-b13c-71573c598596> rdf:type rdfs:Resource;
+    rdfs:id "96e3059c-540c-4b03-b13c-71573c598596";
+    rdfs:label "Bullwhip Effect";
+    rdfs:description "@Needs discussion ...";
     rdfs:seeAlso "";
     rdfs:status "draft".
