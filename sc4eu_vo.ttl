@@ -121,12 +121,6 @@
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "";
     rdfs:status "draft".
-<https://example.com#fb798594-491b-4f4c-b49b-f1bef968daf5> rdf:type rdfs:Resource;
-    rdfs:id "fb798594-491b-4f4c-b49b-f1bef968daf5";
-    rdfs:label "Smoothing";
-    rdfs:description "@not defined yet";
-    rdfs:seeAlso "";
-    rdfs:status "draft".
 <https://example.com#448e29e2-f1f8-4cf6-b31a-201efd63d055> rdf:type rdfs:Resource;
     rdfs:id "448e29e2-f1f8-4cf6-b31a-201efd63d055";
     rdfs:label "Lagging";
