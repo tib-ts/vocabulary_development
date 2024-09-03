@@ -139,3 +139,9 @@
     rdfs:description "An ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-AT%23Ontology";
     rdfs:status "draft".
+<https://example.com#45614f02-6c70-4fcf-811d-1fee1713658b> rdf:type rdfs:Resource;
+    rdfs:id "45614f02-6c70-4fcf-811d-1fee1713658b";
+    rdfs:label "Semantic Technology";
+    rdfs:description "@Proposal: A technology that is somehow based on one or many Semantic Web specifications ";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
