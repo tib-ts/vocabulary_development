@@ -133,3 +133,9 @@
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "";
     rdfs:status "draft".
+<https://example.com#6ec4584c-da72-4e82-8a8c-dbf4eb8648ad> rdf:type rdfs:Resource;
+    rdfs:label "Ontology";
+    rdfs:id "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad";
+    rdfs:description "An ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-AT%23Ontology";
+    rdfs:status "draft".
