@@ -145,3 +145,9 @@
     rdfs:description "@Proposal: A technology that is somehow based on one or many Semantic Web specifications ";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba> rdf:type rdfs:Resource;
+    rdfs:label "curation";
+    rdfs:id "45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba";
+    rdfs:description "A planned process in which existing data is collected, organized, and improved in preparation for subsequent use.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sepio/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FSEPIO_0000131";
+    rdfs:status "draft".
