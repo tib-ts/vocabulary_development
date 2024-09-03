@@ -169,5 +169,16 @@
   {
     "resourceId": "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad",
     "comments": []
+  },
+  {
+    "resourceId": "45614f02-6c70-4fcf-811d-1fee1713658b",
+    "comments": [
+      {
+        "id": "vkvz7yt0c",
+        "author": "felix engel",
+        "content": "I have added a definition that describes how I would define the term. Any feedback on it?",
+        "timestamp": "2024-09-03T06:16:46.108Z"
+      }
+    ]
   }
 ]
