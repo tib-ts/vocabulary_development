@@ -157,3 +157,9 @@
     rdfs:description "Semantic Web (Ontology) for semiconductor supply chains and supply chains containing semiconductors";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#5a73f8fe-df81-4525-8c74-301635a49938> rdf:type rdfs:Resource;
+    rdfs:id "5a73f8fe-df81-4525-8c74-301635a49938";
+    rdfs:label "Knowledge Graph";
+    rdfs:description "In knowledge representation and reasoning, a knowledge graph is a knowledge base that uses a graph-structured data model or topology to represent and operate on data. Knowledge graphs are often used to store interlinked descriptions of entities – objects, events, situations or abstract concepts – while also encoding the free-form semantics or relationships underlying these entities";
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Knowledge_graph";
+    rdfs:status "draft".
