@@ -151,3 +151,9 @@
     rdfs:description "A planned process in which existing data is collected, organized, and improved in preparation for subsequent use.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sepio/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FSEPIO_0000131";
     rdfs:status "draft".
+<https://example.com#11ed8074-8172-4007-aaee-73cee59dc5c8> rdf:type rdfs:Resource;
+    rdfs:id "11ed8074-8172-4007-aaee-73cee59dc5c8";
+    rdfs:label "Digital Reference Ontology";
+    rdfs:description "Semantic Web (Ontology) for semiconductor supply chains and supply chains containing semiconductors";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
