@@ -6,7 +6,7 @@
 <https://example.com#e3247433-b0b9-48e5-9f10-0003c8ef1cc7> rdf:type rdfs:Resource;
     rdfs:id "e3247433-b0b9-48e5-9f10-0003c8ef1cc7";
     rdfs:label "Past Demand";
-    rdfs:description "Sales / Billings in units sold (quantity NOT price)";
+    rdfs:description "Demand with a delivery date in the past";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#74eaf886-7525-490e-a9a2-cb3bc28c6b54> rdf:type rdfs:Resource;
@@ -27,7 +27,7 @@
     rdfs:id "07ecb673-52a9-4415-8b08-9c59690c29d0";
     rdfs:label "Inventory Reach";
     rdfs:description "Inventory reach is a measure of how long a company‘s current inventory will last under normal sales conditions.";
-    rdfs:seeAlso "";
+    rdfs:seeAlso "Inventory Coverage, Days of Inventory";
     rdfs:status "draft".
 <https://example.com#ac8ec0bb-4558-4b19-81b0-c848f4a048fb> rdf:type rdfs:Resource;
     rdfs:id "ac8ec0bb-4558-4b19-81b0-c848f4a048fb";
@@ -39,44 +39,44 @@
     rdfs:id "a601e751-d6a2-472b-92d6-c33d16b4aa8e";
     rdfs:label "Stock Depth";
     skos:altLabel "SD";
-    rdfs:description "is defined as the sum of Desired Inventory Coverage between a company and its End Market";
+    rdfs:description "The sum of Desired Inventory Coverage of all the tiers between a company and its End Market";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
     rdfs:id "f47de173-cd8e-48c7-8d39-906648d3aef2";
     rdfs:label "Desired Inventory Coverage ";
     skos:altLabel "Desired Inventory Reach";
-    rdfs:description "It is measured in ‘Weeks of inventory’. ";
+    rdfs:description "Target Inventory Coverage, considered the optimal level for running a business. It is measured in ‘Weeks of inventory’. ";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#5b71df05-24da-4be4-bc67-ddc5bfdc8d0a> rdf:type rdfs:Resource;
     rdfs:id "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a";
     rdfs:label "Pork Cycle";
-    rdfs:description "caused by the delay in capacity expansions, in combinaton with over-ordering";
+    rdfs:description "A persistent wave in certain industries, first observed in pork in the 19th century. Semiconductors are also often referred to as suffering from a Pork Cycle. ";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#c557f155-90db-4dc2-9ba1-f5020625cbba> rdf:type rdfs:Resource;
     rdfs:id "c557f155-90db-4dc2-9ba1-f5020625cbba";
     rdfs:label "Underutilization ";
-    rdfs:description "A low Utilization Rate gives more flexibility, but is very expensive.";
-    rdfs:seeAlso "";
+    rdfs:description "Use of capacity at a level that is lower than desired. ";
+    rdfs:seeAlso "Desired Utilization Rate (DUR)";
     rdfs:status "draft".
 <https://example.com#6a7749d4-03cc-4946-9756-5c6ab4159f57> rdf:type rdfs:Resource;
     rdfs:id "6a7749d4-03cc-4946-9756-5c6ab4159f57";
     rdfs:label "Smoothing";
-    rdfs:description "the demand signal. Without smoothing Capex becomes erratic, creating extra over- and undercapacity.";
+    rdfs:description "Averaging recent data; See also SES and DES";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#0ba579de-85d8-45f5-b749-95c2a6c54d4c> rdf:type rdfs:Resource;
     rdfs:id "0ba579de-85d8-45f5-b749-95c2a6c54d4c";
     rdfs:label "Lagging";
-    rdfs:description "Caused by smoothing and lead time";
+    rdfs:description "Being later in time. E.g. a delivery is always later than the order: the delivery is lagging the order. Is not only caused by lead time but also by averaging or smoothing of data.";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#2d93a0a3-cb4f-4682-bb11-e405538e1bfe> rdf:type rdfs:Resource;
     rdfs:id "2d93a0a3-cb4f-4682-bb11-e405538e1bfe";
     rdfs:label "Overshoot";
-    rdfs:description "caused by lagging. When the market turns, this gives overcapacity, thus high cost and low prices, or undercapacity, which means loss of market share";
+    rdfs:description "Exceed a target. The opposite is Undershoot. Can e.g. be caused by extrapolation of a changing signal. ";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#1c0748ba-38cb-4c7b-9909-e6452ff342ea> rdf:type rdfs:Resource;
@@ -93,7 +93,7 @@
     rdfs:status "draft".
 <https://example.com#a68d9413-ec72-4741-b6c8-6b8c0aa5335f> rdf:type rdfs:Resource;
     rdfs:id "a68d9413-ec72-4741-b6c8-6b8c0aa5335f";
-    rdfs:label "system dynamics";
+    rdfs:label "System Dynamics";
     rdfs:description "System dynamics is an approach to understanding the behaviour of complex systems over time. It deals with internal feedback loops and time delays that affect the behaviour of the entire system. What makes using system dynamics different from other approaches to studying complex systems is the use of feedback loops and stocks and flows. These elements help describe how even seemingly simple systems display baffling nonlinearity";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenSystemComplexity%2FSystemDynamics";
     rdfs:status "draft".
@@ -112,19 +112,13 @@
 <https://example.com#9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0> rdf:type rdfs:Resource;
     rdfs:id "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0";
     rdfs:label "Desired Inventory";
-    rdfs:description "@Not defined yet";
+    rdfs:description "Desired Inventory Coverage multiplied with Demand. Measured in units.";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#d8c79103-75d0-45f9-a26c-cc2edb6bceb6> rdf:type rdfs:Resource;
     rdfs:id "d8c79103-75d0-45f9-a26c-cc2edb6bceb6";
     rdfs:label "Demand Endmarket ";
-    rdfs:description "@Not defined yet";
-    rdfs:seeAlso "";
-    rdfs:status "draft".
-<https://example.com#448e29e2-f1f8-4cf6-b31a-201efd63d055> rdf:type rdfs:Resource;
-    rdfs:id "448e29e2-f1f8-4cf6-b31a-201efd63d055";
-    rdfs:label "Lagging";
-    rdfs:description "@Not defined yet";
+    rdfs:description "End Market Demand (EMD) is the wish of consumers to buy products. It can be considered the end of the Supply Chain. EMD pulls product out of the chain.";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#2af7f230-5f50-4c49-810c-b3f99d447455> rdf:type rdfs:Resource;
@@ -134,8 +128,8 @@
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#6ec4584c-da72-4e82-8a8c-dbf4eb8648ad> rdf:type rdfs:Resource;
-    rdfs:label "Ontology";
     rdfs:id "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad";
+    rdfs:label "Ontology";
     rdfs:description "An ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-AT%23Ontology";
     rdfs:status "draft".
@@ -146,8 +140,8 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba> rdf:type rdfs:Resource;
-    rdfs:label "curation";
     rdfs:id "45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba";
+    rdfs:label "curation";
     rdfs:description "A planned process in which existing data is collected, organized, and improved in preparation for subsequent use.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sepio/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FSEPIO_0000131";
     rdfs:status "draft".
@@ -162,4 +156,34 @@
     rdfs:label "Knowledge Graph";
     rdfs:description "In knowledge representation and reasoning, a knowledge graph is a knowledge base that uses a graph-structured data model or topology to represent and operate on data. Knowledge graphs are often used to store interlinked descriptions of entities – objects, events, situations or abstract concepts – while also encoding the free-form semantics or relationships underlying these entities";
     rdfs:seeAlso "https://en.wikipedia.org/wiki/Knowledge_graph";
+    rdfs:status "draft".
+<https://example.com#45bc671c-15a1-4ee0-931e-af2f6dd3f08f> rdf:type rdfs:Resource;
+    rdfs:id "45bc671c-15a1-4ee0-931e-af2f6dd3f08f";
+    rdfs:label "Semantic Web Specification";
+    rdfs:description "Felix?";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#5bc9a44a-91c8-448e-813c-61b012d27ff3> rdf:type rdfs:Resource;
+    rdfs:id "5bc9a44a-91c8-448e-813c-61b012d27ff3";
+    rdfs:label "free-form semantics or relationships";
+    rdfs:description "Felix?";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#c7f3da60-5199-4465-8e31-277b45784236> rdf:type rdfs:Resource;
+    rdfs:id "c7f3da60-5199-4465-8e31-277b45784236";
+    rdfs:label "Semantic Web";
+    rdfs:description "FElix?";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#29a4abf9-d093-4598-af4e-93e26d364af5> rdf:type rdfs:Resource;
+    rdfs:id "29a4abf9-d093-4598-af4e-93e26d364af5";
+    rdfs:label "Inventory Coverage";
+    rdfs:description "Inventory Coverage is a measure of how long a company‘s current inventory will last under normal sales conditions. It is measured in time (e.g. weeks).";
+    rdfs:seeAlso "Inventory Reach; Days of Inventory";
+    rdfs:status "draft".
+<https://example.com#0812332a-b27d-4ae4-94b6-71076d4e76c7> rdf:type rdfs:Resource;
+    rdfs:id "0812332a-b27d-4ae4-94b6-71076d4e76c7";
+    rdfs:label "Desired Utilization Rate (DUR)";
+    rdfs:description "The level of usage of a capacity that is considered optimal from a business point of view. DUR is industry specific. A low DUR gives flexibility, but less turnover so less coverage of fixed cost. ";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
