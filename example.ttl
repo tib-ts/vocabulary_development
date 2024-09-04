@@ -35,3 +35,15 @@
     rdfs:description "dfdsaf";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#91f71fd5-005b-4b52-8940-6dce61d82f23> rdf:type rdfs:Resource;
+    rdfs:id "91f71fd5-005b-4b52-8940-6dce61d82f23";
+    rdfs:label "aaa";
+    rdfs:description "aaa";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#5201fad8-1292-468d-8751-93009e1333d6> rdf:type rdfs:Resource;
+    rdfs:id "5201fad8-1292-468d-8751-93009e1333d6";
+    rdfs:label "bbb";
+    rdfs:description "bbb";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
