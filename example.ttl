@@ -17,3 +17,21 @@
     rdfs:description "description";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#7fa4d549-29b9-4ae9-9882-65e6d3ffa885> rdf:type rdfs:Resource;
+    rdfs:id "7fa4d549-29b9-4ae9-9882-65e6d3ffa885";
+    rdfs:label "test";
+    rdfs:description "tset";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#830c7d72-b2d4-48dc-b462-df32ba690189> rdf:type rdfs:Resource;
+    rdfs:id "830c7d72-b2d4-48dc-b462-df32ba690189";
+    rdfs:label "dasfadsf";
+    rdfs:description "sdafdas";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#85ba9dc0-8563-46ac-967d-698f9805df24> rdf:type rdfs:Resource;
+    rdfs:id "85ba9dc0-8563-46ac-967d-698f9805df24";
+    rdfs:label "sdfdsf";
+    rdfs:description "dfdsaf";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
