@@ -22,7 +22,8 @@
     rdfs:label "test";
     rdfs:description "tset";
     rdfs:seeAlso "N/A";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "test 1", "test 2", "test 3", "test 4", "test 5".
 <https://example.com#830c7d72-b2d4-48dc-b462-df32ba690189> rdf:type rdfs:Resource;
     rdfs:id "830c7d72-b2d4-48dc-b462-df32ba690189";
     rdfs:label "dasfadsf";
@@ -32,7 +33,7 @@
 <https://example.com#85ba9dc0-8563-46ac-967d-698f9805df24> rdf:type rdfs:Resource;
     rdfs:id "85ba9dc0-8563-46ac-967d-698f9805df24";
     rdfs:label "sdfdsf";
-    rdfs:description "dfdsaf";
+    rdfs:description "dfdsaftest";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#91f71fd5-005b-4b52-8940-6dce61d82f23> rdf:type rdfs:Resource;
