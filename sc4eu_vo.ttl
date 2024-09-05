@@ -172,8 +172,8 @@
 <https://example.com#c7f3da60-5199-4465-8e31-277b45784236> rdf:type rdfs:Resource;
     rdfs:id "c7f3da60-5199-4465-8e31-277b45784236";
     rdfs:label "Semantic Web";
-    rdfs:description "FElix?";
-    rdfs:seeAlso "N/A";
+    rdfs:description "In addition to the classic “Web of documents” W3C is helping to build a technology stack to support a “Web of data,” the sort of data you find in databases. The ultimate goal of the Web of data is to enable computers to do more useful work and to develop systems that can support trusted interactions over the network. The term “Semantic Web” refers to W3C’s vision of the Web of linked data. Semantic Web technologies enable people to create data stores on the Web, build vocabularies, and write rules for handling data. Linked data are empowered by technologies such as RDF, SPARQL, JSON-LD, OWL, SHACL and SKOS. (Taken from: https://www.w3.org/2001/sw/wiki/Main_Page) Ps: RDF, SPARQL, JSON-LD, OWL, SHACL and SKOS are Semantic Web specifications";
+    rdfs:seeAlso "https://www.w3.org/2001/sw/wiki/Main_Page";
     rdfs:status "draft".
 <https://example.com#29a4abf9-d093-4598-af4e-93e26d364af5> rdf:type rdfs:Resource;
     rdfs:id "29a4abf9-d093-4598-af4e-93e26d364af5";
