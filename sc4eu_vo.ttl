@@ -159,7 +159,7 @@
     rdfs:status "draft".
 <https://example.com#45bc671c-15a1-4ee0-931e-af2f6dd3f08f> rdf:type rdfs:Resource;
     rdfs:id "45bc671c-15a1-4ee0-931e-af2f6dd3f08f";
-    rdfs:label "Semantic Web Specification";
+    rdfs:label "Semantic Web Standards";
     rdfs:description "The development of services is simplified if different data providers use common representations for their data. We therefore need a way for data providers to describe their datasets and a means to reference definitions shared with other data providers. These descriptions may include constraints that can be used to validate the data as a basis for checking for internal consistency. Communities of data providers and consumers have a common interest in defining and using such standards. The kinds of standards will vary considerably. Some are community based, whilst others require international agreements involving a more formal approach for how they are developed and maintained.  W3C aims to support lightweight community based standards that can be incubated within W3C Community Groups, and if appropriate, transferred to Working Groups where a formal standards track process is desired, e.g. for core standards where a greater level of scrutiny is needed.";
     rdfs:seeAlso "https://www.w3.org/2017/12/odi-study/";
     rdfs:status "draft".
