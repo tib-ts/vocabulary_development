@@ -300,3 +300,9 @@
     rdfs:description "a single piece of semiconductor containing entire integrated circuit which has not yet been packaged; A chip.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#e655023c-d74f-410a-92f8-8d600cd72d96> rdf:type rdfs:Resource;
+    rdfs:label "Die Bank";
+    rdfs:id "e655023c-d74f-410a-92f8-8d600cd72d96";
+    rdfs:description "A die bank is an area in production where (usually) tested wafers are stored waiting for disposition and further production.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Die_Bank";
+    rdfs:status "draft".
