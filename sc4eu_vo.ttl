@@ -214,3 +214,9 @@
     rdfs:description "In semiconductor manufacturing, the package assembly and test stages of production. Includes burn-in and environmental test functions. Compare front end.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#e718d17a-4f24-4a9c-acb4-7e144ec14fe4> rdf:type rdfs:Resource;
+    rdfs:id "e718d17a-4f24-4a9c-acb4-7e144ec14fe4";
+    rdfs:label "Foundry";
+    rdfs:description "A wafer production and processing plant. Usually used to denote a facility that is available on a contract basis to companies that do not have wafer fab capability of their own, or that wish to supplement their own capabilities.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
