@@ -268,3 +268,9 @@
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#d0600216-6f78-4976-a660-a3066baae7da> rdf:type rdfs:Resource;
+    rdfs:id "d0600216-6f78-4976-a660-a3066baae7da";
+    rdfs:label "Borderless Fab Setting";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
