@@ -93,7 +93,14 @@
   },
   {
     "resourceId": "c557f155-90db-4dc2-9ba1-f5020625cbba",
-    "comments": []
+    "comments": [
+      {
+        "id": "4di5wbh7b",
+        "author": "felix engel",
+        "content": "I guess that \"Desired Utilization Rate (DUR)\" is rather a alternative label and \"See Also\". I have revised accordingly",
+        "timestamp": "2024-09-06T05:27:36.181Z"
+      }
+    ]
   },
   {
     "resourceId": "6a7749d4-03cc-4946-9756-5c6ab4159f57",
