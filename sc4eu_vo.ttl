@@ -274,3 +274,9 @@
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#8be0ebc9-cbee-4ebd-9a54-feb7366b65dc> rdf:type rdfs:Resource;
+    rdfs:id "8be0ebc9-cbee-4ebd-9a54-feb7366b65dc";
+    rdfs:label "Base Wafers";
+    rdfs:description "Not defined yet";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
