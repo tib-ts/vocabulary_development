@@ -280,3 +280,9 @@
     rdfs:description "Not defined yet";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#6adb2b83-e698-405f-9eb0-38dde30d7922> rdf:type rdfs:Resource;
+    rdfs:id "6adb2b83-e698-405f-9eb0-38dde30d7922";
+    rdfs:label "MAPE";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
