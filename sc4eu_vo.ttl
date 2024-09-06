@@ -59,8 +59,9 @@
     rdfs:id "c557f155-90db-4dc2-9ba1-f5020625cbba";
     rdfs:label "Underutilization ";
     rdfs:description "Use of capacity at a level that is lower than desired. ";
-    rdfs:seeAlso "Desired Utilization Rate (DUR)";
-    rdfs:status "draft".
+    rdfs:seeAlso "";
+    rdfs:status "draft";
+    skos:altLabel "Desired Utilization Rate (DUR)".
 <https://example.com#6a7749d4-03cc-4946-9756-5c6ab4159f57> rdf:type rdfs:Resource;
     rdfs:id "6a7749d4-03cc-4946-9756-5c6ab4159f57";
     rdfs:label "Smoothing";
