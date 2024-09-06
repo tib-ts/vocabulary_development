@@ -321,5 +321,16 @@
   {
     "resourceId": "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264",
     "comments": []
+  },
+  {
+    "resourceId": "268e91b4-77f7-4a77-a41d-5ce3bb322524",
+    "comments": [
+      {
+        "id": "g1g2v4rvx",
+        "author": "felix engel",
+        "content": "@Lars, can you add a description?",
+        "timestamp": "2024-09-06T08:09:23.434Z"
+      }
+    ]
   }
 ]
