@@ -196,3 +196,15 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
     rdfs:status "draft";
     skos:altLabel "Fabrication".
+<https://example.com#527c5858-7259-4ede-804a-5c89fc8c6467> rdf:type rdfs:Resource;
+    rdfs:id "527c5858-7259-4ede-804a-5c89fc8c6467";
+    rdfs:label "Dicing";
+    rdfs:description "process of cutting semiconductor wafer into individual chips each containing a complete semiconductor device. Large diameter wafer dicing is carried out by partially cutting the wafer along preferred crystallographic planes using high precision saw with ultra-thin diamond blade. ";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx#F";
+    rdfs:status "draft".
+<https://example.com#0c8d7d97-2f0c-489e-9820-ee8647850254> rdf:type rdfs:Resource;
+    rdfs:id "0c8d7d97-2f0c-489e-9820-ee8647850254";
+    rdfs:label "Front Ende";
+    rdfs:description "In semiconductor manufacturing, the fabrication process in which the integrated circuit is formed in and on the wafer. Compare back end.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
