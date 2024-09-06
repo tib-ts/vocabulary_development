@@ -257,8 +257,14 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Binning";
     rdfs:status "draft".
 <https://example.com#dd1eb576-d83b-4d0d-ac05-d8d09d0e1264> rdf:type rdfs:Resource;
-    rdfs:label "Bill Of Material";
     rdfs:id "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264";
+    rdfs:label "Bill Of Material";
     rdfs:description "A BILL OF MATERIALS (BOM) describes the component products used to make another product. Substitution, often associated with binning, is based on the possibility that alternative items might be used to finish a process step.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Bill_Of_Material";
+    rdfs:status "draft".
+<https://example.com#268e91b4-77f7-4a77-a41d-5ce3bb322524> rdf:type rdfs:Resource;
+    rdfs:id "268e91b4-77f7-4a77-a41d-5ce3bb322524";
+    rdfs:label "Random coproduction ";
+    rdfs:description "@Not defined yet";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
