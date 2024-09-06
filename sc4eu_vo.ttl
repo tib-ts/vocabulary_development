@@ -292,3 +292,10 @@
     rdfs:description "non-cancellable non-refundable orders";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#abeb6a5c-cc98-4921-a42e-f90b6d6f9533> rdf:type rdfs:Resource;
+    rdfs:id "abeb6a5c-cc98-4921-a42e-f90b6d6f9533";
+    rdfs:label "Chip";
+    skos:altLabel "Die";
+    rdfs:description "A single square or rectangular piece of semiconductor material into which a specific electrical circuit has been fabricated. Plural: dice. Also called a chip.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
