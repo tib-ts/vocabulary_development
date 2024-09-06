@@ -220,3 +220,9 @@
     rdfs:description "A wafer production and processing plant. Usually used to denote a facility that is available on a contract basis to companies that do not have wafer fab capability of their own, or that wish to supplement their own capabilities.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#b6f6559b-9d69-4128-8d20-2528a986d7cb> rdf:type rdfs:Resource;
+    rdfs:id "b6f6559b-9d69-4128-8d20-2528a986d7cb";
+    rdfs:label "NAND Type Flash Memory";
+    rdfs:description "A type of non-volatile memory medium invented in 1987 by Fujio Masuoka (then a Toshiba employee). Compared to the NOR type flash memory, NAND flash is smaller in circuit scale, less costly, and offers larger capacities as well as faster read/write speeds. NAND flash is widely used for USB drives, memory cards for digital cameras, and storage devices for mobile phones and digital music players. As conventional chip scaling technology is reaching its limits, 3D structures have been introduced in flash memory devices in recent years.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
