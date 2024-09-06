@@ -286,3 +286,9 @@
     rdfs:description "@Not defined yet";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#010831c3-ef72-4194-98cf-950e039f178e> rdf:type rdfs:Resource;
+    rdfs:id "010831c3-ef72-4194-98cf-950e039f178e";
+    rdfs:label "NCNR orders";
+    rdfs:description "non-cancellable non-refundable orders";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
