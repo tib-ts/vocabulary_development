@@ -299,3 +299,10 @@
     rdfs:description "A single square or rectangular piece of semiconductor material into which a specific electrical circuit has been fabricated. Plural: dice. Also called a chip.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#376d968c-83f7-44fa-9470-e4c0bc0cc5ee> rdf:type rdfs:Resource;
+    rdfs:id "376d968c-83f7-44fa-9470-e4c0bc0cc5ee";
+    rdfs:label "Die";
+    skos:altLabel "Chip";
+    rdfs:description "a single piece of semiconductor containing entire integrated circuit which has not yet been packaged; A chip.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
