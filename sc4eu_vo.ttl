@@ -190,8 +190,8 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#e73367f5-3971-4e94-8f95-6ce4aff94578> rdf:type rdfs:Resource;
-    rdfs:label "Fab";
     rdfs:id "e73367f5-3971-4e94-8f95-6ce4aff94578";
+    rdfs:label "Fab";
     rdfs:description "The name of the fab producing the product. Production Area";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
     rdfs:status "draft";
@@ -231,12 +231,6 @@
     rdfs:label "Flash Memory";
     rdfs:description "An advanced form of electrically erasable programmable read-only memory (EEPROM). Flash memory is non-volatile and the data on the device can be freely rewritten. Flash memory devices are more convenient to use than UVEPROMs that require ultraviolet light to erase data.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
-    rdfs:status "draft".
-<https://example.com#b5b602fb-b521-4771-b69a-55b6184d5ac9> rdf:type rdfs:Resource;
-    rdfs:id "b5b602fb-b521-4771-b69a-55b6184d5ac9";
-    rdfs:label "Diebank";
-    rdfs:description "@Needs description";
-    rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#fe66ac5e-fd80-4a2a-b209-5c7698a31f85> rdf:type rdfs:Resource;
     rdfs:id "fe66ac5e-fd80-4a2a-b209-5c7698a31f85";
