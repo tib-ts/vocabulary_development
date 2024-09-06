@@ -251,8 +251,14 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#4c628f7c-9cb3-419d-92d2-46be565301d1> rdf:type rdfs:Resource;
-    rdfs:label "Binning";
     rdfs:id "4c628f7c-9cb3-419d-92d2-46be565301d1";
+    rdfs:label "Binning";
     rdfs:description "BINNING refers to the process of testing and categorizing parts against defined measures and sort them into different bins (Degbotse 2013). Each bin belongs to certain levels of defined measures (e.g. chip speed, current, voltage, energy consumption). Binning is often combined with SUBSTITUTION.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Binning";
+    rdfs:status "draft".
+<https://example.com#dd1eb576-d83b-4d0d-ac05-d8d09d0e1264> rdf:type rdfs:Resource;
+    rdfs:label "Bill Of Material";
+    rdfs:id "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264";
+    rdfs:description "A BILL OF MATERIALS (BOM) describes the component products used to make another product. Substitution, often associated with binning, is based on the possibility that alternative items might be used to finish a process step.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Bill_Of_Material";
     rdfs:status "draft".
