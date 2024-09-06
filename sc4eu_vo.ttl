@@ -301,8 +301,14 @@
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
 <https://example.com#e655023c-d74f-410a-92f8-8d600cd72d96> rdf:type rdfs:Resource;
-    rdfs:label "Die Bank";
     rdfs:id "e655023c-d74f-410a-92f8-8d600cd72d96";
+    rdfs:label "Die Bank";
     rdfs:description "A die bank is an area in production where (usually) tested wafers are stored waiting for disposition and further production.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Die_Bank";
+    rdfs:status "draft".
+<https://example.com#68392d7e-0253-4edc-96ef-d6f9c8306649> rdf:type rdfs:Resource;
+    rdfs:label "Capacity Bottleneck";
+    rdfs:id "68392d7e-0253-4edc-96ef-d6f9c8306649";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Capacity_Bottleneck";
     rdfs:status "draft".
