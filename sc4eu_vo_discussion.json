@@ -225,7 +225,14 @@
   },
   {
     "resourceId": "29a4abf9-d093-4598-af4e-93e26d364af5",
-    "comments": []
+    "comments": [
+      {
+        "id": "kqaasijhr",
+        "author": "felix engel",
+        "content": "I have put \"Inventory Reach\" and \"Days of Inventory\" as alternative labels (See Also it was previously)",
+        "timestamp": "2024-09-06T05:29:21.158Z"
+      }
+    ]
   },
   {
     "resourceId": "0812332a-b27d-4ae4-94b6-71076d4e76c7",
