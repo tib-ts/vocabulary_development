@@ -226,3 +226,15 @@
     rdfs:description "A type of non-volatile memory medium invented in 1987 by Fujio Masuoka (then a Toshiba employee). Compared to the NOR type flash memory, NAND flash is smaller in circuit scale, less costly, and offers larger capacities as well as faster read/write speeds. NAND flash is widely used for USB drives, memory cards for digital cameras, and storage devices for mobile phones and digital music players. As conventional chip scaling technology is reaching its limits, 3D structures have been introduced in flash memory devices in recent years.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#378edb24-3b87-4f54-b8e2-dcc748f1a7cd> rdf:type rdfs:Resource;
+    rdfs:id "378edb24-3b87-4f54-b8e2-dcc748f1a7cd";
+    rdfs:label "Flash Memory";
+    rdfs:description "An advanced form of electrically erasable programmable read-only memory (EEPROM). Flash memory is non-volatile and the data on the device can be freely rewritten. Flash memory devices are more convenient to use than UVEPROMs that require ultraviolet light to erase data.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
+<https://example.com#b5b602fb-b521-4771-b69a-55b6184d5ac9> rdf:type rdfs:Resource;
+    rdfs:id "b5b602fb-b521-4771-b69a-55b6184d5ac9";
+    rdfs:label "Diebank";
+    rdfs:description "@Needs description";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
