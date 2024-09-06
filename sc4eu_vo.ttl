@@ -208,3 +208,9 @@
     rdfs:description "In semiconductor manufacturing, the fabrication process in which the integrated circuit is formed in and on the wafer. Compare back end.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
+<https://example.com#86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82> rdf:type rdfs:Resource;
+    rdfs:id "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82";
+    rdfs:label "Back End";
+    rdfs:description "In semiconductor manufacturing, the package assembly and test stages of production. Includes burn-in and environmental test functions. Compare front end.";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    rdfs:status "draft".
