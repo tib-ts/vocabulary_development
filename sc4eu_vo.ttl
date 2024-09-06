@@ -244,3 +244,9 @@
     rdfs:description "@Need description";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#c67e3931-e4df-41c8-acf1-ef581772784c> rdf:type rdfs:Resource;
+    rdfs:id "c67e3931-e4df-41c8-acf1-ef581772784c";
+    rdfs:label "Node Technology Group";
+    rdfs:description "@No description available yet";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
