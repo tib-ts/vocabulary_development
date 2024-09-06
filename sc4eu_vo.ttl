@@ -189,3 +189,10 @@
     rdfs:description "The level of usage of a capacity that is considered optimal from a business point of view. DUR is industry specific. A low DUR gives flexibility, but less turnover so less coverage of fixed cost. ";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#e73367f5-3971-4e94-8f95-6ce4aff94578> rdf:type rdfs:Resource;
+    rdfs:label "Fab";
+    rdfs:id "e73367f5-3971-4e94-8f95-6ce4aff94578";
+    rdfs:description "The name of the fab producing the product. Production Area";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
+    rdfs:status "draft";
+    skos:altLabel "Fabrication".
