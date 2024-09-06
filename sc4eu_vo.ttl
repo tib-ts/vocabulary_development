@@ -250,3 +250,9 @@
     rdfs:description "@No description available yet";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#4c628f7c-9cb3-419d-92d2-46be565301d1> rdf:type rdfs:Resource;
+    rdfs:label "Binning";
+    rdfs:id "4c628f7c-9cb3-419d-92d2-46be565301d1";
+    rdfs:description "BINNING refers to the process of testing and categorizing parts against defined measures and sort them into different bins (Degbotse 2013). Each bin belongs to certain levels of defined measures (e.g. chip speed, current, voltage, energy consumption). Binning is often combined with SUBSTITUTION.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Binning";
+    rdfs:status "draft".
