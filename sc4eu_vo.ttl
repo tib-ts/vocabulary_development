@@ -180,8 +180,9 @@
     rdfs:id "29a4abf9-d093-4598-af4e-93e26d364af5";
     rdfs:label "Inventory Coverage";
     rdfs:description "Inventory Coverage is a measure of how long a company‘s current inventory will last under normal sales conditions. It is measured in time (e.g. weeks).";
-    rdfs:seeAlso "Inventory Reach; Days of Inventory";
-    rdfs:status "draft".
+    rdfs:seeAlso "";
+    rdfs:status "draft";
+    skos:altLabel "Inventory Reach", "Days of Inventory".
 <https://example.com#0812332a-b27d-4ae4-94b6-71076d4e76c7> rdf:type rdfs:Resource;
     rdfs:id "0812332a-b27d-4ae4-94b6-71076d4e76c7";
     rdfs:label "Desired Utilization Rate (DUR)";
