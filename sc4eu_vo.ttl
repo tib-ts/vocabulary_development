@@ -307,8 +307,14 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Die_Bank";
     rdfs:status "draft".
 <https://example.com#68392d7e-0253-4edc-96ef-d6f9c8306649> rdf:type rdfs:Resource;
-    rdfs:label "Capacity Bottleneck";
     rdfs:id "68392d7e-0253-4edc-96ef-d6f9c8306649";
+    rdfs:label "Capacity Bottleneck";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Capacity_Bottleneck";
+    rdfs:status "draft".
+<https://example.com#5990ff8a-be1c-4485-a18d-1eb64db342e3> rdf:type rdfs:Resource;
+    rdfs:id "5990ff8a-be1c-4485-a18d-1eb64db342e3";
+    rdfs:label "Business Cycle";
+    rdfs:description "Periods of prosperity generally followed by periods of depression make up what is called the business cycle. Such cycles tend to vary in length and magnitude and are often dealt with as a separate subcomponent of the basic pattern contained in a time series.";
+    rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
     rdfs:status "draft".
