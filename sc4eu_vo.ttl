@@ -324,3 +324,9 @@
     rdfs:description "When a moving average is taken of a series of data that already represents the result of a moving average, it is referred to as a double moving average. It results in additional smoothing or the removal of more randomness than an equal-length single moving average. ";
     rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
     rdfs:status "draft".
+<https://example.com#8c989a43-5f21-4109-8ceb-2122a7e7bb6e> rdf:type rdfs:Resource;
+    rdfs:id "8c989a43-5f21-4109-8ceb-2122a7e7bb6e";
+    rdfs:label "Exponential Smoothing";
+    rdfs:description "Exponential smoothing methods provide forecasts using weighted averages of past values of the data and forecast errors. They are commonly used in inventory control systems where many items are to be forecast and low cost is a primary concern. The simplest exponential smoothing method is single exponential smoothing (SES), suitable for data with no trend or seasonal patterns. For trended data, Holt’s method is suitable and for seasonal data, Holt-Winters’ method may be used. Pegels’ classification provides a convenient structure in which to study and apply exponential smoothing methods";
+    rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
+    rdfs:status "draft".
