@@ -318,3 +318,9 @@
     rdfs:description "Periods of prosperity generally followed by periods of depression make up what is called the business cycle. Such cycles tend to vary in length and magnitude and are often dealt with as a separate subcomponent of the basic pattern contained in a time series.";
     rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
     rdfs:status "draft".
+<https://example.com#db9b0838-42c1-41de-bcd2-92f8f0b0a493> rdf:type rdfs:Resource;
+    rdfs:id "db9b0838-42c1-41de-bcd2-92f8f0b0a493";
+    rdfs:label "Double Moving Average";
+    rdfs:description "When a moving average is taken of a series of data that already represents the result of a moving average, it is referred to as a double moving average. It results in additional smoothing or the removal of more randomness than an equal-length single moving average. ";
+    rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
+    rdfs:status "draft".
