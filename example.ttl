@@ -48,3 +48,10 @@
     rdfs:description "bbb";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#f06d7293-1f07-46ec-b32e-8ac813bf4504> rdf:type rdfs:Resource;
+    rdfs:id "f06d7293-1f07-46ec-b32e-8ac813bf4504";
+    rdfs:label "fawad khan";
+    skos:altLabel "khan khan", "Swabi Khan", "Pakistan Khan", "Delft Khan", "Netherlands Khan";
+    rdfs:description "Great Khan";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
