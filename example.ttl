@@ -12,7 +12,7 @@
     rdfs:status "draft".
 <https://example.com#ac02fdcd-8d13-4e15-b42f-d213a0562a47> rdf:type rdfs:Resource;
     rdfs:id "ac02fdcd-8d13-4e15-b42f-d213a0562a47";
-    rdfs:label "Term with two alternatives";
+    rdfs:label "Term with two alternatives some extra text to test ";
     skos:altLabel "First Alternative", "second Alternative";
     rdfs:description "description";
     rdfs:seeAlso "N/A";
