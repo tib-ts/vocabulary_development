@@ -330,3 +330,9 @@
     rdfs:description "Exponential smoothing methods provide forecasts using weighted averages of past values of the data and forecast errors. They are commonly used in inventory control systems where many items are to be forecast and low cost is a primary concern. The simplest exponential smoothing method is single exponential smoothing (SES), suitable for data with no trend or seasonal patterns. For trended data, Holt’s method is suitable and for seasonal data, Holt-Winters’ method may be used. Pegels’ classification provides a convenient structure in which to study and apply exponential smoothing methods";
     rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
     rdfs:status "draft".
+<https://example.com#f452a6e2-b533-4a5a-8b36-60d2115d63e3> rdf:type rdfs:Resource;
+    rdfs:label "Aggregated Capacity";
+    rdfs:id "f452a6e2-b533-4a5a-8b36-60d2115d63e3";
+    rdfs:description "(restricted) The Aggregated Capacity Group combines products that are interchangeable in production resources (e.g. can be produced on the same equipment) and having the same capacity consumption. Using an ACG provides flexibility in a way of switching demands of this products within this ACG.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Aggregated_Capacity";
+    rdfs:status "draft".
