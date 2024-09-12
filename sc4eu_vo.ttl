@@ -480,3 +480,9 @@
     rdfs:description "In an ANTAGO¬NISTIC SETTING, the different DECISION-MAKING UNITS try to meet their own objectives which are in conflict. In a non-antagonistic setting, the DECISION-MAKING UNITS do not exploit their private knowledge in an opportunistic way.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decison_Making_Unit_Character";
     rdfs:status "draft".
+<https://example.com#9d5f5d9f-e68b-4a72-92c9-2bcc092995d3> rdf:type rdfs:Resource;
+    rdfs:label "Decision Making Unit";
+    rdfs:id "9d5f5d9f-e68b-4a72-92c9-2bcc092995d3";
+    rdfs:description "The DECISION-MAKING UNIT specifies an instance that makes decisions.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Making_Unit";
+    rdfs:status "draft".
