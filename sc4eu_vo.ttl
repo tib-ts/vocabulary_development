@@ -360,3 +360,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Edge";
     rdfs:status "draft".
+<https://example.com#74bdfced-5c3d-4263-8f34-5984a527affb> rdf:type rdfs:Resource;
+    rdfs:label "General Customers";
+    rdfs:id "74bdfced-5c3d-4263-8f34-5984a527affb";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23General_Customer";
+    rdfs:status "draft".
