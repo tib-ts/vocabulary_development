@@ -396,3 +396,27 @@
     rdfs:description "Schedule lines contain all the delivery related information";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Schedule_Line";
     rdfs:status "draft".
+<https://example.com#4d99b9e6-b577-4cbc-bbfc-e900ae27979a> rdf:type rdfs:Resource;
+    rdfs:label "Plan Execution";
+    rdfs:id "4d99b9e6-b577-4cbc-bbfc-e900ae27979a";
+    rdfs:description "A PLAN EXECUTION is related to performing the activities according to a PLAN either directly in the base system, for instance, releasing lots into a wafer fab, or as instructions for another DECISION-MAKING UNIT.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Plan_Execution";
+    rdfs:status "draft".
+<https://example.com#2e6e96cf-2766-4e03-aac9-6c72f9c80b85> rdf:type rdfs:Resource;
+    rdfs:label "Planing Purpose";
+    rdfs:id "2e6e96cf-2766-4e03-aac9-6c72f9c80b85";
+    rdfs:description "The PLANNING PURPOSE specifies the objectives of a certain planning activity. It is given by a set of performance measures that are related to a set of PLANNING OBJECTS.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planing_Purpose";
+    rdfs:status "draft".
+<https://example.com#059720b0-2438-47d0-a07d-14350ba1580c> rdf:type rdfs:Resource;
+    rdfs:label "Planning";
+    rdfs:id "059720b0-2438-47d0-a07d-14350ba1580c";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Planning";
+    rdfs:status "draft".
+<https://example.com#890da0b3-74ae-451c-9de6-59557917c973> rdf:type rdfs:Resource;
+    rdfs:label "Planning Approach";
+    rdfs:id "890da0b3-74ae-451c-9de6-59557917c973";
+    rdfs:description "Specific planning algorithm which is used in a deticated planning process";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Approach";
+    rdfs:status "draft".
