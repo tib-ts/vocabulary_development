@@ -486,3 +486,15 @@
     rdfs:description "The DECISION-MAKING UNIT specifies an instance that makes decisions.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Making_Unit";
     rdfs:status "draft".
+<https://example.com#f66d0722-82ba-4d95-9c0e-b41f201e1a9c> rdf:type rdfs:Resource;
+    rdfs:label "Decision Making Initiative";
+    rdfs:id "f66d0722-82ba-4d95-9c0e-b41f201e1a9c";
+    rdfs:description "We distinguish fully autonomous DECISION-MAKING UNITS from DECISION-MAKING UNITS where the decision-making activities are triggered by other DECISION-MAKING UNITS. Note that the decision-making initiative can change over time in a situation-dependent manner.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Making_Initiative";
+    rdfs:status "draft".
+<https://example.com#8abf76e2-86fd-4d23-93a7-261722b03967> rdf:type rdfs:Resource;
+    rdfs:label "Decision Maker Type";
+    rdfs:id "8abf76e2-86fd-4d23-93a7-261722b03967";
+    rdfs:description "We distinguish human decision-makers (human DECISION-MAKING UNITS) from fully automated DECISION-MAKING UNITS where computers make fully automated decisions. Between these two extremes there are semi-automated decisions, where a computer provides several decision alternatives and a human decision-maker chooses among them. Note that the decision-maker type can change over time.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Maker_Type";
+    rdfs:status "draft".
