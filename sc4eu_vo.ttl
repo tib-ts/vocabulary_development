@@ -342,3 +342,9 @@
     rdfs:description "Order acknowledgement";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Confirmation";
     rdfs:status "draft".
+<https://example.com#3be8feac-f780-4f0b-80a3-dc4198d48884> rdf:type rdfs:Resource;
+    rdfs:label "Criteria";
+    rdfs:id "3be8feac-f780-4f0b-80a3-dc4198d48884";
+    rdfs:description "Typical criteria are maximization, minimization, i.e. if an optimization problem is considered, or larger or smaller than a prescribed value of the certain performance measure, a so-called target, i.e. if a satisfaction problem is solved. In a multi-criteria setting, the dominance concept for plans is of interest.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Criteria";
+    rdfs:status "draft".
