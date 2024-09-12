@@ -348,3 +348,9 @@
     rdfs:description "Typical criteria are maximization, minimization, i.e. if an optimization problem is considered, or larger or smaller than a prescribed value of the certain performance measure, a so-called target, i.e. if a satisfaction problem is solved. In a multi-criteria setting, the dominance concept for plans is of interest.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Criteria";
     rdfs:status "draft".
+<https://example.com#73d4e9a6-26b1-46be-ba9d-76886361c851> rdf:type rdfs:Resource;
+    rdfs:label "Customer Logistics Management Representative";
+    rdfs:id "73d4e9a6-26b1-46be-ba9d-76886361c851";
+    rdfs:description "Being the main interface between Customer, Sales and the Supply Chain Planner he is responsible for the demand fulfilment process. It is his task to ensure in-time delivery to customers based on orders and forecasts and to achieve high customer satisfaction.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer_Logistics_Management_Representative";
+    rdfs:status "draft".
