@@ -378,3 +378,21 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23NEWs";
     rdfs:status "draft".
+<https://example.com#9990fa2f-c4c8-45e4-9201-26ee4ccc90e6> rdf:type rdfs:Resource;
+    rdfs:label "Operational Demand";
+    rdfs:id "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Operational_Demand";
+    rdfs:status "draft".
+<https://example.com#273e9482-c646-4a28-a0a0-8bbdffb94951> rdf:type rdfs:Resource;
+    rdfs:label "Order Reschedule";
+    rdfs:id "273e9482-c646-4a28-a0a0-8bbdffb94951";
+    rdfs:description "Any change in the requested order delivery date in an order line is referred to as an order rescheduling.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Reschedule";
+    rdfs:status "draft".
+<https://example.com#f1595613-c2b3-47b6-b0e8-9c4ecdf222eb> rdf:type rdfs:Resource;
+    rdfs:label "Order Schedule Line";
+    rdfs:id "f1595613-c2b3-47b6-b0e8-9c4ecdf222eb";
+    rdfs:description "Schedule lines contain all the delivery related information";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Schedule_Line";
+    rdfs:status "draft".
