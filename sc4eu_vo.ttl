@@ -438,3 +438,9 @@
     rdfs:description "Describes the different functions and its properies follwing the supply chain planning matrix.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Function";
     rdfs:status "draft".
+<https://example.com#abbe6e87-adf3-4d13-8760-df24199be1d1> rdf:type rdfs:Resource;
+    rdfs:label "Planning Instance";
+    rdfs:id "abbe6e87-adf3-4d13-8760-df24199be1d1";
+    rdfs:description "A PLANNING INSTANCE specifies the PLANNING OBJECTS and the values of related PLANNING CONSTRAINTS that form the basis for a planning decision.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Instance";
+    rdfs:status "draft".
