@@ -372,3 +372,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Marketing_Demand";
     rdfs:status "draft".
+<https://example.com#c44016c0-d377-4a93-9f22-57bbda510700> rdf:type rdfs:Resource;
+    rdfs:label "nEWs";
+    rdfs:id "c44016c0-d377-4a93-9f22-57bbda510700";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23NEWs";
+    rdfs:status "draft".
