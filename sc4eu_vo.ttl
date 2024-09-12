@@ -444,3 +444,15 @@
     rdfs:description "A PLANNING INSTANCE specifies the PLANNING OBJECTS and the values of related PLANNING CONSTRAINTS that form the basis for a planning decision.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Instance";
     rdfs:status "draft".
+<https://example.com#46f11fca-a0a9-4581-9f7a-b03a576c422e> rdf:type rdfs:Resource;
+    rdfs:label "Planning Object";
+    rdfs:id "46f11fca-a0a9-4581-9f7a-b03a576c422e";
+    rdfs:description "A PLANNING OBJECT specifies what has to be planned as an atomic unit. A single PLANNING OBJECT typically represents a quantity of a certain product or product aggregate to be released or completed within a certain period in a certain node of the semiconductor supply chain. Other PLANNING OBJECTS can be orders or lots. Values are assigned to the attributes of a PLANNING OBJECT as a result of a planning decision.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Object";
+    rdfs:status "draft".
+<https://example.com#ecb78b67-66ae-4cca-b67b-d59df3e1dd85> rdf:type rdfs:Resource;
+    rdfs:label "Planning Process";
+    rdfs:id "ecb78b67-66ae-4cca-b67b-d59df3e1dd85";
+    rdfs:description "The PLANNING PROCESS specifies under which circumstances which (re)planning activities are performed by a DECISION-MAKING UNIT.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Process";
+    rdfs:status "draft".
