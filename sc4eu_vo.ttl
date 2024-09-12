@@ -366,3 +366,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23General_Customer";
     rdfs:status "draft".
+<https://example.com#517f5c4a-195e-4d71-9748-b81848e9a445> rdf:type rdfs:Resource;
+    rdfs:label "Marketing Demand";
+    rdfs:id "517f5c4a-195e-4d71-9748-b81848e9a445";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Marketing_Demand";
+    rdfs:status "draft".
