@@ -432,3 +432,9 @@
     rdfs:description "Decisions determined by a Decision Making Unit";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Decision";
     rdfs:status "draft".
+<https://example.com#48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd> rdf:type rdfs:Resource;
+    rdfs:label "Planning Function";
+    rdfs:id "48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd";
+    rdfs:description "Describes the different functions and its properies follwing the supply chain planning matrix.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Function";
+    rdfs:status "draft".
