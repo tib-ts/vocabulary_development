@@ -456,3 +456,27 @@
     rdfs:description "The PLANNING PROCESS specifies under which circumstances which (re)planning activities are performed by a DECISION-MAKING UNIT.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Process";
     rdfs:status "draft".
+<https://example.com#befe64f1-f538-4092-929f-a26e1ad221f2> rdf:type rdfs:Resource;
+    rdfs:label "Planning Situation";
+    rdfs:id "befe64f1-f538-4092-929f-a26e1ad221f2";
+    rdfs:description "The PLANNING SITUATION describes the organization of several DECISION-MAKING UNITS and also its environment.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Situation";
+    rdfs:status "draft".
+<https://example.com#e5affe98-acd0-4072-b8ca-6585615fa17e> rdf:type rdfs:Resource;
+    rdfs:label "Hierarchical Situation";
+    rdfs:id "e5affe98-acd0-4072-b8ca-6585615fa17e";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Hierarchical_Situation";
+    rdfs:status "draft".
+<https://example.com#982a684c-ce5d-428a-ac96-abc0cbdacabf> rdf:type rdfs:Resource;
+    rdfs:label "Frozen Fence";
+    rdfs:id "982a684c-ce5d-428a-ac96-abc0cbdacabf";
+    rdfs:description "FROZEN FENCE is used to set a frozen interval  in which decision making is not allowed to change the previously determined values.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Frozen_Fence";
+    rdfs:status "draft".
+<https://example.com#3ac22854-9d82-4a5d-a593-a6042a3c35e9> rdf:type rdfs:Resource;
+    rdfs:label "Decison Making Unit Character";
+    rdfs:id "3ac22854-9d82-4a5d-a593-a6042a3c35e9";
+    rdfs:description "In an ANTAGO¬NISTIC SETTING, the different DECISION-MAKING UNITS try to meet their own objectives which are in conflict. In a non-antagonistic setting, the DECISION-MAKING UNITS do not exploit their private knowledge in an opportunistic way.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decison_Making_Unit_Character";
+    rdfs:status "draft".
