@@ -354,3 +354,9 @@
     rdfs:description "Being the main interface between Customer, Sales and the Supply Chain Planner he is responsible for the demand fulfilment process. It is his task to ensure in-time delivery to customers based on orders and forecasts and to achieve high customer satisfaction.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer_Logistics_Management_Representative";
     rdfs:status "draft".
+<https://example.com#71fabe0a-bb3f-4e93-83df-daa77c1eb6be> rdf:type rdfs:Resource;
+    rdfs:label "Edge";
+    rdfs:id "71fabe0a-bb3f-4e93-83df-daa77c1eb6be";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Edge";
+    rdfs:status "draft".
