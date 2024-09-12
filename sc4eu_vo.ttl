@@ -426,3 +426,9 @@
     rdfs:description "A PLANNING CONSTRAINT restricts the action space. This space is formed by alternative actions that are a result of the planning decisions (Schneeweis 2003). In the planning domain, PLANNING CONSTRAINTS, often the capacity offered by resources, limit the quantities that are assigned to the PLANNING OBJECTS or impact the temporal properties of PLANNING OBJECTS.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Constraint";
     rdfs:status "draft".
+<https://example.com#33a63ab3-941d-4406-ae50-61b19ed8d6c5> rdf:type rdfs:Resource;
+    rdfs:label "Planning Decision";
+    rdfs:id "33a63ab3-941d-4406-ae50-61b19ed8d6c5";
+    rdfs:description "Decisions determined by a Decision Making Unit";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Decision";
+    rdfs:status "draft".
