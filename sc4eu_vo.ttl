@@ -522,3 +522,9 @@
     rdfs:description "Is the uncommitted portion of supply by the master production schedule and material plan";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Promise";
     rdfs:status "draft".
+<https://example.com#1ccbb124-456d-4c64-9d8e-748d7f2ee139> rdf:type rdfs:Resource;
+    rdfs:label "Replanning Degree";
+    rdfs:id "1ccbb124-456d-4c64-9d8e-748d7f2ee139";
+    rdfs:description "The degree distinguishes replanning from scratch and repair of existing plans (Vieria et al. 2003).";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Replanning_Degree";
+    rdfs:status "draft".
