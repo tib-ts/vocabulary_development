@@ -510,3 +510,9 @@
     rdfs:description "Orders that should be completed first.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Prioritized_Orders";
     rdfs:status "draft".
+<https://example.com#b833fb54-a3dd-4843-8deb-541138ef5eec> rdf:type rdfs:Resource;
+    rdfs:label "Process";
+    rdfs:id "b833fb54-a3dd-4843-8deb-541138ef5eec";
+    rdfs:description "A collection of subprocesses that meet a specific business objective. E.g. Perform Sourcing or Purchase Materials and Services";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-PMV%23Process";
+    rdfs:status "draft".
