@@ -558,3 +558,9 @@
     rdfs:description "The target allocation is the level of allocation planned by the company.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Target_Allocation";
     rdfs:status "draft".
+<https://example.com#214144da-cbaa-4950-ac65-70c46ded293f> rdf:type rdfs:Resource;
+    rdfs:label "Vertex";
+    rdfs:id "214144da-cbaa-4950-ac65-70c46ded293f";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Vertex";
+    rdfs:status "draft".
