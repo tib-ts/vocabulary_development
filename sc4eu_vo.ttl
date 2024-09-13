@@ -564,3 +564,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Vertex";
     rdfs:status "draft".
+<https://example.com#15d7b9f4-3174-4a11-887b-4ae5fe6917b4> rdf:type rdfs:Resource;
+    rdfs:label "Power Lobe";
+    rdfs:id "15d7b9f4-3174-4a11-887b-4ae5fe6917b4";
+    rdfs:description "Power refers to the electrical energy consumed or dissipated by electronic devices or components during their operation, and is a crucial consideration for efficiency and performance optimization.\n\nThe Power lobe models the Amplication Switching Device, Control Method, Device Configuration and Element, Document, Entity, and Gate Driver.\nIt also represents the notions of Industrial Sector, Information Object, Operation Mode, Process, Process Input and Output.\nIt maps the topics of Product, Resistance, SiC MOSFET, switcher, and Voltage.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr%23Power_Lobe";
+    rdfs:status "draft".
