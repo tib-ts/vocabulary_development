@@ -516,3 +516,9 @@
     rdfs:description "A collection of subprocesses that meet a specific business objective. E.g. Perform Sourcing or Purchase Materials and Services";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-PMV%23Process";
     rdfs:status "draft".
+<https://example.com#8445acc4-4300-4c9b-a9af-20994259b18f> rdf:type rdfs:Resource;
+    rdfs:label "Promise";
+    rdfs:id "8445acc4-4300-4c9b-a9af-20994259b18f";
+    rdfs:description "Is the uncommitted portion of supply by the master production schedule and material plan";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Promise";
+    rdfs:status "draft".
