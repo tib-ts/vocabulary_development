@@ -546,3 +546,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Supply_Picture";
     rdfs:status "draft".
+<https://example.com#aa266f71-b4da-4673-8fa6-117fb0aa52f7> rdf:type rdfs:Resource;
+    rdfs:label "Target";
+    rdfs:id "aa266f71-b4da-4673-8fa6-117fb0aa52f7";
+    rdfs:description "Targets are prescribed values for the different performance measures.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Target";
+    rdfs:status "draft".
