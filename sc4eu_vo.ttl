@@ -528,3 +528,9 @@
     rdfs:description "The degree distinguishes replanning from scratch and repair of existing plans (Vieria et al. 2003).";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Replanning_Degree";
     rdfs:status "draft".
+<https://example.com#5e8e7a2c-5de6-4a74-a250-cc7195bbbe50> rdf:type rdfs:Resource;
+    rdfs:label "Sales Demand";
+    rdfs:id "5e8e7a2c-5de6-4a74-a250-cc7195bbbe50";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Sales_Demand";
+    rdfs:status "draft".
