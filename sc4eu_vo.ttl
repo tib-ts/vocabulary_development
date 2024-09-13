@@ -540,3 +540,9 @@
     rdfs:description "Supply and demand match when sufficient materials exist to cover material demand while taking available capacity into account.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Supply_Demand_Match";
     rdfs:status "draft".
+<https://example.com#20aa6325-719a-4666-81f6-6d055ee97527> rdf:type rdfs:Resource;
+    rdfs:label "Supply Picture";
+    rdfs:id "20aa6325-719a-4666-81f6-6d055ee97527";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Supply_Picture";
+    rdfs:status "draft".
