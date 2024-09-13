@@ -504,3 +504,9 @@
     rdfs:description "The demand that should be covered first.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Prioritized_Demand";
     rdfs:status "draft".
+<https://example.com#93b67611-5243-4e71-a561-d68ee396d859> rdf:type rdfs:Resource;
+    rdfs:label "Prioritized Orders";
+    rdfs:id "93b67611-5243-4e71-a561-d68ee396d859";
+    rdfs:description "Orders that should be completed first.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Prioritized_Orders";
+    rdfs:status "draft".
