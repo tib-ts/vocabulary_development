@@ -132,6 +132,19 @@
   },
   {
     "resourceId": "dcda1bea-70db-40c3-94a6-aa2f988773b0",
-    "comments": []
+    "comments": [
+      {
+        "id": "psltn4iw8",
+        "author": "System ADMIN",
+        "content": "First comment",
+        "timestamp": "2024-09-17T20:21:10.473Z"
+      },
+      {
+        "id": "feey4im90",
+        "author": "System ADMIN",
+        "content": "Second commasdfnkdfads;",
+        "timestamp": "2024-09-17T20:21:17.394Z"
+      }
+    ]
   }
 ]
