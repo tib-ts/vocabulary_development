@@ -17,47 +17,9 @@
     rdfs:description "description";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#7fa4d549-29b9-4ae9-9882-65e6d3ffa885> rdf:type rdfs:Resource;
-    rdfs:id "7fa4d549-29b9-4ae9-9882-65e6d3ffa885";
-    rdfs:label "test";
-    rdfs:description "tset";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft";
-    skos:altLabel "test 1", "test 2", "test 3", "test 4", "test 5".
-<https://example.com#830c7d72-b2d4-48dc-b462-df32ba690189> rdf:type rdfs:Resource;
-    rdfs:id "830c7d72-b2d4-48dc-b462-df32ba690189";
-    rdfs:label "dasfadsf";
-    rdfs:description "sdafdas";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#85ba9dc0-8563-46ac-967d-698f9805df24> rdf:type rdfs:Resource;
-    rdfs:id "85ba9dc0-8563-46ac-967d-698f9805df24";
-    rdfs:label "sdfdsf";
-    rdfs:description "dfdsaftest";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
 <https://example.com#91f71fd5-005b-4b52-8940-6dce61d82f23> rdf:type rdfs:Resource;
     rdfs:id "91f71fd5-005b-4b52-8940-6dce61d82f23";
     rdfs:label "aaa";
     rdfs:description "aaa";
     rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#5201fad8-1292-468d-8751-93009e1333d6> rdf:type rdfs:Resource;
-    rdfs:id "5201fad8-1292-468d-8751-93009e1333d6";
-    rdfs:label "bbb";
-    rdfs:description "bbb";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#f06d7293-1f07-46ec-b32e-8ac813bf4504> rdf:type rdfs:Resource;
-    rdfs:id "f06d7293-1f07-46ec-b32e-8ac813bf4504";
-    rdfs:label "fawad khan";
-    skos:altLabel "khan khan", "Swabi Khan", "Pakistan Khan", "Delft Khan", "Netherlands Khan";
-    rdfs:description "Great Khan";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#98c01835-3108-4433-8baa-f77fd303854f> rdf:type rdfs:Resource;
-    rdfs:label "test";
-    rdfs:id "98c01835-3108-4433-8baa-f77fd303854f";
-    rdfs:description "A test can be considered a technical operation or procedure that consists of determination of one or more characteristics of a given product, process or service according to a specified procedure. Often a test is part of an experiment. The test result can be qualitative (yes/no), categorical, or quantitative (a measured value). It can be a personal observation or the output of a precision measuring instrument. [Wikipedia]";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.allotrope.org%2Fontologies%2Fprocess%23AFP_0002834";
     rdfs:status "draft".
