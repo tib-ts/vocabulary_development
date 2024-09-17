@@ -44,3 +44,10 @@
     rdfs:description "fdsfdasfasd";
     rdfs:seeAlso "https://github.com/tib-ts/vocabulary_development/blob/main/example.ttl";
     rdfs:status "draft".
+<https://example.com#dcda1bea-70db-40c3-94a6-aa2f988773b0> rdf:type rdfs:Resource;
+    rdfs:id "dcda1bea-70db-40c3-94a6-aa2f988773b0";
+    rdfs:label "blablalaa";
+    skos:altLabel "dadafdsfafd";
+    rdfs:description "da da da da ";
+    rdfs:seeAlso "bfdkfasdfjksfjdskf";
+    rdfs:status "draft".
