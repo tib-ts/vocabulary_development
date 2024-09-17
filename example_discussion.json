@@ -132,6 +132,19 @@
   },
   {
     "resourceId": "1b48b355-1f33-49b2-b956-b957f2b149c5",
-    "comments": []
+    "comments": [
+      {
+        "id": "byhkr7q7j",
+        "author": "System ADMIN",
+        "content": "natalia",
+        "timestamp": "2024-09-17T20:17:23.610Z"
+      },
+      {
+        "id": "k1e283c9n",
+        "author": "System ADMIN",
+        "content": "bla bla",
+        "timestamp": "2024-09-17T20:17:28.436Z"
+      }
+    ]
   }
 ]
