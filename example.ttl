@@ -30,3 +30,10 @@
     rdfs:description "fawad khan";
     rdfs:seeAlso "https://gitlab.com/TIBHannover/sc3-project/frontend/-/issues/372";
     rdfs:status "draft".
+<https://example.com#3437ce2d-2aa5-4b1d-8121-75675b54840e> rdf:type rdfs:Resource;
+    rdfs:id "3437ce2d-2aa5-4b1d-8121-75675b54840e";
+    rdfs:label "hellllo";
+    skos:altLabel "fadfa", "fasdf", "fdasfasdf", "dfasdf", "dfasdf";
+    rdfs:description "fasdfsdafsda";
+    rdfs:seeAlso "fasdfadsfasd";
+    rdfs:status "draft".
