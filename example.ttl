@@ -23,3 +23,10 @@
     rdfs:description "aaa";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#578fa518-d7eb-428a-9378-0dfd319efe5c> rdf:type rdfs:Resource;
+    rdfs:id "578fa518-d7eb-428a-9378-0dfd319efe5c";
+    rdfs:label "fawad";
+    skos:altLabel "fawad 1", "fawad 2", "fawad 3", "fawad 4", "fawad 5";
+    rdfs:description "fawad khan";
+    rdfs:seeAlso "https://gitlab.com/TIBHannover/sc3-project/frontend/-/issues/372";
+    rdfs:status "draft".
