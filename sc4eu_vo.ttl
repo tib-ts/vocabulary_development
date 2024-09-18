@@ -848,3 +848,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Change_Request";
     rdfs:status "draft".
+<https://example.com#1d13d30c-a345-4155-a7a6-277b9d369bb0> rdf:type rdfs:Resource;
+    rdfs:label "Order Confirmation";
+    rdfs:id "1d13d30c-a345-4155-a7a6-277b9d369bb0";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Confirmation";
+    rdfs:status "draft".
