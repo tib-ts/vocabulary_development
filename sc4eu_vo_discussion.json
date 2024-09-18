@@ -116,7 +116,14 @@
   },
   {
     "resourceId": "1c0748ba-38cb-4c7b-9909-e6452ff342ea",
-    "comments": []
+    "comments": [
+      {
+        "id": "q498imclj",
+        "author": "Robert",
+        "content": "I think Demand is not a production request. Demand is a wish of a customer to buy a product or service. Demand in general exists in the form of customer orders. When we talk about 'expected customer need' we refer to that as 'forecast'. ",
+        "timestamp": "2024-09-18T13:45:36.837Z"
+      }
+    ]
   },
   {
     "resourceId": "3e1f4cb6-9629-4c6a-a220-e327f118a714",
@@ -221,7 +228,14 @@
   },
   {
     "resourceId": "c7f3da60-5199-4465-8e31-277b45784236",
-    "comments": []
+    "comments": [
+      {
+        "id": "8mf7alv4k",
+        "author": "Robert",
+        "content": "The description still does not say what a Semantic Web is. It is helping and it has a goal. It refers to a vision of linked data. But what is said vision? What are rules for handling data? \n\nAnd who is W3C? ",
+        "timestamp": "2024-09-18T13:57:02.558Z"
+      }
+    ]
   },
   {
     "resourceId": "29a4abf9-d093-4598-af4e-93e26d364af5",
@@ -263,7 +277,14 @@
   },
   {
     "resourceId": "e718d17a-4f24-4a9c-acb4-7e144ec14fe4",
-    "comments": []
+    "comments": [
+      {
+        "id": "ybg1ayjsb",
+        "author": "Robert",
+        "content": "Replace 'wafer production and processing plant', 'facility' and 'wafer fab capability' by 'fab'. ",
+        "timestamp": "2024-09-18T14:01:23.862Z"
+      }
+    ]
   },
   {
     "resourceId": "b6f6559b-9d69-4128-8d20-2528a986d7cb",
@@ -553,7 +574,14 @@
   },
   {
     "resourceId": "8445acc4-4300-4c9b-a9af-20994259b18f",
-    "comments": []
+    "comments": [
+      {
+        "id": "n017r96s8",
+        "author": "Robert",
+        "content": "really? ",
+        "timestamp": "2024-09-18T14:16:45.304Z"
+      }
+    ]
   },
   {
     "resourceId": "1ccbb124-456d-4c64-9d8e-748d7f2ee139",
@@ -585,7 +613,14 @@
   },
   {
     "resourceId": "15d7b9f4-3174-4a11-887b-4ae5fe6917b4",
-    "comments": []
+    "comments": [
+      {
+        "id": "toc71agkl",
+        "author": "Robert",
+        "content": "So 'Power' is short for 'Power Devices'? ",
+        "timestamp": "2024-09-18T14:15:57.521Z"
+      }
+    ]
   },
   {
     "resourceId": "f7637daf-b71b-4ced-8b54-888c21a4ed22",
@@ -593,7 +628,14 @@
   },
   {
     "resourceId": "c05c6abf-204f-4722-af8c-f9cc49f2c6c3",
-    "comments": []
+    "comments": [
+      {
+        "id": "73tsjyxbm",
+        "author": "Robert",
+        "content": "Tib has no description",
+        "timestamp": "2024-09-18T14:07:20.944Z"
+      }
+    ]
   },
   {
     "resourceId": "5ec8e410-2180-4a1a-87c2-30e68a684555",
@@ -673,7 +715,14 @@
   },
   {
     "resourceId": "a3a6033c-6eb2-459d-b60d-7898b1fde5d6",
-    "comments": []
+    "comments": [
+      {
+        "id": "90gmg6vey",
+        "author": "Robert",
+        "content": "Granularity refers to the level of detail of a subject. High granularity means there are a lot of details. Low granularity means less details. Details can refer to a split in subsegments.",
+        "timestamp": "2024-09-18T14:05:58.638Z"
+      }
+    ]
   },
   {
     "resourceId": "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab",
@@ -709,7 +758,14 @@
   },
   {
     "resourceId": "7f3329e8-301e-43f1-b5ba-43c4aee22ddd",
-    "comments": []
+    "comments": [
+      {
+        "id": "slseqej0d",
+        "author": "Robert",
+        "content": "sure. But what is the process?",
+        "timestamp": "2024-09-18T13:35:02.284Z"
+      }
+    ]
   },
   {
     "resourceId": "169f110a-5452-4540-a221-aa31ac5c4f93",
@@ -749,7 +805,14 @@
   },
   {
     "resourceId": "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb",
-    "comments": []
+    "comments": [
+      {
+        "id": "x4i9v9ioc",
+        "author": "Robert",
+        "content": "of currency?",
+        "timestamp": "2024-09-18T13:58:08.393Z"
+      }
+    ]
   },
   {
     "resourceId": "0529e47e-32db-4ad0-ab2a-28a7ca04140c",
