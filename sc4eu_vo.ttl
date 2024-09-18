@@ -752,3 +752,9 @@
     rdfs:description "The process of doing something";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
     rdfs:status "draft".
+<https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
+    rdfs:label "Allocation";
+    rdfs:id "7f3329e8-301e-43f1-b5ba-43c4aee22ddd";
+    rdfs:description "Allocation is a process used in order management in times when demand exceeds available supply.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Allocation";
+    rdfs:status "draft".
