@@ -854,3 +854,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Confirmation";
     rdfs:status "draft".
+<https://example.com#97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1> rdf:type rdfs:Resource;
+    rdfs:label "Order Position";
+    rdfs:id "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1";
+    rdfs:description "An order position refers to a product specification, a product quantity, and a desired delivery date. Each order position has a status and belongs to an order.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
+    rdfs:status "draft".
