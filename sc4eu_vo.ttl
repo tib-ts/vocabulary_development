@@ -770,3 +770,9 @@
     rdfs:description "The set of all customers is divided into different priority classes or segments based on certain criteria like profitability or importance of customer.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Customer_Class";
     rdfs:status "draft".
+<https://example.com#b06c0614-d923-44c2-8130-fbafe16e6871> rdf:type rdfs:Resource;
+    rdfs:label "Customer Data";
+    rdfs:id "b06c0614-d923-44c2-8130-fbafe16e6871";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Data";
+    rdfs:status "draft".
