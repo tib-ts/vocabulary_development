@@ -800,3 +800,9 @@
     rdfs:description "The deliver concept defines the terms and conditions for delivering an order to the customer. Especially partial and split delivery has to be taken into account.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Delivery_Concept";
     rdfs:status "draft".
+<https://example.com#e859d3ed-7a10-4cad-9568-09cce2f66156> rdf:type rdfs:Resource;
+    rdfs:label "Demand Fulfillement";
+    rdfs:id "e859d3ed-7a10-4cad-9568-09cce2f66156";
+    rdfs:description "The process of meeting a customer’s demand for product or services by fulfilling their request.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Demand_Fulfillement";
+    rdfs:status "draft".
