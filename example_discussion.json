@@ -104,7 +104,20 @@
   },
   {
     "resourceId": "91f71fd5-005b-4b52-8940-6dce61d82f23",
-    "comments": []
+    "comments": [
+      {
+        "id": "evbj8lrkn",
+        "author": "System ADMIN",
+        "content": "tests",
+        "timestamp": "2024-09-18T12:10:13.638Z"
+      },
+      {
+        "id": "a6onmgp6r",
+        "author": "System ADMIN",
+        "content": "tedfdsafa",
+        "timestamp": "2024-09-18T12:10:16.639Z"
+      }
+    ]
   },
   {
     "resourceId": "5201fad8-1292-468d-8751-93009e1333d6",
