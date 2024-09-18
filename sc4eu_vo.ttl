@@ -39,7 +39,7 @@
     rdfs:id "a601e751-d6a2-472b-92d6-c33d16b4aa8e";
     rdfs:label "Stock Depth";
     skos:altLabel "SD";
-    rdfs:description "The sum of Desired Inventory Coverage of all the tiers between a company and its End Market";
+    rdfs:description "The sum of Desired Inventory Coverage of all the tiers between a company and its End Market. It is measured in time units.";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
@@ -101,7 +101,7 @@
 <https://example.com#5b890e93-bfaf-480f-89bd-c9a11b1db3de> rdf:type rdfs:Resource;
     rdfs:id "5b890e93-bfaf-480f-89bd-c9a11b1db3de";
     rdfs:label "Demand Upstream";
-    rdfs:description "@ not fixed yet. Needs discussion";
+    rdfs:description "Upstream refers to companies that are located closer to the beginning of the supply chain. So Tier1 is located upstream from the OEM. For Demand see Demand.";
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#96e3059c-540c-4b03-b13c-71573c598596> rdf:type rdfs:Resource;
@@ -204,14 +204,14 @@
     rdfs:status "draft".
 <https://example.com#0c8d7d97-2f0c-489e-9820-ee8647850254> rdf:type rdfs:Resource;
     rdfs:id "0c8d7d97-2f0c-489e-9820-ee8647850254";
-    rdfs:label "Front Ende";
+    rdfs:label "Front End";
     rdfs:description "In semiconductor manufacturing, the fabrication process in which the integrated circuit is formed in and on the wafer. Compare back end.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
 <https://example.com#86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82> rdf:type rdfs:Resource;
     rdfs:id "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82";
     rdfs:label "Back End";
-    rdfs:description "In semiconductor manufacturing, the package assembly and test stages of production. Includes burn-in and environmental test functions. Compare front end.";
+    rdfs:description "In semiconductor manufacturing, the package, assembly and test stages of production. Includes burn-in and environmental test functions. Compare front end.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     rdfs:status "draft".
 <https://example.com#e718d17a-4f24-4a9c-acb4-7e144ec14fe4> rdf:type rdfs:Resource;
@@ -277,7 +277,7 @@
 <https://example.com#6adb2b83-e698-405f-9eb0-38dde30d7922> rdf:type rdfs:Resource;
     rdfs:id "6adb2b83-e698-405f-9eb0-38dde30d7922";
     rdfs:label "MAPE";
-    rdfs:description "@Not defined yet";
+    rdfs:description "Mean Absolute Percentage Error";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#010831c3-ef72-4194-98cf-950e039f178e> rdf:type rdfs:Resource;
