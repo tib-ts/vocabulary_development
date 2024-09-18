@@ -830,3 +830,9 @@
     rdfs:description "Additional lobe: Planning";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
     rdfs:status "draft".
+<https://example.com#b5e044b9-4532-4302-84a8-bac8324be02d> rdf:type rdfs:Resource;
+    rdfs:label "Offer";
+    rdfs:id "b5e044b9-4532-4302-84a8-bac8324be02d";
+    rdfs:description "An offer is to transfer some rights to an item or to provide a service.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Offer";
+    rdfs:status "draft".
