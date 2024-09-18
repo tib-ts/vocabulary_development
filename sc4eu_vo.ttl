@@ -782,3 +782,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant";
     rdfs:status "draft".
+<https://example.com#17aee842-7e96-456e-912e-8488117dc755> rdf:type rdfs:Resource;
+    rdfs:label "Customer Plant Data";
+    rdfs:id "17aee842-7e96-456e-912e-8488117dc755";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant_Data";
+    rdfs:status "draft".
