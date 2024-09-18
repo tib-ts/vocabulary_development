@@ -812,3 +812,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Demand_Trace";
     rdfs:status "draft".
+<https://example.com#5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb> rdf:type rdfs:Resource;
+    rdfs:label "Exchange Rate Specification";
+    rdfs:id "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb";
+    rdfs:description "Exchange_Rate_Specification is structured value representing exchange rate.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Exchange_Rate_Specification";
+    rdfs:status "draft".
