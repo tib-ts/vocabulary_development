@@ -746,3 +746,9 @@
     rdfs:description "is a semiconductor device that performs logical operations on digital signals";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#e41e8cf4-eb87-4509-9014-42da7a5e7d07> rdf:type rdfs:Resource;
+    rdfs:label "Action";
+    rdfs:id "e41e8cf4-eb87-4509-9014-42da7a5e7d07";
+    rdfs:description "The process of doing something";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
+    rdfs:status "draft".
