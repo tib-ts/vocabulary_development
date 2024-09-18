@@ -860,3 +860,80 @@
     rdfs:description "specialized semiconductor device designed to manage the distribution, regulation, and control of electrical power in electronic systems";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#98d3d40c-1a69-41b3-a20a-4392d8874fc2> rdf:type rdfs:Resource;
+    rdfs:id "98d3d40c-1a69-41b3-a20a-4392d8874fc2";
+    rdfs:label "Interface IC";
+    rdfs:description "semiconductor device that facilitates communication between different parts of an electronic system or between different electronic systems";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#6b740f5d-106b-4e2d-8d59-a78d83c2062a> rdf:type rdfs:Resource;
+    rdfs:id "6b740f5d-106b-4e2d-8d59-a78d83c2062a";
+    rdfs:label "RF IC";
+    rdfs:description "specialized semiconductor device designed to operate at radio frequencies, typically ranging from a few megahertz (MHz) to several gigahertz (GHz)";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#f5282f65-6b83-499d-9972-88a84d9967d6> rdf:type rdfs:Resource;
+    rdfs:id "f5282f65-6b83-499d-9972-88a84d9967d6";
+    rdfs:label "Wireless IC";
+    rdfs:description "semiconductor device designed to enable wireless communication by processing and transmitting radio frequency (RF) signals";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#6238104f-b69f-4a74-a4f7-f89f04751a14> rdf:type rdfs:Resource;
+    rdfs:id "6238104f-b69f-4a74-a4f7-f89f04751a14";
+    rdfs:label "Raw Material Supplier";
+    skos:altLabel "Material Supplier";
+    rdfs:description "company or entity that provides the basic materials required for manufacturing and production processes";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#7a455721-36e3-485d-8daa-8bd8f1a76868> rdf:type rdfs:Resource;
+    rdfs:id "7a455721-36e3-485d-8daa-8bd8f1a76868";
+    rdfs:label "Equipment Manufacturer ";
+    rdfs:description "company or entity that designs, produces, and supplies machinery, tools, and devices used in various industries for manufacturing, production, and operational processes";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#b4b31edd-e289-4bc0-9b36-ec84edee37dd> rdf:type rdfs:Resource;
+    rdfs:id "b4b31edd-e289-4bc0-9b36-ec84edee37dd";
+    rdfs:label "Semiconductor Device Manufacturer";
+    skos:altLabel "Integrated Device Manufacturer";
+    rdfs:description "company or entity that designs, fabricates, and supplies semiconductor components, such as integrated circuits (ICs), microchips, and transistors";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#aab01dd6-7fef-42ec-8e0d-920e0bd812cb> rdf:type rdfs:Resource;
+    rdfs:id "aab01dd6-7fef-42ec-8e0d-920e0bd812cb";
+    rdfs:label "Silicon Foundry (SiFo)";
+    skos:altLabel "Semiconductor Contract Manufacturer";
+    rdfs:description "a specialized manufacturing facility that produces silicon wafers and fabricates semiconductor devices, such as integrated circuits (ICs), for other companies";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#8a0d6e70-1699-40af-967b-8cb3eedc2b24> rdf:type rdfs:Resource;
+    rdfs:id "8a0d6e70-1699-40af-967b-8cb3eedc2b24";
+    rdfs:label "Outsourced Semiconductor Test and Assembly (OSAT)";
+    skos:altLabel "Semiconductor Subcontractor";
+    rdfs:description "companies that provide outsourced services for the assembly, packaging, and testing of semiconductor devices";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#4aa74106-eaf1-4139-b2ab-9daf1adec15b> rdf:type rdfs:Resource;
+    rdfs:id "4aa74106-eaf1-4139-b2ab-9daf1adec15b";
+    rdfs:label "Electronic Manufacturing Service (EMS)";
+    rdfs:description "company that offer a range of services for the design, manufacturing, testing, distribution, and repair of electronic components and assemblies";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#4a69e23b-1154-4b75-b723-8997c931ec84> rdf:type rdfs:Resource;
+    rdfs:id "4a69e23b-1154-4b75-b723-8997c931ec84";
+    rdfs:label "Distributor";
+    rdfs:description "intermediary entity that purchases products from manufacturers and resells them to retailers, resellers, or directly to end-users";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#a9ebf56c-05d5-473d-b62d-9c851e5c364d> rdf:type rdfs:Resource;
+    rdfs:id "a9ebf56c-05d5-473d-b62d-9c851e5c364d";
+    rdfs:label "System Manufacturer";
+    skos:altLabel "Module Manufacturer";
+    rdfs:description "company that designs, produces, and assembles complete systems or modules that integrate multiple components and functionalities into a single unit";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#e1a9f039-6e5a-4935-8ab1-e9d8ea72f74e> rdf:type rdfs:Resource;
+    rdfs:label "Original Equipment Manufacturer";
+    rdfs:id "e1a9f039-6e5a-4935-8ab1-e9d8ea72f74e";
+    rdfs:description "company that produces parts, components, or complete products that are then marketed and sold by another company under its own brand name";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C53618";
+    rdfs:status "draft".
