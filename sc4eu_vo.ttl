@@ -577,14 +577,14 @@
     rdfs:seeAlso "";
     rdfs:status "draft".
 <https://example.com#c05c6abf-204f-4722-af8c-f9cc49f2c6c3> rdf:type rdfs:Resource;
-    rdfs:label "Inventory";
     rdfs:id "c05c6abf-204f-4722-af8c-f9cc49f2c6c3";
+    rdfs:label "Inventory";
     rdfs:description "Additional lobe: Planning";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
     rdfs:status "draft".
 <https://example.com#5ec8e410-2180-4a1a-87c2-30e68a684555> rdf:type rdfs:Resource;
-    rdfs:label "Capacity Utilization";
     rdfs:id "5ec8e410-2180-4a1a-87c2-30e68a684555";
+    rdfs:label "Capacity Utilization";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/scor/terms?iri=http%3A%2F%2Fpurl.org%2Feis%2Fvocab%2Fscor%23hasMetricAM_9";
     rdfs:status "draft".
@@ -613,8 +613,8 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#b5a1f564-89dd-4896-b162-1a859d4aadf1> rdf:type rdfs:Resource;
-    rdfs:label "forecast";
     rdfs:id "b5a1f564-89dd-4896-b162-1a859d4aadf1";
+    rdfs:label "forecast";
     rdfs:description "A forecast is an information content entity that contains statements about the most probable future development predicted with the help of past and present data.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/oeo/terms?iri=http%3A%2F%2Fopenenergy-platform.org%2Fontology%2Foeo%2FOEO_00010411";
     rdfs:status "draft".
@@ -632,8 +632,8 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#c6cf15d6-4aaf-4b90-9dd1-4f13472e1e5b> rdf:type rdfs:Resource;
-    rdfs:label "Order";
     rdfs:id "c6cf15d6-4aaf-4b90-9dd1-4f13472e1e5b";
+    rdfs:label "Order";
     rdfs:description "An order contains at least one order position. An order has an order type and is associated to demand";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order";
     rdfs:status "draft".
@@ -650,14 +650,14 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#4f889db8-3815-4672-8d55-f44cb7e45dc1> rdf:type rdfs:Resource;
-    rdfs:label "Baseline";
     rdfs:id "4f889db8-3815-4672-8d55-f44cb7e45dc1";
+    rdfs:label "Baseline";
     rdfs:description "A starting point to which things may be compared.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25213";
     rdfs:status "draft".
 <https://example.com#8a73b95b-2800-45b6-a7df-94d888fa3e02> rdf:type rdfs:Resource;
-    rdfs:label "Billing";
     rdfs:id "8a73b95b-2800-45b6-a7df-94d888fa3e02";
+    rdfs:label "Billing";
     rdfs:description "The process of requesting payment of a debt for goods or services.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C88189";
     rdfs:status "draft".
@@ -687,20 +687,20 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#5c26698d-2566-411c-8e03-6fd1bc37350d> rdf:type rdfs:Resource;
-    rdfs:label "lead time";
     rdfs:id "5c26698d-2566-411c-8e03-6fd1bc37350d";
+    rdfs:label "lead time";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23lead_time";
     rdfs:status "draft".
 <https://example.com#52362a0d-517b-4d41-969c-dd4c47a657e4> rdf:type rdfs:Resource;
-    rdfs:label "time";
     rdfs:id "52362a0d-517b-4d41-969c-dd4c47a657e4";
+    rdfs:label "time";
     rdfs:description "This property is required to manage timing aspects of a PLANNING OBJECT. It can be a release time, a finishing time, a single start time, or a set of start time for certain ACTIVITIES to be fulfilled.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23time";
     rdfs:status "draft".
 <https://example.com#a3a6033c-6eb2-459d-b60d-7898b1fde5d6> rdf:type rdfs:Resource;
-    rdfs:label "Granularity";
     rdfs:id "a3a6033c-6eb2-459d-b60d-7898b1fde5d6";
+    rdfs:label "Granularity";
     rdfs:description "A data unit, as part of the whole collection of data, that has a high level of detail in distinct parts.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C142567";
     rdfs:status "draft".
@@ -708,5 +708,41 @@
     rdfs:id "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab";
     rdfs:label "Transparency Graph";
     rdfs:description "graph that can translate market segment information to technology nodes";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#0bcc10a1-cf8b-471d-829c-ad6c2c9e9953> rdf:type rdfs:Resource;
+    rdfs:id "0bcc10a1-cf8b-471d-829c-ad6c2c9e9953";
+    rdfs:label "Substrate";
+    rdfs:description "a substrate is the foundational material upon which semiconductor devices are built";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#e7e18bb5-a4f8-4c58-b82a-e376518cf1e9> rdf:type rdfs:Resource;
+    rdfs:id "e7e18bb5-a4f8-4c58-b82a-e376518cf1e9";
+    rdfs:label "Semiconductor Product Category";
+    rdfs:description "Classification of semiconductor products based on their functionality, application and technical characteristics";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#d72bc058-65ba-4312-a78e-ca69a3dce947> rdf:type rdfs:Resource;
+    rdfs:id "d72bc058-65ba-4312-a78e-ca69a3dce947";
+    rdfs:label "Analog Integrated Circuit";
+    rdfs:description " type of semiconductor device that processes continuous signals to perform functions such as amplification, filtering, and modulation";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#a000906b-76cd-4062-a61d-37a701dd1e99> rdf:type rdfs:Resource;
+    rdfs:id "a000906b-76cd-4062-a61d-37a701dd1e99";
+    rdfs:label "Microcontroller";
+    rdfs:description "is a compact integrated circuit designed to perform specific control functions within embedded systems";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#bbc74c26-805f-4f43-b0db-c2d26d00feca> rdf:type rdfs:Resource;
+    rdfs:id "bbc74c26-805f-4f43-b0db-c2d26d00feca";
+    rdfs:label "Microprocessor";
+    rdfs:description "is a central processing unit (CPU) on a single integrated circuit that executes instructions to perform general-purpose computing tasks.";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#63ba7ec6-b318-4745-8285-b48d7e23bdca> rdf:type rdfs:Resource;
+    rdfs:id "63ba7ec6-b318-4745-8285-b48d7e23bdca";
+    rdfs:label "Logic Integrated Circuits";
+    rdfs:description "is a semiconductor device that performs logical operations on digital signals";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
