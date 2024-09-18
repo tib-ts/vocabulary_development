@@ -19,10 +19,11 @@
     rdfs:status "draft".
 <https://example.com#91f71fd5-005b-4b52-8940-6dce61d82f23> rdf:type rdfs:Resource;
     rdfs:id "91f71fd5-005b-4b52-8940-6dce61d82f23";
-    rdfs:label "aaa";
-    rdfs:description "aaa";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
+    rdfs:label "aaa is now bbb";
+    rdfs:description "trying trying";
+    rdfs:seeAlso "Not Available";
+    rdfs:status "ready";
+    skos:altLabel "Frist alternative label", "Frist alternative label 222", "Frist alternative label 333", "Frist alternative label 4444", "Frist alternative label 5555".
 <https://example.com#578fa518-d7eb-428a-9378-0dfd319efe5c> rdf:type rdfs:Resource;
     rdfs:id "578fa518-d7eb-428a-9378-0dfd319efe5c";
     rdfs:label "fawad";
@@ -45,62 +46,62 @@
     rdfs:seeAlso "https://github.com/tib-ts/vocabulary_development/blob/main/example.ttl";
     rdfs:status "draft".
 <https://example.com#14492059-9fd0-4d87-81a0-cd5418647e78> rdf:type rdfs:Resource;
-    rdfs:label "Fawcettidine";
     rdfs:id "14492059-9fd0-4d87-81a0-cd5418647e78";
+    rdfs:label "Fawcettidine";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chebi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCHEBI_4988";
     rdfs:status "draft".
 <https://example.com#147cd088-030a-4492-9a76-11761a332256> rdf:type rdfs:Resource;
-    rdfs:label "test";
     rdfs:id "147cd088-030a-4492-9a76-11761a332256";
+    rdfs:label "test";
     rdfs:description "A test can be considered a technical operation or procedure that consists of determination of one or more characteristics of a given product, process or service according to a specified procedure. Often a test is part of an experiment. The test result can be qualitative (yes/no), categorical, or quantitative (a measured value). It can be a personal observation or the output of a precision measuring instrument. [Wikipedia]";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.allotrope.org%2Fontologies%2Fprocess%23AFP_0002834";
     rdfs:status "draft".
 <https://example.com#f9342321-97bf-4d88-8c58-47fd1f8d4515> rdf:type rdfs:Resource;
-    rdfs:label "TTT Hsp90 cochaperone complex";
     rdfs:id "f9342321-97bf-4d88-8c58-47fd1f8d4515";
+    rdfs:label "TTT Hsp90 cochaperone complex";
     rdfs:description "A Hsp90 cochaperone complex acting as an adapter between Hps90 and its substrates, members of the PIKK kinase family.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/go/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FGO_0110078";
     rdfs:status "draft".
 <https://example.com#145e43db-9882-4306-a152-191cb2aa64e4> rdf:type rdfs:Resource;
-    rdfs:label "triple-A syndrome";
     rdfs:id "145e43db-9882-4306-a152-191cb2aa64e4";
+    rdfs:label "triple-A syndrome";
     rdfs:description "Triple A syndrome is a very rare multisystem disease characterized by adrenal insufficiency with isolated glucocorticoid deficiency, achalasia, alacrima, autonomic dysfunction and neurodegeneration.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/efo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0009279";
     rdfs:status "draft".
 <https://example.com#8a8e2d6a-1d83-4b42-a812-22a6abbea133> rdf:type rdfs:Resource;
-    rdfs:label "N-(deoxyguanosin-8-yl)-2-acetylaminofluorene";
     rdfs:id "8a8e2d6a-1d83-4b42-a812-22a6abbea133";
+    rdfs:label "N-(deoxyguanosin-8-yl)-2-acetylaminofluorene";
     rdfs:description "Guanosine substituted at the purine 8-position by an acetyl(9H-fluoren-2-yl)amino group.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chebi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCHEBI_75810";
     rdfs:status "draft".
 <https://example.com#9a8f7dfd-40df-4211-8f70-0738c06edd0e> rdf:type rdfs:Resource;
-    rdfs:label "Podocyte foot process effacement";
     rdfs:id "9a8f7dfd-40df-4211-8f70-0738c06edd0e";
+    rdfs:label "Podocyte foot process effacement";
     rdfs:description "An anomaly of podocyte morphology characterized by the loss of the interdigitating foot process pattern (generally called foot process effacement; FPE). The term FPE designates the loss of the usual interdigitating pattern of foot processes of neighboring podocytes, leading to relatively broad expanses of podocyte processes covering the glomerular basement membrane (GBM). It is widely viewed as a pathological derangement that is associated with leakage of macromolecules such as albumin through the glomerular filtration barrier.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/hp/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0031266";
     rdfs:status "draft".
 <https://example.com#1cbeee9a-e9dd-43a8-8a59-26be921b33b9> rdf:type rdfs:Resource;
-    rdfs:label "TES buffer";
     rdfs:id "1cbeee9a-e9dd-43a8-8a59-26be921b33b9";
+    rdfs:label "TES buffer";
     rdfs:description "A buffer solution where the pH is maintained by a N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid–N-tris(hydroxymethyl)methyl-2-ammonioethanesulfonate equilibrium.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chmo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCHMO_0001763";
     rdfs:status "draft".
 <https://example.com#c03d8db1-75bf-4125-bb4d-f911d4537a23> rdf:type rdfs:Resource;
-    rdfs:label "Test Dosing Unit";
     rdfs:id "c03d8db1-75bf-4125-bb4d-f911d4537a23";
+    rdfs:label "Test Dosing Unit";
     rdfs:description "A dosing unit equal to the amount of active ingredient(s) needed to assess or examine the (potency of the) substance being used.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C48545";
     rdfs:status "draft".
 <https://example.com#a941b373-5084-4892-9d70-244a6cb58a97> rdf:type rdfs:Resource;
-    rdfs:label "Device Test for High Temperature Condition Evaluation Method";
     rdfs:id "a941b373-5084-4892-9d70-244a6cb58a97";
+    rdfs:label "Device Test for High Temperature Condition Evaluation Method";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C92011";
     rdfs:status "draft".
 <https://example.com#15b36de9-e216-4e92-8f1d-5b36b34aebb2> rdf:type rdfs:Resource;
-    rdfs:label "P148 has component";
     rdfs:id "15b36de9-e216-4e92-8f1d-5b36b34aebb2";
+    rdfs:label "P148 has component";
     rdfs:description "Quantification: many to many (0,n:0,n)\n\nScope note:\nThis property associates an instance of E89 Propositional Object with a structural part of it that is by itself an instance of E89 Propositional Object.\nThis property is transitive. This property is asymmetric.\n\nExamples:\n- Dante’s “Divine Comedy” (E89) has component Dante’s “Hell” (E89). (Alighieri, 1956)\n\nIn First Order Logic:\n- P148(x,y) ⇒ E89(x)\n- P148(x,y) ⇒ E89(y)\n- [P148(x,y) ∧ P148(y,z)] ⇒ P148(x,z)\n- P148(x,y) ⇒ ¬P148(y,x)\n";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ecrm/terms?iri=http%3A%2F%2Ferlangen-crm.org%2Fcurrent%2FP148_has_component";
     rdfs:status "draft".
