@@ -794,3 +794,9 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Delivery_Committment";
     rdfs:status "draft".
+<https://example.com#151064fa-aab0-4edf-bee4-eaf4dd832100> rdf:type rdfs:Resource;
+    rdfs:label "Delivery Concept";
+    rdfs:id "151064fa-aab0-4edf-bee4-eaf4dd832100";
+    rdfs:description "The deliver concept defines the terms and conditions for delivering an order to the customer. Especially partial and split delivery has to be taken into account.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Delivery_Concept";
+    rdfs:status "draft".
