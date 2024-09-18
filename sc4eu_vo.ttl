@@ -818,3 +818,9 @@
     rdfs:description "Exchange_Rate_Specification is structured value representing exchange rate.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Exchange_Rate_Specification";
     rdfs:status "draft".
+<https://example.com#0529e47e-32db-4ad0-ab2a-28a7ca04140c> rdf:type rdfs:Resource;
+    rdfs:label "In-Transit Inventory";
+    rdfs:id "0529e47e-32db-4ad0-ab2a-28a7ca04140c";
+    rdfs:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23In_Transit_Inventory";
+    rdfs:status "draft".
