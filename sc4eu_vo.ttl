@@ -747,116 +747,116 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#e41e8cf4-eb87-4509-9014-42da7a5e7d07> rdf:type rdfs:Resource;
-    rdfs:label "Action";
     rdfs:id "e41e8cf4-eb87-4509-9014-42da7a5e7d07";
+    rdfs:label "Action";
     rdfs:description "The process of doing something";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
     rdfs:status "draft".
 <https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
-    rdfs:label "Allocation";
     rdfs:id "7f3329e8-301e-43f1-b5ba-43c4aee22ddd";
+    rdfs:label "Allocation";
     rdfs:description "Allocation is a process used in order management in times when demand exceeds available supply.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Allocation";
     rdfs:status "draft".
 <https://example.com#169f110a-5452-4540-a221-aa31ac5c4f93> rdf:type rdfs:Resource;
-    rdfs:label "Contact Person Data";
     rdfs:id "169f110a-5452-4540-a221-aa31ac5c4f93";
+    rdfs:label "Contact Person Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Contact_Person_Data";
     rdfs:status "draft".
 <https://example.com#9bc8b2c2-0308-4c68-9458-ea2c99869c13> rdf:type rdfs:Resource;
-    rdfs:label "Customer Class";
     rdfs:id "9bc8b2c2-0308-4c68-9458-ea2c99869c13";
+    rdfs:label "Customer Class";
     rdfs:description "The set of all customers is divided into different priority classes or segments based on certain criteria like profitability or importance of customer.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Customer_Class";
     rdfs:status "draft".
 <https://example.com#b06c0614-d923-44c2-8130-fbafe16e6871> rdf:type rdfs:Resource;
-    rdfs:label "Customer Data";
     rdfs:id "b06c0614-d923-44c2-8130-fbafe16e6871";
+    rdfs:label "Customer Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Data";
     rdfs:status "draft".
 <https://example.com#641e8ab9-516d-4a29-b6f5-efd07781d59a> rdf:type rdfs:Resource;
-    rdfs:label "Customer Plant";
     rdfs:id "641e8ab9-516d-4a29-b6f5-efd07781d59a";
+    rdfs:label "Customer Plant";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant";
     rdfs:status "draft".
 <https://example.com#17aee842-7e96-456e-912e-8488117dc755> rdf:type rdfs:Resource;
-    rdfs:label "Customer Plant Data";
     rdfs:id "17aee842-7e96-456e-912e-8488117dc755";
+    rdfs:label "Customer Plant Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant_Data";
     rdfs:status "draft".
 <https://example.com#6ab3f1c8-870d-43a8-89c0-6261465c647d> rdf:type rdfs:Resource;
-    rdfs:label "Delivery Committment";
     rdfs:id "6ab3f1c8-870d-43a8-89c0-6261465c647d";
+    rdfs:label "Delivery Committment";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Delivery_Committment";
     rdfs:status "draft".
 <https://example.com#151064fa-aab0-4edf-bee4-eaf4dd832100> rdf:type rdfs:Resource;
-    rdfs:label "Delivery Concept";
     rdfs:id "151064fa-aab0-4edf-bee4-eaf4dd832100";
+    rdfs:label "Delivery Concept";
     rdfs:description "The deliver concept defines the terms and conditions for delivering an order to the customer. Especially partial and split delivery has to be taken into account.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Delivery_Concept";
     rdfs:status "draft".
 <https://example.com#e859d3ed-7a10-4cad-9568-09cce2f66156> rdf:type rdfs:Resource;
-    rdfs:label "Demand Fulfillement";
     rdfs:id "e859d3ed-7a10-4cad-9568-09cce2f66156";
+    rdfs:label "Demand Fulfillement";
     rdfs:description "The process of meeting a customer’s demand for product or services by fulfilling their request.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Demand_Fulfillement";
     rdfs:status "draft".
 <https://example.com#126cdd01-1c9b-45b1-948b-3536474e2766> rdf:type rdfs:Resource;
-    rdfs:label "Demand Trace";
     rdfs:id "126cdd01-1c9b-45b1-948b-3536474e2766";
+    rdfs:label "Demand Trace";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Demand_Trace";
     rdfs:status "draft".
 <https://example.com#5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb> rdf:type rdfs:Resource;
-    rdfs:label "Exchange Rate Specification";
     rdfs:id "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb";
+    rdfs:label "Exchange Rate Specification";
     rdfs:description "Exchange_Rate_Specification is structured value representing exchange rate.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Exchange_Rate_Specification";
     rdfs:status "draft".
-<https://example.com#0529e47e-32db-4ad0-ab2a-28a7ca04140c> rdf:type rdfs:Resource;
-    rdfs:label "In-Transit Inventory";
-    rdfs:id "0529e47e-32db-4ad0-ab2a-28a7ca04140c";
-    rdfs:description "Additional lobe: Planning";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23In_Transit_Inventory";
+<https://example.com#b9c952fd-ccf7-4df4-bb5b-41978cdbe145> rdf:type rdfs:Resource;
+    rdfs:id "b9c952fd-ccf7-4df4-bb5b-41978cdbe145";
+    rdfs:label "Memory Integrated Circuit";
+    rdfs:description "semiconductor devices that store digital data";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#f29a581e-c896-41e2-a7a5-39b8b69f2a2b> rdf:type rdfs:Resource;
-    rdfs:label "Inventory";
-    rdfs:id "f29a581e-c896-41e2-a7a5-39b8b69f2a2b";
-    rdfs:description "Additional lobe: Planning";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
+<https://example.com#3f3bc4bb-665b-48cd-bd32-096b45072666> rdf:type rdfs:Resource;
+    rdfs:id "3f3bc4bb-665b-48cd-bd32-096b45072666";
+    rdfs:label "Discretes";
+    rdfs:description "Discrete semiconductors are individual electronic components that perform specific basic electronic functions, such as switching, amplification, or rectification, rather than combining multiple functions into a single integrated circuit";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#b5e044b9-4532-4302-84a8-bac8324be02d> rdf:type rdfs:Resource;
-    rdfs:label "Offer";
-    rdfs:id "b5e044b9-4532-4302-84a8-bac8324be02d";
-    rdfs:description "An offer is to transfer some rights to an item or to provide a service.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Offer";
+<https://example.com#35de0045-90df-400d-b97f-2acd3d3839b4> rdf:type rdfs:Resource;
+    rdfs:id "35de0045-90df-400d-b97f-2acd3d3839b4";
+    rdfs:label "Sensor";
+    rdfs:description "devices that detect and measure physical properties from the environment, such as temperature, pressure, light, or motion, and convert these measurements into electrical signals";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#f722c3a8-a764-42f7-bcad-bfb78585cf2b> rdf:type rdfs:Resource;
-    rdfs:label "Open Order";
-    rdfs:id "f722c3a8-a764-42f7-bcad-bfb78585cf2b";
-    rdfs:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
+<https://example.com#958e7da1-8062-4aed-aaf5-38fe06868118> rdf:type rdfs:Resource;
+    rdfs:id "958e7da1-8062-4aed-aaf5-38fe06868118";
+    rdfs:label "Actuator";
+    rdfs:description "devices that convert electrical signals into physical action or mechanical movement";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#5f8d7815-a548-47ad-ad6f-45a82797a8de> rdf:type rdfs:Resource;
-    rdfs:label "Order Change Request";
-    rdfs:id "5f8d7815-a548-47ad-ad6f-45a82797a8de";
-    rdfs:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Change_Request";
+<https://example.com#ffc8c77d-5437-4a33-8556-d279ceb2a87d> rdf:type rdfs:Resource;
+    rdfs:id "ffc8c77d-5437-4a33-8556-d279ceb2a87d";
+    rdfs:label "Optoelectronics";
+    rdfs:description "branch of electronics that involves the study and application of electronic devices that source, detect, and control light";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#1d13d30c-a345-4155-a7a6-277b9d369bb0> rdf:type rdfs:Resource;
-    rdfs:label "Order Confirmation";
-    rdfs:id "1d13d30c-a345-4155-a7a6-277b9d369bb0";
-    rdfs:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Confirmation";
+<https://example.com#75b9c517-60e2-4553-8dfa-dfe2a066e047> rdf:type rdfs:Resource;
+    rdfs:id "75b9c517-60e2-4553-8dfa-dfe2a066e047";
+    rdfs:label "Automotive IC";
+    rdfs:description "semiconductor device designed to meet the stringent requirements of automotive applications";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
-<https://example.com#97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1> rdf:type rdfs:Resource;
-    rdfs:label "Order Position";
-    rdfs:id "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1";
-    rdfs:description "An order position refers to a product specification, a product quantity, and a desired delivery date. Each order position has a status and belongs to an order.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
+<https://example.com#4509c0dc-0376-47ce-abd0-f8cd8651783f> rdf:type rdfs:Resource;
+    rdfs:id "4509c0dc-0376-47ce-abd0-f8cd8651783f";
+    rdfs:label "Power Management IC";
+    rdfs:description "specialized semiconductor device designed to manage the distribution, regulation, and control of electrical power in electronic systems";
+    rdfs:seeAlso "N/A";
     rdfs:status "draft".
