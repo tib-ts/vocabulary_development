@@ -335,7 +335,8 @@
     rdfs:label "Aggregated Capacity";
     rdfs:description "(restricted) The Aggregated Capacity Group combines products that are interchangeable in production resources (e.g. can be produced on the same equipment) and having the same capacity consumption. Using an ACG provides flexibility in a way of switching demands of this products within this ACG.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Aggregated_Capacity";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR".
 <https://example.com#c66b03e7-249c-4bf8-962d-8a37200f2ae3> rdf:type rdfs:Resource;
     rdfs:id "c66b03e7-249c-4bf8-962d-8a37200f2ae3";
     rdfs:label "Confirmation";
@@ -818,122 +819,45 @@
     rdfs:description "Exchange_Rate_Specification is structured value representing exchange rate.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Exchange_Rate_Specification";
     rdfs:status "draft".
-<https://example.com#b9c952fd-ccf7-4df4-bb5b-41978cdbe145> rdf:type rdfs:Resource;
-    rdfs:id "b9c952fd-ccf7-4df4-bb5b-41978cdbe145";
-    rdfs:label "Memory Integrated Circuit";
-    rdfs:description "semiconductor devices that store digital data";
-    rdfs:seeAlso "N/A";
+<https://example.com#0529e47e-32db-4ad0-ab2a-28a7ca04140c> rdf:type rdfs:Resource;
+    rdfs:id "0529e47e-32db-4ad0-ab2a-28a7ca04140c";
+    rdfs:label "In-Transit Inventory";
+    rdfs:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23In_Transit_Inventory";
     rdfs:status "draft".
-<https://example.com#3f3bc4bb-665b-48cd-bd32-096b45072666> rdf:type rdfs:Resource;
-    rdfs:id "3f3bc4bb-665b-48cd-bd32-096b45072666";
-    rdfs:label "Discretes";
-    rdfs:description "Discrete semiconductors are individual electronic components that perform specific basic electronic functions, such as switching, amplification, or rectification, rather than combining multiple functions into a single integrated circuit";
-    rdfs:seeAlso "N/A";
+<https://example.com#f29a581e-c896-41e2-a7a5-39b8b69f2a2b> rdf:type rdfs:Resource;
+    rdfs:id "f29a581e-c896-41e2-a7a5-39b8b69f2a2b";
+    rdfs:label "Inventory";
+    rdfs:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
     rdfs:status "draft".
-<https://example.com#35de0045-90df-400d-b97f-2acd3d3839b4> rdf:type rdfs:Resource;
-    rdfs:id "35de0045-90df-400d-b97f-2acd3d3839b4";
-    rdfs:label "Sensor";
-    rdfs:description "devices that detect and measure physical properties from the environment, such as temperature, pressure, light, or motion, and convert these measurements into electrical signals";
-    rdfs:seeAlso "N/A";
+<https://example.com#b5e044b9-4532-4302-84a8-bac8324be02d> rdf:type rdfs:Resource;
+    rdfs:id "b5e044b9-4532-4302-84a8-bac8324be02d";
+    rdfs:label "Offer";
+    rdfs:description "An offer is to transfer some rights to an item or to provide a service.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Offer";
     rdfs:status "draft".
-<https://example.com#958e7da1-8062-4aed-aaf5-38fe06868118> rdf:type rdfs:Resource;
-    rdfs:id "958e7da1-8062-4aed-aaf5-38fe06868118";
-    rdfs:label "Actuator";
-    rdfs:description "devices that convert electrical signals into physical action or mechanical movement";
-    rdfs:seeAlso "N/A";
+<https://example.com#f722c3a8-a764-42f7-bcad-bfb78585cf2b> rdf:type rdfs:Resource;
+    rdfs:id "f722c3a8-a764-42f7-bcad-bfb78585cf2b";
+    rdfs:label "Open Order";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
     rdfs:status "draft".
-<https://example.com#ffc8c77d-5437-4a33-8556-d279ceb2a87d> rdf:type rdfs:Resource;
-    rdfs:id "ffc8c77d-5437-4a33-8556-d279ceb2a87d";
-    rdfs:label "Optoelectronics";
-    rdfs:description "branch of electronics that involves the study and application of electronic devices that source, detect, and control light";
-    rdfs:seeAlso "N/A";
+<https://example.com#5f8d7815-a548-47ad-ad6f-45a82797a8de> rdf:type rdfs:Resource;
+    rdfs:id "5f8d7815-a548-47ad-ad6f-45a82797a8de";
+    rdfs:label "Order Change Request";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Change_Request";
     rdfs:status "draft".
-<https://example.com#75b9c517-60e2-4553-8dfa-dfe2a066e047> rdf:type rdfs:Resource;
-    rdfs:id "75b9c517-60e2-4553-8dfa-dfe2a066e047";
-    rdfs:label "Automotive IC";
-    rdfs:description "semiconductor device designed to meet the stringent requirements of automotive applications";
-    rdfs:seeAlso "N/A";
+<https://example.com#1d13d30c-a345-4155-a7a6-277b9d369bb0> rdf:type rdfs:Resource;
+    rdfs:id "1d13d30c-a345-4155-a7a6-277b9d369bb0";
+    rdfs:label "Order Confirmation";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Confirmation";
     rdfs:status "draft".
-<https://example.com#4509c0dc-0376-47ce-abd0-f8cd8651783f> rdf:type rdfs:Resource;
-    rdfs:id "4509c0dc-0376-47ce-abd0-f8cd8651783f";
-    rdfs:label "Power Management IC";
-    rdfs:description "specialized semiconductor device designed to manage the distribution, regulation, and control of electrical power in electronic systems";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#98d3d40c-1a69-41b3-a20a-4392d8874fc2> rdf:type rdfs:Resource;
-    rdfs:id "98d3d40c-1a69-41b3-a20a-4392d8874fc2";
-    rdfs:label "Interface IC";
-    rdfs:description "semiconductor device that facilitates communication between different parts of an electronic system or between different electronic systems";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#6b740f5d-106b-4e2d-8d59-a78d83c2062a> rdf:type rdfs:Resource;
-    rdfs:id "6b740f5d-106b-4e2d-8d59-a78d83c2062a";
-    rdfs:label "RF IC";
-    rdfs:description "specialized semiconductor device designed to operate at radio frequencies, typically ranging from a few megahertz (MHz) to several gigahertz (GHz)";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#f5282f65-6b83-499d-9972-88a84d9967d6> rdf:type rdfs:Resource;
-    rdfs:id "f5282f65-6b83-499d-9972-88a84d9967d6";
-    rdfs:label "Wireless IC";
-    rdfs:description "semiconductor device designed to enable wireless communication by processing and transmitting radio frequency (RF) signals";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#6238104f-b69f-4a74-a4f7-f89f04751a14> rdf:type rdfs:Resource;
-    rdfs:id "6238104f-b69f-4a74-a4f7-f89f04751a14";
-    rdfs:label "Raw Material Supplier";
-    skos:altLabel "Material Supplier";
-    rdfs:description "company or entity that provides the basic materials required for manufacturing and production processes";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#7a455721-36e3-485d-8daa-8bd8f1a76868> rdf:type rdfs:Resource;
-    rdfs:id "7a455721-36e3-485d-8daa-8bd8f1a76868";
-    rdfs:label "Equipment Manufacturer ";
-    rdfs:description "company or entity that designs, produces, and supplies machinery, tools, and devices used in various industries for manufacturing, production, and operational processes";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#b4b31edd-e289-4bc0-9b36-ec84edee37dd> rdf:type rdfs:Resource;
-    rdfs:id "b4b31edd-e289-4bc0-9b36-ec84edee37dd";
-    rdfs:label "Semiconductor Device Manufacturer";
-    skos:altLabel "Integrated Device Manufacturer";
-    rdfs:description "company or entity that designs, fabricates, and supplies semiconductor components, such as integrated circuits (ICs), microchips, and transistors";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#aab01dd6-7fef-42ec-8e0d-920e0bd812cb> rdf:type rdfs:Resource;
-    rdfs:id "aab01dd6-7fef-42ec-8e0d-920e0bd812cb";
-    rdfs:label "Silicon Foundry (SiFo)";
-    skos:altLabel "Semiconductor Contract Manufacturer";
-    rdfs:description "a specialized manufacturing facility that produces silicon wafers and fabricates semiconductor devices, such as integrated circuits (ICs), for other companies";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#8a0d6e70-1699-40af-967b-8cb3eedc2b24> rdf:type rdfs:Resource;
-    rdfs:id "8a0d6e70-1699-40af-967b-8cb3eedc2b24";
-    rdfs:label "Outsourced Semiconductor Test and Assembly (OSAT)";
-    skos:altLabel "Semiconductor Subcontractor";
-    rdfs:description "companies that provide outsourced services for the assembly, packaging, and testing of semiconductor devices";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#4aa74106-eaf1-4139-b2ab-9daf1adec15b> rdf:type rdfs:Resource;
-    rdfs:id "4aa74106-eaf1-4139-b2ab-9daf1adec15b";
-    rdfs:label "Electronic Manufacturing Service (EMS)";
-    rdfs:description "company that offer a range of services for the design, manufacturing, testing, distribution, and repair of electronic components and assemblies";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#4a69e23b-1154-4b75-b723-8997c931ec84> rdf:type rdfs:Resource;
-    rdfs:id "4a69e23b-1154-4b75-b723-8997c931ec84";
-    rdfs:label "Distributor";
-    rdfs:description "intermediary entity that purchases products from manufacturers and resells them to retailers, resellers, or directly to end-users";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#a9ebf56c-05d5-473d-b62d-9c851e5c364d> rdf:type rdfs:Resource;
-    rdfs:id "a9ebf56c-05d5-473d-b62d-9c851e5c364d";
-    rdfs:label "System Manufacturer";
-    skos:altLabel "Module Manufacturer";
-    rdfs:description "company that designs, produces, and assembles complete systems or modules that integrate multiple components and functionalities into a single unit";
-    rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#e1a9f039-6e5a-4935-8ab1-e9d8ea72f74e> rdf:type rdfs:Resource;
-    rdfs:label "Original Equipment Manufacturer";
-    rdfs:id "e1a9f039-6e5a-4935-8ab1-e9d8ea72f74e";
-    rdfs:description "company that produces parts, components, or complete products that are then marketed and sold by another company under its own brand name";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C53618";
+<https://example.com#97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1> rdf:type rdfs:Resource;
+    rdfs:id "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1";
+    rdfs:label "Order Position";
+    rdfs:description "An order position refers to a product specification, a product quantity, and a desired delivery date. Each order position has a status and belongs to an order.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
     rdfs:status "draft".
