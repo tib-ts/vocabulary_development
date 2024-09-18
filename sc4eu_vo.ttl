@@ -836,3 +836,9 @@
     rdfs:description "An offer is to transfer some rights to an item or to provide a service.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Offer";
     rdfs:status "draft".
+<https://example.com#f722c3a8-a764-42f7-bcad-bfb78585cf2b> rdf:type rdfs:Resource;
+    rdfs:label "Open Order";
+    rdfs:id "f722c3a8-a764-42f7-bcad-bfb78585cf2b";
+    rdfs:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
+    rdfs:status "draft".
