@@ -72,21 +72,6 @@
     ]
   },
   {
-    "resourceId": "cfedcf05-06f2-40c3-9ab4-cbb3bbc089ca",
-    "comments": [
-      {
-        "id": "xjpcyiipa",
-        "author": "System ADMIN",
-        "content": "Lets add Sky is another label",
-        "timestamp": "2024-08-28T08:38:56.841Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "ac02fdcd-8d13-4e15-b42f-d213a0562a47",
-    "comments": []
-  },
-  {
     "resourceId": "09b54855-9590-4cba-82e0-d03438552341",
     "comments": []
   },
@@ -103,23 +88,6 @@
     "comments": []
   },
   {
-    "resourceId": "91f71fd5-005b-4b52-8940-6dce61d82f23",
-    "comments": [
-      {
-        "id": "evbj8lrkn",
-        "author": "System ADMIN",
-        "content": "tests",
-        "timestamp": "2024-09-18T12:10:13.638Z"
-      },
-      {
-        "id": "a6onmgp6r",
-        "author": "System ADMIN",
-        "content": "tedfdsafa",
-        "timestamp": "2024-09-18T12:10:16.639Z"
-      }
-    ]
-  },
-  {
     "resourceId": "5201fad8-1292-468d-8751-93009e1333d6",
     "comments": []
   },
@@ -129,58 +97,6 @@
   },
   {
     "resourceId": "98c01835-3108-4433-8baa-f77fd303854f",
-    "comments": []
-  },
-  {
-    "resourceId": "578fa518-d7eb-428a-9378-0dfd319efe5c",
-    "comments": []
-  },
-  {
-    "resourceId": "3437ce2d-2aa5-4b1d-8121-75675b54840e",
-    "comments": []
-  },
-  {
-    "resourceId": "2b1faa28-5ad7-4e91-82e1-423625131e9a",
-    "comments": []
-  },
-  {
-    "resourceId": "14492059-9fd0-4d87-81a0-cd5418647e78",
-    "comments": []
-  },
-  {
-    "resourceId": "147cd088-030a-4492-9a76-11761a332256",
-    "comments": []
-  },
-  {
-    "resourceId": "f9342321-97bf-4d88-8c58-47fd1f8d4515",
-    "comments": []
-  },
-  {
-    "resourceId": "145e43db-9882-4306-a152-191cb2aa64e4",
-    "comments": []
-  },
-  {
-    "resourceId": "8a8e2d6a-1d83-4b42-a812-22a6abbea133",
-    "comments": []
-  },
-  {
-    "resourceId": "9a8f7dfd-40df-4211-8f70-0738c06edd0e",
-    "comments": []
-  },
-  {
-    "resourceId": "1cbeee9a-e9dd-43a8-8a59-26be921b33b9",
-    "comments": []
-  },
-  {
-    "resourceId": "c03d8db1-75bf-4125-bb4d-f911d4537a23",
-    "comments": []
-  },
-  {
-    "resourceId": "a941b373-5084-4892-9d70-244a6cb58a97",
-    "comments": []
-  },
-  {
-    "resourceId": "15b36de9-e216-4e92-8f1d-5b36b34aebb2",
     "comments": []
   }
 ]
