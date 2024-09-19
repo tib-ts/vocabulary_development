@@ -3,3 +3,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix dcterms: <http://purl.org/dc/terms/#>.
 @prefix ex: <https://example.com/ns#>.
+
+<https://example.com#ca65b67a-7805-4782-9d71-bf54c43fadf1> rdf:type rdfs:Resource;
+    dcterms:identifier "ca65b67a-7805-4782-9d71-bf54c43fadf1";
+    rdfs:label "adsfasd";
+    skos:altLabel "fasdf", "asdfas", "sdafasf", "sdafads", "asdfdasf";
+    dcterms:description "asdfdasfsadf";
+    rdfs:seeAlso "N/A";
+    ex:status "draft";
+    dcterms:created "2024-09-19".
