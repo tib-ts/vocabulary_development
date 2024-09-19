@@ -9,7 +9,7 @@
     rdfs:label "First Term";
     skos:altLabel "First Term alt label 1";
     dcterms:description "this is just a new term";
-    rdfs:seeAlso <N/A>;
+    rdfs:seeAlso "";
     ex:status "draft";
     dcterms:created "2024-09-18".
 <https://example.com#ac02fdcd-8d13-4e15-b42f-d213a0562a47> rdf:type rdfs:Resource;
@@ -17,7 +17,7 @@
     rdfs:label "Term with two alternatives some extra text to test ";
     skos:altLabel "First Alternative", "second Alternative";
     dcterms:description "description";
-    rdfs:seeAlso <N/A>;
+    rdfs:seeAlso "";
     ex:status "draft";
     dcterms:created "2024-09-18".
 <https://example.com#91f71fd5-005b-4b52-8940-6dce61d82f23> rdf:type rdfs:Resource;
@@ -25,7 +25,7 @@
     rdfs:label "aaa is now bbb";
     skos:altLabel "Frist alternative label", "Frist alternative label 222", "Frist alternative label 333", "Frist alternative label 4444", "Frist alternative label 5555";
     dcterms:description "trying trying";
-    rdfs:seeAlso <Not Available>;
+    rdfs:seeAlso "";
     ex:status "ready";
     dcterms:created "2024-09-18".
 <https://example.com#578fa518-d7eb-428a-9378-0dfd319efe5c> rdf:type rdfs:Resource;
