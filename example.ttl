@@ -12,3 +12,11 @@
     rdfs:seeAlso "N/A";
     ex:status "draft";
     dcterms:created "2024-09-19".
+<https://example.com#058363b3-d7c7-4619-b8e0-ee46cf001d8b> rdf:type rdfs:Resource;
+    dcterms:identifier "058363b3-d7c7-4619-b8e0-ee46cf001d8b";
+    rdfs:label "fawad";
+    skos:altLabel "fawad1", "fawad2", "fawad3", "fawad4", "fawad 5";
+    dcterms:description "khan";
+    rdfs:seeAlso "N/A";
+    ex:status "draft";
+    dcterms:created "2024-09-19".
