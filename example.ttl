@@ -11,4 +11,12 @@
     dcterms:description "khan";
     rdfs:seeAlso "N/A";
     ex:status "draft";
-    dcterms:created "2024-09-18".
+    dcterms:created "2024-09-18";
+    rdf:type rdfs:Resource;
+    dcterms:identifier "undefined";
+    rdfs:label "fdfasdf";
+    skos:altLabel "dsfsaf", "dfasdf", "dfasdf", "dasfasdf", "afdsdaf";
+    dcterms:description "fasdfasdfdsa";
+    rdfs:seeAlso "N/A";
+    ex:status "draft";
+    dcterms:created "2024-09-19".
