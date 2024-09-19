@@ -3,20 +3,3 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix dcterms: <http://purl.org/dc/terms/#>.
 @prefix ex: <https://example.com/ns#>.
-
-<https://example.com#undefined> rdf:type rdfs:Resource;
-    dcterms:identifier "undefined";
-    rdfs:label "fawad";
-    skos:altLabel "fawad 1", "fawad 2", "fawad 3", "fawad 4", "fawadf 5";
-    dcterms:description "khan";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-09-18";
-    rdf:type rdfs:Resource;
-    dcterms:identifier "undefined";
-    rdfs:label "fdfasdf";
-    skos:altLabel "dsfsaf", "dfasdf", "dfasdf", "dasfasdf", "afdsdaf";
-    dcterms:description "fasdfasdfdsa";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-09-19".
