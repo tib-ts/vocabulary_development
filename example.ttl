@@ -11,4 +11,4 @@
     skos:altLabel "Helllo";
     dcterms:description "helllllooooooo";
     ex:status "draft";
-    dcterms:created "undefined"^^xsd:date.
+    dcterms:created "2024-09-20"^^xsd:date.
