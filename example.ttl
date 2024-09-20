@@ -7,8 +7,9 @@
 
 <https://example.com#6739a958-f3ee-4785-abf3-4c632623a95a> rdf:type rdfs:Resource;
     dcterms:identifier "6739a958-f3ee-4785-abf3-4c632623a95a";
-    rdfs:label "hello";
-    skos:altLabel "Helllo";
+    rdfs:label "hello hellllloooooooooooo";
+    skos:altLabel "Helllo fawad dddddddddd";
     dcterms:description "helllllooooooo";
+    rdfs:seeAlso "Nothing to see here";
     ex:status "draft";
     dcterms:created "2024-09-20"^^xsd:date.
