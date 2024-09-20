@@ -20,3 +20,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_36c79456_e29c_400d_8bd3_0eedddb82652";
     ex:status "draft";
     dcterms:created "undefined"^^xsd:date.
+<https://example.com#0064002c-c750-4b09-afe2-520a032db3d9> rdf:type rdfs:Resource;
+    dcterms:identifier "0064002c-c750-4b09-afe2-520a032db3d9";
+    rdfs:label "Term";
+    dcterms:description "A word or expression used for some particular thing.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C45559";
+    ex:status "draft";
+    dcterms:created "2024-09-20"^^xsd:date.
