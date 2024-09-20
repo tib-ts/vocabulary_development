@@ -11,7 +11,7 @@
     dcterms:description "asdfdasfsadf";
     rdfs:seeAlso "N/A";
     ex:status "draft";
-    dcterms:created "2024-09-19".
+    dcterms:created "2024-09-19"^^<http://www.w3.org/2001/XMLSchema#date>.
 <https://example.com#058363b3-d7c7-4619-b8e0-ee46cf001d8b> rdf:type rdfs:Resource;
     dcterms:identifier "058363b3-d7c7-4619-b8e0-ee46cf001d8b";
     rdfs:label "fawad";
@@ -19,4 +19,12 @@
     dcterms:description "khan";
     rdfs:seeAlso "N/A";
     ex:status "draft";
-    dcterms:created "2024-09-19".
+    dcterms:created "2024-09-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://example.com#a51c758c-0e00-43b8-b596-816a69e455c5> rdf:type rdfs:Resource;
+    dcterms:identifier "a51c758c-0e00-43b8-b596-816a69e455c5";
+    rdfs:label "test";
+    skos:altLabel "test 1", "test 2", "test 3", "test 4", "test 5";
+    dcterms:description "testsst";
+    rdfs:seeAlso "N/A";
+    ex:status "draft";
+    dcterms:created "2024-09-20"^^<http://www.w3.org/2001/XMLSchema#date>.
