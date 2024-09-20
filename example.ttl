@@ -13,3 +13,10 @@
     rdfs:seeAlso "Nothing to see here";
     ex:status "draft";
     dcterms:created "2024-09-20"^^xsd:date.
+<https://example.com#de8e9ada-3801-4ecd-af99-9b41145e3a6b> rdf:type rdfs:Resource;
+    dcterms:identifier "de8e9ada-3801-4ecd-af99-9b41145e3a6b";
+    rdfs:label "Arrangement";
+    dcterms:description "A causal object which is tessellated with only spatial direct parts.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/emmo/terms?iri=http%3A%2F%2Femmo.info%2Femmo%23EMMO_36c79456_e29c_400d_8bd3_0eedddb82652";
+    ex:status "draft";
+    dcterms:created "undefined"^^xsd:date.
