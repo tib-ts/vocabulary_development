@@ -986,3 +986,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
     ex:status "draft";
     dcterms:created "2024-07-20"^^xsd:date.
+<https://example.com#003e7e6d-5c3b-4a28-8570-11aaca040bd4> rdf:type rdfs:Resource;
+    dcterms:identifier "003e7e6d-5c3b-4a28-8570-11aaca040bd4";
+    rdfs:label "aasani";
+    skos:altLabel "aaaaaaaaaaasssssssaniiiiii";
+    dcterms:description "aaaa";
+    rdfs:seeAlso "aaaa";
+    ex:status "draft";
+    dcterms:created "2024-09-20"^^xsd:date.
