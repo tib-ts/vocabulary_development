@@ -1,6 +1,13 @@
 [
   {
     "resourceId": "6739a958-f3ee-4785-abf3-4c632623a95a",
-    "comments": []
+    "comments": [
+      {
+        "id": "ca962pkuz",
+        "author": "System ADMIN",
+        "content": "some comments",
+        "timestamp": "2024-09-20T12:45:07.404Z"
+      }
+    ]
   }
 ]
