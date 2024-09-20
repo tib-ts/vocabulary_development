@@ -5,42 +5,10 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#ca65b67a-7805-4782-9d71-bf54c43fadf1> rdf:type rdfs:Resource;
-    dcterms:identifier "ca65b67a-7805-4782-9d71-bf54c43fadf1";
-    rdfs:label "adsfasd";
-    skos:altLabel "fasdf", "asdfas", "sdafasf", "sdafads", "asdfdasf";
-    dcterms:description "asdfdasfsadf";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "undefined"^^xsd:date.
-<https://example.com#058363b3-d7c7-4619-b8e0-ee46cf001d8b> rdf:type rdfs:Resource;
-    dcterms:identifier "058363b3-d7c7-4619-b8e0-ee46cf001d8b";
-    rdfs:label "fawad";
-    skos:altLabel "fawad1", "fawad2", "fawad3", "fawad4", "fawad 5";
-    dcterms:description "khan";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "undefined"^^xsd:date.
-<https://example.com#a51c758c-0e00-43b8-b596-816a69e455c5> rdf:type rdfs:Resource;
-    dcterms:identifier "a51c758c-0e00-43b8-b596-816a69e455c5";
-    rdfs:label "test";
-    skos:altLabel "test 1", "test 2", "test 3", "test 4", "test 5";
-    dcterms:description "testsst";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "undefined"^^xsd:date.
-<https://example.com#9a51bf9e-ef4d-45e1-be6f-b9568605b373> rdf:type rdfs:Resource;
-    dcterms:identifier "9a51bf9e-ef4d-45e1-be6f-b9568605b373";
-    rdfs:label "one more";
-    skos:altLabel "two";
-    dcterms:description "dsfadasf";
-    rdfs:seeAlso "sdafsdaf";
-    ex:status "draft";
-    dcterms:created "undefined"^^xsd:date.
 <https://example.com#6739a958-f3ee-4785-abf3-4c632623a95a> rdf:type rdfs:Resource;
     dcterms:identifier "6739a958-f3ee-4785-abf3-4c632623a95a";
     rdfs:label "hello";
     skos:altLabel "Helllo";
     dcterms:description "helllllooooooo";
     ex:status "draft";
-    dcterms:created "2024-09-20"^^xsd:date.
+    dcterms:created "undefined"^^xsd:date.
