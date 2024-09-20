@@ -1,21 +1,852 @@
 [
   {
-    "resourceId": "6739a958-f3ee-4785-abf3-4c632623a95a",
+    "resourceId": "8a7a7b78-52e4-4bc6-8252-ca0269b6c51c",
     "comments": [
       {
-        "id": "ca962pkuz",
+        "id": "x833682ma",
         "author": "System ADMIN",
-        "content": "some comments",
-        "timestamp": "2024-09-20T12:45:07.404Z"
+        "content": "First comment",
+        "timestamp": "2024-08-26T08:29:19.079Z"
       }
     ]
   },
   {
-    "resourceId": "de8e9ada-3801-4ecd-af99-9b41145e3a6b",
+    "resourceId": "122e37cb-774e-42de-b3c3-08e0cbd628a9",
+    "comments": [
+      {
+        "id": "v7r4n6sbd",
+        "author": "System ADMIN",
+        "content": "This term is taken from the Terminology Service",
+        "timestamp": "2024-08-26T08:53:05.308Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "6c1d132f-2a5c-4232-a6bf-18ba831aef67",
+    "comments": [
+      {
+        "id": "pp01ffznw",
+        "author": "felix engel",
+        "content": "Several other description (A), B), and C)) have been discussed during some of our meeting. Which description of \"Demand\" fits best in SC4EU? A) - Outgoing/ incoming Shipments (bound by capacity, mostly not directly forecasted, mostly historic values) B -  Outgoing (downstream)/ Incoming (upstream) Orders (already inflated and don’t reflect actual sales because of order cancellations) or C) - Confirmed orders.",
+        "timestamp": "2024-08-26T13:48:03.013Z"
+      },
+      {
+        "id": "bvwjaydnc",
+        "author": "felix engel",
+        "content": ".. the recent definition originates from the Digital Reference Ontology",
+        "timestamp": "2024-08-26T13:48:57.426Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "e3247433-b0b9-48e5-9f10-0003c8ef1cc7",
+    "comments": [
+      {
+        "id": "eeejo3gi7",
+        "author": "felix engel",
+        "content": "the description is taken from WP5 sildes. Please propose other descriptions",
+        "timestamp": "2024-08-26T13:51:27.062Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "74eaf886-7525-490e-a9a2-cb3bc28c6b54",
+    "comments": [
+      {
+        "id": "rtbig82gf",
+        "author": "felix engel",
+        "content": "Descritption is taken from WP5 meeting slides",
+        "timestamp": "2024-08-26T13:53:21.238Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "8abc6005-c0c0-4c35-869a-77b75750aa48",
     "comments": []
   },
   {
-    "resourceId": "0064002c-c750-4b09-afe2-520a032db3d9",
+    "resourceId": "07ecb673-52a9-4415-8b08-9c59690c29d0",
+    "comments": [
+      {
+        "id": "ami53jabl",
+        "author": "felix engel",
+        "content": "Alternative descriptions are: A) - Can be calculated by dividing the current inventory by the average orders a day for the next months B) - Result is the reach in days (Reach, Inventory Coverage, Days of Inventory)",
+        "timestamp": "2024-08-26T14:01:20.858Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "ac8ec0bb-4558-4b19-81b0-c848f4a048fb",
+    "comments": []
+  },
+  {
+    "resourceId": "a601e751-d6a2-472b-92d6-c33d16b4aa8e",
+    "comments": []
+  },
+  {
+    "resourceId": "f47de173-cd8e-48c7-8d39-906648d3aef2",
+    "comments": []
+  },
+  {
+    "resourceId": "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a",
+    "comments": []
+  },
+  {
+    "resourceId": "c557f155-90db-4dc2-9ba1-f5020625cbba",
+    "comments": [
+      {
+        "id": "4di5wbh7b",
+        "author": "felix engel",
+        "content": "I guess that \"Desired Utilization Rate (DUR)\" is rather a alternative label and \"See Also\". I have revised accordingly",
+        "timestamp": "2024-09-06T05:27:36.181Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "6a7749d4-03cc-4946-9756-5c6ab4159f57",
+    "comments": []
+  },
+  {
+    "resourceId": "0ba579de-85d8-45f5-b749-95c2a6c54d4c",
+    "comments": []
+  },
+  {
+    "resourceId": "2d93a0a3-cb4f-4682-bb11-e405538e1bfe",
+    "comments": []
+  },
+  {
+    "resourceId": "1c0748ba-38cb-4c7b-9909-e6452ff342ea",
+    "comments": [
+      {
+        "id": "q498imclj",
+        "author": "Robert",
+        "content": "I think Demand is not a production request. Demand is a wish of a customer to buy a product or service. Demand in general exists in the form of customer orders. When we talk about 'expected customer need' we refer to that as 'forecast'. ",
+        "timestamp": "2024-09-18T13:45:36.837Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "3e1f4cb6-9629-4c6a-a220-e327f118a714",
+    "comments": [
+      {
+        "id": "ij9dgbvxh",
+        "author": "Robert",
+        "content": "In SC4EU SD models the term Supply Chain refers to the delivery chain of companies from Frontend - Backend - (Tier2) - Tier1 - OEM - Retail to Consumers.",
+        "timestamp": "2024-09-18T14:22:16.897Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "a68d9413-ec72-4741-b6c8-6b8c0aa5335f",
+    "comments": []
+  },
+  {
+    "resourceId": "c99448c6-751a-43f6-bdb0-d1c75c325790",
+    "comments": []
+  },
+  {
+    "resourceId": "5b890e93-bfaf-480f-89bd-c9a11b1db3de",
+    "comments": []
+  },
+  {
+    "resourceId": "96e3059c-540c-4b03-b13c-71573c598596",
+    "comments": []
+  },
+  {
+    "resourceId": "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0",
+    "comments": []
+  },
+  {
+    "resourceId": "9b6019d9-a165-4233-8da0-0eeb80a23fe5",
+    "comments": []
+  },
+  {
+    "resourceId": "d8c79103-75d0-45f9-a26c-cc2edb6bceb6",
+    "comments": []
+  },
+  {
+    "resourceId": "fb798594-491b-4f4c-b49b-f1bef968daf5",
+    "comments": []
+  },
+  {
+    "resourceId": "448e29e2-f1f8-4cf6-b31a-201efd63d055",
+    "comments": []
+  },
+  {
+    "resourceId": "81394888-e7ef-4da4-8d26-a742cc008b08",
+    "comments": []
+  },
+  {
+    "resourceId": "2af7f230-5f50-4c49-810c-b3f99d447455",
+    "comments": [
+      {
+        "id": "h3mncerq5",
+        "author": "felix engel",
+        "content": "NXP sees demand as incoming requested orders (inflated and biased by “panic buying”)\nExpressed in absolute quantities (what we expect to ship). Slideset: WP5_26_06_2024\n",
+        "timestamp": "2024-08-29T09:09:25.996Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad",
+    "comments": []
+  },
+  {
+    "resourceId": "45614f02-6c70-4fcf-811d-1fee1713658b",
+    "comments": [
+      {
+        "id": "vkvz7yt0c",
+        "author": "felix engel",
+        "content": "I have added a definition that describes how I would define the term. Any feedback on it?",
+        "timestamp": "2024-09-03T06:16:46.108Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba",
+    "comments": []
+  },
+  {
+    "resourceId": "11ed8074-8172-4007-aaee-73cee59dc5c8",
+    "comments": []
+  },
+  {
+    "resourceId": "5a73f8fe-df81-4525-8c74-301635a49938",
+    "comments": []
+  },
+  {
+    "resourceId": "e0c134b6-11fd-4677-8272-c415aca06953",
+    "comments": []
+  },
+  {
+    "resourceId": "45bc671c-15a1-4ee0-931e-af2f6dd3f08f",
+    "comments": [
+      {
+        "id": "s7hbcwat4",
+        "author": "felix engel",
+        "content": "It is somewhat lengthy, but as such hopefully explanatory ",
+        "timestamp": "2024-09-05T07:25:28.708Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "5bc9a44a-91c8-448e-813c-61b012d27ff3",
+    "comments": []
+  },
+  {
+    "resourceId": "c7f3da60-5199-4465-8e31-277b45784236",
+    "comments": [
+      {
+        "id": "8mf7alv4k",
+        "author": "Robert",
+        "content": "The description still does not say what a Semantic Web is. It is helping and it has a goal. It refers to a vision of linked data. But what is said vision? What are rules for handling data? \n\nAnd who is W3C? ",
+        "timestamp": "2024-09-18T13:57:02.558Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "29a4abf9-d093-4598-af4e-93e26d364af5",
+    "comments": [
+      {
+        "id": "kqaasijhr",
+        "author": "felix engel",
+        "content": "I have put \"Inventory Reach\" and \"Days of Inventory\" as alternative labels (See Also it was previously)",
+        "timestamp": "2024-09-06T05:29:21.158Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "0812332a-b27d-4ae4-94b6-71076d4e76c7",
+    "comments": []
+  },
+  {
+    "resourceId": "e73367f5-3971-4e94-8f95-6ce4aff94578",
+    "comments": [
+      {
+        "id": "0wa1qjspr",
+        "author": "felix engel",
+        "content": "I have added the DR definition. However, Robert has proposed a more detailed description. PLease let me know which suits better: \"Fabrication. In semiconductor manufacturing, fabrication usually refers to the front-end process of making devices and integrated circuits in semiconductor wafers, but does not include the package assembly (back-end) stages.\"",
+        "timestamp": "2024-09-06T07:27:55.583Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "527c5858-7259-4ede-804a-5c89fc8c6467",
+    "comments": []
+  },
+  {
+    "resourceId": "0c8d7d97-2f0c-489e-9820-ee8647850254",
+    "comments": []
+  },
+  {
+    "resourceId": "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82",
+    "comments": []
+  },
+  {
+    "resourceId": "e718d17a-4f24-4a9c-acb4-7e144ec14fe4",
+    "comments": [
+      {
+        "id": "ybg1ayjsb",
+        "author": "Robert",
+        "content": "Replace 'wafer production and processing plant', 'facility' and 'wafer fab capability' by 'fab'. ",
+        "timestamp": "2024-09-18T14:01:23.862Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "b6f6559b-9d69-4128-8d20-2528a986d7cb",
+    "comments": []
+  },
+  {
+    "resourceId": "378edb24-3b87-4f54-b8e2-dcc748f1a7cd",
+    "comments": []
+  },
+  {
+    "resourceId": "b5b602fb-b521-4771-b69a-55b6184d5ac9",
+    "comments": [
+      {
+        "id": "sj4gdahja",
+        "author": "felix engel",
+        "content": "@Robert or Maxi. can you provide a description?",
+        "timestamp": "2024-09-06T08:00:54.635Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "fe66ac5e-fd80-4a2a-b209-5c7698a31f85",
+    "comments": [
+      {
+        "id": "47vqdgl08",
+        "author": "felix engel",
+        "content": "@Robert or Maxi. can you provide a description?",
+        "timestamp": "2024-09-06T08:02:42.036Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "c67e3931-e4df-41c8-acf1-ef581772784c",
+    "comments": [
+      {
+        "id": "k69aptqrc",
+        "author": "felix engel",
+        "content": "@Robert and Maxi: can you add a description",
+        "timestamp": "2024-09-06T08:03:58.474Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "4a83f871-b89d-4a60-a2b6-61c9678830fc",
+    "comments": []
+  },
+  {
+    "resourceId": "a2076eae-e643-444c-95a3-d21e7032b10d",
+    "comments": []
+  },
+  {
+    "resourceId": "4c628f7c-9cb3-419d-92d2-46be565301d1",
+    "comments": []
+  },
+  {
+    "resourceId": "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264",
+    "comments": []
+  },
+  {
+    "resourceId": "268e91b4-77f7-4a77-a41d-5ce3bb322524",
+    "comments": [
+      {
+        "id": "g1g2v4rvx",
+        "author": "felix engel",
+        "content": "@Lars, can you add a description?",
+        "timestamp": "2024-09-06T08:09:23.434Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "d0600216-6f78-4976-a660-a3066baae7da",
+    "comments": [
+      {
+        "id": "jdmf6a2kj",
+        "author": "felix engel",
+        "content": "@Lars, can you add a description?",
+        "timestamp": "2024-09-06T08:10:16.016Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "8be0ebc9-cbee-4ebd-9a54-feb7366b65dc",
+    "comments": [
+      {
+        "id": "hu71tii7y",
+        "author": "felix engel",
+        "content": "@Lars, can you provide a description?",
+        "timestamp": "2024-09-06T08:11:53.666Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "6adb2b83-e698-405f-9eb0-38dde30d7922",
+    "comments": [
+      {
+        "id": "mv0aoj0ag",
+        "author": "felix engel",
+        "content": "@Robert, can you add more information? MAPE sounds like an abbreviaton",
+        "timestamp": "2024-09-06T08:13:13.110Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "010831c3-ef72-4194-98cf-950e039f178e",
+    "comments": []
+  },
+  {
+    "resourceId": "abeb6a5c-cc98-4921-a42e-f90b6d6f9533",
+    "comments": []
+  },
+  {
+    "resourceId": "376d968c-83f7-44fa-9470-e4c0bc0cc5ee",
+    "comments": []
+  },
+  {
+    "resourceId": "e655023c-d74f-410a-92f8-8d600cd72d96",
+    "comments": []
+  },
+  {
+    "resourceId": "68392d7e-0253-4edc-96ef-d6f9c8306649",
+    "comments": []
+  },
+  {
+    "resourceId": "5990ff8a-be1c-4485-a18d-1eb64db342e3",
+    "comments": [
+      {
+        "id": "aa5lwjk7o",
+        "author": "felix",
+        "content": "I have added the Term on the behalf of Maxi Udenio",
+        "timestamp": "2024-09-09T12:11:18.875Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "db9b0838-42c1-41de-bcd2-92f8f0b0a493",
+    "comments": [
+      {
+        "id": "cmxqcfa9e",
+        "author": "felix",
+        "content": "I have added the Term on behalf of Maxi Udenio",
+        "timestamp": "2024-09-09T12:12:33.140Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "8c989a43-5f21-4109-8ceb-2122a7e7bb6e",
+    "comments": [
+      {
+        "id": "lssk9i5xp",
+        "author": "felix",
+        "content": "I have added this term on behalf of Maxi Udemio",
+        "timestamp": "2024-09-09T12:14:40.511Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "f452a6e2-b533-4a5a-8b36-60d2115d63e3",
+    "comments": []
+  },
+  {
+    "resourceId": "7044e261-e6af-4aea-8515-ca1771b4ce60",
+    "comments": []
+  },
+  {
+    "resourceId": "c66b03e7-249c-4bf8-962d-8a37200f2ae3",
+    "comments": []
+  },
+  {
+    "resourceId": "3be8feac-f780-4f0b-80a3-dc4198d48884",
+    "comments": []
+  },
+  {
+    "resourceId": "73d4e9a6-26b1-46be-ba9d-76886361c851",
+    "comments": []
+  },
+  {
+    "resourceId": "71fabe0a-bb3f-4e93-83df-daa77c1eb6be",
+    "comments": []
+  },
+  {
+    "resourceId": "74bdfced-5c3d-4263-8f34-5984a527affb",
+    "comments": []
+  },
+  {
+    "resourceId": "517f5c4a-195e-4d71-9748-b81848e9a445",
+    "comments": []
+  },
+  {
+    "resourceId": "c44016c0-d377-4a93-9f22-57bbda510700",
+    "comments": []
+  },
+  {
+    "resourceId": "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6",
+    "comments": []
+  },
+  {
+    "resourceId": "273e9482-c646-4a28-a0a0-8bbdffb94951",
+    "comments": []
+  },
+  {
+    "resourceId": "f1595613-c2b3-47b6-b0e8-9c4ecdf222eb",
+    "comments": []
+  },
+  {
+    "resourceId": "4d99b9e6-b577-4cbc-bbfc-e900ae27979a",
+    "comments": []
+  },
+  {
+    "resourceId": "2e6e96cf-2766-4e03-aac9-6c72f9c80b85",
+    "comments": []
+  },
+  {
+    "resourceId": "059720b0-2438-47d0-a07d-14350ba1580c",
+    "comments": []
+  },
+  {
+    "resourceId": "890da0b3-74ae-451c-9de6-59557917c973",
+    "comments": []
+  },
+  {
+    "resourceId": "5964a671-3e1f-4718-9a7f-17c01614d745",
+    "comments": []
+  },
+  {
+    "resourceId": "33a63ab3-941d-4406-ae50-61b19ed8d6c5",
+    "comments": []
+  },
+  {
+    "resourceId": "48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd",
+    "comments": []
+  },
+  {
+    "resourceId": "abbe6e87-adf3-4d13-8760-df24199be1d1",
+    "comments": []
+  },
+  {
+    "resourceId": "46f11fca-a0a9-4581-9f7a-b03a576c422e",
+    "comments": []
+  },
+  {
+    "resourceId": "ecb78b67-66ae-4cca-b67b-d59df3e1dd85",
+    "comments": []
+  },
+  {
+    "resourceId": "befe64f1-f538-4092-929f-a26e1ad221f2",
+    "comments": []
+  },
+  {
+    "resourceId": "e5affe98-acd0-4072-b8ca-6585615fa17e",
+    "comments": []
+  },
+  {
+    "resourceId": "982a684c-ce5d-428a-ac96-abc0cbdacabf",
+    "comments": []
+  },
+  {
+    "resourceId": "3ac22854-9d82-4a5d-a593-a6042a3c35e9",
+    "comments": []
+  },
+  {
+    "resourceId": "9d5f5d9f-e68b-4a72-92c9-2bcc092995d3",
+    "comments": []
+  },
+  {
+    "resourceId": "f66d0722-82ba-4d95-9c0e-b41f201e1a9c",
+    "comments": []
+  },
+  {
+    "resourceId": "8abf76e2-86fd-4d23-93a7-261722b03967",
+    "comments": []
+  },
+  {
+    "resourceId": "87be67ad-d0fb-4eb5-a2c3-6535095fef91",
+    "comments": []
+  },
+  {
+    "resourceId": "db95fcf6-d753-4a4a-8472-38d3a55e7eb8",
+    "comments": []
+  },
+  {
+    "resourceId": "93b67611-5243-4e71-a561-d68ee396d859",
+    "comments": []
+  },
+  {
+    "resourceId": "b833fb54-a3dd-4843-8deb-541138ef5eec",
+    "comments": []
+  },
+  {
+    "resourceId": "8445acc4-4300-4c9b-a9af-20994259b18f",
+    "comments": [
+      {
+        "id": "n017r96s8",
+        "author": "Robert",
+        "content": "really? ",
+        "timestamp": "2024-09-18T14:16:45.304Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "1ccbb124-456d-4c64-9d8e-748d7f2ee139",
+    "comments": []
+  },
+  {
+    "resourceId": "5e8e7a2c-5de6-4a74-a250-cc7195bbbe50",
+    "comments": []
+  },
+  {
+    "resourceId": "b7277f2f-cef0-4188-81b8-be78f4869e56",
+    "comments": []
+  },
+  {
+    "resourceId": "20aa6325-719a-4666-81f6-6d055ee97527",
+    "comments": []
+  },
+  {
+    "resourceId": "aa266f71-b4da-4673-8fa6-117fb0aa52f7",
+    "comments": []
+  },
+  {
+    "resourceId": "ebb5cfcb-9199-45ef-b0ff-87916086a19a",
+    "comments": []
+  },
+  {
+    "resourceId": "214144da-cbaa-4950-ac65-70c46ded293f",
+    "comments": []
+  },
+  {
+    "resourceId": "15d7b9f4-3174-4a11-887b-4ae5fe6917b4",
+    "comments": [
+      {
+        "id": "toc71agkl",
+        "author": "Robert",
+        "content": "So 'Power' is short for 'Power Devices'? ",
+        "timestamp": "2024-09-18T14:15:57.521Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "f7637daf-b71b-4ced-8b54-888c21a4ed22",
+    "comments": []
+  },
+  {
+    "resourceId": "c05c6abf-204f-4722-af8c-f9cc49f2c6c3",
+    "comments": [
+      {
+        "id": "73tsjyxbm",
+        "author": "Robert",
+        "content": "Tib has no description",
+        "timestamp": "2024-09-18T14:07:20.944Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "5ec8e410-2180-4a1a-87c2-30e68a684555",
+    "comments": []
+  },
+  {
+    "resourceId": "763f9faa-f1e1-4265-ae07-b65eafc9b570",
+    "comments": []
+  },
+  {
+    "resourceId": "1a5b2876-b03f-4237-aa07-12f33befade3",
+    "comments": []
+  },
+  {
+    "resourceId": "2aff4e35-8f80-4b3d-95f7-9b27b39cbef5",
+    "comments": []
+  },
+  {
+    "resourceId": "de4cfbaf-964f-4eb0-a155-c9f66340d260",
+    "comments": []
+  },
+  {
+    "resourceId": "b5a1f564-89dd-4896-b162-1a859d4aadf1",
+    "comments": []
+  },
+  {
+    "resourceId": "a1eb4e31-3527-41b0-8424-9b38c53f930c",
+    "comments": []
+  },
+  {
+    "resourceId": "10d17e72-df2e-400f-811e-16c018121d33",
+    "comments": []
+  },
+  {
+    "resourceId": "c6cf15d6-4aaf-4b90-9dd1-4f13472e1e5b",
+    "comments": []
+  },
+  {
+    "resourceId": "4784710d-e693-4469-8bb8-be49a65d8380",
+    "comments": []
+  },
+  {
+    "resourceId": "e7b78a49-567f-47ef-a14f-257e6098360a",
+    "comments": []
+  },
+  {
+    "resourceId": "4f889db8-3815-4672-8d55-f44cb7e45dc1",
+    "comments": []
+  },
+  {
+    "resourceId": "8a73b95b-2800-45b6-a7df-94d888fa3e02",
+    "comments": []
+  },
+  {
+    "resourceId": "38d050a5-eebf-4216-a4c8-f462dd7e42d3",
+    "comments": []
+  },
+  {
+    "resourceId": "13cb7768-171b-46e6-a2a1-a7df3b47494e",
+    "comments": []
+  },
+  {
+    "resourceId": "1eb30b69-41c8-47d0-8d45-e199bbaf52d8",
+    "comments": []
+  },
+  {
+    "resourceId": "3ac5a6b8-0cb9-419e-a5aa-736fc3638080",
+    "comments": []
+  },
+  {
+    "resourceId": "5c26698d-2566-411c-8e03-6fd1bc37350d",
+    "comments": []
+  },
+  {
+    "resourceId": "52362a0d-517b-4d41-969c-dd4c47a657e4",
+    "comments": []
+  },
+  {
+    "resourceId": "a3a6033c-6eb2-459d-b60d-7898b1fde5d6",
+    "comments": [
+      {
+        "id": "90gmg6vey",
+        "author": "Robert",
+        "content": "Granularity refers to the level of detail of a subject. High granularity means there are a lot of details. Low granularity means less details. Details can refer to a split in subsegments.",
+        "timestamp": "2024-09-18T14:05:58.638Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab",
+    "comments": []
+  },
+  {
+    "resourceId": "0bcc10a1-cf8b-471d-829c-ad6c2c9e9953",
+    "comments": []
+  },
+  {
+    "resourceId": "e7e18bb5-a4f8-4c58-b82a-e376518cf1e9",
+    "comments": []
+  },
+  {
+    "resourceId": "d72bc058-65ba-4312-a78e-ca69a3dce947",
+    "comments": []
+  },
+  {
+    "resourceId": "a000906b-76cd-4062-a61d-37a701dd1e99",
+    "comments": []
+  },
+  {
+    "resourceId": "bbc74c26-805f-4f43-b0db-c2d26d00feca",
+    "comments": []
+  },
+  {
+    "resourceId": "63ba7ec6-b318-4745-8285-b48d7e23bdca",
+    "comments": []
+  },
+  {
+    "resourceId": "e41e8cf4-eb87-4509-9014-42da7a5e7d07",
+    "comments": []
+  },
+  {
+    "resourceId": "7f3329e8-301e-43f1-b5ba-43c4aee22ddd",
+    "comments": [
+      {
+        "id": "slseqej0d",
+        "author": "Robert",
+        "content": "sure. But what is the process?",
+        "timestamp": "2024-09-18T13:35:02.284Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "169f110a-5452-4540-a221-aa31ac5c4f93",
+    "comments": []
+  },
+  {
+    "resourceId": "9bc8b2c2-0308-4c68-9458-ea2c99869c13",
+    "comments": []
+  },
+  {
+    "resourceId": "b06c0614-d923-44c2-8130-fbafe16e6871",
+    "comments": []
+  },
+  {
+    "resourceId": "641e8ab9-516d-4a29-b6f5-efd07781d59a",
+    "comments": []
+  },
+  {
+    "resourceId": "17aee842-7e96-456e-912e-8488117dc755",
+    "comments": []
+  },
+  {
+    "resourceId": "6ab3f1c8-870d-43a8-89c0-6261465c647d",
+    "comments": []
+  },
+  {
+    "resourceId": "151064fa-aab0-4edf-bee4-eaf4dd832100",
+    "comments": []
+  },
+  {
+    "resourceId": "e859d3ed-7a10-4cad-9568-09cce2f66156",
+    "comments": []
+  },
+  {
+    "resourceId": "126cdd01-1c9b-45b1-948b-3536474e2766",
+    "comments": []
+  },
+  {
+    "resourceId": "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb",
+    "comments": [
+      {
+        "id": "x4i9v9ioc",
+        "author": "Robert",
+        "content": "of currency?",
+        "timestamp": "2024-09-18T13:58:08.393Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "0529e47e-32db-4ad0-ab2a-28a7ca04140c",
+    "comments": []
+  },
+  {
+    "resourceId": "f29a581e-c896-41e2-a7a5-39b8b69f2a2b",
+    "comments": []
+  },
+  {
+    "resourceId": "b5e044b9-4532-4302-84a8-bac8324be02d",
+    "comments": []
+  },
+  {
+    "resourceId": "f722c3a8-a764-42f7-bcad-bfb78585cf2b",
+    "comments": []
+  },
+  {
+    "resourceId": "5f8d7815-a548-47ad-ad6f-45a82797a8de",
+    "comments": []
+  },
+  {
+    "resourceId": "1d13d30c-a345-4155-a7a6-277b9d369bb0",
+    "comments": []
+  },
+  {
+    "resourceId": "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1",
     "comments": []
   }
 ]
