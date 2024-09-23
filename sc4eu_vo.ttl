@@ -881,3 +881,10 @@
     rdfs:description "Holt’s exponential smoothing method : Holt’s method is an extension of single exponential smoothing which allows for trends in the data. It uses two smoothing parameters, one of which is used to add a trend adjustment to the single smoothed value. It is sometimes also called double or linear exponential smoothing.";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#9f54cefc-33aa-4536-ac0d-45b32eb89615> rdf:type rdfs:Resource;
+    rdfs:id "9f54cefc-33aa-4536-ac0d-45b32eb89615";
+    rdfs:label "Mean Absolute Percentage Error";
+    skos:altLabel "MAPE";
+    rdfs:description "The mean absolute percentage error is the mean or average of the sum of all of the percentage errors for a given data set taken without regard to sign. (That is, their absolute values are summed and the average computed.) It is one measure of accuracy commonly used in quantitative methods of forecasting.";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
