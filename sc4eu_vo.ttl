@@ -683,8 +683,8 @@
     rdfs:status "draft".
 <https://example.com#5c26698d-2566-411c-8e03-6fd1bc37350d> rdf:type rdfs:Resource;
     rdfs:id "5c26698d-2566-411c-8e03-6fd1bc37350d";
-    rdfs:label "lead time";
-    rdfs:description "Not Available";
+    rdfs:label "Lead Time";
+    rdfs:description "This term refers to the time interval between two events, when one must precede the other. In many inventory and order entry systems, the lead time is the interval between the time when an order is placed and the time when it is actually delivered.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23lead_time";
     rdfs:status "draft".
 <https://example.com#52362a0d-517b-4d41-969c-dd4c47a657e4> rdf:type rdfs:Resource;
