@@ -888,3 +888,9 @@
     rdfs:description "The mean absolute percentage error is the mean or average of the sum of all of the percentage errors for a given data set taken without regard to sign. (That is, their absolute values are summed and the average computed.) It is one measure of accuracy commonly used in quantitative methods of forecasting.";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#8967e89b-837b-4809-83fc-4eaef28cd2e1> rdf:type rdfs:Resource;
+    rdfs:id "8967e89b-837b-4809-83fc-4eaef28cd2e1";
+    rdfs:label "Product Life Cycle";
+    rdfs:description "The concept of the product life cycle is particularly useful in forecasting and analyzing historical data. It presumes that demand for a product follows an S-shaped curve growing slowly in the early stages, achieving rapid and sustained growth in the middle stages, and slowing again in the mature stage. See S-curve";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
