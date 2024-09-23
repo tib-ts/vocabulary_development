@@ -848,40 +848,5 @@
   {
     "resourceId": "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1",
     "comments": []
-  },
-  {
-    "resourceId": "003e7e6d-5c3b-4a28-8570-11aaca040bd4",
-    "comments": [
-      {
-        "id": "5l0pcgecu",
-        "author": "System ADMIN",
-        "content": "some comment",
-        "timestamp": "2024-09-20T13:47:30.895Z"
-      },
-      {
-        "id": "z8jbg5g68",
-        "author": "System ADMIN",
-        "content": "dfdasf",
-        "timestamp": "2024-09-20T13:47:32.210Z"
-      },
-      {
-        "id": "b7dygqkx2",
-        "author": "System ADMIN",
-        "content": "dsfsdafdsa",
-        "timestamp": "2024-09-20T13:47:33.653Z"
-      },
-      {
-        "id": "qnc1yxne9",
-        "author": "System ADMIN",
-        "content": "sadfsdafsa",
-        "timestamp": "2024-09-20T13:47:34.909Z"
-      },
-      {
-        "id": "a7vpvp0mh",
-        "author": "System ADMIN",
-        "content": "dasfdasfsdaf",
-        "timestamp": "2024-09-20T13:47:36.503Z"
-      }
-    ]
   }
 ]
