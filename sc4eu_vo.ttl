@@ -874,3 +874,10 @@
     rdfs:description "Holt-Winters’ exponential smoothing method : Winters extended Holt’s exponential smoothing method by including an extra equation that is used to adjust the forecast to reflect seasonality. This form of exponential smoothing can thus account for data series that include both trend and seasonal elements. It uses three smoothing parameters controlling the level, trend, and seasonality.";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#bfead7cc-2c48-4d04-9332-1203828391a7> rdf:type rdfs:Resource;
+    rdfs:id "bfead7cc-2c48-4d04-9332-1203828391a7";
+    rdfs:label "Double Exponential Double";
+    skos:altLabel "DES";
+    rdfs:description "Holt’s exponential smoothing method : Holt’s method is an extension of single exponential smoothing which allows for trends in the data. It uses two smoothing parameters, one of which is used to add a trend adjustment to the single smoothed value. It is sometimes also called double or linear exponential smoothing.";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
