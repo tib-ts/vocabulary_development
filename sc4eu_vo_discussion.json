@@ -104,7 +104,14 @@
   },
   {
     "resourceId": "6a7749d4-03cc-4946-9756-5c6ab4159f57",
-    "comments": []
+    "comments": [
+      {
+        "id": "zjsn1f81f",
+        "author": "felix",
+        "content": "Robert proposed a different definition: \"Estimating a smooth trend, usually be taking weighted averages of observations. The term smoothed is used because such averages tend to reduce randomness by allowing positive and negative random effects to partially offset each other.\" \n",
+        "timestamp": "2024-09-23T06:29:01.947Z"
+      }
+    ]
   },
   {
     "resourceId": "0ba579de-85d8-45f5-b749-95c2a6c54d4c",
@@ -877,6 +884,10 @@
   },
   {
     "resourceId": "4ed14982-7373-4df3-b716-994ed9bea09f",
+    "comments": []
+  },
+  {
+    "resourceId": "a46a45d9-bba5-4d06-bc96-3e0f9b8a6be4",
     "comments": []
   }
 ]
