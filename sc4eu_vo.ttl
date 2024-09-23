@@ -877,8 +877,7 @@
     rdfs:label "Open Order";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
-    rdfs:status "draft";
-    skos:altLabel "_DR pl".
+    rdfs:status "draft".
 <https://example.com#5f8d7815-a548-47ad-ad6f-45a82797a8de> rdf:type rdfs:Resource;
     rdfs:id "5f8d7815-a548-47ad-ad6f-45a82797a8de";
     rdfs:label "Order Change Request";
@@ -952,8 +951,8 @@
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
 <https://example.com#002ccba2-0b71-4e81-81aa-96ed8c478bf7> rdf:type rdfs:Resource;
-    rdfs:label "Seller";
     rdfs:id "002ccba2-0b71-4e81-81aa-96ed8c478bf7";
+    rdfs:label "Seller";
     rdfs:description "Seller is an entity which offers the services/goods.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Seller";
     rdfs:status "draft";
