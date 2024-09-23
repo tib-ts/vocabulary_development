@@ -855,3 +855,9 @@
     rdfs:description "An order position refers to a product specification, a product quantity, and a desired delivery date. Each order position has a status and belongs to an order.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
     rdfs:status "draft".
+<https://example.com#3c485b0a-c556-40df-8666-3b59111f3745> rdf:type rdfs:Resource;
+    rdfs:id "3c485b0a-c556-40df-8666-3b59111f3745";
+    rdfs:label "Forecast Horizon";
+    rdfs:description "The forecast horizon is the length of time into the future for which forecasts are to be prepared. These generally vary from short-term forecasting horizons (less than three months) to long-term horizons (more than two years).";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
