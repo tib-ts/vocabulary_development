@@ -312,7 +312,7 @@
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Capacity_Bottleneck";
     rdfs:status "draft";
-    skos:altLabel "_DR".
+    skos:altLabel "_DR pl".
 <https://example.com#5990ff8a-be1c-4485-a18d-1eb64db342e3> rdf:type rdfs:Resource;
     rdfs:id "5990ff8a-be1c-4485-a18d-1eb64db342e3";
     rdfs:label "Business Cycle";
@@ -331,103 +331,119 @@
     rdfs:description "(restricted) The Aggregated Capacity Group combines products that are interchangeable in production resources (e.g. can be produced on the same equipment) and having the same capacity consumption. Using an ACG provides flexibility in a way of switching demands of this products within this ACG.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Aggregated_Capacity";
     rdfs:status "draft";
-    skos:altLabel "_DR".
+    skos:altLabel "_DR pl".
 <https://example.com#c66b03e7-249c-4bf8-962d-8a37200f2ae3> rdf:type rdfs:Resource;
     rdfs:id "c66b03e7-249c-4bf8-962d-8a37200f2ae3";
     rdfs:label "Confirmation";
     rdfs:description "Order acknowledgement";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Confirmation";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#3be8feac-f780-4f0b-80a3-dc4198d48884> rdf:type rdfs:Resource;
     rdfs:id "3be8feac-f780-4f0b-80a3-dc4198d48884";
     rdfs:label "Criteria";
     rdfs:description "Typical criteria are maximization, minimization, i.e. if an optimization problem is considered, or larger or smaller than a prescribed value of the certain performance measure, a so-called target, i.e. if a satisfaction problem is solved. In a multi-criteria setting, the dominance concept for plans is of interest.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Criteria";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#73d4e9a6-26b1-46be-ba9d-76886361c851> rdf:type rdfs:Resource;
     rdfs:id "73d4e9a6-26b1-46be-ba9d-76886361c851";
     rdfs:label "Customer Logistics Management Representative";
     rdfs:description "Being the main interface between Customer, Sales and the Supply Chain Planner he is responsible for the demand fulfilment process. It is his task to ensure in-time delivery to customers based on orders and forecasts and to achieve high customer satisfaction.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer_Logistics_Management_Representative";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#71fabe0a-bb3f-4e93-83df-daa77c1eb6be> rdf:type rdfs:Resource;
     rdfs:id "71fabe0a-bb3f-4e93-83df-daa77c1eb6be";
     rdfs:label "Edge";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Edge";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#74bdfced-5c3d-4263-8f34-5984a527affb> rdf:type rdfs:Resource;
     rdfs:id "74bdfced-5c3d-4263-8f34-5984a527affb";
     rdfs:label "General Customers";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23General_Customer";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#517f5c4a-195e-4d71-9748-b81848e9a445> rdf:type rdfs:Resource;
     rdfs:id "517f5c4a-195e-4d71-9748-b81848e9a445";
     rdfs:label "Marketing Demand";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Marketing_Demand";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#c44016c0-d377-4a93-9f22-57bbda510700> rdf:type rdfs:Resource;
     rdfs:id "c44016c0-d377-4a93-9f22-57bbda510700";
     rdfs:label "nEWs";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23NEWs";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#9990fa2f-c4c8-45e4-9201-26ee4ccc90e6> rdf:type rdfs:Resource;
     rdfs:id "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6";
     rdfs:label "Operational Demand";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Operational_Demand";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#273e9482-c646-4a28-a0a0-8bbdffb94951> rdf:type rdfs:Resource;
     rdfs:id "273e9482-c646-4a28-a0a0-8bbdffb94951";
     rdfs:label "Order Reschedule";
     rdfs:description "Any change in the requested order delivery date in an order line is referred to as an order rescheduling.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Reschedule";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#f1595613-c2b3-47b6-b0e8-9c4ecdf222eb> rdf:type rdfs:Resource;
     rdfs:id "f1595613-c2b3-47b6-b0e8-9c4ecdf222eb";
     rdfs:label "Order Schedule Line";
     rdfs:description "Schedule lines contain all the delivery related information";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Schedule_Line";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#4d99b9e6-b577-4cbc-bbfc-e900ae27979a> rdf:type rdfs:Resource;
     rdfs:id "4d99b9e6-b577-4cbc-bbfc-e900ae27979a";
     rdfs:label "Plan Execution";
     rdfs:description "A PLAN EXECUTION is related to performing the activities according to a PLAN either directly in the base system, for instance, releasing lots into a wafer fab, or as instructions for another DECISION-MAKING UNIT.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Plan_Execution";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#2e6e96cf-2766-4e03-aac9-6c72f9c80b85> rdf:type rdfs:Resource;
     rdfs:id "2e6e96cf-2766-4e03-aac9-6c72f9c80b85";
     rdfs:label "Planing Purpose";
     rdfs:description "The PLANNING PURPOSE specifies the objectives of a certain planning activity. It is given by a set of performance measures that are related to a set of PLANNING OBJECTS.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planing_Purpose";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#059720b0-2438-47d0-a07d-14350ba1580c> rdf:type rdfs:Resource;
     rdfs:id "059720b0-2438-47d0-a07d-14350ba1580c";
     rdfs:label "Planning";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Planning";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#890da0b3-74ae-451c-9de6-59557917c973> rdf:type rdfs:Resource;
     rdfs:id "890da0b3-74ae-451c-9de6-59557917c973";
     rdfs:label "Planning Approach";
     rdfs:description "Specific planning algorithm which is used in a deticated planning process";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Approach";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#5964a671-3e1f-4718-9a7f-17c01614d745> rdf:type rdfs:Resource;
     rdfs:id "5964a671-3e1f-4718-9a7f-17c01614d745";
     rdfs:label "Planning Constraint";
     rdfs:description "A PLANNING CONSTRAINT restricts the action space. This space is formed by alternative actions that are a result of the planning decisions (Schneeweis 2003). In the planning domain, PLANNING CONSTRAINTS, often the capacity offered by resources, limit the quantities that are assigned to the PLANNING OBJECTS or impact the temporal properties of PLANNING OBJECTS.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Constraint";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#33a63ab3-941d-4406-ae50-61b19ed8d6c5> rdf:type rdfs:Resource;
     rdfs:id "33a63ab3-941d-4406-ae50-61b19ed8d6c5";
     rdfs:label "Planning Decision";
     rdfs:description "Decisions determined by a Decision Making Unit";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planning_Decision";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd> rdf:type rdfs:Resource;
     rdfs:id "48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd";
     rdfs:label "Planning Function";
@@ -463,37 +479,43 @@
     rdfs:label "Hierarchical Situation";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Hierarchical_Situation";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#982a684c-ce5d-428a-ac96-abc0cbdacabf> rdf:type rdfs:Resource;
     rdfs:id "982a684c-ce5d-428a-ac96-abc0cbdacabf";
     rdfs:label "Frozen Fence";
     rdfs:description "FROZEN FENCE is used to set a frozen interval  in which decision making is not allowed to change the previously determined values.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Frozen_Fence";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#3ac22854-9d82-4a5d-a593-a6042a3c35e9> rdf:type rdfs:Resource;
     rdfs:id "3ac22854-9d82-4a5d-a593-a6042a3c35e9";
     rdfs:label "Decison Making Unit Character";
     rdfs:description "In an ANTAGO¬NISTIC SETTING, the different DECISION-MAKING UNITS try to meet their own objectives which are in conflict. In a non-antagonistic setting, the DECISION-MAKING UNITS do not exploit their private knowledge in an opportunistic way.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decison_Making_Unit_Character";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#9d5f5d9f-e68b-4a72-92c9-2bcc092995d3> rdf:type rdfs:Resource;
     rdfs:id "9d5f5d9f-e68b-4a72-92c9-2bcc092995d3";
     rdfs:label "Decision Making Unit";
     rdfs:description "The DECISION-MAKING UNIT specifies an instance that makes decisions.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Making_Unit";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#f66d0722-82ba-4d95-9c0e-b41f201e1a9c> rdf:type rdfs:Resource;
     rdfs:id "f66d0722-82ba-4d95-9c0e-b41f201e1a9c";
     rdfs:label "Decision Making Initiative";
     rdfs:description "We distinguish fully autonomous DECISION-MAKING UNITS from DECISION-MAKING UNITS where the decision-making activities are triggered by other DECISION-MAKING UNITS. Note that the decision-making initiative can change over time in a situation-dependent manner.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Making_Initiative";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#8abf76e2-86fd-4d23-93a7-261722b03967> rdf:type rdfs:Resource;
     rdfs:id "8abf76e2-86fd-4d23-93a7-261722b03967";
     rdfs:label "Decision Maker Type";
     rdfs:description "We distinguish human decision-makers (human DECISION-MAKING UNITS) from fully automated DECISION-MAKING UNITS where computers make fully automated decisions. Between these two extremes there are semi-automated decisions, where a computer provides several decision alternatives and a human decision-maker chooses among them. Note that the decision-maker type can change over time.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decision_Maker_Type";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#db95fcf6-d753-4a4a-8472-38d3a55e7eb8> rdf:type rdfs:Resource;
     rdfs:id "db95fcf6-d753-4a4a-8472-38d3a55e7eb8";
     rdfs:label "Prioritized Demand";
@@ -626,12 +648,6 @@
     rdfs:label "Shipment";
     rdfs:description "incoming or outgoing good ";
     rdfs:seeAlso "N/A";
-    rdfs:status "draft".
-<https://example.com#c6cf15d6-4aaf-4b90-9dd1-4f13472e1e5b> rdf:type rdfs:Resource;
-    rdfs:id "c6cf15d6-4aaf-4b90-9dd1-4f13472e1e5b";
-    rdfs:label "Order";
-    rdfs:description "An order contains at least one order position. An order has an order type and is associated to demand";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order";
     rdfs:status "draft".
 <https://example.com#4784710d-e693-4469-8bb8-be49a65d8380> rdf:type rdfs:Resource;
     rdfs:id "4784710d-e693-4469-8bb8-be49a65d8380";
@@ -837,7 +853,8 @@
     rdfs:label "Open Order";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR pl".
 <https://example.com#5f8d7815-a548-47ad-ad6f-45a82797a8de> rdf:type rdfs:Resource;
     rdfs:id "5f8d7815-a548-47ad-ad6f-45a82797a8de";
     rdfs:label "Order Change Request";
