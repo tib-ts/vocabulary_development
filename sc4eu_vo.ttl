@@ -877,7 +877,8 @@
     rdfs:label "Open Order";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#5f8d7815-a548-47ad-ad6f-45a82797a8de> rdf:type rdfs:Resource;
     rdfs:id "5f8d7815-a548-47ad-ad6f-45a82797a8de";
     rdfs:label "Order Change Request";
