@@ -956,4 +956,5 @@
     rdfs:id "002ccba2-0b71-4e81-81aa-96ed8c478bf7";
     rdfs:description "Seller is an entity which offers the services/goods.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Seller";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
