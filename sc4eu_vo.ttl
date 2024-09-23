@@ -861,3 +861,9 @@
     rdfs:description "The forecast horizon is the length of time into the future for which forecasts are to be prepared. These generally vary from short-term forecasting horizons (less than three months) to long-term horizons (more than two years).";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#b54440be-b53c-47fc-b4ab-2f69884eed6c> rdf:type rdfs:Resource;
+    rdfs:id "b54440be-b53c-47fc-b4ab-2f69884eed6c";
+    rdfs:label "Forecasting";
+    rdfs:description "Forecasting is the prediction of values of a variable based on known past values of that variable or other related variables. Forecasts also may be based on expert judgments, which in turn are based on historical data and experience.";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
