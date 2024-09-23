@@ -610,12 +610,6 @@
     rdfs:description "to be defined";
     rdfs:seeAlso "";
     rdfs:status "draft".
-<https://example.com#c05c6abf-204f-4722-af8c-f9cc49f2c6c3> rdf:type rdfs:Resource;
-    rdfs:id "c05c6abf-204f-4722-af8c-f9cc49f2c6c3";
-    rdfs:label "Inventory";
-    rdfs:description "Additional lobe: Planning";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
-    rdfs:status "draft".
 <https://example.com#5ec8e410-2180-4a1a-87c2-30e68a684555> rdf:type rdfs:Resource;
     rdfs:id "5ec8e410-2180-4a1a-87c2-30e68a684555";
     rdfs:label "Capacity Utilization";
@@ -779,55 +773,64 @@
     rdfs:label "Action";
     rdfs:description "The process of doing something";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
     rdfs:id "7f3329e8-301e-43f1-b5ba-43c4aee22ddd";
     rdfs:label "Allocation";
     rdfs:description "Allocation is a process used in order management in times when demand exceeds available supply.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Allocation";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#169f110a-5452-4540-a221-aa31ac5c4f93> rdf:type rdfs:Resource;
     rdfs:id "169f110a-5452-4540-a221-aa31ac5c4f93";
     rdfs:label "Contact Person Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Contact_Person_Data";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#9bc8b2c2-0308-4c68-9458-ea2c99869c13> rdf:type rdfs:Resource;
     rdfs:id "9bc8b2c2-0308-4c68-9458-ea2c99869c13";
     rdfs:label "Customer Class";
     rdfs:description "The set of all customers is divided into different priority classes or segments based on certain criteria like profitability or importance of customer.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Customer_Class";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#b06c0614-d923-44c2-8130-fbafe16e6871> rdf:type rdfs:Resource;
     rdfs:id "b06c0614-d923-44c2-8130-fbafe16e6871";
     rdfs:label "Customer Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Data";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#641e8ab9-516d-4a29-b6f5-efd07781d59a> rdf:type rdfs:Resource;
     rdfs:id "641e8ab9-516d-4a29-b6f5-efd07781d59a";
     rdfs:label "Customer Plant";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#17aee842-7e96-456e-912e-8488117dc755> rdf:type rdfs:Resource;
     rdfs:id "17aee842-7e96-456e-912e-8488117dc755";
     rdfs:label "Customer Plant Data";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Plant_Data";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#6ab3f1c8-870d-43a8-89c0-6261465c647d> rdf:type rdfs:Resource;
     rdfs:id "6ab3f1c8-870d-43a8-89c0-6261465c647d";
     rdfs:label "Delivery Committment";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Delivery_Committment";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#151064fa-aab0-4edf-bee4-eaf4dd832100> rdf:type rdfs:Resource;
     rdfs:id "151064fa-aab0-4edf-bee4-eaf4dd832100";
     rdfs:label "Delivery Concept";
     rdfs:description "The deliver concept defines the terms and conditions for delivering an order to the customer. Especially partial and split delivery has to be taken into account.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Delivery_Concept";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#e859d3ed-7a10-4cad-9568-09cce2f66156> rdf:type rdfs:Resource;
     rdfs:id "e859d3ed-7a10-4cad-9568-09cce2f66156";
     rdfs:label "Demand Fulfillement";
@@ -839,19 +842,22 @@
     rdfs:label "Demand Trace";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Demand_Trace";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb> rdf:type rdfs:Resource;
     rdfs:id "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb";
     rdfs:label "Exchange Rate Specification";
     rdfs:description "Exchange_Rate_Specification is structured value representing exchange rate.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Exchange_Rate_Specification";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#0529e47e-32db-4ad0-ab2a-28a7ca04140c> rdf:type rdfs:Resource;
     rdfs:id "0529e47e-32db-4ad0-ab2a-28a7ca04140c";
     rdfs:label "In-Transit Inventory";
     rdfs:description "Additional lobe: Planning";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23In_Transit_Inventory";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#f29a581e-c896-41e2-a7a5-39b8b69f2a2b> rdf:type rdfs:Resource;
     rdfs:id "f29a581e-c896-41e2-a7a5-39b8b69f2a2b";
     rdfs:label "Inventory";
