@@ -311,7 +311,8 @@
     rdfs:label "Capacity Bottleneck";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Capacity_Bottleneck";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR".
 <https://example.com#5990ff8a-be1c-4485-a18d-1eb64db342e3> rdf:type rdfs:Resource;
     rdfs:id "5990ff8a-be1c-4485-a18d-1eb64db342e3";
     rdfs:label "Business Cycle";
