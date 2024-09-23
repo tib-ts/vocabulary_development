@@ -894,3 +894,9 @@
     rdfs:description "The concept of the product life cycle is particularly useful in forecasting and analyzing historical data. It presumes that demand for a product follows an S-shaped curve growing slowly in the early stages, achieving rapid and sustained growth in the middle stages, and slowing again in the mature stage. See S-curve";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#4ed14982-7373-4df3-b716-994ed9bea09f> rdf:type rdfs:Resource;
+    rdfs:id "4ed14982-7373-4df3-b716-994ed9bea09f";
+    rdfs:label "S-Curve";
+    rdfs:description "An S-curve is most frequently used to represent the product life cycle. Several different mathematical forms, such as the logistics curve, can be used to fit an S-curve to actual observed data";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
