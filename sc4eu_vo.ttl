@@ -863,13 +863,15 @@
     rdfs:label "Inventory";
     rdfs:description "Additional lobe: Planning";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Inventory";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#b5e044b9-4532-4302-84a8-bac8324be02d> rdf:type rdfs:Resource;
     rdfs:id "b5e044b9-4532-4302-84a8-bac8324be02d";
     rdfs:label "Offer";
     rdfs:description "An offer is to transfer some rights to an item or to provide a service.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Offer";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#f722c3a8-a764-42f7-bcad-bfb78585cf2b> rdf:type rdfs:Resource;
     rdfs:id "f722c3a8-a764-42f7-bcad-bfb78585cf2b";
     rdfs:label "Open Order";
@@ -882,19 +884,22 @@
     rdfs:label "Order Change Request";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Change_Request";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#1d13d30c-a345-4155-a7a6-277b9d369bb0> rdf:type rdfs:Resource;
     rdfs:id "1d13d30c-a345-4155-a7a6-277b9d369bb0";
     rdfs:label "Order Confirmation";
     rdfs:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Confirmation";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1> rdf:type rdfs:Resource;
     rdfs:id "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1";
     rdfs:label "Order Position";
     rdfs:description "An order position refers to a product specification, a product quantity, and a desired delivery date. Each order position has a status and belongs to an order.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order_Position";
-    rdfs:status "draft".
+    rdfs:status "draft";
+    skos:altLabel "_DR sc".
 <https://example.com#3c485b0a-c556-40df-8666-3b59111f3745> rdf:type rdfs:Resource;
     rdfs:id "3c485b0a-c556-40df-8666-3b59111f3745";
     rdfs:label "Forecast Horizon";
@@ -945,4 +950,10 @@
     rdfs:label "Turning Point";
     rdfs:description "Any time a data pattern changes direction it can be described as having reached a turning point. For seasonal patterns these turning points are usually very predictable and can be handled by many different forecasting methods because the length of a complete season remains constant. In many cyclical data patterns the length of the cycle varies as does its magnitude. Here the identification of turning points is a particularly difficult and important task";
     rdfs:seeAlso "N/A";
+    rdfs:status "draft".
+<https://example.com#002ccba2-0b71-4e81-81aa-96ed8c478bf7> rdf:type rdfs:Resource;
+    rdfs:label "Seller";
+    rdfs:id "002ccba2-0b71-4e81-81aa-96ed8c478bf7";
+    rdfs:description "Seller is an entity which offers the services/goods.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Seller";
     rdfs:status "draft".
