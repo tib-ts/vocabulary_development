@@ -867,3 +867,10 @@
     rdfs:description "Forecasting is the prediction of values of a variable based on known past values of that variable or other related variables. Forecasts also may be based on expert judgments, which in turn are based on historical data and experience.";
     rdfs:seeAlso "N/A";
     rdfs:status "draft".
+<https://example.com#1f5ec71f-58fc-4f61-81e4-8cb2c84065c0> rdf:type rdfs:Resource;
+    rdfs:id "1f5ec71f-58fc-4f61-81e4-8cb2c84065c0";
+    rdfs:label "Triple Exponential Smoothing";
+    skos:altLabel "TES";
+    rdfs:description "Holt-Winters’ exponential smoothing method : Winters extended Holt’s exponential smoothing method by including an extra equation that is used to adjust the forecast to reflect seasonality. This form of exponential smoothing can thus account for data series that include both trend and seasonal elements. It uses three smoothing parameters controlling the level, trend, and seasonality.";
+    rdfs:seeAlso "N/A";
+    rdfs:status "draft".
