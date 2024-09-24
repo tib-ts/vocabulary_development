@@ -881,6 +881,13 @@
   },
   {
     "resourceId": "798c04df-58f9-4161-b4e2-09390941d375",
-    "comments": []
+    "comments": [
+      {
+        "id": "1jgmmg6ux",
+        "author": "System ADMIN",
+        "content": "test",
+        "timestamp": "2024-09-24T06:56:18.372Z"
+      }
+    ]
   }
 ]
