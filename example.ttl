@@ -1091,7 +1091,7 @@
     dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#798c04df-58f9-4161-b4e2-09390941d375> rdf:type rdfs:Resource;
     dcterms:identifier "798c04df-58f9-4161-b4e2-09390941d375";
-    rdfs:label "aaa";
+    rdfs:label "aaaaaabbbbbb";
     dcterms:description "aaa";
     rdfs:seeAlso "aaa";
     ex:status "draft";
