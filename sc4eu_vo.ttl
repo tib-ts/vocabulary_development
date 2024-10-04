@@ -1138,3 +1138,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Line_Item";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#f8185dab-ab3a-4d20-a90e-7710647595d3> rdf:type rdfs:Resource;
+    dcterms:identifier "f8185dab-ab3a-4d20-a90e-7710647595d3";
+    rdfs:label "Performance Measure";
+    skos:altLabel "_DR pl";
+    dcterms:description "Each measure is defined by a calculation procedure. Performance measures can be blended using weights to express the importance of the different measures.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Performance_Measure";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
