@@ -1090,3 +1090,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#46f069ab-34e9-48f4-919b-236f578a1375> rdf:type rdfs:Resource;
+    dcterms:identifier "46f069ab-34e9-48f4-919b-236f578a1375";
+    rdfs:label "Allocated Available To Promise";
+    skos:altLabel "_DR pl";
+    dcterms:description "AATP  is a data mart  that shows data from GOAL AATP process, combining data from 3 sources: SAP, I2 Applications and LogDB.\n\nThe universe provides access to the fact tables delivered by GOAL like Availability / Allocation Planning / Seller Mapping / Coverage.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Allocated_Available_To_Promise";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
