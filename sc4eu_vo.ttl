@@ -1122,3 +1122,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#157b7dea-9db6-45fb-9932-706bf3d3847c> rdf:type rdfs:Resource;
+    dcterms:identifier "157b7dea-9db6-45fb-9932-706bf3d3847c";
+    rdfs:label "Open Order Book";
+    skos:altLabel "_DR pl";
+    dcterms:description "An order book is a business's list of open, unshipped, customer orders, normally time-phased and valued at actual individual order prices, that may include margin and profitability analysis.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Open_Order_Book";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
