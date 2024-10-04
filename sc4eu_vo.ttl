@@ -1170,3 +1170,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planing_Purpose";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#f4d05861-1307-4305-8917-14353f96d04e> rdf:type rdfs:Resource;
+    dcterms:identifier "f4d05861-1307-4305-8917-14353f96d04e";
+    rdfs:label "Product Aggregate";
+    skos:altLabel "_DR pl";
+    dcterms:description "A PRODUCT AGGREGATE combines individual products into a few logical products groups. This results in a reduction of complexity, which enables a better overview.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Product_Aggregate";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
