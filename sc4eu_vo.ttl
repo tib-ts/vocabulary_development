@@ -1162,3 +1162,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Plan";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#8b1179fe-dc77-4967-b60e-f110069d85da> rdf:type rdfs:Resource;
+    dcterms:identifier "8b1179fe-dc77-4967-b60e-f110069d85da";
+    rdfs:label "Planing Purpose";
+    skos:altLabel "_DR pl";
+    dcterms:description "The PLANNING PURPOSE specifies the objectives of a certain planning activity. It is given by a set of performance measures that are related to a set of PLANNING OBJECTS.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Planing_Purpose";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
