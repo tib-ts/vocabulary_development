@@ -1146,3 +1146,19 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Performance_Measure";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#9e680292-5b22-43cf-bd02-51977746409b> rdf:type rdfs:Resource;
+    dcterms:identifier "9e680292-5b22-43cf-bd02-51977746409b";
+    rdfs:label "Plan";
+    skos:altLabel "_DR pl";
+    dcterms:description "A plan is an activity specification with an intended purpose. Planning is an activity with the purpose to determine a plan. Planning is associated with goals, in the present situation represented by objective functions to be optimized.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Plan";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#7daf8517-97e8-488c-87e5-ea13b7e28c10> rdf:type rdfs:Resource;
+    dcterms:identifier "7daf8517-97e8-488c-87e5-ea13b7e28c10";
+    rdfs:label "Plan";
+    skos:altLabel "_DR pl";
+    dcterms:description "A PLAN is an activity specification with an intended purpose.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Plan";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
