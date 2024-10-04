@@ -1114,3 +1114,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Capacity";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#cbbe6d64-1fb0-435f-bcbd-7f4581a22539> rdf:type rdfs:Resource;
+    dcterms:identifier "cbbe6d64-1fb0-435f-bcbd-7f4581a22539";
+    rdfs:label "Customer";
+    skos:altLabel "_DR pl";
+    dcterms:description "A person or entity that buys goods or services  from a shop or business.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
