@@ -1082,8 +1082,8 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Seller";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
-<https://example.com#9ccbda45-117e-4ff9-9dfa-c1d4b98f0974> rdf:type rdfs:Resource;
-    dcterms:identifier "9ccbda45-117e-4ff9-9dfa-c1d4b98f0974";
+<https://example.com#6d221526-27f3-4992-9518-48a616518907> rdf:type rdfs:Resource;
+    dcterms:identifier "6d221526-27f3-4992-9518-48a616518907";
     rdfs:label "Order";
     dcterms:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order";
