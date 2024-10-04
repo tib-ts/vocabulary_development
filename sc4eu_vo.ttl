@@ -1130,3 +1130,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Open_Order_Book";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#6312bdca-928c-48ac-84b3-10bf785693ef> rdf:type rdfs:Resource;
+    dcterms:identifier "6312bdca-928c-48ac-84b3-10bf785693ef";
+    rdfs:label "Order Line Item";
+    skos:altLabel "_DR pl";
+    dcterms:description "Every product on the order is referenced by a record that includes quantity and a reference to which order it belongs.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order_Line_Item";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
