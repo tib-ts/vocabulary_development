@@ -1085,6 +1085,7 @@
 <https://example.com#6d221526-27f3-4992-9518-48a616518907> rdf:type rdfs:Resource;
     dcterms:identifier "6d221526-27f3-4992-9518-48a616518907";
     rdfs:label "Order";
+    skos:altLabel "_DR pl";
     dcterms:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Order";
     ex:status "draft";
