@@ -1098,3 +1098,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Allocated_Available_To_Promise";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#7890d77b-1e10-4c81-888a-0622259f7ac8> rdf:type rdfs:Resource;
+    dcterms:identifier "7890d77b-1e10-4c81-888a-0622259f7ac8";
+    rdfs:label "Available To Promise";
+    skos:altLabel "_DR pl";
+    dcterms:description "Available to promise is a business function that provides a response to customer order inquiries, based on resource availability. It generates available quantities of the requested product, and delivery due dates.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Available_To_Promise";
+    ex:status "draft";
+    dcterms:created "2024-10-04"^^xsd:date.
