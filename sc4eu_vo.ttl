@@ -1178,3 +1178,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Product_Aggregate";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date.
+<https://example.com#94d6b5ce-da43-4d58-8a41-89d07c5d40a2> rdf:type rdfs:Resource;
+    dcterms:identifier "94d6b5ce-da43-4d58-8a41-89d07c5d40a2";
+    rdfs:label "Product Hierarchy";
+    dcterms:description "A PRODUCT HIERARCHY characterizes the top-down and bottom-up relationship between different product aggregates. It organizes the product aggregates according to defined criteria. A product aggregate is used to group different products based on certain criteria. The grouping criteria depend on the planning purpose (e.g. controlling, production). It is a certain view on a set of products.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Product_Hierarchy";
+    ex:status "draft";
+    dcterms:created "2024-10-10"^^xsd:date.
