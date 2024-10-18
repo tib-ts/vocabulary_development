@@ -1283,3 +1283,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Line_Item";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#00828d2b-55c9-4046-8556-5d22873f1e0c> rdf:type rdfs:Resource;
+    dcterms:identifier "00828d2b-55c9-4046-8556-5d22873f1e0c";
+    rdfs:label "Owner";
+    skos:altLabel "_DR sc";
+    dcterms:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Owner";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
