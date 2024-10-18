@@ -1316,3 +1316,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Supply";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#74d20cab-563a-4e9a-882b-a08c3bda856b> rdf:type rdfs:Resource;
+    dcterms:identifier "74d20cab-563a-4e9a-882b-a08c3bda856b";
+    rdfs:label "Supply Chain";
+    skos:altLabel "_DR sc (1)";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Chain";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
