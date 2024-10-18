@@ -929,13 +929,6 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Delivery_Concept";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
-<https://example.com#e859d3ed-7a10-4cad-9568-09cce2f66156> rdf:type rdfs:Resource;
-    dcterms:identifier "e859d3ed-7a10-4cad-9568-09cce2f66156";
-    rdfs:label "Demand Fulfillement";
-    dcterms:description "The process of meeting a customer’s demand for product or services by fulfilling their request.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Demand_Fulfillement";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#126cdd01-1c9b-45b1-948b-3536474e2766> rdf:type rdfs:Resource;
     dcterms:identifier "126cdd01-1c9b-45b1-948b-3536474e2766";
     rdfs:label "Demand Trace";
