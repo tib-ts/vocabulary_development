@@ -1291,3 +1291,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Owner";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#dcda03b6-c4d2-4903-88a7-cab4819107b1> rdf:type rdfs:Resource;
+    dcterms:identifier "dcda03b6-c4d2-4903-88a7-cab4819107b1";
+    rdfs:label "Supplier";
+    skos:altLabel "_DR sc (1)";
+    dcterms:description "A Supplier fufills a demand for a specific product or service.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supplier";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
