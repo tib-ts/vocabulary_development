@@ -1302,6 +1302,7 @@
 <https://example.com#864a88de-dfc7-4313-af47-bba1c6b938a2> rdf:type rdfs:Resource;
     dcterms:identifier "864a88de-dfc7-4313-af47-bba1c6b938a2";
     rdfs:label "Supplier";
+    skos:altLabel "_DR sc (2)";
     dcterms:description "Organization that provides something needed such as a product or service.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Supplier";
     ex:status "draft";
