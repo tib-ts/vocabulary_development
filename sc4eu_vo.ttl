@@ -1235,3 +1235,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand_Class";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4> rdf:type rdfs:Resource;
+    dcterms:identifier "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4";
+    rdfs:label "Demand Fulfillement";
+    skos:altLabel "_DR sc";
+    dcterms:description "The process of meeting a customer’s demand for product or services by fulfilling their request.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Demand_Fulfillement";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
