@@ -1307,3 +1307,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Supplier";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#55582b69-476b-47c7-b73f-615e01aaa2b1> rdf:type rdfs:Resource;
+    dcterms:identifier "55582b69-476b-47c7-b73f-615e01aaa2b1";
+    rdfs:label "Supply";
+    dcterms:description "This is the total amount of specific products that is available to customers. Supply has the dimensions quantity, time, location, product, including aggregation of all dimensions. Supply is defined as inventory or plan replenishment.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
