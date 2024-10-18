@@ -1218,3 +1218,27 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#8bc1bda0-6a02-48c8-a5c0-b04bd30b7694> rdf:type rdfs:Resource;
+    dcterms:identifier "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694";
+    rdfs:label "Demand";
+    skos:altLabel "_DR sc (1)";
+    dcterms:description "Demand is a production request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#214b7225-5bb1-4956-ab58-f63175c4446b> rdf:type rdfs:Resource;
+    dcterms:identifier "214b7225-5bb1-4956-ab58-f63175c4446b";
+    rdfs:label "Demand";
+    skos:altLabel "_DR sc (2)";
+    dcterms:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Demand";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#95dbd732-5afc-4add-b6cd-620f0e301286> rdf:type rdfs:Resource;
+    dcterms:identifier "95dbd732-5afc-4add-b6cd-620f0e301286";
+    rdfs:label "Demand Class";
+    skos:altLabel "_DR sc";
+    dcterms:description "This concept is used for dividing the total forecast for a given product into several priority classes.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand_Class";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
