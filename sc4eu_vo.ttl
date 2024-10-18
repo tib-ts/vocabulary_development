@@ -83,13 +83,6 @@
     dcterms:description "Exceed a target. The opposite is Undershoot. Can e.g. be caused by extrapolation of a changing signal. ";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
-<https://example.com#3e1f4cb6-9629-4c6a-a220-e327f118a714> rdf:type rdfs:Resource;
-    dcterms:identifier "3e1f4cb6-9629-4c6a-a220-e327f118a714";
-    rdfs:label "Supply Chain";
-    dcterms:description "The entity “Supply Chain” describes the supply chain from the topmost level with all possible material flow edges, referring on the FabIDs (master entity)";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Supply_Chain";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#a68d9413-ec72-4741-b6c8-6b8c0aa5335f> rdf:type rdfs:Resource;
     dcterms:identifier "a68d9413-ec72-4741-b6c8-6b8c0aa5335f";
     rdfs:label "System Dynamics";
