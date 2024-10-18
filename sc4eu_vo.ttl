@@ -1259,3 +1259,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order_Book";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#196e96c9-85a6-45fc-bf54-6593c5bba0b6> rdf:type rdfs:Resource;
+    dcterms:identifier "196e96c9-85a6-45fc-bf54-6593c5bba0b6";
+    rdfs:label "Order";
+    skos:altLabel "_DR sc (1)";
+    dcterms:description "An order contains at least one order position. An order has an order type and is associated to demand";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Order";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
