@@ -1318,6 +1318,7 @@
 <https://example.com#dcc56d27-3cfe-4bb2-8155-e6a64a95f9c1> rdf:type rdfs:Resource;
     dcterms:identifier "dcc56d27-3cfe-4bb2-8155-e6a64a95f9c1";
     rdfs:label "Supply";
+    skos:altLabel "_DR sc (2)";
     dcterms:description "The amount of goods that is available for use.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Supply";
     ex:status "draft";
