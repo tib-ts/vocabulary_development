@@ -1185,3 +1185,19 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Product_Hierarchy";
     ex:status "draft";
     dcterms:created "2024-10-10"^^xsd:date.
+<https://example.com#1279b8e9-5f02-4e14-a7c2-46e05595259b> rdf:type rdfs:Resource;
+    dcterms:identifier "1279b8e9-5f02-4e14-a7c2-46e05595259b";
+    rdfs:label "Allocated Available To Promise";
+    skos:altLabel "_DR sc";
+    dcterms:description "When scarce ATP quantities are allocated to different customer classes or customers, the resulting supply reservations are called allocated ATP (AATP) quantities.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Allocated_Available_To_Promise";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#3fe64d88-12bc-43ad-9d62-9a0338bbe3bb> rdf:type rdfs:Resource;
+    dcterms:identifier "3fe64d88-12bc-43ad-9d62-9a0338bbe3bb";
+    rdfs:label "Available To Promise";
+    skos:altLabel "_DR sc";
+    dcterms:description "The part of the inventory and projected supply that can be used to fulfill customer orders is called ATP.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Available_To_Promise";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
