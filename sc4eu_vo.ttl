@@ -83,13 +83,6 @@
     dcterms:description "Exceed a target. The opposite is Undershoot. Can e.g. be caused by extrapolation of a changing signal. ";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
-<https://example.com#1c0748ba-38cb-4c7b-9909-e6452ff342ea> rdf:type rdfs:Resource;
-    dcterms:identifier "1c0748ba-38cb-4c7b-9909-e6452ff342ea";
-    rdfs:label "Demand";
-    dcterms:description "Demand is a production request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#3e1f4cb6-9629-4c6a-a220-e327f118a714> rdf:type rdfs:Resource;
     dcterms:identifier "3e1f4cb6-9629-4c6a-a220-e327f118a714";
     rdfs:label "Supply Chain";
@@ -1223,12 +1216,5 @@
     skos:altLabel "_DR sc (3)";
     dcterms:description "A customer is an business that purchases another company's goods or services.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer";
-    ex:status "draft";
-    dcterms:created "2024-10-18"^^xsd:date.
-<https://example.com#2e8c40cb-c29a-42c6-9f8a-b5468c8d437c> rdf:type rdfs:Resource;
-    dcterms:identifier "2e8c40cb-c29a-42c6-9f8a-b5468c8d437c";
-    rdfs:label "Demand";
-    dcterms:description "Demand is a production request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
