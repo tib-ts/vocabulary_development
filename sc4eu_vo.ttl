@@ -1275,3 +1275,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Order";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#e76552e5-7c2c-474c-8b42-f702635046d8> rdf:type rdfs:Resource;
+    dcterms:identifier "e76552e5-7c2c-474c-8b42-f702635046d8";
+    rdfs:label "Order Line Item";
+    skos:altLabel "_DR sc";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Order_Line_Item";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
