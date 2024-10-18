@@ -1251,3 +1251,11 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Demand_Snapshot";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#98e1dada-debf-4b11-9870-f4a00d028d73> rdf:type rdfs:Resource;
+    dcterms:identifier "98e1dada-debf-4b11-9870-f4a00d028d73";
+    rdfs:label "Open Order Book";
+    skos:altLabel "_DR sc";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Open_Order_Book";
+    ex:status "draft";
+    dcterms:created "2024-10-18"^^xsd:date.
