@@ -252,6 +252,12 @@
         "author": "felix engel",
         "content": "I have added the DR definition. However, Robert has proposed a more detailed description. PLease let me know which suits better: \"Fabrication. In semiconductor manufacturing, fabrication usually refers to the front-end process of making devices and integrated circuits in semiconductor wafers, but does not include the package assembly (back-end) stages.\"",
         "timestamp": "2024-09-06T07:27:55.583Z"
+      },
+      {
+        "id": "6irz57eat",
+        "author": "Robert",
+        "content": "\"A semiconductor fabrication plant (commonly called a fab; sometimes foundry) is a factory for semiconductor device fabrication.\" (wiki). This is correct in my view. The DR description is nonsense.",
+        "timestamp": "2024-11-05T09:47:16.270Z"
       }
     ]
   },
