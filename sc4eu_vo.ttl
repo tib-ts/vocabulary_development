@@ -1347,3 +1347,31 @@
     rdfs:seeAlso "Partner";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#cf5404ed-9046-47de-a045-53daa6e3adba> rdf:type rdfs:Resource;
+    dcterms:identifier "cf5404ed-9046-47de-a045-53daa6e3adba";
+    rdfs:label "Reactive Stocking";
+    dcterms:description "Response to a change in demand. Inventory is adapted in line with Desired Inventory Coverage.";
+    rdfs:seeAlso "Active destocking";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#07327ac9-a32d-4e7f-8fbd-3197ad96d4e1> rdf:type rdfs:Resource;
+    dcterms:identifier "07327ac9-a32d-4e7f-8fbd-3197ad96d4e1";
+    rdfs:label "Active destocking";
+    dcterms:description "A conscious management decision to reduce the Desired Inventory Coverage. This happened when interbank interest rates peaked after the unexpected bankruptcy of Lehman Brothers (a bank) on 15 September 2008. The result was a global wave of temporary inventory reduction.";
+    rdfs:seeAlso "Reactive stocking";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#3f3b5242-0011-4422-b9cf-02deba5aba3a> rdf:type rdfs:Resource;
+    dcterms:identifier "3f3b5242-0011-4422-b9cf-02deba5aba3a";
+    rdfs:label "Pipeline";
+    dcterms:description "A stock of raw material orders that have been sent out, but for which the goods have not yet been delivered.";
+    rdfs:seeAlso "Underestimation";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#71eba900-3be9-4eaf-9999-891ea06d1da5> rdf:type rdfs:Resource;
+    dcterms:identifier "71eba900-3be9-4eaf-9999-891ea06d1da5";
+    rdfs:label "Underestimation";
+    dcterms:description "Thinking that something is smaller than it actually is. Most companies underestimate their Pipeline and do not take it fully into account when determining how much orders to send out.";
+    rdfs:seeAlso "Pipeline";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
