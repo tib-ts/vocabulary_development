@@ -441,7 +441,14 @@
   },
   {
     "resourceId": "3be8feac-f780-4f0b-80a3-dc4198d48884",
-    "comments": []
+    "comments": [
+      {
+        "id": "e71ld6eva",
+        "author": "Robert",
+        "content": "I do not understand the Description. ",
+        "timestamp": "2024-11-20T10:14:36.291Z"
+      }
+    ]
   },
   {
     "resourceId": "73d4e9a6-26b1-46be-ba9d-76886361c851",
@@ -603,7 +610,14 @@
   },
   {
     "resourceId": "214144da-cbaa-4950-ac65-70c46ded293f",
-    "comments": []
+    "comments": [
+      {
+        "id": "2ha3vvu4e",
+        "author": "Robert",
+        "content": "delete??",
+        "timestamp": "2024-11-20T10:05:04.910Z"
+      }
+    ]
   },
   {
     "resourceId": "f7637daf-b71b-4ced-8b54-888c21a4ed22",
@@ -623,7 +637,14 @@
   },
   {
     "resourceId": "2aff4e35-8f80-4b3d-95f7-9b27b39cbef5",
-    "comments": []
+    "comments": [
+      {
+        "id": "0o43bfgxz",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:15:50.221Z"
+      }
+    ]
   },
   {
     "resourceId": "de4cfbaf-964f-4eb0-a155-c9f66340d260",
@@ -707,7 +728,14 @@
   },
   {
     "resourceId": "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab",
-    "comments": []
+    "comments": [
+      {
+        "id": "wmqo7iisj",
+        "author": "Robert",
+        "content": "It is not a graph but a table, I think. The translation is a simple linear multiplication,",
+        "timestamp": "2024-11-20T10:08:24.551Z"
+      }
+    ]
   },
   {
     "resourceId": "0bcc10a1-cf8b-471d-829c-ad6c2c9e9953",
@@ -735,7 +763,14 @@
   },
   {
     "resourceId": "e41e8cf4-eb87-4509-9014-42da7a5e7d07",
-    "comments": []
+    "comments": [
+      {
+        "id": "eq27n7i5d",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:16:01.670Z"
+      }
+    ]
   },
   {
     "resourceId": "7f3329e8-301e-43f1-b5ba-43c4aee22ddd",
@@ -869,7 +904,14 @@
   },
   {
     "resourceId": "a46a45d9-bba5-4d06-bc96-3e0f9b8a6be4",
-    "comments": []
+    "comments": [
+      {
+        "id": "ybmkfxukj",
+        "author": "Robert",
+        "content": "a turning point is when the first derivative of a data pattern crosses zero. ",
+        "timestamp": "2024-11-20T10:06:57.106Z"
+      }
+    ]
   },
   {
     "resourceId": "002ccba2-0b71-4e81-81aa-96ed8c478bf7",
@@ -1009,6 +1051,14 @@
   },
   {
     "resourceId": "d3da1b03-7392-4203-be3d-3a3173e6857e",
+    "comments": []
+  },
+  {
+    "resourceId": "4d933028-c44a-4557-aac5-528bd15e1ab0",
+    "comments": []
+  },
+  {
+    "resourceId": "04ebacdf-8b1c-46df-81fd-1665df6a7594",
     "comments": []
   }
 ]
