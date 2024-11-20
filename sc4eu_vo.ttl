@@ -804,6 +804,7 @@
 <https://example.com#1ccc7b36-6107-4ec4-8b83-4d9965ad12ab> rdf:type rdfs:Resource;
     dcterms:identifier "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab";
     rdfs:label "Transparency Graph";
+    skos:altLabel "Transition Table";
     dcterms:description "graph that can translate market segment information to technology nodes";
     rdfs:seeAlso "N/A";
     ex:status "draft";
@@ -1332,3 +1333,17 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23User_Action";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date.
+<https://example.com#4d933028-c44a-4557-aac5-528bd15e1ab0> rdf:type rdfs:Resource;
+    dcterms:identifier "4d933028-c44a-4557-aac5-528bd15e1ab0";
+    rdfs:label "Partner";
+    dcterms:description "Company or institute that has signed the SC4EU consortium agreement";
+    rdfs:seeAlso "Participant";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#04ebacdf-8b1c-46df-81fd-1665df6a7594> rdf:type rdfs:Resource;
+    dcterms:identifier "04ebacdf-8b1c-46df-81fd-1665df6a7594";
+    rdfs:label "Participant";
+    dcterms:description "Company that fills in the SC4EU survey";
+    rdfs:seeAlso "Partner";
+    ex:status "draft";
+    dcterms:created "2024-11-20"^^xsd:date.
