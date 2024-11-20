@@ -461,7 +461,14 @@
   },
   {
     "resourceId": "c44016c0-d377-4a93-9f22-57bbda510700",
-    "comments": []
+    "comments": [
+      {
+        "id": "8vbic3bjy",
+        "author": "Robert",
+        "content": "delete??",
+        "timestamp": "2024-11-20T10:03:25.599Z"
+      }
+    ]
   },
   {
     "resourceId": "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6",
@@ -781,6 +788,12 @@
         "author": "Robert",
         "content": "of currency?",
         "timestamp": "2024-09-18T13:58:08.393Z"
+      },
+      {
+        "id": "cbru34ltk",
+        "author": "Robert",
+        "content": "What is this and where is it used in the project?",
+        "timestamp": "2024-11-20T08:24:59.201Z"
       }
     ]
   },
@@ -794,11 +807,25 @@
   },
   {
     "resourceId": "b5e044b9-4532-4302-84a8-bac8324be02d",
-    "comments": []
+    "comments": [
+      {
+        "id": "co4am5427",
+        "author": "Robert",
+        "content": "Delete?",
+        "timestamp": "2024-11-20T10:03:52.920Z"
+      }
+    ]
   },
   {
     "resourceId": "f722c3a8-a764-42f7-bcad-bfb78585cf2b",
-    "comments": []
+    "comments": [
+      {
+        "id": "yj796uh78",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:04:08.775Z"
+      }
+    ]
   },
   {
     "resourceId": "5f8d7815-a548-47ad-ad6f-45a82797a8de",
