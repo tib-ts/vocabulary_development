@@ -1018,7 +1018,7 @@
     dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#bfead7cc-2c48-4d04-9332-1203828391a7> rdf:type rdfs:Resource;
     dcterms:identifier "bfead7cc-2c48-4d04-9332-1203828391a7";
-    rdfs:label "Double Exponential Double";
+    rdfs:label "Double Exponential Smoothing";
     skos:altLabel "DES";
     dcterms:description "Holt’s exponential smoothing method : Holt’s method is an extension of single exponential smoothing which allows for trends in the data. It uses two smoothing parameters, one of which is used to add a trend adjustment to the single smoothed value. It is sometimes also called double or linear exponential smoothing.";
     rdfs:seeAlso "N/A";
