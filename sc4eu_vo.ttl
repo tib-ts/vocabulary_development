@@ -1389,3 +1389,10 @@
     rdfs:seeAlso "WP6 material";
     ex:status "draft";
     dcterms:created "2024-12-18"^^xsd:date.
+<https://example.com#d13dd919-de64-4263-bd38-f75d96f6239f> rdf:type rdfs:Resource;
+    dcterms:identifier "d13dd919-de64-4263-bd38-f75d96f6239f";
+    rdfs:label "MPC Survey Framework";
+    dcterms:description "A set of applications for performing computations in MPC, collecting answers from Survey Participants, and maintaining the MPC Survey Framework.  ";
+    rdfs:seeAlso "WP6 material";
+    ex:status "draft";
+    dcterms:created "2024-12-18"^^xsd:date.
