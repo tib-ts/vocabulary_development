@@ -1375,3 +1375,17 @@
     rdfs:seeAlso "Pipeline";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date.
+<https://example.com#b798765f-ace3-497d-a0ba-3b8619d0983f> rdf:type rdfs:Resource;
+    dcterms:identifier "b798765f-ace3-497d-a0ba-3b8619d0983f";
+    rdfs:label "MPC Management Server";
+    dcterms:description "The Multi-Party Computation Management Server orchestrates MPC computations by delegating them to a set of MPC Computation Servers. The MPC Management Server furthermore provides frontends for Survey Participants, Administrators, and Analysts.";
+    rdfs:seeAlso "WP6 material";
+    ex:status "draft";
+    dcterms:created "2024-12-18"^^xsd:date.
+<https://example.com#fcb48ce8-6255-4bf0-8032-d794bac11159> rdf:type rdfs:Resource;
+    dcterms:identifier "fcb48ce8-6255-4bf0-8032-d794bac11159";
+    rdfs:label "MPC Computation Server";
+    dcterms:description "The MPC Computation Server performs actual computations in MPC by connecting to two other MPC Computation Servers. The program to be executed is provided by the MPC Management Server.";
+    rdfs:seeAlso "WP6 material";
+    ex:status "draft";
+    dcterms:created "2024-12-18"^^xsd:date.
