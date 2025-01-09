@@ -1089,3 +1089,166 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Seller";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
+<https://example.com#028b4a96-3d5a-4bf5-aec6-99b396b51b12> rdf:type rdfs:Resource;
+    dcterms:identifier "028b4a96-3d5a-4bf5-aec6-99b396b51b12";
+    rdfs:label "Batching as a cause of Bullwhip";
+    dcterms:description "At the lowest level, which is closest to the customer, demand tends to be fairly steady and predictable because many customers buy the product in small quantities. But the retailers who sell to the customers buy from distributors in lots to facilitate efficient delivery. The distributors who sell to the retailers, order from the manufacturer in even larger lots, because their volumes are higher. So, as a result, a smooth customer demand is transformed into a lumpy demand at the manufacturer level.";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#82429d51-3198-4c78-b0f8-3a8a21994f11> rdf:type rdfs:Resource;
+    dcterms:identifier "82429d51-3198-4c78-b0f8-3a8a21994f11";
+    rdfs:label "Forecasting error as a cause of Bullwhip";
+    dcterms:description "In inter-firm supply chains where levels correspond to different companies, demand forecasting can amplify order variability. The reason is that each firm observes demand and independently adds buffers. For example, suppose a retailer sees a small spike in demand. To make sure the order quantity covers both anticipated demand and safety stock, the retailer places an order that shows a slightly larger spike than the one in demand. The distributor then makes a forecast on the basis of retailer orders. Again, since stock must cover both anticipated demand and safety stock, the distributor places an order that represents an even larger spike than that in the retailer order. So, the manufacturer sees an amplified spike in demand. The reverse happens when the retailer sees a dip in demand, which causes the manufacturer to see an amplified dip. The result is that demand volatility increases as we progress up the supply chain.";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#3de9252f-5357-4bc5-9a74-01acc39d8462> rdf:type rdfs:Resource;
+    dcterms:identifier "3de9252f-5357-4bc5-9a74-01acc39d8462";
+    rdfs:label "Promotional Pricing as a cause of Bullwhip";
+    dcterms:description "Promotional pricing, or the anticipation of it, can cause demand to be aggregated into spikes. Whenever a product is priced low, customers tend to “forward buy” by purchasing more than needed. When prices are high, customers hold off buying. Depending on how the manufacturer, distributor and retailer make use of promotional pricing, this effect can greatly increase the volatility of demand.";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#c711ea88-0ea9-44ae-9967-99949d12181c> rdf:type rdfs:Resource;
+    dcterms:identifier "c711ea88-0ea9-44ae-9967-99949d12181c";
+    rdfs:label "Gaming Behavior as a cause of Bullwhip";
+    dcterms:description "In a perfect world, customers order what they actually want to buy. However, in the real world, where orders may not be filled, there is incentive for customers to play games with their orders. For example, suppose that when a product is in short supply, the supplier allocates it to customers in proportion to the quantities they have on order. If customers know this, then they have an incentive to exaggerate their orders to increase their share of the rationed product. When the shortage disappears, customers cancel the excess orders, and the supplier is stuck with them. Since this behavior tends to increase orders when actual demand is high (because that is when shortages occur), but not when actual demand is low, the result is an amplification in the swings in demand.";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#169ccff7-afde-449d-b411-528f50d4a0e5> rdf:type rdfs:Resource;
+    dcterms:identifier "169ccff7-afde-449d-b411-528f50d4a0e5";
+    rdfs:label "Risk Sharing Contracts";
+    dcterms:description "In inter-firm supply chains, individual decision makers optimizing their local objectives generally suboptimize the overall system because risk falls disproportionally on one party. Contracts that share risk can incentivize individual decision makers to make globally optimal choices.";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#5c40a950-6bfe-4a50-95d9-2fbfee520410> rdf:type rdfs:Resource;
+    dcterms:identifier "5c40a950-6bfe-4a50-95d9-2fbfee520410";
+    rdfs:label "Little’s Law";
+    dcterms:description "Over the long-term, average WIP, throughput, and cycle time for any stable process are related according to: WIP = throughput × cycle time";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#5b8908be-1b9c-4cc2-b3a7-5d1d9fcaf2ab> rdf:type rdfs:Resource;
+    dcterms:identifier "5b8908be-1b9c-4cc2-b3a7-5d1d9fcaf2ab";
+    rdfs:label "Station";
+    dcterms:description "a single process fed by a single stockpoint is defined as a station";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#b611996f-51c1-4834-8053-54113ebd356a> rdf:type rdfs:Resource;
+    dcterms:identifier "b611996f-51c1-4834-8053-54113ebd356a";
+    rdfs:label "Line";
+    skos:altLabel "routing";
+    dcterms:description "a sequence of stations used to generate a product or service";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#6fef3709-3cae-4f3d-b0df-5930865e14a4> rdf:type rdfs:Resource;
+    dcterms:identifier "6fef3709-3cae-4f3d-b0df-5930865e14a4";
+    rdfs:label "Station Science";
+    dcterms:description "considers the operational behavior of an individual process and the stockpoint from which it receives material. Emphasis is on the factors that serve to delay the flow of entities (i.e., goods, services, information or money) and hence causes a buildup of inventory in the inbound stockpoint";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#859b22d6-d4a2-49f0-83c2-42c1eb49e35a> rdf:type rdfs:Resource;
+    dcterms:identifier "859b22d6-d4a2-49f0-83c2-42c1eb49e35a";
+    rdfs:label "Line Science";
+    dcterms:description "considers the operational behavior of process flows consisting of logically connected processes separated by stockpoints. This focuses in particular on the issues that arise due to the coupling effects between processes in a flow";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#e7c5e7e8-9c82-4da2-bbde-22918539b2df> rdf:type rdfs:Resource;
+    dcterms:identifier "e7c5e7e8-9c82-4da2-bbde-22918539b2df";
+    rdfs:label "Throughput (TH)";
+    dcterms:description "is the rate of good (non-defective) entities processed per unit time";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#72a683d8-5a4b-4b9a-951a-107911b8431c> rdf:type rdfs:Resource;
+    dcterms:identifier "72a683d8-5a4b-4b9a-951a-107911b8431c";
+    rdfs:label "Work in Process (WIP)";
+    dcterms:description "the number of entities in the system, which can be measured in physical units (e.g., parts, people, jobs) or financial units (e.g., dollar value of entities in system)";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#ec061fed-d427-4636-9565-4a90ce1fec6f> rdf:type rdfs:Resource;
+    dcterms:identifier "ec061fed-d427-4636-9565-4a90ce1fec6f";
+    rdfs:label "Cycle Time";
+    dcterms:description "the time it takes an entity to traverse the system, including any rework, restarts due to yield loss, or other disruptions";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#d2fb9291-5de0-4429-bd35-98748461085c> rdf:type rdfs:Resource;
+    dcterms:identifier "d2fb9291-5de0-4429-bd35-98748461085c";
+    rdfs:label "Capacity";
+    dcterms:description "the maximum average rate at which entities can flow through the system";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#2bb39f0f-ffac-4950-b54d-3ccb5e2eeb93> rdf:type rdfs:Resource;
+    dcterms:identifier "2bb39f0f-ffac-4950-b54d-3ccb5e2eeb93";
+    rdfs:label "Utilization";
+    dcterms:description "Cycle time increases in utilization and does so sharply as utilization approaches 100%. The only way the machine can be always busy is to have a large enough pile of WIP in front of it so that it never starves. If we set the WIP level to anything less than infinity there is always a sequence of variations in process times, outages, setups, etc. that will exhaust the supply of WIP. Hence, achieving higher and higher utilization levels requires more and more WIP. Since entities must wait behind longer and longer queues, the cycle times also increase disproportionately with utilization";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#358b8445-21a5-4aaa-a88c-31ceb4357f1e> rdf:type rdfs:Resource;
+    dcterms:identifier "358b8445-21a5-4aaa-a88c-31ceb4357f1e";
+    rdfs:label "Manufacturing cycle time";
+    dcterms:description "the time an entity spends in the system";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#7757a10e-1173-4f12-9d06-ec278fceff78> rdf:type rdfs:Resource;
+    dcterms:identifier "7757a10e-1173-4f12-9d06-ec278fceff78";
+    rdfs:label "Customer lead time";
+    dcterms:description "the time between when a customer order is placed and when the goods are received";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#40e328b4-581e-4d05-a977-12909633ae38> rdf:type rdfs:Resource;
+    dcterms:identifier "40e328b4-581e-4d05-a977-12909633ae38";
+    rdfs:label "Random variable";
+    dcterms:description "a quantitative measure whose outcomes are subject to variability. The set of all possible realizations of a random variable is called its population";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#c5af2ed3-dd23-4ab5-99d8-78281245963f> rdf:type rdfs:Resource;
+    dcterms:identifier "c5af2ed3-dd23-4ab5-99d8-78281245963f";
+    rdfs:label "Co-efficient of variation (CV)";
+    dcterms:description "Co-efficient of variation (CV) is defined as standard deviation / mean";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#8fa1dbde-46f0-4da6-83d6-305dc309fc5c> rdf:type rdfs:Resource;
+    dcterms:identifier "8fa1dbde-46f0-4da6-83d6-305dc309fc5c";
+    rdfs:label "Interarrival times";
+    dcterms:description "the times between the arrival of entities to the process, which can be affected by vendor quality, scheduling policies, variability in upstream processes, and other factors. Effective process times are measured as the time from when an entity reaches the head of the line (i.e., there is space in the process for it) and when it is finished";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#90754a7b-3185-49c0-87e4-9b9a7334367a> rdf:type rdfs:Resource;
+    dcterms:identifier "90754a7b-3185-49c0-87e4-9b9a7334367a";
+    rdfs:label "Queueing theory";
+    dcterms:description "the study of waiting line phenomena";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#30b1f7cf-cb8f-4a39-a9e8-a1901a097b9b> rdf:type rdfs:Resource;
+    dcterms:identifier "30b1f7cf-cb8f-4a39-a9e8-a1901a097b9b";
+    rdfs:label "Process Flow";
+    dcterms:description "a sequence of processes and stockpoints through which entities pass in sequence";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#e6c6757f-78d5-4dad-9525-ac997653d280> rdf:type rdfs:Resource;
+    dcterms:identifier "e6c6757f-78d5-4dad-9525-ac997653d280";
+    rdfs:label "Bottleneck Rate";
+    dcterms:description "The capacity of the flow (i.e., the rate of the process with the highest utilization)";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#e722ed90-17c9-4eff-aae6-b85a4e872162> rdf:type rdfs:Resource;
+    dcterms:identifier "e722ed90-17c9-4eff-aae6-b85a4e872162";
+    rdfs:label "Raw Process Time";
+    dcterms:description "The total time entities spend being processed in the flow (i.e., the average time it would take an entity to traverse an empty flow)";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#6b10af40-4313-4b87-b04e-18b58c6a39ee> rdf:type rdfs:Resource;
+    dcterms:identifier "6b10af40-4313-4b87-b04e-18b58c6a39ee";
+    rdfs:label "Critical WIP";
+    dcterms:description "The WIP level that achieves the maximum throughput (rb) and minimum cycle time (T0) in a process flow with no variability is computed as W0 = rbT0";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#1b396d96-a5e8-411a-80da-f286dc173120> rdf:type rdfs:Resource;
+    dcterms:identifier "1b396d96-a5e8-411a-80da-f286dc173120";
+    rdfs:label "Push and Pull";
+    dcterms:description "A pull system is one in which work is released based on the status of the system and has an inherent WIP limitation. A push system is one in which work is released without consideration of system status and hence does not have an inherent limitation on WIP";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#11a0b5b7-a7a1-447a-9b9b-739d7dc78c14> rdf:type rdfs:Resource;
+    dcterms:identifier "11a0b5b7-a7a1-447a-9b9b-739d7dc78c14";
+    rdfs:label "Anticipation Stock";
+    dcterms:description "Anticipation Stock is inventory that is built up in expectation of future demand. For instance, a plant might build up a stock of lawnmowers to satisfy a seasonal spike in demand. In general, this is done to level production in the face of uneven or cyclic demand in order to make better use of capacity";
+    ex:status "draft";
+    dcterms:created "2025-01-09"^^xsd:date.
