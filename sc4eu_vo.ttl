@@ -1396,3 +1396,17 @@
     rdfs:seeAlso "WP6 material";
     ex:status "draft";
     dcterms:created "2024-12-18"^^xsd:date.
+<https://example.com#06a40a37-546d-4e63-bfee-975e62cde8d0> rdf:type rdfs:Resource;
+    dcterms:identifier "06a40a37-546d-4e63-bfee-975e62cde8d0";
+    rdfs:label "lithography";
+    dcterms:description "Any synthesis technique involving the transfer of a pattern to a material (a 'resist') by selective exposure to a radiation source (e.g. light or X-rays) or to a beam of charged particles. Upon irradiation, the material experiences a change in its physical properties. Excess material is then removed, by a liquid 'developer' or an etching process.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chmo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCHMO_0001388";
+    ex:status "draft";
+    dcterms:created "2025-02-10"^^xsd:date.
+<https://example.com#9d5127e5-88ec-4df3-9d31-0d93b6711860> rdf:type rdfs:Resource;
+    dcterms:identifier "9d5127e5-88ec-4df3-9d31-0d93b6711860";
+    rdfs:label "Wafer Fabrication";
+    skos:altLabel "Wafer Production";
+    dcterms:description "The process of creating semiconductor wafers through various stages, including crystal growth, slicing, and polishing.";
+    ex:status "draft";
+    dcterms:created "2025-02-10"^^xsd:date.
