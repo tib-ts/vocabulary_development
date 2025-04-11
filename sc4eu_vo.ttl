@@ -1349,8 +1349,8 @@
 <https://example.com#07327ac9-a32d-4e7f-8fbd-3197ad96d4e1> rdf:type rdfs:Resource;
     dcterms:identifier "07327ac9-a32d-4e7f-8fbd-3197ad96d4e1";
     rdfs:label "Active destocking";
+    skos:altLabel "Reactive stocking";
     dcterms:description "A conscious management decision to reduce the Desired Inventory Coverage. This happened when interbank interest rates peaked after the unexpected bankruptcy of Lehman Brothers (a bank) on 15 September 2008. The result was a global wave of temporary inventory reduction.";
-    rdfs:seeAlso "Reactive stocking";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date.
 <https://example.com#3f3b5242-0011-4422-b9cf-02deba5aba3a> rdf:type rdfs:Resource;
