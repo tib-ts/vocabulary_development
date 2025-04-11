@@ -1075,7 +1075,14 @@
   },
   {
     "resourceId": "07327ac9-a32d-4e7f-8fbd-3197ad96d4e1",
-    "comments": []
+    "comments": [
+      {
+        "id": "678c127ze",
+        "author": "felix",
+        "content": "I assume that \"Reactive stocking\" is an alternative Label and not a reference. I will change accordingly",
+        "timestamp": "2025-04-11T06:00:36.242Z"
+      }
+    ]
   },
   {
     "resourceId": "3f3b5242-0011-4422-b9cf-02deba5aba3a",
