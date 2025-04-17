@@ -1,0 +1,22 @@
+@prefix : <http://example.org/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/ontology>
+    rdf:type owl:Ontology .
+
+:Person a owl:Class ;
+    rdfs:label "Person" ;
+    rdfs:comment "A human being" .
+
+:Book a owl:Class ;
+    rdfs:label "Book" ;
+    rdfs:comment "A written or printed work" .
+
+:hasWritten a owl:ObjectProperty ;
+    rdfs:domain :Person ;
+    rdfs:range :Book ;
+    rdfs:label "has written" ;
+    rdfs:comment "Relates a person to a book they have written" .
