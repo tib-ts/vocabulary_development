@@ -9,7 +9,7 @@
 
 :Person a owl:Class ;
     rdfs:label "Person" ;
-    rdfs:comment "A human being with Elene" .
+    rdfs:comment "A human being with Elene and Fawad" .
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
