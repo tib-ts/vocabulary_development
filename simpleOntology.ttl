@@ -9,7 +9,7 @@
 
 :Person a owl:Class ;
     rdfs:label "Person" ;
-    rdfs:comment "A human being with Just Fawad and Fawad Khan yousafzai" .
+    rdfs:comment "A human being with Nataliia" .
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
