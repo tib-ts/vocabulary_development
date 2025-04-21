@@ -13,7 +13,7 @@
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
-    rdfs:comment "A written or printed work Tesssssstttttttttttttttttttttttt" .
+    rdfs:comment "A written or printed work" .
 
 :hasWritten a owl:ObjectProperty ;
     rdfs:domain :Person ;
