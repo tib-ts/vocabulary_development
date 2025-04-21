@@ -9,7 +9,7 @@
 
 :Person a owl:Class ;
     rdfs:label "Person" ;
-    rdfs:comment "A human being with Elene and Fawad khan khan khan nadarashvili" .
+    rdfs:comment "A human being with Elene and Fawad khan khan khan nadarashvili hellllllooooooo" .
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
