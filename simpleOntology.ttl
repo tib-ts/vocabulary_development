@@ -9,7 +9,7 @@
 
 :Person a owl:Class ;
     rdfs:label "Person" ;
-    rdfs:comment "A human being with Dignity and Integrity and Honesty and Wisdom" .
+    rdfs:comment "A human being with Dignity and Integrity and Honesty and Wisdom and Courage" .
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
