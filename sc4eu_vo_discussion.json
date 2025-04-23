@@ -403,7 +403,20 @@
   },
   {
     "resourceId": "68392d7e-0253-4edc-96ef-d6f9c8306649",
-    "comments": []
+    "comments": [
+      {
+        "id": "h99kn4m6e",
+        "author": "Adrien Wartelle",
+        "content": "Proposition: Maximum Amount of products that can be produced in a given amount of time. In semiconductor manufacturing, these amounts can quantified as a number of wafers (or lots of wafers) produced per week for Front End and the number of integrated chips for Back End.",
+        "timestamp": "2025-04-23T09:34:19.822Z"
+      },
+      {
+        "id": "8n8eqyhl9",
+        "author": "Adrien Wartelle",
+        "content": "* More specifically Bottleneck refers to the production resources that are limiting this maximal amount",
+        "timestamp": "2025-04-23T09:36:18.089Z"
+      }
+    ]
   },
   {
     "resourceId": "5990ff8a-be1c-4485-a18d-1eb64db342e3",
@@ -621,7 +634,14 @@
   },
   {
     "resourceId": "5ec8e410-2180-4a1a-87c2-30e68a684555",
-    "comments": []
+    "comments": [
+      {
+        "id": "mkyryml7t",
+        "author": "Adrien Wartelle",
+        "content": "Proposition: Ratio of production rate over maximal production rate infered by the bottleneck of a system",
+        "timestamp": "2025-04-23T09:37:26.512Z"
+      }
+    ]
   },
   {
     "resourceId": "763f9faa-f1e1-4265-ae07-b65eafc9b570",
