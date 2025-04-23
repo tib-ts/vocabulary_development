@@ -1399,8 +1399,8 @@
 <https://example.com#9d5127e5-88ec-4df3-9d31-0d93b6711860> rdf:type rdfs:Resource;
     dcterms:identifier "9d5127e5-88ec-4df3-9d31-0d93b6711860";
     rdfs:label "Wafer Fabrication";
-    skos:altLabel "Wafer Production";
-    dcterms:description "The process of creating semiconductor wafers through various stages, including crystal growth, slicing, and polishing.";
+    skos:altLabel "Wafer Production", "Wafer Manufacturing";
+    dcterms:description "The process of creating semiconductor wafers through various stages, including crystal growth, slicing, and polishing. Generally performed in a Front End wafer fab.";
     ex:status "draft";
     dcterms:created "2025-02-10"^^xsd:date.
 <https://example.com#80321df7-2b8b-4636-9e5a-cdc45e935263> rdf:type rdfs:Resource;
