@@ -208,6 +208,7 @@
 <https://example.com#0c8d7d97-2f0c-489e-9820-ee8647850254> rdf:type rdfs:Resource;
     dcterms:identifier "0c8d7d97-2f0c-489e-9820-ee8647850254";
     rdfs:label "Front End";
+    skos:altLabel "Front End fabrication factory", "wafer fab";
     dcterms:description "In semiconductor manufacturing, the fabrication process in which the integrated circuit is formed in and on the wafer. Compare back end.";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     ex:status "draft";
