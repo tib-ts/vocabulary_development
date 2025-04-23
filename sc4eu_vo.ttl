@@ -266,6 +266,7 @@
 <https://example.com#dd1eb576-d83b-4d0d-ac05-d8d09d0e1264> rdf:type rdfs:Resource;
     dcterms:identifier "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264";
     rdfs:label "Bill Of Material";
+    skos:altLabel "BOM";
     dcterms:description "A BILL OF MATERIALS (BOM) describes the component products used to make another product. Substitution, often associated with binning, is based on the possibility that alternative items might be used to finish a process step.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Bill_Of_Material";
     ex:status "draft";
