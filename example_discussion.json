@@ -663,7 +663,14 @@
   },
   {
     "resourceId": "2aff4e35-8f80-4b3d-95f7-9b27b39cbef5",
-    "comments": []
+    "comments": [
+      {
+        "id": "zcmbzt0yb",
+        "author": "System ADMIN",
+        "content": "testing comment in example discussion json, from local mark's",
+        "timestamp": "2025-04-23T10:32:46.189Z"
+      }
+    ]
   },
   {
     "resourceId": "de4cfbaf-964f-4eb0-a155-c9f66340d260",
