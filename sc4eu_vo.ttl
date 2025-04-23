@@ -1433,3 +1433,9 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Priority_Class";
     ex:status "draft";
     dcterms:created "2025-04-23"^^xsd:date.
+<https://example.com#14338e58-88a2-4ba3-b221-ae1b3e29b3b1> rdf:type rdfs:Resource;
+    dcterms:identifier "14338e58-88a2-4ba3-b221-ae1b3e29b3b1";
+    rdfs:label "Cycle time";
+    dcterms:description "In semiconductor manufacturing, corresponds to the delay time between the release of the lot in a wafer fab and its completion, including or not back end stages.";
+    ex:status "draft";
+    dcterms:created "2025-04-23"^^xsd:date.
