@@ -675,7 +675,16 @@
         "author": "System ADMIN",
         "content": "@mark testing user mentioning in a comment",
         "timestamp": "2025-04-23T14:12:06.990Z"
+      },
+      {
+        "id": "eqdicdlc0",
+        "author": "System ADMIN",
+        "content": "@mark mentioning new json-field",
+        "timestamp": "2025-04-23T16:09:53.590Z"
       }
+    ],
+    "mentionedUsers": [
+      "mark"
     ]
   },
   {
