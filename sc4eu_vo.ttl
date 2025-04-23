@@ -1412,3 +1412,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Lithography";
     ex:status "draft";
     dcterms:created "2025-02-10"^^xsd:date.
+<https://example.com#34e92c1c-7f7d-49ed-99fc-195e187f3c9c> rdf:type rdfs:Resource;
+    dcterms:identifier "34e92c1c-7f7d-49ed-99fc-195e187f3c9c";
+    rdfs:label "Lot";
+    dcterms:description "The Lot represents manufacturing unit (e.g. in the semicondutor industry in Frontend this often consists of 25 or 50 wafers).";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Lot";
+    ex:status "draft";
+    dcterms:created "2025-04-23"^^xsd:date.
