@@ -1419,3 +1419,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Lot";
     ex:status "draft";
     dcterms:created "2025-04-23"^^xsd:date.
+<https://example.com#7c211ee2-4ec3-4bc9-9286-8c657a099e27> rdf:type rdfs:Resource;
+    dcterms:identifier "7c211ee2-4ec3-4bc9-9286-8c657a099e27";
+    rdfs:label "Hot";
+    dcterms:description "These lots are processed after a certain maximum waiting time which is shorter than the maximum waiting time of standard lots. In general, for all classes, if there is more than one product type waiting.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Hot";
+    ex:status "draft";
+    dcterms:created "2025-04-23"^^xsd:date.
