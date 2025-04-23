@@ -669,6 +669,12 @@
         "author": "System ADMIN",
         "content": "testing comment in example discussion json, from local mark's",
         "timestamp": "2025-04-23T10:32:46.189Z"
+      },
+      {
+        "id": "iz74yj960",
+        "author": "System ADMIN",
+        "content": "@mark testing user mentioning in a comment",
+        "timestamp": "2025-04-23T14:12:06.990Z"
       }
     ]
   },
