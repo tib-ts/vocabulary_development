@@ -1426,3 +1426,10 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Hot";
     ex:status "draft";
     dcterms:created "2025-04-23"^^xsd:date.
+<https://example.com#701d4e26-20a8-46f6-bafb-7b7a11e3b91f> rdf:type rdfs:Resource;
+    dcterms:identifier "701d4e26-20a8-46f6-bafb-7b7a11e3b91f";
+    rdfs:label "Priority Class";
+    dcterms:description "Each lot is characterized by a product type and a priority class. Example list of potential priority classes : low, standard, medium, hot, super hot.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Priority_Class";
+    ex:status "draft";
+    dcterms:created "2025-04-23"^^xsd:date.
