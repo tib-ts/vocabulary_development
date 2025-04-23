@@ -215,7 +215,8 @@
 <https://example.com#86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82> rdf:type rdfs:Resource;
     dcterms:identifier "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82";
     rdfs:label "Back End";
-    dcterms:description "In semiconductor manufacturing, the package, assembly and test stages of production. Includes burn-in and environmental test functions. Compare front end.";
+    skos:altLabel "Back End Factory", "Back End Fab";
+    dcterms:description "In semiconductor manufacturing, it contains the last stages of production with the package, assembly and test stages. Includes burn-in and environmental test functions. Back End stages implement the production from Front End stages.  Back End and Front End are generally performed in two distinct factories (fab).";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
