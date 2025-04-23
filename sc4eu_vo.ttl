@@ -1407,6 +1407,7 @@
 <https://example.com#80321df7-2b8b-4636-9e5a-cdc45e935263> rdf:type rdfs:Resource;
     dcterms:identifier "80321df7-2b8b-4636-9e5a-cdc45e935263";
     rdfs:label "Lithography";
+    skos:altLabel "Photolithography";
     dcterms:description "The lithography process is the key process in frontend. This consists of the following steps: a photo resisting layer is spun on a wafer, then exposed through the mask, then developed, then showing the effect on the open places, and then final deletion of the photo resisting material leaves only the remaining structure on the water. after some time for deposition, these steps are repeated up to 35 times.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SO%23Lithography";
     ex:status "draft";
