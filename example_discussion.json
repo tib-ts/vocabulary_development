@@ -465,7 +465,17 @@
   },
   {
     "resourceId": "f452a6e2-b533-4a5a-8b36-60d2115d63e3",
-    "comments": []
+    "comments": [
+      {
+        "id": "bpysvl8gs",
+        "author": "System ADMIN",
+        "content": "@mark testing multiple mentions",
+        "timestamp": "2025-04-24T10:31:16.944Z"
+      }
+    ],
+    "mentionedUsers": [
+      "mark"
+    ]
   },
   {
     "resourceId": "7044e261-e6af-4aea-8515-ca1771b4ce60",
@@ -781,7 +791,17 @@
   },
   {
     "resourceId": "d72bc058-65ba-4312-a78e-ca69a3dce947",
-    "comments": []
+    "comments": [
+      {
+        "id": "t4pj1nvh3",
+        "author": "System ADMIN",
+        "content": "@mark multiple mentions",
+        "timestamp": "2025-04-24T10:31:28.388Z"
+      }
+    ],
+    "mentionedUsers": [
+      "mark"
+    ]
   },
   {
     "resourceId": "a000906b-76cd-4062-a61d-37a701dd1e99",
