@@ -823,7 +823,15 @@
   },
   {
     "resourceId": "e41e8cf4-eb87-4509-9014-42da7a5e7d07",
-    "comments": []
+    "comments": [
+      {
+        "id": "4mbxzb7fa",
+        "author": "System ADMIN",
+        "content": "@System ADMIN admin mentioned\n@mark user mentioned",
+        "timestamp": "2025-05-16T11:57:39.316Z",
+        "mentionedUsers": []
+      }
+    ]
   },
   {
     "resourceId": "7f3329e8-301e-43f1-b5ba-43c4aee22ddd",
