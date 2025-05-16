@@ -837,6 +837,15 @@
         "content": "@System ADMIN new comment",
         "timestamp": "2025-05-16T12:00:45.813Z",
         "mentionedUsers": []
+      },
+      {
+        "id": "0x1jchs4k",
+        "author": "System ADMIN",
+        "content": "@mark normal user mentioned",
+        "timestamp": "2025-05-16T12:06:02.419Z",
+        "mentionedUsers": [
+          null
+        ]
       }
     ]
   },
