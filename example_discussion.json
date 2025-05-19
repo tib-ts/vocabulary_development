@@ -1231,6 +1231,16 @@
         "author": "System ADMIN",
         "content": "Term proposed by @Robert",
         "timestamp": "2025-01-09T15:38:04.030Z"
+      },
+      {
+        "id": "mu3br9m5x",
+        "author": "System ADMIN",
+        "content": "@David check the latest updates for this term, @Mark create draft with new fixes",
+        "timestamp": "2025-05-19T15:23:39.651Z",
+        "mentionedUsers": [
+          "David",
+          "Mark"
+        ]
       }
     ]
   }
