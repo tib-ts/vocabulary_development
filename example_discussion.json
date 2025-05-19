@@ -813,10 +813,16 @@
         "author": "System ADMIN",
         "content": "@mark multiple mentions",
         "timestamp": "2025-04-24T10:31:28.388Z"
+      },
+      {
+        "id": "3d9modh5x",
+        "author": "David",
+        "content": "@System ADMIN table was used in Eurostat portal",
+        "timestamp": "2025-05-19T22:11:32.547Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ]
       }
-    ],
-    "mentionedUsers": [
-      "mark"
     ]
   },
   {
