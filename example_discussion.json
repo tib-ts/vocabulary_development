@@ -822,6 +822,15 @@
         "mentionedUsers": [
           "System ADMIN"
         ]
+      },
+      {
+        "id": "wmileoqhr",
+        "author": "Mark",
+        "content": "@System ADMIN My old user was mentioned in a previous comment. Mention this one from now on.",
+        "timestamp": "2025-05-21T09:16:45.329Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ]
       }
     ]
   },
@@ -1269,6 +1278,15 @@
         "author": "System ADMIN",
         "content": "another comment without mentioning.",
         "timestamp": "2025-05-19T18:46:32.711Z"
+      },
+      {
+        "id": "x9zyohfzi",
+        "author": "Mark",
+        "content": "@System ADMIN Okay, I would have a look.",
+        "timestamp": "2025-05-21T09:16:11.825Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ]
       }
     ]
   }
