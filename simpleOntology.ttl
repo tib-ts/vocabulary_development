@@ -9,7 +9,7 @@
 
 :Person a owl:Class ;
     rdfs:label "Person" ;
-    rdfs:comment "A human being with Dignity fawad Khan yousafzai is a great guy" .
+    rdfs:comment "A human being with Dignity fawad Khan yousafzai is a great guy and is a nice guy too" .
 
 :Book a owl:Class ;
     rdfs:label "Book" ;
