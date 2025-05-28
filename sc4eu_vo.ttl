@@ -1440,3 +1440,10 @@
     dcterms:description "In semiconductor manufacturing, corresponds to the delay time between the release of the lot in a wafer fab and its completion, including or not back end stages.";
     ex:status "draft";
     dcterms:created "2025-04-23"^^xsd:date.
+<https://example.com#93ec6f6b-e777-4f34-846c-ea57a9ae0967> rdf:type rdfs:Resource;
+    dcterms:identifier "93ec6f6b-e777-4f34-846c-ea57a9ae0967";
+    rdfs:label "Supply Chain";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Chain";
+    ex:status "draft";
+    dcterms:created "2025-05-28"^^xsd:date.
