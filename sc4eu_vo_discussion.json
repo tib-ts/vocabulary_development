@@ -339,7 +339,17 @@
   },
   {
     "resourceId": "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264",
-    "comments": []
+    "comments": [
+      {
+        "id": "77bfm3lby",
+        "author": "felix",
+        "content": "@Felix Engel",
+        "timestamp": "2025-05-28T06:06:28.857Z",
+        "mentionedUsers": [
+          "Felix Engel"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "268e91b4-77f7-4a77-a41d-5ce3bb322524",
