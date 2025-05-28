@@ -871,6 +871,12 @@
         "mentionedUsers": [
           null
         ]
+      },
+      {
+        "id": "42j870r98",
+        "author": "System ADMIN",
+        "content": "@David Check if you will have mentions button colour updated",
+        "timestamp": "2025-05-28T09:20:24.372Z"
       }
     ]
   },
