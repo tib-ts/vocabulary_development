@@ -1447,3 +1447,9 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Chain";
     ex:status "draft";
     dcterms:created "2025-05-28"^^xsd:date.
+<https://example.com#1a2b8640-1c0c-4a65-9414-21b67a2abc0e> rdf:type rdfs:Resource;
+    dcterms:identifier "1a2b8640-1c0c-4a65-9414-21b67a2abc0e";
+    rdfs:label "Test";
+    dcterms:description "just a test";
+    ex:status "draft";
+    dcterms:created "2025-06-03"^^xsd:date.
