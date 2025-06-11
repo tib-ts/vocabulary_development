@@ -1453,3 +1453,10 @@
     dcterms:description "just a test";
     ex:status "draft";
     dcterms:created "2025-06-03"^^xsd:date.
+<https://example.com#814868c5-de51-4166-a338-8e64be239c82> rdf:type rdfs:Resource;
+    dcterms:identifier "814868c5-de51-4166-a338-8e64be239c82";
+    rdfs:label "inventory";
+    dcterms:description "Semi-finished goods are products that have undergone some processing but require further manufacturing or assembly before they are ready for sale as finished goods.";
+    rdfs:seeAlso "Finished goods";
+    ex:status "draft";
+    dcterms:created "2025-06-11"^^xsd:date.
