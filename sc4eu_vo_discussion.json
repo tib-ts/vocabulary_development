@@ -1311,7 +1311,14 @@
   },
   {
     "resourceId": "74d20cab-563a-4e9a-882b-a08c3bda856b",
-    "comments": []
+    "comments": [
+      {
+        "id": "kjthfwny0",
+        "author": "Claude Yugma",
+        "content": "A supply chain is the network of organizations, resources, activities, and technologies involved in the production and delivery of a product from raw materials to the final customer. Supply chain management issues have become increasingly important to the semiconductor industry due to the global distribution of facilities and increasing numbers of firms specialising in particular stages.",
+        "timestamp": "2025-06-23T11:09:30.563Z"
+      }
+    ]
   },
   {
     "resourceId": "d3da1b03-7392-4203-be3d-3a3173e6857e",
