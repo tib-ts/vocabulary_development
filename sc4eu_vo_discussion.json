@@ -712,6 +712,12 @@
         "author": "Claude Yugma",
         "content": "Supply-demand match refers to the alignment between what is available (supply) and what is needed (demand), considering timing, quantities, and product configurations.\nIn constrained environments, this matching process often requires optimization to balance competing priorities, such as customer service level and inventory efficiency.",
         "timestamp": "2025-06-23T11:00:40.812Z"
+      },
+      {
+        "id": "buowgk9mz",
+        "author": "Claude Yugma",
+        "content": "The supply picture is a representation of the total available and projected supply both inventory and production over a planning horizon.\nIt provides visibility for planners to assess whether and how current and planned supply can meet demand.",
+        "timestamp": "2025-06-23T11:01:08.338Z"
       }
     ]
   },
@@ -721,7 +727,14 @@
   },
   {
     "resourceId": "aa266f71-b4da-4673-8fa6-117fb0aa52f7",
-    "comments": []
+    "comments": [
+      {
+        "id": "juo9dxl92",
+        "author": "Claude Yugma",
+        "content": "A target refers to a defined objective or performance goal in the supply chain such as desired inventory levels, service levels, or utilization rates.\nTargets guide decision-making in planning, allocation, and scheduling.",
+        "timestamp": "2025-06-23T11:01:36.189Z"
+      }
+    ]
   },
   {
     "resourceId": "ebb5cfcb-9199-45ef-b0ff-87916086a19a",
