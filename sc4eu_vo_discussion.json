@@ -1204,7 +1204,14 @@
   },
   {
     "resourceId": "f8185dab-ab3a-4d20-a90e-7710647595d3",
-    "comments": []
+    "comments": [
+      {
+        "id": "zon2c2mzs",
+        "author": "Claude Yugma",
+        "content": "It is a quantifiable indicator used to evaluate how effectively a semiconductor supply chain or production system is operating in terms of meeting objectives like responsiveness, efficiency, and service quality. Performance measures must reflect the objectives of the supply chain including customer service, inventory levels, response times, and capacity utilization.",
+        "timestamp": "2025-06-23T12:41:15.949Z"
+      }
+    ]
   },
   {
     "resourceId": "9e680292-5b22-43cf-bd02-51977746409b",
