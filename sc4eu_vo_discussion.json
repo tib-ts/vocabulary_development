@@ -251,6 +251,12 @@
         "author": "felix engel",
         "content": "It is somewhat lengthy, but as such hopefully explanatory ",
         "timestamp": "2024-09-05T07:25:28.708Z"
+      },
+      {
+        "id": "cabryy1ae",
+        "author": "Claude Yugma",
+        "content": "These are standardized frameworks developed by the W3C to support the development of the Semantic Web. They include RDF (Resource Description Framework), OWL (Web Ontology Language), and SPARQL (query language).\nIn the documents, these standards underpin efforts to create digitally interoperable supply chains using structured knowledge models. These concepts support advanced systems like decision support, supply chain analytics, and digital twins by enriching raw data with context and relationships.",
+        "timestamp": "2025-06-23T11:08:25.120Z"
       }
     ]
   },
