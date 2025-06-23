@@ -196,7 +196,14 @@
   },
   {
     "resourceId": "45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba",
-    "comments": []
+    "comments": [
+      {
+        "id": "w1ahfti42",
+        "author": "Claude Yugma",
+        "content": "Curation refers to the activity of cleaning, validating, or processing data within the supply chain. It ensures that data (such as orders, inventory, customers, etc.) are complete, accurate, and usable.",
+        "timestamp": "2025-06-23T10:40:52.508Z"
+      }
+    ]
   },
   {
     "resourceId": "11ed8074-8172-4007-aaee-73cee59dc5c8",
