@@ -266,6 +266,12 @@
         "author": "Robert",
         "content": "The description still does not say what a Semantic Web is. It is helping and it has a goal. It refers to a vision of linked data. But what is said vision? What are rules for handling data? \n\nAnd who is W3C? ",
         "timestamp": "2024-09-18T13:57:02.558Z"
+      },
+      {
+        "id": "y35ub1mro",
+        "author": "Claude Yugma",
+        "content": "The Semantic Web is an extension of the current web that enables data to be shared and reused across applications, enterprises, and communities by attaching meaning (semantics) to the data.\nIt plays a role in the digital reference ontologies mentioned in the documents, supporting intelligent data access and reasoning in distributed systems.",
+        "timestamp": "2025-06-23T11:07:21.119Z"
       }
     ]
   },
