@@ -427,7 +427,14 @@
   },
   {
     "resourceId": "abeb6a5c-cc98-4921-a42e-f90b6d6f9533",
-    "comments": []
+    "comments": [
+      {
+        "id": "xid20px3m",
+        "author": "Claude Yugma",
+        "content": "A chip is a small piece of semiconducting material on which an integrated circuit is embedded. Also known as a die.",
+        "timestamp": "2025-06-23T10:36:42.210Z"
+      }
+    ]
   },
   {
     "resourceId": "376d968c-83f7-44fa-9470-e4c0bc0cc5ee",
