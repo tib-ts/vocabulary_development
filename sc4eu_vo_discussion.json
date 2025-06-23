@@ -135,7 +135,14 @@
   },
   {
     "resourceId": "96e3059c-540c-4b03-b13c-71573c598596",
-    "comments": []
+    "comments": [
+      {
+        "id": "7hhgimdnt",
+        "author": "Claude Yugma",
+        "content": "The bullwhip effect refers to demand distortions that amplify as information moves upstream in the supply chain, often due to forecast updates, order batching, and demand signal processing.",
+        "timestamp": "2025-06-23T10:35:02.801Z"
+      }
+    ]
   },
   {
     "resourceId": "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0",
@@ -455,6 +462,12 @@
         "author": "felix",
         "content": "I have added the Term on the behalf of Maxi Udenio",
         "timestamp": "2024-09-09T12:11:18.875Z"
+      },
+      {
+        "id": "od11qps0h",
+        "author": "Claude Yugma",
+        "content": "In this context, the business cycle refers to the periodic fluctuations in economic activity, which influence semiconductor demand due to their sensitivity to consumer electronics and industrial investment.",
+        "timestamp": "2025-06-23T10:35:32.725Z"
       }
     ]
   },
