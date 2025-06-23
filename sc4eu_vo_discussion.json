@@ -1300,7 +1300,14 @@
   },
   {
     "resourceId": "9d5127e5-88ec-4df3-9d31-0d93b6711860",
-    "comments": []
+    "comments": [
+      {
+        "id": "vo0n6bxbb",
+        "author": "Claude Yugma",
+        "content": "Wafer fabrication is the core front-end process in semiconductor manufacturing where integrated circuits (ICs) are created on the surface of silicon wafers. It is also seen as the process by which ICs are produced is one of the most complex technological achievements of the twentieth century… A CMOS manufacturing process of even modest complexity can involve hundreds of unit operations, up to forty layers of material, several hundred individual pieces of production equipment (referred to as tools), and average cycle times of the order of 10–15 weeks",
+        "timestamp": "2025-06-23T10:57:07.987Z"
+      }
+    ]
   },
   {
     "resourceId": "80321df7-2b8b-4636-9e5a-cdc45e935263",
