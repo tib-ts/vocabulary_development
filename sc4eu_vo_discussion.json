@@ -1147,7 +1147,14 @@
   },
   {
     "resourceId": "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4",
-    "comments": []
+    "comments": [
+      {
+        "id": "lv4sm2axk",
+        "author": "Claude Yugma",
+        "content": "Demand fulfilment refers to the set of processes by which a company responds to customer demand by delivering products or services. In the semiconductor supply chain, it includes order promising, product allocation, scheduling, and ensuring timely delivery.\nIt represents the interface between the supply chain and external customers, ensuring that demand is met in accordance with business rules and available resources. It represents the interface between the supply chain and its external customers.”\nIt also connects closely with Available to Promise (ATP) mechanisms that decide what can be committed to customers based on current and projected inventory and capacity.",
+        "timestamp": "2025-06-23T10:45:41.605Z"
+      }
+    ]
   },
   {
     "resourceId": "4da75d3b-5cab-46a0-a07d-c9a62cfcf6ae",
