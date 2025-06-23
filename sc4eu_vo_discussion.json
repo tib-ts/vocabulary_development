@@ -864,7 +864,14 @@
   },
   {
     "resourceId": "52362a0d-517b-4d41-969c-dd4c47a657e4",
-    "comments": []
+    "comments": [
+      {
+        "id": "zkauavqy6",
+        "author": "Claude Yugma",
+        "content": "In the supply chain context, time is a key dimension across all planning activities, representing lead times, cycle times, delivery windows, and time fences for freezing plans.\nTime is often segmented into discrete buckets (e.g., daily, weekly, monthly) for operational and strategic planning.",
+        "timestamp": "2025-06-23T11:02:58.974Z"
+      }
+    ]
   },
   {
     "resourceId": "a3a6033c-6eb2-459d-b60d-7898b1fde5d6",
