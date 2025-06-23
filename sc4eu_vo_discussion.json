@@ -300,7 +300,14 @@
   },
   {
     "resourceId": "0c8d7d97-2f0c-489e-9820-ee8647850254",
-    "comments": []
+    "comments": [
+      {
+        "id": "mkfrzerrr",
+        "author": "Claude Yugma",
+        "content": "Front end\" refers to the initial phases of the production process, primarily wafer fabrication and wafer probe.\nThese stages involve creating the integrated circuits on silicon wafers using processes like photolithography, doping, etching, and deposition. Wafer fabrication and probe are generally referred to as front-end operations.",
+        "timestamp": "2025-06-23T10:55:57.619Z"
+      }
+    ]
   },
   {
     "resourceId": "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82",
