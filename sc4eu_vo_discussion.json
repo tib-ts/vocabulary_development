@@ -521,7 +521,14 @@
   },
   {
     "resourceId": "73d4e9a6-26b1-46be-ba9d-76886361c851",
-    "comments": []
+    "comments": [
+      {
+        "id": "y8w4hptw8",
+        "author": "Claude Yugma",
+        "content": "Customer logistics management refers to the processes related to delivery, transport, planning, and coordination with customers to ensure high service levels.",
+        "timestamp": "2025-06-23T10:43:02.604Z"
+      }
+    ]
   },
   {
     "resourceId": "71fabe0a-bb3f-4e93-83df-daa77c1eb6be",
@@ -1121,7 +1128,14 @@
   },
   {
     "resourceId": "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694",
-    "comments": []
+    "comments": [
+      {
+        "id": "rb3vcdyr5",
+        "author": "Claude Yugma",
+        "content": "Demand represents the quantity of products requested by customers. It can be firm (confirmed orders) or forecast-based. It is a critical driver in supply chain operations.",
+        "timestamp": "2025-06-23T10:43:30.940Z"
+      }
+    ]
   },
   {
     "resourceId": "214b7225-5bb1-4956-ab58-f63175c4446b",
