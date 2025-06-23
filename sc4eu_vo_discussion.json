@@ -211,6 +211,12 @@
         "author": "felix engel",
         "content": "I have added a definition that describes how I would define the term. Any feedback on it?",
         "timestamp": "2024-09-03T06:16:46.108Z"
+      },
+      {
+        "id": "ae3huf8qd",
+        "author": "Claude Yugma",
+        "content": "Semantic technology refers to a set of technologies that enable machines to understand, interpret, and reason about data through its meaning rather than just its structure.\nIn the semiconductor supply chain context, semantic technologies help integrate diverse data sources, improve interoperability, and support decision-making by linking data through shared vocabularies and ontologies.",
+        "timestamp": "2025-06-23T11:06:39.487Z"
       }
     ]
   },
