@@ -909,7 +909,14 @@
   },
   {
     "resourceId": "b06c0614-d923-44c2-8130-fbafe16e6871",
-    "comments": []
+    "comments": [
+      {
+        "id": "vrlc3obpq",
+        "author": "Claude Yugma",
+        "content": "Customer data includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.",
+        "timestamp": "2025-06-23T10:42:36.525Z"
+      }
+    ]
   },
   {
     "resourceId": "641e8ab9-516d-4a29-b6f5-efd07781d59a",
