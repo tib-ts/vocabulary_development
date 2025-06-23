@@ -462,7 +462,14 @@
   },
   {
     "resourceId": "e655023c-d74f-410a-92f8-8d600cd72d96",
-    "comments": []
+    "comments": [
+      {
+        "id": "dttcv8scn",
+        "author": "Claude Yugma",
+        "content": "A die bank is a stock of tested but unpackaged semiconductor dies stored after wafer dicing, enabling flexibility in packaging and fulfillment.",
+        "timestamp": "2025-06-23T10:53:17.635Z"
+      }
+    ]
   },
   {
     "resourceId": "68392d7e-0253-4edc-96ef-d6f9c8306649",
