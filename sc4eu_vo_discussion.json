@@ -285,6 +285,12 @@
         "author": "Robert",
         "content": "\"A semiconductor fabrication plant (commonly called a fab; sometimes foundry) is a factory for semiconductor device fabrication.\" (wiki). This is correct in my view. The DR description is nonsense.",
         "timestamp": "2024-11-05T09:47:16.270Z"
+      },
+      {
+        "id": "67on7fhf9",
+        "author": "Claude Yugma",
+        "content": "A fab (short for fabrication plant) is a manufacturing facility where semiconductor wafers are processed to produce integrated circuits.",
+        "timestamp": "2025-06-23T10:54:18.841Z"
       }
     ]
   },
