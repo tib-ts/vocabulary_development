@@ -636,7 +636,14 @@
   },
   {
     "resourceId": "059720b0-2438-47d0-a07d-14350ba1580c",
-    "comments": []
+    "comments": [
+      {
+        "id": "7rlfxoclx",
+        "author": "Claude Yugma",
+        "content": "Planning refers to the set of activities aimed at aligning supply capabilities with demand requirements over different time horizons, under constraints of capacity, material availability, and manufacturing lead times. Planning activities attempt to reconcile the demand picture with the supply picture to ensure delivery of committed products and optimize fab performance.",
+        "timestamp": "2025-06-23T12:38:15.247Z"
+      }
+    ]
   },
   {
     "resourceId": "890da0b3-74ae-451c-9de6-59557917c973",
