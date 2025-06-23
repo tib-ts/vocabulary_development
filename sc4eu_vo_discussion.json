@@ -983,7 +983,14 @@
   },
   {
     "resourceId": "7890d77b-1e10-4c81-888a-0622259f7ac8",
-    "comments": []
+    "comments": [
+      {
+        "id": "78x6okqgl",
+        "author": "Claude Yugma",
+        "content": "AATP represents a portion of available inventory or future production that is reserved for specific customers or markets, and is a key element in managing customer commitments under constrained supply.",
+        "timestamp": "2025-06-23T10:31:26.136Z"
+      }
+    ]
   },
   {
     "resourceId": "0668f213-be24-471a-8d85-ced08ac329d7",
