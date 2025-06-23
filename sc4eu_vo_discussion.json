@@ -85,7 +85,14 @@
   },
   {
     "resourceId": "f47de173-cd8e-48c7-8d39-906648d3aef2",
-    "comments": []
+    "comments": [
+      {
+        "id": "peltaa1wt",
+        "author": "Claude Yugma",
+        "content": "This represents the number of days, weeks, or months of future demand that the desired inventory level is expected to cover.",
+        "timestamp": "2025-06-23T10:51:27.425Z"
+      }
+    ]
   },
   {
     "resourceId": "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a",
