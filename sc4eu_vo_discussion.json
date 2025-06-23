@@ -706,7 +706,14 @@
   },
   {
     "resourceId": "b7277f2f-cef0-4188-81b8-be78f4869e56",
-    "comments": []
+    "comments": [
+      {
+        "id": "r2jmsl5tz",
+        "author": "Claude Yugma",
+        "content": "Supply-demand match refers to the alignment between what is available (supply) and what is needed (demand), considering timing, quantities, and product configurations.\nIn constrained environments, this matching process often requires optimization to balance competing priorities, such as customer service level and inventory efficiency.",
+        "timestamp": "2025-06-23T11:00:40.812Z"
+      }
+    ]
   },
   {
     "resourceId": "20aa6325-719a-4666-81f6-6d055ee97527",
