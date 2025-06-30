@@ -833,6 +833,15 @@
         "author": "System ADMIN",
         "content": "the status for this term is rejected",
         "timestamp": "2025-06-17T15:16:01.064Z"
+      },
+      {
+        "id": "i7676af35",
+        "author": "Felix Engel",
+        "content": "@Fawad Khan Test",
+        "timestamp": "2025-06-30T09:52:30.476Z",
+        "mentionedUsers": [
+          "Fawad Khan"
+        ]
       }
     ]
   },
