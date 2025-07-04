@@ -433,6 +433,15 @@
         "author": "Claude Yugma",
         "content": "A BoM is a comprehensive list of raw materials, components, and assemblies required to build a product.",
         "timestamp": "2025-06-23T10:33:29.556Z"
+      },
+      {
+        "id": "n3xvd3r7c",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma ok, you propose to shorten or generalise the description?",
+        "timestamp": "2025-07-04T08:33:09.428Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
       }
     ]
   },
