@@ -1472,8 +1472,9 @@
 <https://example.com#0310761d-c985-4533-9ab9-710aa1303f86> rdf:type rdfs:Resource;
     dcterms:identifier "0310761d-c985-4533-9ab9-710aa1303f86";
     rdfs:label "Production Strategy";
+    skos:altLabel "_DR sc";
     dcterms:description "additional lobes: Semiaconductor Production";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Production_Strategy";
     ex:status "draft";
     dcterms:created "2025-07-29"^^xsd:date;
-    dcterms:modified "2025-07-29T08:40:04.555Z"^^xsd:dateTime.
+    dcterms:modified "2025-07-29T08:41:08.762Z"^^xsd:dateTime.
