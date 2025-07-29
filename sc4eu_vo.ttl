@@ -1496,3 +1496,12 @@
     ex:status "draft";
     dcterms:created "2025-07-29"^^xsd:date;
     dcterms:modified "2025-07-29T08:57:08.721Z"^^xsd:dateTime.
+<https://example.com#5879558b-dfd0-4a66-9fba-2a6fb31f1a8b> rdf:type rdfs:Resource;
+    dcterms:identifier "5879558b-dfd0-4a66-9fba-2a6fb31f1a8b";
+    rdfs:label "Supply Information";
+    skos:altLabel "_DR sc";
+    dcterms:description "Additional lobe: Planning";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Supply_Information";
+    ex:status "draft";
+    dcterms:created "2025-07-29"^^xsd:date;
+    dcterms:modified "2025-07-29T09:16:52.921Z"^^xsd:dateTime.
