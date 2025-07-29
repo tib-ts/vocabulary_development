@@ -1463,8 +1463,9 @@
 <https://example.com#bdff7487-8f92-4747-9aef-597213c091be> rdf:type rdfs:Resource;
     dcterms:identifier "bdff7487-8f92-4747-9aef-597213c091be";
     rdfs:label "Demand Priority";
+    skos:altLabel "_DR sc";
     dcterms:description "This concept is used to describe the different importance level of a demand. The demand priority can be assigned independently from the demand class.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand_Priority";
     ex:status "draft";
     dcterms:created "2025-07-29"^^xsd:date;
-    dcterms:modified "2025-07-29T08:02:10.064Z"^^xsd:dateTime.
+    dcterms:modified "2025-07-29T08:03:04.331Z"^^xsd:dateTime.
