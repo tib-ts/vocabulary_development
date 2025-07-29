@@ -1487,3 +1487,12 @@
     ex:status "draft";
     dcterms:created "2025-07-29"^^xsd:date;
     dcterms:modified "2025-07-29T08:48:53.979Z"^^xsd:dateTime.
+<https://example.com#7a67f2e6-c1cc-4438-af89-eb0e6b157f13> rdf:type rdfs:Resource;
+    dcterms:identifier "7a67f2e6-c1cc-4438-af89-eb0e6b157f13";
+    rdfs:label "Supply Contract";
+    skos:altLabel "_DR sc";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Contract";
+    ex:status "draft";
+    dcterms:created "2025-07-29"^^xsd:date;
+    dcterms:modified "2025-07-29T08:57:08.721Z"^^xsd:dateTime.
