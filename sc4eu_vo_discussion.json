@@ -451,6 +451,15 @@
         "mentionedUsers": [
           "Claude Yugma"
         ]
+      },
+      {
+        "id": "2ktbhr908",
+        "author": "Felix Engel",
+        "content": "@Marta Claude proposed a different definition. Are you ok with a replacement?",
+        "timestamp": "2025-09-02T11:58:48.376Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
       }
     ]
   },
