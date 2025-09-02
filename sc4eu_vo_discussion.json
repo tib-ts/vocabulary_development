@@ -1330,6 +1330,15 @@
         "author": "Felix Engel",
         "content": "There is another Term with exact same Label. We should establish a distinct vocabulary. Can someone come up with a proposal for better fit for the Label?",
         "timestamp": "2025-09-02T11:54:18.474Z"
+      },
+      {
+        "id": "g41mbc986",
+        "author": "Felix Engel",
+        "content": "@Marta",
+        "timestamp": "2025-09-02T12:27:51.420Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
       }
     ]
   },
