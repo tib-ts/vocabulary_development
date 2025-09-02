@@ -349,6 +349,15 @@
         "author": "Claude Yugma",
         "content": "efers to the assembly and test stages of semiconductor manufacturing, typically occurring after wafer fabrication (front end).",
         "timestamp": "2025-06-23T10:32:18.664Z"
+      },
+      {
+        "id": "vzqwecixs",
+        "author": "Felix Engel",
+        "content": "@Robert Claude has proposed another definition of Back End. Are you ok with this?",
+        "timestamp": "2025-09-02T11:50:32.727Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
