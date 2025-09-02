@@ -321,11 +321,11 @@
 <https://example.com#d0600216-6f78-4976-a660-a3066baae7da> rdf:type rdfs:Resource;
     dcterms:identifier "d0600216-6f78-4976-a660-a3066baae7da";
     rdfs:label "Borderless Fab Setting";
-    dcterms:description "@Not defined yet";
+    dcterms:description "A strategy in which semiconductor companies use a globally distributed network of fabs and subcontractors without geographical constraints to increase flexibility and resiliency.";
     rdfs:seeAlso "N/A";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:34:47.074Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-02T12:50:55.790Z"^^xsd:dateTime.
 <https://example.com#8be0ebc9-cbee-4ebd-9a54-feb7366b65dc> rdf:type rdfs:Resource;
     dcterms:identifier "8be0ebc9-cbee-4ebd-9a54-feb7366b65dc";
     rdfs:label "Base Wafers";
