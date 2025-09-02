@@ -497,6 +497,16 @@
         "author": "Claude Yugma",
         "content": "A strategy in which semiconductor companies use a globally distributed network of fabs and subcontractors without geographical constraints to increase flexibility and resiliency.",
         "timestamp": "2025-06-23T10:34:47.074Z"
+      },
+      {
+        "id": "g32ph7jo5",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma Thanks, I have added you definition. @raphael herding what is your opinion?",
+        "timestamp": "2025-09-02T12:54:46.292Z",
+        "mentionedUsers": [
+          "Claude Yugma",
+          "raphael herding"
+        ]
       }
     ]
   },
