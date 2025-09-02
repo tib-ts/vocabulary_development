@@ -1392,7 +1392,14 @@
   },
   {
     "resourceId": "4e1b7970-cfb8-4fb8-bf11-c10ca059f418",
-    "comments": []
+    "comments": [
+      {
+        "id": "os3fv2lkg",
+        "author": "Felix Engel",
+        "content": "We have Costumer twice in our list. @Marta we need another label to distinguish those. In addition we need a proper Alternative Label",
+        "timestamp": "2025-09-02T12:57:52.068Z"
+      }
+    ]
   },
   {
     "resourceId": "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694",
