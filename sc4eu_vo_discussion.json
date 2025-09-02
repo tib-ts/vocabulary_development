@@ -1237,6 +1237,15 @@
         "mentionedUsers": [
           "Claude Yugma"
         ]
+      },
+      {
+        "id": "ejv8z3o0b",
+        "author": "Felix Engel",
+        "content": "@Marta The use of \"Alternative Label\" is wrong here. I think you wanted to say that the Term belongs do the DR Lobe \"_DR pl\", right? Can you please either remove this label or replace it by \"An alternative lexical label for a resource\"",
+        "timestamp": "2025-09-02T11:25:52.932Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
       }
     ]
   },
