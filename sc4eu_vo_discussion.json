@@ -1269,7 +1269,17 @@
   },
   {
     "resourceId": "0668f213-be24-471a-8d85-ced08ac329d7",
-    "comments": []
+    "comments": [
+      {
+        "id": "87b7b6i7o",
+        "author": "Felix Engel",
+        "content": "@Marta we need a differen Alternative Label and definition",
+        "timestamp": "2025-09-02T12:55:52.045Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "cbbe6d64-1fb0-435f-bcbd-7f4581a22539",
