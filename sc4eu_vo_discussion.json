@@ -1632,7 +1632,14 @@
   },
   {
     "resourceId": "d3da1b03-7392-4203-be3d-3a3173e6857e",
-    "comments": []
+    "comments": [
+      {
+        "id": "yd93le15e",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T10:09:26.026Z"
+      }
+    ]
   },
   {
     "resourceId": "4d933028-c44a-4557-aac5-528bd15e1ab0",
