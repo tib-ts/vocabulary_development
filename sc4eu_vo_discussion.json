@@ -379,6 +379,15 @@
         "author": "Robert",
         "content": "yes",
         "timestamp": "2025-09-03T07:06:56.660Z"
+      },
+      {
+        "id": "yosovveqj",
+        "author": "Felix Engel",
+        "content": "ok, @Robert before starting the consensus building process I will make those changes and then restart consensus",
+        "timestamp": "2025-09-03T08:25:14.284Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
