@@ -83,6 +83,12 @@
         "author": "Claude Yugma",
         "content": "True demand refers to the actual market need for a product, independent of any distortions caused by safety stocks, ordering behavior, or supply constraints.     In constrained situations, customer orders are not a good indicator of true demand.” Instead, demand visibility efforts aim to reconstruct or approximate true demand to support better planning and long-term capacity decisions . Understanding true demand is essential for: \n    Avoiding over- or under-capacity planning\n    Smoothing production schedules\n    Ensuring strategic alignment of resources",
         "timestamp": "2025-06-23T10:58:46.180Z"
+      },
+      {
+        "id": "lepe8erfu",
+        "author": "Robert",
+        "content": "@Claude. Your description is better. My description is obsolete. Latest view is that True Demand = End Market Demand",
+        "timestamp": "2025-09-03T08:36:52.939Z"
       }
     ]
   },
