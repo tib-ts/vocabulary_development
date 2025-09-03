@@ -1346,6 +1346,12 @@
         "mentionedUsers": [
           "Marta"
         ]
+      },
+      {
+        "id": "vjwyahs6d",
+        "author": "Robert",
+        "content": "@Lars: what is your definition of Performance Measure? Because you introduced this for forecast accuracy, I believe, ",
+        "timestamp": "2025-09-03T07:25:41.219Z"
       }
     ]
   },
