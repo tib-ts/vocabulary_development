@@ -264,11 +264,11 @@
 <https://example.com#b6f6559b-9d69-4128-8d20-2528a986d7cb> rdf:type rdfs:Resource;
     dcterms:identifier "b6f6559b-9d69-4128-8d20-2528a986d7cb";
     rdfs:label "NAND Type Flash Memory";
-    dcterms:description "A type of non-volatile memory medium invented in 1987 by Fujio Masuoka (then a Toshiba employee). Compared to the NOR type flash memory, NAND flash is smaller in circuit scale, less costly, and offers larger capacities as well as faster read/write speeds. NAND flash is widely used for USB drives, memory cards for digital cameras, and storage devices for mobile phones and digital music players. As conventional chip scaling technology is reaching its limits, 3D structures have been introduced in flash memory devices in recent years.";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
+    dcterms:description "A type of non-volatile memory medium invented in 1987 by Fujio Masuoka (then a Toshiba employee). Compared to the NOR type flash memory, NAND flash is smaller in circuit scale, less costly, and offers larger capacities as well as faster read/write speeds. NAND flash is widely used for USB drives, memory cards for digital cameras, and storage devices for mobile phones and digital music players. As conventional chip scaling technology is reaching its limits, 3D structures have been introduced in flash memory devices in recent years. Chips can be split in Memory (DRAM and NAND) and Logic (all others).";
+    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx; DRAM, LOGIC; MEMORY";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-03T10:17:00.692Z"^^xsd:dateTime.
 <https://example.com#378edb24-3b87-4f54-b8e2-dcc748f1a7cd> rdf:type rdfs:Resource;
     dcterms:identifier "378edb24-3b87-4f54-b8e2-dcc748f1a7cd";
     rdfs:label "Flash Memory";
@@ -1719,3 +1719,17 @@
     ex:status "draft";
     dcterms:created "2025-09-03"^^xsd:date;
     dcterms:modified "2025-09-03T10:12:59.547Z"^^xsd:dateTime.
+<https://example.com#89af3558-12f6-4d8b-a87d-06f931f19aff> rdf:type rdfs:Resource;
+    dcterms:identifier "89af3558-12f6-4d8b-a87d-06f931f19aff";
+    rdfs:label "Memory";
+    dcterms:description "Chips can be split in Memory (DRAM and NAND) and Logic (all others).";
+    ex:status "draft";
+    dcterms:created "2025-09-03"^^xsd:date;
+    dcterms:modified "2025-09-03T10:17:23.699Z"^^xsd:dateTime.
+<https://example.com#e5c532a2-9d92-4ba0-8fcd-424c066272f1> rdf:type rdfs:Resource;
+    dcterms:identifier "e5c532a2-9d92-4ba0-8fcd-424c066272f1";
+    rdfs:label "Logic";
+    dcterms:description "Chips can be split in Memory (DRAM and NAND) and Logic (all others).";
+    ex:status "draft";
+    dcterms:created "2025-09-03"^^xsd:date;
+    dcterms:modified "2025-09-03T10:17:45.210Z"^^xsd:dateTime.
