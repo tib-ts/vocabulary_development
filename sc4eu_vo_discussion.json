@@ -786,7 +786,14 @@
   },
   {
     "resourceId": "e5affe98-acd0-4072-b8ca-6585615fa17e",
-    "comments": []
+    "comments": [
+      {
+        "id": "6ptpvme7p",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:40:31.250Z"
+      }
+    ]
   },
   {
     "resourceId": "982a684c-ce5d-428a-ac96-abc0cbdacabf",
