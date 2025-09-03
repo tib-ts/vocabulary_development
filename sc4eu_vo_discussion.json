@@ -866,6 +866,12 @@
         "author": "Robert",
         "content": "delete? This is generic knowledge",
         "timestamp": "2025-09-03T07:31:20.796Z"
+      },
+      {
+        "id": "nhjncjkaf",
+        "author": "Robert",
+        "content": "If Target has a specific meaning in an ontology, that should be explained.",
+        "timestamp": "2025-09-03T08:42:02.218Z"
       }
     ]
   },
@@ -1673,6 +1679,10 @@
   },
   {
     "resourceId": "5879558b-dfd0-4a66-9fba-2a6fb31f1a8b",
+    "comments": []
+  },
+  {
+    "resourceId": "c9437d92-c7ef-4767-a8d5-5083aa88b5c1",
     "comments": []
   }
 ]
