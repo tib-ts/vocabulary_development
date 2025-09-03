@@ -705,7 +705,14 @@
   },
   {
     "resourceId": "517f5c4a-195e-4d71-9748-b81848e9a445",
-    "comments": []
+    "comments": [
+      {
+        "id": "3jcsdg6jq",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:36:38.234Z"
+      }
+    ]
   },
   {
     "resourceId": "c44016c0-d377-4a93-9f22-57bbda510700",
