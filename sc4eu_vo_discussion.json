@@ -306,6 +306,12 @@
         "author": "Claude Yugma",
         "content": "The Semantic Web is an extension of the current web that enables data to be shared and reused across applications, enterprises, and communities by attaching meaning (semantics) to the data.\nIt plays a role in the digital reference ontologies mentioned in the documents, supporting intelligent data access and reasoning in distributed systems.",
         "timestamp": "2025-06-23T11:07:21.119Z"
+      },
+      {
+        "id": "hvoyn9er4",
+        "author": "Robert",
+        "content": "Claude's description is much better. @Claude: What is the 'current web'? The www? Mentioned in which 'documents'? @Felix: Shall we add 'distributed systems' and 'intelligent data access' also to this vocabulary?",
+        "timestamp": "2025-09-03T08:48:56.035Z"
       }
     ]
   },
