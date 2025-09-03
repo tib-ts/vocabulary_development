@@ -127,10 +127,11 @@
 <https://example.com#d8c79103-75d0-45f9-a26c-cc2edb6bceb6> rdf:type rdfs:Resource;
     dcterms:identifier "d8c79103-75d0-45f9-a26c-cc2edb6bceb6";
     rdfs:label "Demand Endmarket ";
-    dcterms:description "End Market Demand (EMD) is the wish of consumers to buy products. It can be considered the end of the Supply Chain. EMD pulls product out of the chain.";
+    dcterms:description "End Market Demand (EMD) is the wish of consumers to buy products. It can be considered the end of the Supply Chain. EMD pulls product out of the chain. EMD is also referred to as True Demand.";
+    rdfs:seeAlso "EMD; True Demand; End Market Demand";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-03T08:38:56.845Z"^^xsd:dateTime.
 <https://example.com#2af7f230-5f50-4c49-810c-b3f99d447455> rdf:type rdfs:Resource;
     dcterms:identifier "2af7f230-5f50-4c49-810c-b3f99d447455";
     rdfs:label "Demand Short-Term ";
@@ -221,12 +222,11 @@
 <https://example.com#e73367f5-3971-4e94-8f95-6ce4aff94578> rdf:type rdfs:Resource;
     dcterms:identifier "e73367f5-3971-4e94-8f95-6ce4aff94578";
     rdfs:label "Fab";
-    skos:altLabel "Fabrication";
-    dcterms:description "The name of the fab producing the product. Production Area";
+    skos:altLabel "Fabrication plant; Frontend";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:54:18.841Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-03T08:54:08.631Z"^^xsd:dateTime.
 <https://example.com#527c5858-7259-4ede-804a-5c89fc8c6467> rdf:type rdfs:Resource;
     dcterms:identifier "527c5858-7259-4ede-804a-5c89fc8c6467";
     rdfs:label "Dicing";
@@ -1700,3 +1700,12 @@
     ex:status "draft";
     dcterms:created "2025-07-29"^^xsd:date;
     dcterms:modified "2025-07-29T09:16:52.921Z"^^xsd:dateTime.
+<https://example.com#c9437d92-c7ef-4767-a8d5-5083aa88b5c1> rdf:type rdfs:Resource;
+    dcterms:identifier "c9437d92-c7ef-4767-a8d5-5083aa88b5c1";
+    rdfs:label "End  Market Demand";
+    skos:altLabel "EMD; Demand Endmarket; True Demand";
+    dcterms:description "End Market Demand (EMD) is the wish of consumers to buy products. It can be considered the end of the Supply Chain. EMD pulls product out of the chain. EMD is also referred to as True Demand.";
+    rdfs:seeAlso "True Demand";
+    ex:status "draft";
+    dcterms:created "2025-09-03"^^xsd:date;
+    dcterms:modified "2025-09-03T08:40:55.158Z"^^xsd:dateTime.
