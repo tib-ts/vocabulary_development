@@ -1704,7 +1704,14 @@
   },
   {
     "resourceId": "814868c5-de51-4166-a338-8e64be239c82",
-    "comments": []
+    "comments": [
+      {
+        "id": "uk5s7rrrc",
+        "author": "Robert",
+        "content": "description is nonsense and does not belong to the label",
+        "timestamp": "2025-09-03T09:40:16.722Z"
+      }
+    ]
   },
   {
     "resourceId": "bdff7487-8f92-4747-9aef-597213c091be",
