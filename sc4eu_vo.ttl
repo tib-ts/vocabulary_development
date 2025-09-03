@@ -280,11 +280,11 @@
 <https://example.com#fe66ac5e-fd80-4a2a-b209-5c7698a31f85> rdf:type rdfs:Resource;
     dcterms:identifier "fe66ac5e-fd80-4a2a-b209-5c7698a31f85";
     rdfs:label "Node";
-    dcterms:description "@Need description";
-    rdfs:seeAlso "N/A";
+    dcterms:description "Node refers to the miniaturization level of a semiconductor, expressed in #nm. Smaller Nodes are more advanced. Originally it referred to the thickness of the smallest part of a chip. Fabs usually have a combination of tools that allow them to produce wafers of a certain Node.";
+    rdfs:seeAlso "Fab; Technology Node Group; Tool; Lithography";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-06T08:02:42.036Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-03T09:54:46.997Z"^^xsd:dateTime.
 <https://example.com#c67e3931-e4df-41c8-acf1-ef581772784c> rdf:type rdfs:Resource;
     dcterms:identifier "c67e3931-e4df-41c8-acf1-ef581772784c";
     rdfs:label "Node Technology Group";
@@ -745,11 +745,13 @@
     dcterms:modified "2024-11-20T10:05:04.910Z"^^xsd:dateTime.
 <https://example.com#f7637daf-b71b-4ced-8b54-888c21a4ed22> rdf:type rdfs:Resource;
     dcterms:identifier "f7637daf-b71b-4ced-8b54-888c21a4ed22";
-    rdfs:label "Technology node";
-    dcterms:description "to be defined";
+    rdfs:label "Technology Node Group";
+    skos:altLabel "Node; Technology Node";
+    dcterms:description "A Technology Node Group is a collection of Nodes with similar properties. For SC4EU, all possible Nodes have been segmented into 5 Technology Node Groups (short: Above180nm, Under180nm, Under65nm, Under28nm and Under7nm). As a consequence, all Fabs have been segmented in Technology Node Groups..";
+    rdfs:seeAlso "Node; Fab: Lithography";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2025-09-03T09:59:57.045Z"^^xsd:dateTime.
 <https://example.com#5ec8e410-2180-4a1a-87c2-30e68a684555> rdf:type rdfs:Resource;
     dcterms:identifier "5ec8e410-2180-4a1a-87c2-30e68a684555";
     rdfs:label "Capacity Utilization";
@@ -1709,3 +1711,11 @@
     ex:status "draft";
     dcterms:created "2025-09-03"^^xsd:date;
     dcterms:modified "2025-09-03T08:40:55.158Z"^^xsd:dateTime.
+<https://example.com#d3a651e2-505b-410f-b6b1-d7066fea75aa> rdf:type rdfs:Resource;
+    dcterms:identifier "d3a651e2-505b-410f-b6b1-d7066fea75aa";
+    rdfs:label "DRAM";
+    dcterms:description "Type of computer chip; memory, Chips can be split in Memory (DRAM and NAND) and Logic (all others)";
+    rdfs:seeAlso "NAND; LOGIC; Memory";
+    ex:status "draft";
+    dcterms:created "2025-09-03"^^xsd:date;
+    dcterms:modified "2025-09-03T10:12:59.547Z"^^xsd:dateTime.
