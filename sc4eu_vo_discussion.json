@@ -862,7 +862,14 @@
   },
   {
     "resourceId": "b833fb54-a3dd-4843-8deb-541138ef5eec",
-    "comments": []
+    "comments": [
+      {
+        "id": "z42r7g6g6",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T10:10:48.658Z"
+      }
+    ]
   },
   {
     "resourceId": "8445acc4-4300-4c9b-a9af-20994259b18f",
