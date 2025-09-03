@@ -141,6 +141,12 @@
         "author": "felix engel",
         "content": "I guess that \"Desired Utilization Rate (DUR)\" is rather a alternative label and \"See Also\". I have revised accordingly",
         "timestamp": "2024-09-06T05:27:36.181Z"
+      },
+      {
+        "id": "ksx58s0a3",
+        "author": "Robert",
+        "content": "@Felix There is Capacity, say 200 [u/t] and there is Utilization, say 160 [u/t], in which case Utilization Rate = 80%. There is a Desired Utilization Rate, say 90%, which is optimal from a plant and business point of view. Underutilization here is either 200-160 = 40 [u/t] or  (200-160)/200=20% or (180-160)/180 = 11%, depending on your definition. I go for the last. ",
+        "timestamp": "2025-09-03T10:09:07.538Z"
       }
     ]
   },
