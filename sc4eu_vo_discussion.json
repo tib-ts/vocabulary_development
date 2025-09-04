@@ -1605,6 +1605,16 @@
         "author": "Claude Yugma",
         "content": "Demand represents the quantity of products requested by customers. It can be firm (confirmed orders) or forecast-based. It is a critical driver in supply chain operations.",
         "timestamp": "2025-06-23T10:43:30.940Z"
+      },
+      {
+        "id": "fhujx6cdv",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Robert which of the two definition do you prefer? ",
+        "timestamp": "2025-09-04T06:39:13.535Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Robert"
+        ]
       }
     ]
   },
