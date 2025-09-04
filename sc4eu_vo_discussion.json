@@ -1753,6 +1753,16 @@
         "author": "Robert",
         "content": "completely unclear what this is. Delete",
         "timestamp": "2025-09-03T09:37:32.180Z"
+      },
+      {
+        "id": "c42z8c6m8",
+        "author": "Felix Engel",
+        "content": "@Robert @Marta in the Digital Reference I found the following definiton. Is it relevant for our project our not? DR: \"These lots are processed after a certain maximum waiting time which is shorter than the maximum waiting time of standard lots. In general, for all classes, if there is more than one product type waiting.\"",
+        "timestamp": "2025-09-04T06:33:34.732Z",
+        "mentionedUsers": [
+          "Robert",
+          "Marta"
+        ]
       }
     ]
   },
