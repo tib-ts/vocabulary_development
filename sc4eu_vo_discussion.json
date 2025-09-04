@@ -1010,6 +1010,16 @@
         "author": "Robert",
         "content": "description is a loop. INventory target is the target for inventory",
         "timestamp": "2025-09-03T09:38:27.698Z"
+      },
+      {
+        "id": "8zy3eoncl",
+        "author": "Felix Engel",
+        "content": "@Robert and @Maxi Udenio can you revise the definition so that it better fits?",
+        "timestamp": "2025-09-04T06:38:14.888Z",
+        "mentionedUsers": [
+          "Robert",
+          "Maxi Udenio"
+        ]
       }
     ]
   },
