@@ -147,6 +147,16 @@
         "author": "Robert",
         "content": "@Felix There is Capacity, say 200 [u/t] and there is Utilization, say 160 [u/t], in which case Utilization Rate = 80%. There is a Desired Utilization Rate, say 90%, which is optimal from a plant and business point of view. Underutilization here is either 200-160 = 40 [u/t] or  (200-160)/200=20% or (180-160)/180 = 11%, depending on your definition. I go for the last. ",
         "timestamp": "2025-09-03T10:09:07.538Z"
+      },
+      {
+        "id": "hu8ckgaq9",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Robert so I guess the definition needs to be adapted? Or maybe the Alternative Lable as well?",
+        "timestamp": "2025-09-04T06:36:34.858Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Robert"
+        ]
       }
     ]
   },
