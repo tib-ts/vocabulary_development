@@ -1734,6 +1734,15 @@
         "author": "Robert",
         "content": "If production takes more than 6 months, isn't  cycle time than >26 weeks?",
         "timestamp": "2025-09-03T08:50:50.299Z"
+      },
+      {
+        "id": "ubp03v5cc",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma thoughs?",
+        "timestamp": "2025-09-04T06:35:20.479Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
       }
     ]
   },
