@@ -1020,6 +1020,12 @@
           "Robert",
           "Maxi Udenio"
         ]
+      },
+      {
+        "id": "p5kwqkttn",
+        "author": "Robert",
+        "content": "The level of inventory that a company would like to have. This can be measured in units, in money or in coverage of days of sales.",
+        "timestamp": "2025-09-08T13:25:47.764Z"
       }
     ]
   },
