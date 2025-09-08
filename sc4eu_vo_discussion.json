@@ -173,6 +173,12 @@
         "author": "Robert",
         "content": "The alternative label should be deleted. DUR can be mentioned under \"See Also:\"",
         "timestamp": "2025-09-08T13:28:42.060Z"
+      },
+      {
+        "id": "8b1q0zic6",
+        "author": "Robert",
+        "content": "Underutilization is not using part of capacity, and can be defined versus Capacity or versus Desired Utilization Rate and it can be expressed as a percentage or in capacity units. Capacity can be Nameplate capacity, Maximum Capacity or Effective Capacity.",
+        "timestamp": "2025-09-08T13:33:33.772Z"
       }
     ]
   },
