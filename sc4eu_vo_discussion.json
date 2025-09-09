@@ -350,6 +350,15 @@
         "author": "Robert",
         "content": "Claude's description is much better. @Claude: What is the 'current web'? The www? Mentioned in which 'documents'? @Felix: Shall we add 'distributed systems' and 'intelligent data access' also to this vocabulary?",
         "timestamp": "2025-09-03T08:48:56.035Z"
+      },
+      {
+        "id": "huc9pwmdk",
+        "author": "Felix Engel",
+        "content": "@Robert I agree it is a rather general description that explains its characteristics. I agree to make use of it.  As such we will not need 'distributed systems' and 'intelligent data access'",
+        "timestamp": "2025-09-09T12:48:49.584Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
