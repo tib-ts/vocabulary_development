@@ -758,6 +758,15 @@
         "author": "Robert",
         "content": "delete",
         "timestamp": "2025-09-03T09:41:37.562Z"
+      },
+      {
+        "id": "0vbn5o72t",
+        "author": "Felix Engel",
+        "content": "@Robert I had a look into the DR Ontology. They provide the following definition. Still vote for removing this term?\n\"EDGE in the supply chain refers to the use of edge computing technologies to process data closer to where it is generated?such as warehouses, factories, vehicles or others ?rather than relying on centralized cloud systems. By enabling real-time data analysis and decision-making at the \"edge\" of the network, companies can reduce latency, enhance operational responsiveness, and improve visibility across the supply chain.\"",
+        "timestamp": "2025-09-09T12:44:43.934Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
