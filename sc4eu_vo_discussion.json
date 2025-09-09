@@ -1576,6 +1576,15 @@
         "mentionedUsers": [
           "Philipp Ulrich"
         ]
+      },
+      {
+        "id": "r792h8joa",
+        "author": "Felix Engel",
+        "content": "@Hans Ehm I found this definition in the DR. Shall we use it instead of the current one? \"\nCAPACITY with respect to the Domain Semiconductor and Supply Chains Containing Semiconductor is the maximum number of products or a group of products a machine or a group of machines can produce. As soon as a machine has free capacity: 1. all lots which belongs to a priority class have to be dispatched immediately according to their priority rank.\"",
+        "timestamp": "2025-09-09T13:10:34.531Z",
+        "mentionedUsers": [
+          "Hans Ehm"
+        ]
       }
     ]
   },
