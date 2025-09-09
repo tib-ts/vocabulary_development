@@ -1008,6 +1008,15 @@
         "author": "Robert",
         "content": "If Target has a specific meaning in an ontology, that should be explained.",
         "timestamp": "2025-09-03T08:42:02.218Z"
+      },
+      {
+        "id": "1xy6yocef",
+        "author": "Felix Engel",
+        "content": "@Philipp Ulrich please have a look. What is your opinioin?",
+        "timestamp": "2025-09-09T12:50:53.714Z",
+        "mentionedUsers": [
+          "Philipp Ulrich"
+        ]
       }
     ]
   },
