@@ -1066,6 +1066,16 @@
         "author": "Adrien Wartelle",
         "content": "Proposition: Ratio of production rate over maximal production rate infered by the bottleneck of a system",
         "timestamp": "2025-04-23T09:37:26.512Z"
+      },
+      {
+        "id": "wkk8yq8zc",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester @Philipp Ulrich I found another defintion in the DR. Which definition do you prefer? \"A measure of how intensively a resource is being used to produce a good or service. Some factors that should be considered are internal manufacturing capacity, constraining processes,direct labor availability and key components/ materials availability.\" ",
+        "timestamp": "2025-09-09T12:56:34.049Z",
+        "mentionedUsers": [
+          "Yannick Mester",
+          "Philipp Ulrich"
+        ]
       }
     ]
   },
