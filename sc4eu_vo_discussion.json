@@ -1341,6 +1341,15 @@
         "author": "Claude Yugma",
         "content": "Customer data includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.",
         "timestamp": "2025-06-23T10:42:36.525Z"
+      },
+      {
+        "id": "ra56nb3bv",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester do you agree? Any further comments on this?",
+        "timestamp": "2025-09-09T12:54:22.592Z",
+        "mentionedUsers": [
+          "Yannick Mester"
+        ]
       }
     ]
   },
