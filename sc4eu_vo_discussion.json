@@ -740,7 +740,17 @@
   },
   {
     "resourceId": "f452a6e2-b533-4a5a-8b36-60d2115d63e3",
-    "comments": []
+    "comments": [
+      {
+        "id": "fbvk0cq5v",
+        "author": "Felix Engel",
+        "content": "@Hans Ehm The label field should just be used for alternative labels or names for a term. Do you have an alternative label or we can as well remove the lobe name alternatively without replacement. I propose a categorisation in Lobes at a later date",
+        "timestamp": "2025-09-09T13:15:32.301Z",
+        "mentionedUsers": [
+          "Hans Ehm"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "7044e261-e6af-4aea-8515-ca1771b4ce60",
