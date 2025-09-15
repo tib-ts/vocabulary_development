@@ -591,6 +591,12 @@
         "mentionedUsers": [
           "Marta"
         ]
+      },
+      {
+        "id": "ayalofutv",
+        "author": "Claude Yugma",
+        "content": "My intention with the definition was to keep it aligned with the common industrial understanding of a BoM, i.e. a complete list of raw materials, components, and sub-assemblies needed to manufacture a product.\nI can shorten : A BoM is a structured list of the items required to manufacture a product.",
+        "timestamp": "2025-09-15T08:17:43.527Z"
       }
     ]
   },
