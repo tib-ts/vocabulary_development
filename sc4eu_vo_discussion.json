@@ -433,6 +433,12 @@
           "Claude Yugma",
           "Robert"
         ]
+      },
+      {
+        "id": "mrqtxe0hg",
+        "author": "Claude Yugma",
+        "content": "Robert’s version is friendlier for a non-technical audience but risky, since it blurs the distinction between the raw wafer and the final IC-bearing wafer. Robert’s revision suggests wafers themselves are produced in the fab, which is less precise. In reality, the wafers come from a wafer supplier, and the fab processes them into ICs.\n-->A fab (short for fabrication plant) is a manufacturing facility where silicon wafers are processed to create integrated circuits (ICs)",
+        "timestamp": "2025-09-15T08:14:19.357Z"
       }
     ]
   },
