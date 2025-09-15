@@ -159,6 +159,12 @@
         "mentionedUsers": [
           "Yannick Mester"
         ]
+      },
+      {
+        "id": "anke31w2g",
+        "author": "Claude Yugma",
+        "content": "Here is a revised version : The Pork Cycle is a metaphor for boom-and-bust investment patterns caused by delayed supply responses to demand conditions. It illustrates how shortages can trigger overinvestment, which later results in overcapacity, price declines, and underinvestment, perpetuating the cycle. This phenomenon typically occurs in industries where capacity has a limited lifetime (e.g., agriculture) or where growth and uncertainty make forecasts difficult (e.g., semiconductors).",
+        "timestamp": "2025-09-15T09:56:27.734Z"
       }
     ]
   },
@@ -433,12 +439,6 @@
           "Claude Yugma",
           "Robert"
         ]
-      },
-      {
-        "id": "mrqtxe0hg",
-        "author": "Claude Yugma",
-        "content": "Robert’s version is friendlier for a non-technical audience but risky, since it blurs the distinction between the raw wafer and the final IC-bearing wafer. Robert’s revision suggests wafers themselves are produced in the fab, which is less precise. In reality, the wafers come from a wafer supplier, and the fab processes them into ICs.\n-->A fab (short for fabrication plant) is a manufacturing facility where silicon wafers are processed to create integrated circuits (ICs)",
-        "timestamp": "2025-09-15T08:14:19.357Z"
       }
     ]
   },
@@ -591,12 +591,6 @@
         "mentionedUsers": [
           "Marta"
         ]
-      },
-      {
-        "id": "ayalofutv",
-        "author": "Claude Yugma",
-        "content": "My intention with the definition was to keep it aligned with the common industrial understanding of a BoM, i.e. a complete list of raw materials, components, and sub-assemblies needed to manufacture a product.\nI can shorten : A BoM is a structured list of the items required to manufacture a product.",
-        "timestamp": "2025-09-15T08:17:43.527Z"
       }
     ]
   },
@@ -1663,12 +1657,6 @@
         "author": "Robert",
         "content": "@Lars: what is your definition of Performance Measure? Because you introduced this for forecast accuracy, I believe, ",
         "timestamp": "2025-09-03T07:25:41.219Z"
-      },
-      {
-        "id": "3fq2527bl",
-        "author": "Claude Yugma",
-        "content": "This text as an update to the existing definition, so that it better reflects the role and objectives of performance measures in the semiconductor supply chain and production context.",
-        "timestamp": "2025-09-15T08:20:37.080Z"
       }
     ]
   },
@@ -1946,12 +1934,6 @@
         "mentionedUsers": [
           "Claude Yugma"
         ]
-      },
-      {
-        "id": "j8y6nv1il",
-        "author": "Claude Yugma",
-        "content": "26 weeks is possible, but it’s not that the process flow itself requires 26 weeks it’s that waiting and variability stretch the total calendar time.",
-        "timestamp": "2025-09-15T08:07:02.900Z"
       }
     ]
   },
