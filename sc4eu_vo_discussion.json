@@ -1934,6 +1934,12 @@
         "mentionedUsers": [
           "Claude Yugma"
         ]
+      },
+      {
+        "id": "xykd96p98",
+        "author": "Claude Yugma",
+        "content": "That’s a very good point. I think the key here is the distinction between cycle time and overall production lead time.\n\nCycle time usually refers to the effective processing time of a wafer lot as it moves through all required unit operations in the fab. For a CMOS process, this is often reported as ~10–15 weeks.\n\nHowever, the lead time experienced by customers can be much longer (sometimes >26 weeks), because it includes queueing, waiting for equipment availability, rework loops, engineering holds, and sometimes supply-related delays.\n\nSo while the process cycle time is on the order of 10–15 weeks, the total time from release to delivery can easily extend to six months or more.",
+        "timestamp": "2025-09-15T10:00:38.125Z"
       }
     ]
   },
