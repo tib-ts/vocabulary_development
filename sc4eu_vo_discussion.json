@@ -439,6 +439,12 @@
           "Claude Yugma",
           "Robert"
         ]
+      },
+      {
+        "id": "kkdhebbpn",
+        "author": "Claude Yugma",
+        "content": "Robert’s revision makes the text more accessible, but I think it blurs an important distinction: fabs do not produce wafers, but rather process silicon wafers to create integrated circuits on them.\n\nFor accuracy while keeping it simple, a compromise could be:\n“A fab (short for fabrication plant) is a manufacturing facility where silicon wafers are processed to create integrated circuits (ICs).”\n\nThis keeps the technical precision while still being understandable.",
+        "timestamp": "2025-09-15T10:01:57.638Z"
       }
     ]
   },
