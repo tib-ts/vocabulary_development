@@ -597,6 +597,12 @@
         "mentionedUsers": [
           "Marta"
         ]
+      },
+      {
+        "id": "ncyx4emhr",
+        "author": "Claude Yugma",
+        "content": "My intention was to keep the definition aligned with the common industrial use of BoM, i.e. a complete and structured list of what is needed to build a product. That said, if you prefer a shorter or more general version for consistency, I am fine to adapt. For example:\n“A BoM is a structured list of the items required to manufacture a product.”",
+        "timestamp": "2025-09-15T10:03:25.416Z"
       }
     ]
   },
