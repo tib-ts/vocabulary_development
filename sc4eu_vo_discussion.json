@@ -109,6 +109,12 @@
           "Maxi Udenio",
           "Philipp Ulrich"
         ]
+      },
+      {
+        "id": "cgotlucvs",
+        "author": "Maxi Udenio",
+        "content": "Minor comment: there is a loose \" after demand. I would separate the enumeration at the end with commas (planning, smoothing..., etc)",
+        "timestamp": "2025-09-21T16:21:22.815Z"
       }
     ]
   },
