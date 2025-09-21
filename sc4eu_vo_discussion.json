@@ -1188,6 +1188,12 @@
         "author": "Robert",
         "content": "The level of inventory that a company would like to have. This can be measured in units, in money or in coverage of days of sales.",
         "timestamp": "2025-09-08T13:25:47.764Z"
+      },
+      {
+        "id": "y23jvwgzm",
+        "author": "Maxi Udenio",
+        "content": "\"would like to have\" sounds a bit like a passive wish :) \nI would make it a bit more precise by explicitly linking this desired level to the decision making. Something like: Target inventory is the planned level of stock a company aims to maintain in order to balance service level objectives with cost considerations. This target guides replenishment decisions, such as order timing and order quantities.  This can be measured in units, in money or in coverage of days of sales.\"",
+        "timestamp": "2025-09-21T16:33:38.335Z"
       }
     ]
   },
