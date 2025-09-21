@@ -2019,6 +2019,12 @@
           "Robert",
           "Maxi Udenio"
         ]
+      },
+      {
+        "id": "2mretmbel",
+        "author": "Maxi Udenio",
+        "content": "True. I'm not an expert in the fabrication process so I can't comment on the estimates. \n\nMaybe it's good to add entries (if they are not there yet?) separating cycle times and lead times? Then we can use these with precision whenever they are needed. A key distinction, I think, is that lead times are variable and a function of utilization, whereas cycle times refer to the physical processing.",
+        "timestamp": "2025-09-21T16:25:50.449Z"
       }
     ]
   },
