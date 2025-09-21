@@ -236,6 +236,12 @@
         "author": "Robert",
         "content": "Underutilization is not using part of capacity, and can be defined versus Capacity or versus Desired Utilization Rate and it can be expressed as a percentage or in capacity units. Capacity can be Nameplate capacity, Maximum Capacity or Effective Capacity.",
         "timestamp": "2025-09-08T13:33:33.772Z"
+      },
+      {
+        "id": "bf7be54qm",
+        "author": "Maxi Udenio",
+        "content": "Agree with Robert. I'm not familiar how the term is used in the industry though. By definition, no process can ever run at 100% utilization rate in practice, so in that sense (against technical maximal capacity) there is always underutilization. I would take Robert's suggestion and use whatever is common in the industry.",
+        "timestamp": "2025-09-21T16:38:25.393Z"
       }
     ]
   },
