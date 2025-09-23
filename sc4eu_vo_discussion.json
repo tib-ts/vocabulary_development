@@ -1472,6 +1472,12 @@
         "mentionedUsers": [
           "Yannick Mester"
         ]
+      },
+      {
+        "id": "hfr9olxzn",
+        "author": "Yannick Mester",
+        "content": "maybe we can also add behavioral data to Claude's definition",
+        "timestamp": "2025-09-23T11:05:05.568Z"
       }
     ]
   },
