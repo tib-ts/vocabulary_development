@@ -1252,3 +1252,11 @@
     dcterms:description "Anticipation Stock is inventory that is built up in expectation of future demand. For instance, a plant might build up a stock of lawnmowers to satisfy a seasonal spike in demand. In general, this is done to level production in the face of uneven or cyclic demand in order to make better use of capacity";
     ex:status "draft";
     dcterms:created "2025-01-09"^^xsd:date.
+<https://example.com#1bffdd13-cd50-40aa-9d04-145bf71e933a> rdf:type rdfs:Resource;
+    dcterms:identifier "1bffdd13-cd50-40aa-9d04-145bf71e933a";
+    rdfs:label "Processor Core";
+    dcterms:description "An integrated circuit design, usually for a microprocessor, which includes only the CPU and which is intended to form part of a complete circuit design which incorporates other circuits on the same chip such as cache, memory management unit, I/O ports and timers.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C64194";
+    ex:status "draft";
+    dcterms:created "2025-09-25"^^xsd:date;
+    dcterms:modified "2025-09-25T13:42:44.032Z"^^xsd:dateTime.
