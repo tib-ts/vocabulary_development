@@ -915,6 +915,15 @@
         "mentionedUsers": [
           "Mark"
         ]
+      },
+      {
+        "id": "i5hstz0md",
+        "author": "System ADMIN",
+        "content": "@George look at the new processor core definition",
+        "timestamp": "2025-09-25T13:07:03.045Z",
+        "mentionedUsers": [
+          "George"
+        ]
       }
     ]
   },
