@@ -1322,5 +1322,19 @@
         ]
       }
     ]
+  },
+  {
+    "resourceId": "69264376-8405-4238-894b-a0a411211b99",
+    "comments": [
+      {
+        "id": "11xfw3ppd",
+        "author": "System ADMIN",
+        "content": "@George New processor core term was added.",
+        "timestamp": "2025-09-25T13:38:41.890Z",
+        "mentionedUsers": [
+          "George"
+        ]
+      }
+    ]
   }
 ]
