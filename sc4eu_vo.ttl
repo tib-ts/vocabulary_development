@@ -1733,3 +1733,11 @@
     ex:status "draft";
     dcterms:created "2025-09-03"^^xsd:date;
     dcterms:modified "2025-09-03T10:17:45.210Z"^^xsd:dateTime.
+<https://example.com#5e1ba6cd-17d5-4ac4-9e96-78f191c03fe7> rdf:type rdfs:Resource;
+    dcterms:identifier "5e1ba6cd-17d5-4ac4-9e96-78f191c03fe7";
+    rdfs:label "AP FCST";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23AP_FCST";
+    ex:status "draft";
+    dcterms:created "2025-10-08"^^xsd:date;
+    dcterms:modified "2025-10-08T12:22:05.182Z"^^xsd:dateTime.
