@@ -1163,6 +1163,12 @@
         "mentionedUsers": [
           "Philipp Ulrich"
         ]
+      },
+      {
+        "id": "85lf13czo",
+        "author": "Philipp Ulrich",
+        "content": "I think we should keep it as top level class, we can then define targets which are specific to what we would like to achieve e.g. inventory target. \nBut it is good to have the top level class to align with other more generic ontology models, facilitating reuse. Definition by Claude is good",
+        "timestamp": "2025-10-16T07:54:21.259Z"
       }
     ]
   },
