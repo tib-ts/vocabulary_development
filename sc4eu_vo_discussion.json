@@ -1027,6 +1027,12 @@
         "mentionedUsers": [
           "Philipp Ulrich"
         ]
+      },
+      {
+        "id": "5qwden8so",
+        "author": "Philipp Ulrich",
+        "content": "I feel the name of the class is hard to grasp. There is some application with regards to manipulation the survey but I am not sure whether we need to have a class here for the time being as we do not intend to actually get data on it, I would not update this part of the DR within SC4EU for now",
+        "timestamp": "2025-10-16T07:56:11.805Z"
       }
     ]
   },
