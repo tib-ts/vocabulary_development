@@ -1098,6 +1098,12 @@
         "author": "Maxi Udenio",
         "content": "I'm not familiar with this concept. This seems to me to be the \"sales forecast\" maintained by the sales division of a company, which typically includes advanced information. If so, this looks good. It may be interesting to include the explicit difference to \"actual\" sales coming from the true demand. ",
         "timestamp": "2025-09-21T16:36:00.974Z"
+      },
+      {
+        "id": "uizxzcvic",
+        "author": "Philipp Ulrich",
+        "content": "I like the definition of Claude as a baseline. I would only add that the sales demand is actually the unbound demand from our point of view, so this is what we could sell to customers IF we have unlimited manufacturing capacities (which we dont ;) )\n\nSo Sales demand is quite high and is the baseline to derive what will be produced.",
+        "timestamp": "2025-10-16T07:47:30.027Z"
       }
     ]
   },
