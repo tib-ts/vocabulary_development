@@ -9,8 +9,9 @@
     dcterms:identifier "e3247433-b0b9-48e5-9f10-0003c8ef1cc7";
     rdfs:label "Past Demand";
     dcterms:description "Demand with a delivery date in the past";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
+    ex:status "approved";
+    dcterms:created "2024-08-01"^^xsd:date;
+    dcterms:modified "2025-11-20T15:01:36.433Z"^^xsd:dateTime.
 <https://example.com#74eaf886-7525-490e-a9a2-cb3bc28c6b54> rdf:type rdfs:Resource;
     dcterms:identifier "74eaf886-7525-490e-a9a2-cb3bc28c6b54";
     rdfs:label "Future Demand";
