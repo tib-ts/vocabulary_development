@@ -1266,6 +1266,6 @@
     rdfs:label "test";
     dcterms:description "To carry out an examination on (a substance, material, or system) by applying some chemical or physical procedure designed to indicate the presence of a substance or the possession of a property.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F8405";
-    ex:status "approved";
+    ex:status "accept";
     dcterms:created "2025-11-20"^^xsd:date;
-    dcterms:modified "2025-11-20T17:25:35.713Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-20T17:51:25.423Z"^^xsd:dateTime.
