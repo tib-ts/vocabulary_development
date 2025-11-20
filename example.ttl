@@ -1261,3 +1261,11 @@
     ex:status "draft";
     dcterms:created "2025-09-25"^^xsd:date;
     dcterms:modified "2025-09-25T13:42:44.032Z"^^xsd:dateTime.
+<https://example.com#4351cd6e-c2be-4512-8b29-867527908412> rdf:type rdfs:Resource;
+    dcterms:identifier "4351cd6e-c2be-4512-8b29-867527908412";
+    rdfs:label "test";
+    dcterms:description "To carry out an examination on (a substance, material, or system) by applying some chemical or physical procedure designed to indicate the presence of a substance or the possession of a property.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F8405";
+    ex:status "draft";
+    dcterms:created "2025-11-20"^^xsd:date;
+    dcterms:modified "2025-11-20T16:46:11.629Z"^^xsd:dateTime.
