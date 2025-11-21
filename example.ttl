@@ -1268,4 +1268,4 @@
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F8405";
     ex:status "accept";
     dcterms:created "2025-11-20"^^xsd:date;
-    dcterms:modified "2025-11-21T10:15:30.570Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-21T10:16:13.023Z"^^xsd:dateTime.
