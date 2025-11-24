@@ -1642,13 +1642,6 @@
     ex:status "draft";
     dcterms:created "2025-05-28"^^xsd:date;
     dcterms:modified "2025-05-28T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#1a2b8640-1c0c-4a65-9414-21b67a2abc0e> rdf:type rdfs:Resource;
-    dcterms:identifier "1a2b8640-1c0c-4a65-9414-21b67a2abc0e";
-    rdfs:label "Test";
-    dcterms:description "just a test";
-    ex:status "not accept";
-    dcterms:created "2025-06-03"^^xsd:date;
-    dcterms:modified "2025-11-24T10:38:43.528Z"^^xsd:dateTime.
 <https://example.com#814868c5-de51-4166-a338-8e64be239c82> rdf:type rdfs:Resource;
     dcterms:identifier "814868c5-de51-4166-a338-8e64be239c82";
     rdfs:label "inventory";
