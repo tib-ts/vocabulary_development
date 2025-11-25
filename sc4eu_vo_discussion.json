@@ -308,6 +308,18 @@
         "author": "Claude Yugma",
         "content": "The bullwhip effect refers to demand distortions that amplify as information moves upstream in the supply chain, often due to forecast updates, order batching, and demand signal processing.",
         "timestamp": "2025-06-23T10:35:02.801Z"
+      },
+      {
+        "id": "zyvf69ywy",
+        "author": "System ADMIN",
+        "content": "Thanks @Claude Yugma I have added your definition. @Philipp Ulrich @Robert @Philippe Vialletelle and others please have a look",
+        "timestamp": "2025-11-25T07:36:37.040Z",
+        "mentionedUsers": [
+          "Claude Yugma",
+          "Philipp Ulrich",
+          "Robert",
+          "Philippe Vialletelle"
+        ]
       }
     ]
   },
