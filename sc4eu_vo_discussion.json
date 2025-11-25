@@ -2262,6 +2262,17 @@
   },
   {
     "resourceId": "5e1ba6cd-17d5-4ac4-9e96-78f191c03fe7",
-    "comments": []
+    "comments": [
+      {
+        "id": "m1q9bd5p8",
+        "author": "System ADMIN",
+        "content": "There is no definition. @Marta and  @Philipp Ulrich it comes from the DR can you provide a definition and potential alternative labels?",
+        "timestamp": "2025-11-25T07:30:47.376Z",
+        "mentionedUsers": [
+          "Marta",
+          "Philipp Ulrich"
+        ]
+      }
+    ]
   }
 ]
