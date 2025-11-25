@@ -1491,6 +1491,16 @@
         "author": "Claude Yugma",
         "content": "Allocation refers to the process of assigning available supply to customer orders, especially when demand exceeds supply. It is often governed by predefined rules or priorities to manage shortages effectively.",
         "timestamp": "2025-06-23T10:30:00.405Z"
+      },
+      {
+        "id": "ajv2h8lna",
+        "author": "System ADMIN",
+        "content": "@Robert and @Claude Yugma can you agree on this? Can you edit the Terms Detail in case?",
+        "timestamp": "2025-11-25T07:29:09.015Z",
+        "mentionedUsers": [
+          "Robert",
+          "Claude Yugma"
+        ]
       }
     ]
   },
