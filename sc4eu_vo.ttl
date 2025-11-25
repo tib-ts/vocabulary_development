@@ -62,10 +62,10 @@
 <https://example.com#5b71df05-24da-4be4-bc67-ddc5bfdc8d0a> rdf:type rdfs:Resource;
     dcterms:identifier "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a";
     rdfs:label "Pork Cycle";
-    dcterms:description "A persistent wave in certain industries, first observed in pork in the 19th century. Semiconductors are also often referred to as suffering from a Pork Cycle. ";
+    dcterms:description "The Pork Cycle is a metaphor for boom-and-bust investment patterns caused by delayed supply responses to demand conditions. It illustrates how shortages can trigger overinvestment, which later results in overcapacity, price declines, and underinvestment, perpetuating the cycle. This phenomenon typically occurs in industries where capacity has a limited lifetime (e.g., agriculture) or where growth and uncertainty make forecasts difficult (e.g., semiconductors)";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T12:36:59.642Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-25T11:54:42.636Z"^^xsd:dateTime.
 <https://example.com#c557f155-90db-4dc2-9ba1-f5020625cbba> rdf:type rdfs:Resource;
     dcterms:identifier "c557f155-90db-4dc2-9ba1-f5020625cbba";
     rdfs:label "Underutilization ";
