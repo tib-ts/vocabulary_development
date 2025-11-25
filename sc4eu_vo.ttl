@@ -8,10 +8,10 @@
 <https://example.com#e3247433-b0b9-48e5-9f10-0003c8ef1cc7> rdf:type rdfs:Resource;
     dcterms:identifier "e3247433-b0b9-48e5-9f10-0003c8ef1cc7";
     rdfs:label "Past Demand";
-    dcterms:description "Demand with a delivery date in the past";
+    dcterms:description "Past demand is the historical record of quantities of a product or service that customers requested or purchased over prior time periods, used as the basis for forecasting and planning";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-26T13:51:27.062Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-25T11:53:34.905Z"^^xsd:dateTime.
 <https://example.com#74eaf886-7525-490e-a9a2-cb3bc28c6b54> rdf:type rdfs:Resource;
     dcterms:identifier "74eaf886-7525-490e-a9a2-cb3bc28c6b54";
     rdfs:label "Future Demand";
