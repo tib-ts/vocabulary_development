@@ -1363,6 +1363,15 @@
         "author": "Robert",
         "content": "Aka: Sending an invoice aka Invoicing",
         "timestamp": "2025-09-03T07:22:52.532Z"
+      },
+      {
+        "id": "em2f03lza",
+        "author": "System ADMIN",
+        "content": "@Robert ok, can you adapt the definition accordingly?",
+        "timestamp": "2025-11-25T07:33:55.262Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
