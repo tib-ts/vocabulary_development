@@ -113,10 +113,10 @@
 <https://example.com#96e3059c-540c-4b03-b13c-71573c598596> rdf:type rdfs:Resource;
     dcterms:identifier "96e3059c-540c-4b03-b13c-71573c598596";
     rdfs:label "Bullwhip Effect";
-    dcterms:description "@Needs discussion ...";
+    dcterms:description "The bullwhip effect refers to demand distortions that amplify as information moves upstream in the supply chain, often due to forecast updates, order batching, and demand signal processing.";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:35:02.801Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-25T07:34:51.308Z"^^xsd:dateTime.
 <https://example.com#9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0> rdf:type rdfs:Resource;
     dcterms:identifier "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0";
     rdfs:label "Desired Inventory";
