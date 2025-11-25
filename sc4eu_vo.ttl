@@ -135,10 +135,10 @@
 <https://example.com#2af7f230-5f50-4c49-810c-b3f99d447455> rdf:type rdfs:Resource;
     dcterms:identifier "2af7f230-5f50-4c49-810c-b3f99d447455";
     rdfs:label "Demand Short-Term ";
-    dcterms:description "@Not defined yet";
+    dcterms:description "Short-term demand refers to forecasted or actual demand over a short planning horizon—typically days or weeks. It is used for near-term scheduling and order fulfilment decisions.";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:49:31.408Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-25T11:57:12.320Z"^^xsd:dateTime.
 <https://example.com#6ec4584c-da72-4e82-8a8c-dbf4eb8648ad> rdf:type rdfs:Resource;
     dcterms:identifier "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad";
     rdfs:label "Ontology";
