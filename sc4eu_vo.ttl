@@ -1365,12 +1365,11 @@
 <https://example.com#8bc1bda0-6a02-48c8-a5c0-b04bd30b7694> rdf:type rdfs:Resource;
     dcterms:identifier "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694";
     rdfs:label "Demand";
-    skos:altLabel "_DR sc (1)";
-    dcterms:description "Demand is a production request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.";
+    dcterms:description "Demand represents the quantity of products requested by customers.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2025-06-23T10:43:30.940Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-25T11:51:07.729Z"^^xsd:dateTime.
 <https://example.com#214b7225-5bb1-4956-ab58-f63175c4446b> rdf:type rdfs:Resource;
     dcterms:identifier "214b7225-5bb1-4956-ab58-f63175c4446b";
     rdfs:label "Demand";
