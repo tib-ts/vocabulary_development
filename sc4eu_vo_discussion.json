@@ -2173,6 +2173,12 @@
         "author": "Claude Yugma",
         "content": "A partner refers to any external organization that collaborates within the supply network, such as foundries, OSATs (outsourced semiconductor assembly and test providers), EDA tool vendors, equipment suppliers, or logistics providers.",
         "timestamp": "2025-06-23T12:39:15.932Z"
+      },
+      {
+        "id": "f3xnvq7uu",
+        "author": "Robert",
+        "content": "@Claude, I changed the description to limit the meaning to the project alone.",
+        "timestamp": "2025-11-26T11:53:15.435Z"
       }
     ]
   },
