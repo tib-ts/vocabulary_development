@@ -2108,7 +2108,14 @@
   },
   {
     "resourceId": "f9048421-8000-4c00-85d7-0fbf5a64d737",
-    "comments": []
+    "comments": [
+      {
+        "id": "g4ekrwgfj",
+        "author": "Robert",
+        "content": "this is not a description",
+        "timestamp": "2025-11-26T11:56:54.075Z"
+      }
+    ]
   },
   {
     "resourceId": "e76552e5-7c2c-474c-8b42-f702635046d8",
