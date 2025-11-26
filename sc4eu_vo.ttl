@@ -844,11 +844,12 @@
 <https://example.com#8a73b95b-2800-45b6-a7df-94d888fa3e02> rdf:type rdfs:Resource;
     dcterms:identifier "8a73b95b-2800-45b6-a7df-94d888fa3e02";
     rdfs:label "Billing";
-    dcterms:description "The process of requesting payment of a debt for goods or services.";
+    skos:altLabel "Invoicing", "Sending an invoice";
+    dcterms:description "The process of requesting payment of a debt for goods or services. ";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C88189";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-26T10:31:39.932Z"^^xsd:dateTime.
 <https://example.com#38d050a5-eebf-4216-a4c8-f462dd7e42d3> rdf:type rdfs:Resource;
     dcterms:identifier "38d050a5-eebf-4216-a4c8-f462dd7e42d3";
     rdfs:label "product category";
@@ -1508,11 +1509,11 @@
 <https://example.com#4d933028-c44a-4557-aac5-528bd15e1ab0> rdf:type rdfs:Resource;
     dcterms:identifier "4d933028-c44a-4557-aac5-528bd15e1ab0";
     rdfs:label "Partner";
-    dcterms:description "Company or institute that has signed the SC4EU consortium agreement";
+    dcterms:description "Within the SC4EU project, a Partner is a Company or institute that has signed the consortium agreement";
     rdfs:seeAlso "Participant";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date;
-    dcterms:modified "2025-06-23T12:39:15.932Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-26T11:52:43.338Z"^^xsd:dateTime.
 <https://example.com#04ebacdf-8b1c-46df-81fd-1665df6a7594> rdf:type rdfs:Resource;
     dcterms:identifier "04ebacdf-8b1c-46df-81fd-1665df6a7594";
     rdfs:label "Participant";
