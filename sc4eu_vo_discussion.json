@@ -1380,7 +1380,14 @@
   },
   {
     "resourceId": "de4cfbaf-964f-4eb0-a155-c9f66340d260",
-    "comments": []
+    "comments": [
+      {
+        "id": "r3xi4c6bn",
+        "author": "Robert",
+        "content": "delete!",
+        "timestamp": "2025-11-26T11:54:30.779Z"
+      }
+    ]
   },
   {
     "resourceId": "b5a1f564-89dd-4896-b162-1a859d4aadf1",
