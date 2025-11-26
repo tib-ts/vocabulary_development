@@ -1517,11 +1517,11 @@
 <https://example.com#04ebacdf-8b1c-46df-81fd-1665df6a7594> rdf:type rdfs:Resource;
     dcterms:identifier "04ebacdf-8b1c-46df-81fd-1665df6a7594";
     rdfs:label "Participant";
-    dcterms:description "Company that fills in the SC4EU survey";
+    dcterms:description "Within the SC4EU project, a Participant is a company that fills in the SC4EU survey";
     rdfs:seeAlso "Partner";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date;
-    dcterms:modified "2024-11-20T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2025-11-26T11:55:30.978Z"^^xsd:dateTime.
 <https://example.com#cf5404ed-9046-47de-a045-53daa6e3adba> rdf:type rdfs:Resource;
     dcterms:identifier "cf5404ed-9046-47de-a045-53daa6e3adba";
     rdfs:label "Reactive Stocking";
