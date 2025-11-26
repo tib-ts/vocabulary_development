@@ -1778,7 +1778,14 @@
   },
   {
     "resourceId": "9f54cefc-33aa-4536-ac0d-45b32eb89615",
-    "comments": []
+    "comments": [
+      {
+        "id": "whzjqsowq",
+        "author": "Robert",
+        "content": "The mean absolute percentage error is the average of the sum of the absolute values of the percentage differences between forecasted data and the actuals. Forecast Accuracy = 1 - MAPE, is a measure of accuracy commonly used as a KPI for quantitative methods of forecasting. MAPE needs a specification of the time period that it refers to (e.g. januari 2027, or the 12 months of 2027) and the time lag for the forecast (e.g. made three months earlier).",
+        "timestamp": "2025-11-26T12:07:41.179Z"
+      }
+    ]
   },
   {
     "resourceId": "8967e89b-837b-4809-83fc-4eaef28cd2e1",
