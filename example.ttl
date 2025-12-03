@@ -714,8 +714,9 @@
     rdfs:label "absolute number";
     dcterms:description "quantity";
     rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
+    ex:status "accept";
+    dcterms:created "2024-08-01"^^xsd:date;
+    dcterms:modified "2025-12-03T13:27:53.795Z"^^xsd:dateTime.
 <https://example.com#de4cfbaf-964f-4eb0-a155-c9f66340d260> rdf:type rdfs:Resource;
     dcterms:identifier "de4cfbaf-964f-4eb0-a155-c9f66340d260";
     rdfs:label "relative number";
