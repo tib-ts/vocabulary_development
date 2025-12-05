@@ -1615,6 +1615,12 @@
           "Robert",
           "Claude Yugma"
         ]
+      },
+      {
+        "id": "elp9bez0n",
+        "author": "Bibi de Jong",
+        "content": "Allocation is a process used in order management in times when demand exceeds available supply. --> Maybe extend with: allocation involves deciding how to distribute limited inventory across multiple demand points (to emphasize that we it is the process of actively deciding how to distribute the supply)",
+        "timestamp": "2025-12-05T08:24:25.865Z"
       }
     ]
   },
