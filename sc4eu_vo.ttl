@@ -781,7 +781,7 @@
     rdfs:label "absolute number";
     dcterms:description "quantity";
     rdfs:seeAlso "N/A";
-    ex:status "reject";
+    ex:status "not accepted";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-30T09:52:30.476Z"^^xsd:dateTime.
 <https://example.com#de4cfbaf-964f-4eb0-a155-c9f66340d260> rdf:type rdfs:Resource;
@@ -970,7 +970,7 @@
     skos:altLabel "_DR sc";
     dcterms:description "The process of doing something";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
-    ex:status "reject";
+    ex:status "not accepted";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-17T15:56:02.697Z"^^xsd:dateTime.
 <https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
