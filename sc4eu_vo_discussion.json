@@ -1268,7 +1268,14 @@
   },
   {
     "resourceId": "f7637daf-b71b-4ced-8b54-888c21a4ed22",
-    "comments": []
+    "comments": [
+      {
+        "id": "04juu03fv",
+        "author": "Eelco Debeij",
+        "content": "In the context of semiconductors, a technology or process node refers to the manufacturing technology used to fabricate integrated circuits (ICs), typically expressed in nanometers (nm). It historically indicated the minimum feature size (such as the gate length of a transistor) that could be reliably produced on a chip. However, in modern semiconductor manufacturing, the term has become more of a marketing label than a precise physical measurement. Today, process node names (e.g., 5 nm, 3 nm) represent a generation of technology rather than an exact dimension. They often imply improvements in: transistor density (more transistors per unit area), performance (higher speed, lower power consumption), power efficiency (better energy per operation).\n\n",
+        "timestamp": "2025-12-15T10:44:04.889Z"
+      }
+    ]
   },
   {
     "resourceId": "5ec8e410-2180-4a1a-87c2-30e68a684555",
