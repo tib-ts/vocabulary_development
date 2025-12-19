@@ -810,6 +810,12 @@
         "author": "Felix Engel",
         "content": "Not sure who added the Term. Can someone provide a description? Otherwise I would start a consensus if we need this term",
         "timestamp": "2025-09-02T11:56:22.946Z"
+      },
+      {
+        "id": "u6ig7bdk4",
+        "author": "Philippe Vialletelle",
+        "content": "Not sure there a standard definition there. At ST,  the term \"base wafer\" refers to products that are brought \"half way\" through the Front-End process, typically to \"contact\" level. There are only several product lines concerned, i.e., those for which customization is done when building the connection layers (metal levels).",
+        "timestamp": "2025-12-19T15:33:53.482Z"
       }
     ]
   },
