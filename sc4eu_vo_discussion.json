@@ -617,6 +617,12 @@
         "mentionedUsers": [
           "Robert"
         ]
+      },
+      {
+        "id": "hycvrfb26",
+        "author": "Philippe Vialletelle",
+        "content": "I would remove the \"two\" at the end of the definition. In fact, the limit between FE and BE is EWS (Electrical Wafer Sort) which is a full functional test performed on full wafers, before dicing. EWS plant may be distinct from FE and BE plants.",
+        "timestamp": "2025-12-19T15:29:04.097Z"
       }
     ]
   },
