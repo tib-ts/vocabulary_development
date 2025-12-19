@@ -68,6 +68,12 @@
         "author": "Philipp Ulrich",
         "content": "I would have it open with regards to quantities as demand could be measured in $ or € as well, even we do not do it right now. Other than that the definition by Yannick is good.",
         "timestamp": "2025-10-16T07:45:06.438Z"
+      },
+      {
+        "id": "qk8zn9huk",
+        "author": "Philippe Vialletelle",
+        "content": "Which is the difference between requested and purchased? What do we want to put behind that term? If it is \"historical\", i.e., one \"single set of values\" for a past date, I'd rather use \"actual\" than \"past\". From my stand point, past demand is multidimensional as I will have several sets of values (forecasted at different periods in the past) for the same past date. ",
+        "timestamp": "2025-12-19T15:22:47.875Z"
       }
     ]
   },
