@@ -2462,7 +2462,14 @@
   },
   {
     "resourceId": "5879558b-dfd0-4a66-9fba-2a6fb31f1a8b",
-    "comments": []
+    "comments": [
+      {
+        "id": "ivteg7wg7",
+        "author": "Marta",
+        "content": "SUPPLY INFORMATION provides information of the used and unused supply of a supply chain network.",
+        "timestamp": "2026-01-20T10:23:35.981Z"
+      }
+    ]
   },
   {
     "resourceId": "c9437d92-c7ef-4767-a8d5-5083aa88b5c1",
