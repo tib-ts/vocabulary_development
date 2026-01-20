@@ -1634,14 +1634,6 @@
     ex:status "draft";
     dcterms:created "2025-04-23"^^xsd:date;
     dcterms:modified "2025-04-23T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#93ec6f6b-e777-4f34-846c-ea57a9ae0967> rdf:type rdfs:Resource;
-    dcterms:identifier "93ec6f6b-e777-4f34-846c-ea57a9ae0967";
-    rdfs:label "Supply Chain";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Chain";
-    ex:status "draft";
-    dcterms:created "2025-05-28"^^xsd:date;
-    dcterms:modified "2025-05-28T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#814868c5-de51-4166-a338-8e64be239c82> rdf:type rdfs:Resource;
     dcterms:identifier "814868c5-de51-4166-a338-8e64be239c82";
     rdfs:label "inventory";
