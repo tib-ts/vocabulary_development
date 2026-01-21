@@ -1752,7 +1752,14 @@
   },
   {
     "resourceId": "151064fa-aab0-4edf-bee4-eaf4dd832100",
-    "comments": []
+    "comments": [
+      {
+        "id": "fp2j4bgvn",
+        "author": "Infineon Admin",
+        "content": "The DELIVERY CONCEPT defines the terms and conditions for delivering an order to the customer. Partial and split delivery has to be taken into account.",
+        "timestamp": "2026-01-21T12:43:15.889Z"
+      }
+    ]
   },
   {
     "resourceId": "126cdd01-1c9b-45b1-948b-3536474e2766",
