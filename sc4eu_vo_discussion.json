@@ -2229,7 +2229,14 @@
   },
   {
     "resourceId": "98e1dada-debf-4b11-9870-f4a00d028d73",
-    "comments": []
+    "comments": [
+      {
+        "id": "og1au1oxk",
+        "author": "Infineon Admin",
+        "content": "OPEN ORDER BOOK refers to a real-time record of all active, unfulfilled customer orders within an organization. It includes detailed information on sales orders.",
+        "timestamp": "2026-01-21T13:35:33.359Z"
+      }
+    ]
   },
   {
     "resourceId": "196e96c9-85a6-45fc-bf54-6593c5bba0b6",
@@ -2497,17 +2504,6 @@
         "mentionedUsers": [
           "Felix Engel"
         ]
-      }
-    ]
-  },
-  {
-    "resourceId": "814868c5-de51-4166-a338-8e64be239c82",
-    "comments": [
-      {
-        "id": "uk5s7rrrc",
-        "author": "Robert",
-        "content": "description is nonsense and does not belong to the label",
-        "timestamp": "2025-09-03T09:40:16.722Z"
       }
     ]
   },
