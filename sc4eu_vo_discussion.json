@@ -2102,6 +2102,12 @@
         "author": "Infineon Admin",
         "content": "An ORDER LINE ITEM is an individual entry within a customer order that specifies the details of a specific product or service being purchased. Each line item represents a unique combination of product, quantity, and pricing, and collectively, line items make up the full contents of an order. A new order line item might be generated when partial fulfillment is committed or delivered.",
         "timestamp": "2026-01-21T13:41:03.944Z"
+      },
+      {
+        "id": "w53u9q6tq",
+        "author": "Infineon Admin",
+        "content": "Every product on the order is referenced by a record that includes quantity and usually a customer delivery wish date, as well as a reference to which order it belongs.",
+        "timestamp": "2026-01-21T17:11:37.336Z"
       }
     ]
   },
