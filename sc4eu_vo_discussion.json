@@ -956,7 +956,14 @@
   },
   {
     "resourceId": "c66b03e7-249c-4bf8-962d-8a37200f2ae3",
-    "comments": []
+    "comments": [
+      {
+        "id": "o6lu8ks7i",
+        "author": "Infineon Admin",
+        "content": "A CONFIRMATION is an order acknowledgement with a due date from the supplier.",
+        "timestamp": "2026-01-21T16:38:54.862Z"
+      }
+    ]
   },
   {
     "resourceId": "3be8feac-f780-4f0b-80a3-dc4198d48884",
