@@ -1730,7 +1730,14 @@
   },
   {
     "resourceId": "17aee842-7e96-456e-912e-8488117dc755",
-    "comments": []
+    "comments": [
+      {
+        "id": "wzok1pfcx",
+        "author": "Infineon Admin",
+        "content": "CUSTOMER PLANT DATA refers to the structured and unstructured information associated with a customer's plant.",
+        "timestamp": "2026-01-21T12:39:47.115Z"
+      }
+    ]
   },
   {
     "resourceId": "6ab3f1c8-870d-43a8-89c0-6261465c647d",
