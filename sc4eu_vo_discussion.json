@@ -1719,7 +1719,14 @@
   },
   {
     "resourceId": "641e8ab9-516d-4a29-b6f5-efd07781d59a",
-    "comments": []
+    "comments": [
+      {
+        "id": "8kad9havy",
+        "author": "Infineon Admin",
+        "content": "A CUSTOMER PLANT refers to the physical location or facility owned or operated by a customer where products, systems, or services are delivered, installed, maintained, or utilized.",
+        "timestamp": "2026-01-21T12:37:39.463Z"
+      }
+    ]
   },
   {
     "resourceId": "17aee842-7e96-456e-912e-8488117dc755",
