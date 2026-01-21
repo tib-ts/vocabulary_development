@@ -192,9 +192,9 @@
     rdfs:label "free-form semantics or relationships";
     dcterms:description "Felix?";
     rdfs:seeAlso "N/A";
-    ex:status "draft";
+    ex:status "not accept";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2026-01-21T13:03:45.565Z"^^xsd:dateTime.
 <https://example.com#c7f3da60-5199-4465-8e31-277b45784236> rdf:type rdfs:Resource;
     dcterms:identifier "c7f3da60-5199-4465-8e31-277b45784236";
     rdfs:label "Semantic Web";
