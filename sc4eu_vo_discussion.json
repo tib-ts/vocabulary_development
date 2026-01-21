@@ -1066,7 +1066,14 @@
   },
   {
     "resourceId": "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6",
-    "comments": []
+    "comments": [
+      {
+        "id": "27nh834b7",
+        "author": "Infineon Admin",
+        "content": "OPERATIONAL DEMAND is a supply chain or production request for a specific product, product group or service, coming from company intern business division. Either demand exists explicitly in form of customer need (e.g. orders or EDI forecast) or implicitly as expected customer need.",
+        "timestamp": "2026-01-21T17:05:12.489Z"
+      }
+    ]
   },
   {
     "resourceId": "273e9482-c646-4a28-a0a0-8bbdffb94951",
