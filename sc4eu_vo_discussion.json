@@ -2170,7 +2170,14 @@
   },
   {
     "resourceId": "95dbd732-5afc-4add-b6cd-620f0e301286",
-    "comments": []
+    "comments": [
+      {
+        "id": "4fae8fy7v",
+        "author": "Infineon Admin",
+        "content": "The DEMAND CLASS is dividing the demand into priority classes.",
+        "timestamp": "2026-01-21T12:44:23.526Z"
+      }
+    ]
   },
   {
     "resourceId": "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4",
