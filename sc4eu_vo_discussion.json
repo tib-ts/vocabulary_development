@@ -990,6 +990,12 @@
         "author": "Claude Yugma",
         "content": "Customer logistics management refers to the processes related to delivery, transport, planning, and coordination with customers to ensure high service levels.",
         "timestamp": "2025-06-23T10:43:02.604Z"
+      },
+      {
+        "id": "a9j07guig",
+        "author": "Infineon Admin",
+        "content": "A CUSTOMER LOGISTICS MANAGEMENT REPRESENTATIVE (CLM) is a typical name for one “face” to the customer, taking care of all customers supply chain topics. He/she is responsible for the demand fulfilment process – Usage of ATP. It is his/her task to ensure in-time delivery to customers based on orders and forecasts. He/she is usually also taking care of forecast in a midterm time horizon (typical for that is the EDI FORECAST)",
+        "timestamp": "2026-01-21T16:40:53.245Z"
       }
     ]
   },
