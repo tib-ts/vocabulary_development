@@ -1842,6 +1842,12 @@
         "author": "Robert",
         "content": "delete?",
         "timestamp": "2024-11-20T10:04:08.775Z"
+      },
+      {
+        "id": "n6ikta03d",
+        "author": "Infineon Admin",
+        "content": "OPEN ORDER refers to a customer order that has been received and recorded in the system but has not yet been fully processed, shipped, or fulfilled. It represents a pending obligation within the sales or supply chain process.",
+        "timestamp": "2026-01-21T13:13:19.288Z"
       }
     ]
   },
