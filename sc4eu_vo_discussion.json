@@ -1791,7 +1791,14 @@
   },
   {
     "resourceId": "0529e47e-32db-4ad0-ab2a-28a7ca04140c",
-    "comments": []
+    "comments": [
+      {
+        "id": "ntnd2a3qp",
+        "author": "Infineon Admin",
+        "content": "The IN-TRANSIT INVENTORY describes the quantity of a certain product that is shipped from one location to another. This quantity has left the inventory of one location, but has not yet been received into the inventory of the receiving location.",
+        "timestamp": "2026-01-21T12:59:04.515Z"
+      }
+    ]
   },
   {
     "resourceId": "f29a581e-c896-41e2-a7a5-39b8b69f2a2b",
