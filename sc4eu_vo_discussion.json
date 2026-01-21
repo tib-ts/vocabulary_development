@@ -1991,6 +1991,12 @@
         "author": "Bibi de Jong",
         "content": "Available-to-Promise (ATP) is a supply chain concept that calculates the quantity of a product that can be committed to new customer orders, based on current inventory, planned production, and existing commitments. It helps companies provide reliable delivery dates without overpromising. (Maybe also add the term Capable-to-Promise; (and add the comparison?))",
         "timestamp": "2025-12-05T08:27:10.790Z"
+      },
+      {
+        "id": "qko7rxy1c",
+        "author": "Infineon Admin",
+        "content": "ATP (Available to promise) is todays and future (weeks) Availability of products for demand fulfillment and order promising.",
+        "timestamp": "2026-01-21T16:30:15.070Z"
       }
     ]
   },
