@@ -2000,7 +2000,14 @@
   },
   {
     "resourceId": "6d221526-27f3-4992-9518-48a616518907",
-    "comments": []
+    "comments": [
+      {
+        "id": "107r5z8o0",
+        "author": "Infineon Admin",
+        "content": "An ORDER is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer.",
+        "timestamp": "2026-01-21T17:08:18.959Z"
+      }
+    ]
   },
   {
     "resourceId": "46f069ab-34e9-48f4-919b-236f578a1375",
