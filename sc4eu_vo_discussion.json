@@ -1038,6 +1038,12 @@
         "author": "Robert",
         "content": "delete",
         "timestamp": "2025-09-03T09:36:38.234Z"
+      },
+      {
+        "id": "0n8gj1nig",
+        "author": "Infineon Admin",
+        "content": "MARKETING DEMAND is a supply chain or production request for a specific product, product group or service, coming from the market. Either demand exists explicitly in form of customer need (e.g. orders or EDI forecast) or implicitly as expected customer need.",
+        "timestamp": "2026-01-21T16:58:50.716Z"
       }
     ]
   },
