@@ -1124,7 +1124,14 @@
   },
   {
     "resourceId": "982a684c-ce5d-428a-ac96-abc0cbdacabf",
-    "comments": []
+    "comments": [
+      {
+        "id": "zca3rg4sf",
+        "author": "Infineon Admin",
+        "content": "FROZEN FENCE is used to set a frozen interval in which decision making is not allowed, or a defined exception, to change the previously determined values.",
+        "timestamp": "2026-01-21T16:54:15.212Z"
+      }
+    ]
   },
   {
     "resourceId": "3ac22854-9d82-4a5d-a593-a6042a3c35e9",
