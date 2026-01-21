@@ -1864,7 +1864,14 @@
   },
   {
     "resourceId": "1d13d30c-a345-4155-a7a6-277b9d369bb0",
-    "comments": []
+    "comments": [
+      {
+        "id": "zd7edw4tr",
+        "author": "Infineon Admin",
+        "content": "ORDER CONFIRMATION is a formal acknowledgment from the seller to the customer that an order has been received, reviewed, and accepted under the specified terms and conditions.",
+        "timestamp": "2026-01-21T13:38:35.313Z"
+      }
+    ]
   },
   {
     "resourceId": "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1",
