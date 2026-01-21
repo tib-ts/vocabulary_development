@@ -1741,7 +1741,14 @@
   },
   {
     "resourceId": "6ab3f1c8-870d-43a8-89c0-6261465c647d",
-    "comments": []
+    "comments": [
+      {
+        "id": "cpn0z5wqy",
+        "author": "Infineon Admin",
+        "content": "DELIVERY COMMITMENT refers to the agreed-upon date or timeframe by which a product, service, or solution is promised to be delivered to a customer. It is a key component of supply chain, project management, and customer service operations, ensuring alignment between supplier capabilities and customer expectations.",
+        "timestamp": "2026-01-21T12:40:24.192Z"
+      }
+    ]
   },
   {
     "resourceId": "151064fa-aab0-4edf-bee4-eaf4dd832100",
