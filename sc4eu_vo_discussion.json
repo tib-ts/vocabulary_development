@@ -899,6 +899,12 @@
         "mentionedUsers": [
           "Marta"
         ]
+      },
+      {
+        "id": "3kge075qz",
+        "author": "Infineon Admin",
+        "content": "A CAPACITY BOTTLENECK describes a machine or another element, which constrains the flow of a product. The throughput of the Capacity Bottlenecks define the throughput of a production line.",
+        "timestamp": "2026-01-21T16:37:58.995Z"
       }
     ]
   },
