@@ -2025,7 +2025,14 @@
   },
   {
     "resourceId": "6312bdca-928c-48ac-84b3-10bf785693ef",
-    "comments": []
+    "comments": [
+      {
+        "id": "4jhdx0n3s",
+        "author": "Infineon Admin",
+        "content": "An ORDER LINE ITEM is an individual entry within a customer order that specifies the details of a specific product or service being purchased. Each line item represents a unique combination of product, quantity, and pricing, and collectively, line items make up the full contents of an order. A new order line item might be generated when partial fulfillment is committed or delivered.",
+        "timestamp": "2026-01-21T13:41:03.944Z"
+      }
+    ]
   },
   {
     "resourceId": "f8185dab-ab3a-4d20-a90e-7710647595d3",
@@ -2262,10 +2269,6 @@
         "timestamp": "2025-11-26T11:56:54.075Z"
       }
     ]
-  },
-  {
-    "resourceId": "e76552e5-7c2c-474c-8b42-f702635046d8",
-    "comments": []
   },
   {
     "resourceId": "00828d2b-55c9-4046-8556-5d22873f1e0c",
