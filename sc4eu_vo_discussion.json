@@ -1802,7 +1802,14 @@
   },
   {
     "resourceId": "f29a581e-c896-41e2-a7a5-39b8b69f2a2b",
-    "comments": []
+    "comments": [
+      {
+        "id": "frgx0bj45",
+        "author": "Infineon Admin",
+        "content": "INVENTORY refers to the stock of goods, materials, and components that a business holds for the purpose of production, resale, or operational use. It is a key asset in supply chain and financial management, directly impacting a company's ability to meet customer demand, manage costs, and generate revenue.",
+        "timestamp": "2026-01-21T13:02:53.054Z"
+      }
+    ]
   },
   {
     "resourceId": "b5e044b9-4532-4302-84a8-bac8324be02d",
