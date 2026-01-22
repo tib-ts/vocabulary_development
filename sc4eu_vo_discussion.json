@@ -2222,7 +2222,14 @@
   },
   {
     "resourceId": "94d6b5ce-da43-4d58-8a41-89d07c5d40a2",
-    "comments": []
+    "comments": [
+      {
+        "id": "xejdux3pt",
+        "author": "Infineon Admin",
+        "content": "A PRODUCT HIERARCHY characterizes the top-down and bottom-up relationship between different product aggregates. It organizes the product aggregates according to defined criteria. A product aggregate is used to group different products based on certain criteria. The grouping criteria depends often on the planning purpose (e.g. controlling, production). It is a certain view on a set of products.",
+        "timestamp": "2026-01-22T12:54:11.800Z"
+      }
+    ]
   },
   {
     "resourceId": "1279b8e9-5f02-4e14-a7c2-46e05595259b",
