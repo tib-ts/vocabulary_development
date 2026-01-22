@@ -1283,6 +1283,12 @@
         "author": "Philipp Ulrich",
         "content": "I like the definition of Claude as a baseline. I would only add that the sales demand is actually the unbound demand from our point of view, so this is what we could sell to customers IF we have unlimited manufacturing capacities (which we dont ;) )\n\nSo Sales demand is quite high and is the baseline to derive what will be produced.",
         "timestamp": "2025-10-16T07:47:30.027Z"
+      },
+      {
+        "id": "hq7reqdjt",
+        "author": "Infineon Admin",
+        "content": "A SALES DEMAND is a request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.",
+        "timestamp": "2026-01-22T12:48:00.585Z"
       }
     ]
   },
