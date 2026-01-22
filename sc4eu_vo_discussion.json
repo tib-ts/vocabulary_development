@@ -1229,6 +1229,12 @@
         "author": "Robert",
         "content": "delete",
         "timestamp": "2025-09-03T10:10:48.658Z"
+      },
+      {
+        "id": "cmf9usav6",
+        "author": "Infineon Admin",
+        "content": "A PROCESS is a collection of subprocesses that meet a specific business objective. E.g. Perform Sourcing or Purchase Materials and Services. A production PROCESS specifies a method of making a product at a location. The process is expressed at a coarse level of granularity suitable for use in production planning. ",
+        "timestamp": "2026-01-22T13:02:00.214Z"
       }
     ]
   },
