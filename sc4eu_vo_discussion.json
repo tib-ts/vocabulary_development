@@ -1246,6 +1246,12 @@
         "author": "Robert",
         "content": "1) this description is not sufficient. The word promise is a normal word. Here apparently it is used in a very specific way. Then the wording should reflect that. E.g.: In chip manufacturing, a 'promise' is ..,etc \n2) is it really \"the uncommitted portion\"? Promise sounds like commitment. ",
         "timestamp": "2025-11-26T11:49:24.515Z"
+      },
+      {
+        "id": "iud3dxyps",
+        "author": "Infineon Admin",
+        "content": "A PROMISE is the committed portion of supply by the master production schedule and material plan.",
+        "timestamp": "2026-01-22T12:51:43.560Z"
       }
     ]
   },
