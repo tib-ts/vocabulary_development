@@ -2150,6 +2150,12 @@
         "author": "Robert",
         "content": "@Lars: what is your definition of Performance Measure? Because you introduced this for forecast accuracy, I believe, ",
         "timestamp": "2025-09-03T07:25:41.219Z"
+      },
+      {
+        "id": "owq5y3wdz",
+        "author": "Infineon Admin",
+        "content": "A PERFORMANCE MEASURE is defined by a calculation procedure. Performance measures can be blended using weights to express the importance.",
+        "timestamp": "2026-01-22T12:36:06.411Z"
       }
     ]
   },
