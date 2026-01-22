@@ -1305,7 +1305,14 @@
   },
   {
     "resourceId": "20aa6325-719a-4666-81f6-6d055ee97527",
-    "comments": []
+    "comments": [
+      {
+        "id": "pcpxzyezt",
+        "author": "Infineon Admin",
+        "content": "A SUPPLY PICTURE is a visualization of the supply in its dimensions. Supply is the total amount of specific products that is available to customers. Supply has the dimensions quantity, time, location, product, including aggregation of all dimensions. Supply is defined as inventory or plan replenishment. ",
+        "timestamp": "2026-01-22T12:45:26.232Z"
+      }
+    ]
   },
   {
     "resourceId": "aa266f71-b4da-4673-8fa6-117fb0aa52f7",
