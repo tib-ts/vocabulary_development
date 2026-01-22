@@ -1102,6 +1102,12 @@
         "author": "Claude Yugma",
         "content": "Planning refers to the set of activities aimed at aligning supply capabilities with demand requirements over different time horizons, under constraints of capacity, material availability, and manufacturing lead times. Planning activities attempt to reconcile the demand picture with the supply picture to ensure delivery of committed products and optimize fab performance.",
         "timestamp": "2025-06-23T12:38:15.247Z"
+      },
+      {
+        "id": "sowtjyof4",
+        "author": "Infineon Admin",
+        "content": "PLANNING is an activity with the purpose to determine a plan. Planning is associated with goals, represented by objective functions to be optimized.",
+        "timestamp": "2026-01-22T12:40:16.635Z"
       }
     ]
   },
