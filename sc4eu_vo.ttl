@@ -956,15 +956,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#e41e8cf4-eb87-4509-9014-42da7a5e7d07> rdf:type rdfs:Resource;
-    dcterms:identifier "e41e8cf4-eb87-4509-9014-42da7a5e7d07";
-    rdfs:label "Action";
-    skos:altLabel "_DR sc";
-    dcterms:description "The process of doing something";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Action";
-    ex:status "not accept";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-12-18T16:32:26.896Z"^^xsd:dateTime.
 <https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
     dcterms:identifier "7f3329e8-301e-43f1-b5ba-43c4aee22ddd";
     rdfs:label "Allocation";
