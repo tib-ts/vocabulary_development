@@ -776,14 +776,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#2aff4e35-8f80-4b3d-95f7-9b27b39cbef5> rdf:type rdfs:Resource;
-    dcterms:identifier "2aff4e35-8f80-4b3d-95f7-9b27b39cbef5";
-    rdfs:label "absolute number";
-    dcterms:description "quantity";
-    rdfs:seeAlso "N/A";
-    ex:status "not accepted";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-30T09:52:30.476Z"^^xsd:dateTime.
 <https://example.com#de4cfbaf-964f-4eb0-a155-c9f66340d260> rdf:type rdfs:Resource;
     dcterms:identifier "de4cfbaf-964f-4eb0-a155-c9f66340d260";
     rdfs:label "relative number";
