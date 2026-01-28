@@ -1898,6 +1898,12 @@
         "author": "Claude Yugma",
         "content": "Demand trace is the tracking of demand from final customer requests through the supply chain, enabling visibility of demand origins and fulfillment status.",
         "timestamp": "2025-06-23T10:50:07.618Z"
+      },
+      {
+        "id": "wbkutq95t",
+        "author": "Robert",
+        "content": "How can such demand be tracked? Is that the actual unit that is being traced? Or is this on aggregate level?",
+        "timestamp": "2026-01-28T13:38:07.738Z"
       }
     ]
   },
