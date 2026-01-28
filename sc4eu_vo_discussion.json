@@ -2138,6 +2138,12 @@
         "author": "Infineon Admin",
         "content": "An ORDER is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer.",
         "timestamp": "2026-01-21T17:08:18.959Z"
+      },
+      {
+        "id": "k7gva1khi",
+        "author": "Robert",
+        "content": "The Order is the information carrier that the customer sends to his supplier. It can be based on a preceding offer made by the supplier to the customer. It is often followed by an order confirmation that the supplier sends to the customer. ",
+        "timestamp": "2026-01-28T14:06:52.521Z"
       }
     ]
   },
