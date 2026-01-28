@@ -74,6 +74,12 @@
         "author": "Philippe Vialletelle",
         "content": "Which is the difference between requested and purchased? What do we want to put behind that term? If it is \"historical\", i.e., one \"single set of values\" for a past date, I'd rather use \"actual\" than \"past\". From my stand point, past demand is multidimensional as I will have several sets of values (forecasted at different periods in the past) for the same past date. ",
         "timestamp": "2025-12-19T15:22:47.875Z"
+      },
+      {
+        "id": "y0gdv4z5m",
+        "author": "Robert",
+        "content": "The difference between requested and purchased can be significant if product is on allocation, when inventories are low and capacity is fully utilized. So both are relevant and both can be informative for forecasting and planning",
+        "timestamp": "2026-01-28T13:33:42.940Z"
       }
     ]
   },
