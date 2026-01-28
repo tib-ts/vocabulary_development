@@ -763,11 +763,11 @@
 <https://example.com#763f9faa-f1e1-4265-ae07-b65eafc9b570> rdf:type rdfs:Resource;
     dcterms:identifier "763f9faa-f1e1-4265-ae07-b65eafc9b570";
     rdfs:label "inventory target";
-    dcterms:description "target set by a company for their inventory level";
+    dcterms:description "Target inventory is the planned level of stock a company aims to maintain in order to balance service level objectives with cost considerations. This target guides replenishment decisions, such as order timing and order quantities. This can be measured in units, in money or in coverage of days of sales.\"";
     rdfs:seeAlso "N/A";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2026-01-28T14:34:28.420Z"^^xsd:dateTime.
 <https://example.com#1a5b2876-b03f-4237-aa07-12f33befade3> rdf:type rdfs:Resource;
     dcterms:identifier "1a5b2876-b03f-4237-aa07-12f33befade3";
     rdfs:label "finished goods";
