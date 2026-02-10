@@ -1684,3 +1684,11 @@
     ex:status "draft";
     dcterms:created "2025-10-08"^^xsd:date;
     dcterms:modified "2025-10-08T12:30:35.303Z"^^xsd:dateTime.
+<https://example.com#58afc3b5-59c6-4a46-959c-85f0c1ed0b33> rdf:type rdfs:Resource;
+    dcterms:identifier "58afc3b5-59c6-4a46-959c-85f0c1ed0b33";
+    rdfs:label "Physical Object";
+    dcterms:description "Any physical object";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-PWR%23Physical_Object";
+    ex:status "draft";
+    dcterms:created "2026-02-10"^^xsd:date;
+    dcterms:modified "2026-02-10T12:02:26.333Z"^^xsd:dateTime.
