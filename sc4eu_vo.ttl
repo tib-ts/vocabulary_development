@@ -407,9 +407,9 @@
     skos:altLabel "_DR pl";
     dcterms:description "(restricted) The Aggregated Capacity Group combines products that are interchangeable in production resources (e.g. can be produced on the same equipment) and having the same capacity consumption. Using an ACG provides flexibility in a way of switching demands of this products within this ACG.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Aggregated_Capacity";
-    ex:status "accept";
+    ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-02-23T14:57:39.137Z"^^xsd:dateTime.
+    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#c66b03e7-249c-4bf8-962d-8a37200f2ae3> rdf:type rdfs:Resource;
     dcterms:identifier "c66b03e7-249c-4bf8-962d-8a37200f2ae3";
     rdfs:label "Confirmation";
@@ -1298,9 +1298,9 @@
     skos:altLabel "_DR sc";
     dcterms:description "When scarce ATP quantities are allocated to different customer classes or customers, the resulting supply reservations are called allocated ATP (AATP) quantities.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Allocated_Available_To_Promise";
-    ex:status "not accept";
+    ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2026-02-24T16:18:09.393Z"^^xsd:dateTime.
+    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#3fe64d88-12bc-43ad-9d62-9a0338bbe3bb> rdf:type rdfs:Resource;
     dcterms:identifier "3fe64d88-12bc-43ad-9d62-9a0338bbe3bb";
     rdfs:label "Available To Promise";
@@ -1500,9 +1500,9 @@
     rdfs:label "Active destocking";
     skos:altLabel "Reactive stocking";
     dcterms:description "A conscious management decision to reduce the Desired Inventory Coverage. This happened when interbank interest rates peaked after the unexpected bankruptcy of Lehman Brothers (a bank) on 15 September 2008. The result was a global wave of temporary inventory reduction.";
-    ex:status "accept";
+    ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date;
-    dcterms:modified "2026-02-23T13:28:09.147Z"^^xsd:dateTime.
+    dcterms:modified "2025-04-11T06:00:36.242Z"^^xsd:dateTime.
 <https://example.com#3f3b5242-0011-4422-b9cf-02deba5aba3a> rdf:type rdfs:Resource;
     dcterms:identifier "3f3b5242-0011-4422-b9cf-02deba5aba3a";
     rdfs:label "Pipeline";
