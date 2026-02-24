@@ -407,9 +407,9 @@
     skos:altLabel "_DR pl";
     dcterms:description "(restricted) The Aggregated Capacity Group combines products that are interchangeable in production resources (e.g. can be produced on the same equipment) and having the same capacity consumption. Using an ACG provides flexibility in a way of switching demands of this products within this ACG.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Aggregated_Capacity";
-    ex:status "accept";
+    ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-02-23T14:57:39.137Z"^^xsd:dateTime.
+    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#c66b03e7-249c-4bf8-962d-8a37200f2ae3> rdf:type rdfs:Resource;
     dcterms:identifier "c66b03e7-249c-4bf8-962d-8a37200f2ae3";
     rdfs:label "Confirmation";
