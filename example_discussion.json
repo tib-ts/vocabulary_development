@@ -46,6 +46,40 @@
         "author": "felix engel",
         "content": "the description is taken from WP5 sildes. Please propose other descriptions",
         "timestamp": "2024-08-26T13:51:27.062Z"
+      },
+      {
+        "id": "avy18360d",
+        "author": "Felix Engel",
+        "content": "@Philipp Ulrich @Yannick Mester The definition seems not very helpful. Can you provide an update?",
+        "timestamp": "2025-09-09T13:08:57.071Z",
+        "mentionedUsers": [
+          "Philipp Ulrich",
+          "Yannick Mester"
+        ]
+      },
+      {
+        "id": "uucdozl42",
+        "author": "Yannick Mester",
+        "content": "Maybe we can use: Past demand is the historical record of quantities of a product or service that customers requested or purchased over prior time periods, used as the basis for forecasting and planning",
+        "timestamp": "2025-09-23T11:07:08.118Z"
+      },
+      {
+        "id": "o9n5ujgb8",
+        "author": "Philipp Ulrich",
+        "content": "I would have it open with regards to quantities as demand could be measured in $ or € as well, even we do not do it right now. Other than that the definition by Yannick is good.",
+        "timestamp": "2025-10-16T07:45:06.438Z"
+      },
+      {
+        "id": "qk8zn9huk",
+        "author": "Philippe Vialletelle",
+        "content": "Which is the difference between requested and purchased? What do we want to put behind that term? If it is \"historical\", i.e., one \"single set of values\" for a past date, I'd rather use \"actual\" than \"past\". From my stand point, past demand is multidimensional as I will have several sets of values (forecasted at different periods in the past) for the same past date. ",
+        "timestamp": "2025-12-19T15:22:47.875Z"
+      },
+      {
+        "id": "y0gdv4z5m",
+        "author": "Robert",
+        "content": "The difference between requested and purchased can be significant if product is on allocation, when inventories are low and capacity is fully utilized. So both are relevant and both can be informative for forecasting and planning",
+        "timestamp": "2026-01-28T13:33:42.940Z"
       }
     ]
   },
@@ -77,7 +111,48 @@
   },
   {
     "resourceId": "ac8ec0bb-4558-4b19-81b0-c848f4a048fb",
-    "comments": []
+    "comments": [
+      {
+        "id": "kw0yjzij4",
+        "author": "Claude Yugma",
+        "content": "True demand refers to the actual market need for a product, independent of any distortions caused by safety stocks, ordering behavior, or supply constraints.     In constrained situations, customer orders are not a good indicator of true demand.” Instead, demand visibility efforts aim to reconstruct or approximate true demand to support better planning and long-term capacity decisions . Understanding true demand is essential for: \n    Avoiding over- or under-capacity planning\n    Smoothing production schedules\n    Ensuring strategic alignment of resources",
+        "timestamp": "2025-06-23T10:58:46.180Z"
+      },
+      {
+        "id": "lepe8erfu",
+        "author": "Robert",
+        "content": "@Claude. Your description is better. My description is obsolete. Latest view is that True Demand = End Market Demand",
+        "timestamp": "2025-09-03T08:36:52.939Z"
+      },
+      {
+        "id": "m9iftdo2g",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio , @Philipp Ulrich",
+        "timestamp": "2025-09-19T06:52:50.145Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "cgotlucvs",
+        "author": "Maxi Udenio",
+        "content": "Minor comment: there is a loose \" after demand. I would separate the enumeration at the end with commas (planning, smoothing..., etc)",
+        "timestamp": "2025-09-21T16:21:22.815Z"
+      },
+      {
+        "id": "l4unxpwsm",
+        "author": "Philipp Ulrich",
+        "content": "True demand refers to the actual end market need for a product. True demand is independent of any distortions caused by safety stocks, ordering behavior, or supply constraints traversing the supply chain. In constrained situations, customer orders are not a good indicator of true demand.” Instead, demand visibility efforts aim to reconstruct or approximate true demand to support better planning and long-term capacity decisions.",
+        "timestamp": "2025-10-16T07:52:06.216Z"
+      },
+      {
+        "id": "o9r9hr1dg",
+        "author": "Robert",
+        "content": "I like Philipp's version",
+        "timestamp": "2025-11-26T11:43:41.154Z"
+      }
+    ]
   },
   {
     "resourceId": "a601e751-d6a2-472b-92d6-c33d16b4aa8e",
@@ -85,11 +160,87 @@
   },
   {
     "resourceId": "f47de173-cd8e-48c7-8d39-906648d3aef2",
-    "comments": []
+    "comments": [
+      {
+        "id": "peltaa1wt",
+        "author": "Claude Yugma",
+        "content": "This represents the number of days, weeks, or months of future demand that the desired inventory level is expected to cover.",
+        "timestamp": "2025-06-23T10:51:27.425Z"
+      }
+    ]
   },
   {
     "resourceId": "5b71df05-24da-4be4-bc67-ddc5bfdc8d0a",
-    "comments": []
+    "comments": [
+      {
+        "id": "zp13fkxml",
+        "author": "Claude Yugma",
+        "content": "The Pork Cycle is is een as a metaphor for boom-and-bust investment cycles caused by delayed supply responses to demand fluctuations. The result is the potential for large-scale boom and bust cycles reminiscent of the ‘pork cycle’ in agricultural economics.The delayed response of supply to demand, combined with uncertain forecasts and large capital requirements, gives rise to classic cyclicality.  It describes how overinvestment during shortages leads to future overcapacity, followed by price crashes and underinvestment, perpetuating the cycle.",
+        "timestamp": "2025-06-23T12:36:59.642Z"
+      },
+      {
+        "id": "520xxzgaq",
+        "author": "Felix Engel",
+        "content": "@Robert Claude provided another definition. What do you think about it?",
+        "timestamp": "2025-09-02T12:27:05.061Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
+      },
+      {
+        "id": "gzxyl35r7",
+        "author": "Robert",
+        "content": "Claude's text is quite ok. It is not clear what 'classic cyclicality' means here. And the investments do not have to be large. And it only happens in industries that grow, such as semiconductors, or where the life time of capacity is limited, such as pork. And it can also happen if demand is stable (but that will only become clear after our article on the pork cycle has been published).",
+        "timestamp": "2025-09-03T07:19:10.204Z"
+      },
+      {
+        "id": "66u9u4zzi",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma please have a look. Can you revise? @Maxi Udenio maybe you have some thoughts on it as well?",
+        "timestamp": "2025-09-04T06:37:36.782Z",
+        "mentionedUsers": [
+          "Claude Yugma",
+          "Maxi Udenio"
+        ]
+      },
+      {
+        "id": "8s3xhyp1a",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester do you agree?",
+        "timestamp": "2025-09-09T12:54:54.141Z",
+        "mentionedUsers": [
+          "Yannick Mester"
+        ]
+      },
+      {
+        "id": "anke31w2g",
+        "author": "Claude Yugma",
+        "content": "Here is a revised version : The Pork Cycle is a metaphor for boom-and-bust investment patterns caused by delayed supply responses to demand conditions. It illustrates how shortages can trigger overinvestment, which later results in overcapacity, price declines, and underinvestment, perpetuating the cycle. This phenomenon typically occurs in industries where capacity has a limited lifetime (e.g., agriculture) or where growth and uncertainty make forecasts difficult (e.g., semiconductors).",
+        "timestamp": "2025-09-15T09:56:27.734Z"
+      },
+      {
+        "id": "ngnhk2ngk",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester @Maxi Udenio",
+        "timestamp": "2025-09-19T06:33:04.146Z",
+        "mentionedUsers": [
+          "Yannick Mester",
+          "Maxi Udenio"
+        ]
+      },
+      {
+        "id": "on94zgyrq",
+        "author": "Maxi Udenio",
+        "content": "I like the 2nd definition!",
+        "timestamp": "2025-09-21T16:22:57.756Z"
+      },
+      {
+        "id": "z5qp57ab3",
+        "author": "Yannick Mester",
+        "content": "I agree - 2nd version is fine ",
+        "timestamp": "2025-09-23T11:06:03.968Z"
+      }
+    ]
   },
   {
     "resourceId": "c557f155-90db-4dc2-9ba1-f5020625cbba",
@@ -99,6 +250,40 @@
         "author": "felix engel",
         "content": "I guess that \"Desired Utilization Rate (DUR)\" is rather a alternative label and \"See Also\". I have revised accordingly",
         "timestamp": "2024-09-06T05:27:36.181Z"
+      },
+      {
+        "id": "ksx58s0a3",
+        "author": "Robert",
+        "content": "@Felix There is Capacity, say 200 [u/t] and there is Utilization, say 160 [u/t], in which case Utilization Rate = 80%. There is a Desired Utilization Rate, say 90%, which is optimal from a plant and business point of view. Underutilization here is either 200-160 = 40 [u/t] or  (200-160)/200=20% or (180-160)/180 = 11%, depending on your definition. I go for the last. ",
+        "timestamp": "2025-09-03T10:09:07.538Z"
+      },
+      {
+        "id": "hu8ckgaq9",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Robert so I guess the definition needs to be adapted? Or maybe the Alternative Lable as well?",
+        "timestamp": "2025-09-04T06:36:34.858Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Robert"
+        ]
+      },
+      {
+        "id": "1ackfxjgj",
+        "author": "Robert",
+        "content": "The alternative label should be deleted. DUR can be mentioned under \"See Also:\"",
+        "timestamp": "2025-09-08T13:28:42.060Z"
+      },
+      {
+        "id": "8b1q0zic6",
+        "author": "Robert",
+        "content": "Underutilization is not using part of capacity, and can be defined versus Capacity or versus Desired Utilization Rate and it can be expressed as a percentage or in capacity units. Capacity can be Nameplate capacity, Maximum Capacity or Effective Capacity.",
+        "timestamp": "2025-09-08T13:33:33.772Z"
+      },
+      {
+        "id": "bf7be54qm",
+        "author": "Maxi Udenio",
+        "content": "Agree with Robert. I'm not familiar how the term is used in the industry though. By definition, no process can ever run at 100% utilization rate in practice, so in that sense (against technical maximal capacity) there is always underutilization. I would take Robert's suggestion and use whatever is common in the industry.",
+        "timestamp": "2025-09-21T16:38:25.393Z"
       }
     ]
   },
@@ -122,34 +307,6 @@
     "comments": []
   },
   {
-    "resourceId": "1c0748ba-38cb-4c7b-9909-e6452ff342ea",
-    "comments": [
-      {
-        "id": "q498imclj",
-        "author": "Robert",
-        "content": "I think Demand is not a production request. Demand is a wish of a customer to buy a product or service. Demand in general exists in the form of customer orders. When we talk about 'expected customer need' we refer to that as 'forecast'. ",
-        "timestamp": "2024-09-18T13:45:36.837Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "3e1f4cb6-9629-4c6a-a220-e327f118a714",
-    "comments": [
-      {
-        "id": "ij9dgbvxh",
-        "author": "Robert",
-        "content": "In SC4EU SD models the term Supply Chain refers to the delivery chain of companies from Frontend - Backend - (Tier2) - Tier1 - OEM - Retail to Consumers.",
-        "timestamp": "2024-09-18T14:22:16.897Z"
-      },
-      {
-        "id": "qm5gl6oof",
-        "author": "System ADMIN",
-        "content": "Proposal from @Robert\n\na goal-oriented network of processes and stockpoints used to deliver goods and services to customers. processes represent the individual activities involved in producing and distributing goods and services.",
-        "timestamp": "2025-01-09T15:02:29.719Z"
-      }
-    ]
-  },
-  {
     "resourceId": "a68d9413-ec72-4741-b6c8-6b8c0aa5335f",
     "comments": []
   },
@@ -165,10 +322,34 @@
     "resourceId": "96e3059c-540c-4b03-b13c-71573c598596",
     "comments": [
       {
-        "id": "3idpzr1y1",
+        "id": "7hhgimdnt",
+        "author": "Claude Yugma",
+        "content": "The bullwhip effect refers to demand distortions that amplify as information moves upstream in the supply chain, often due to forecast updates, order batching, and demand signal processing.",
+        "timestamp": "2025-06-23T10:35:02.801Z"
+      },
+      {
+        "id": "zyvf69ywy",
         "author": "System ADMIN",
-        "content": "Proposed by @Robert\nDemand at the top (manufacturing) level of a supply chain tends to exhibit more variability than demand at the bottom (retail) level. Traditional explanations of the bullwhip include batch ordering, forecasting errors, promotional pricing and gaming behavior by customers. This project adds Reactive Stocking and underestimation of the pipeline as causes. ",
-        "timestamp": "2025-01-09T14:48:31.446Z"
+        "content": "Thanks @Claude Yugma I have added your definition. @Philipp Ulrich @Robert @Philippe Vialletelle and others please have a look",
+        "timestamp": "2025-11-25T07:36:37.040Z",
+        "mentionedUsers": [
+          "Claude Yugma",
+          "Philipp Ulrich",
+          "Robert",
+          "Philippe Vialletelle"
+        ]
+      },
+      {
+        "id": "qfk6y8koi",
+        "author": "Robert",
+        "content": "I believe it is also due to inventory management. ",
+        "timestamp": "2025-11-26T10:36:41.164Z"
+      },
+      {
+        "id": "1sw2h6evw",
+        "author": "Philippe Vialletelle",
+        "content": "I agree with Robert. The term \"demand distorsions\" should may be precised as \"distorsions in the perception of demand\". Also add inventory management policies?",
+        "timestamp": "2025-12-19T15:14:05.754Z"
       }
     ]
   },
@@ -204,6 +385,21 @@
         "author": "felix engel",
         "content": "NXP sees demand as incoming requested orders (inflated and biased by “panic buying”)\nExpressed in absolute quantities (what we expect to ship). Slideset: WP5_26_06_2024\n",
         "timestamp": "2024-08-29T09:09:25.996Z"
+      },
+      {
+        "id": "nbamo88v0",
+        "author": "Claude Yugma",
+        "content": "Short-term demand refers to forecasted or actual demand over a short planning horizon—typically days or weeks. It is used for near-term scheduling and order fulfilment decisions.",
+        "timestamp": "2025-06-23T10:49:31.408Z"
+      },
+      {
+        "id": "wbgbuu3hi",
+        "author": "System ADMIN",
+        "content": "@Maxi Udenio do you have an opinion?",
+        "timestamp": "2025-11-25T11:57:33.980Z",
+        "mentionedUsers": [
+          "Maxi Udenio"
+        ]
       }
     ]
   },
@@ -219,12 +415,31 @@
         "author": "felix engel",
         "content": "I have added a definition that describes how I would define the term. Any feedback on it?",
         "timestamp": "2024-09-03T06:16:46.108Z"
+      },
+      {
+        "id": "ae3huf8qd",
+        "author": "Claude Yugma",
+        "content": "Semantic technology refers to a set of technologies that enable machines to understand, interpret, and reason about data through its meaning rather than just its structure.\nIn the semiconductor supply chain context, semantic technologies help integrate diverse data sources, improve interoperability, and support decision-making by linking data through shared vocabularies and ontologies.",
+        "timestamp": "2025-06-23T11:06:39.487Z"
       }
     ]
   },
   {
     "resourceId": "45b1a74f-a7f1-42e4-9f4f-fc1cb90df1ba",
-    "comments": []
+    "comments": [
+      {
+        "id": "w1ahfti42",
+        "author": "Claude Yugma",
+        "content": "Curation refers to the activity of cleaning, validating, or processing data within the supply chain. It ensures that data (such as orders, inventory, customers, etc.) are complete, accurate, and usable.",
+        "timestamp": "2025-06-23T10:40:52.508Z"
+      },
+      {
+        "id": "wmji6xfzc",
+        "author": "Robert",
+        "content": "I propose to adopt Claude's",
+        "timestamp": "2026-01-28T13:55:07.962Z"
+      }
+    ]
   },
   {
     "resourceId": "11ed8074-8172-4007-aaee-73cee59dc5c8",
@@ -246,12 +461,25 @@
         "author": "felix engel",
         "content": "It is somewhat lengthy, but as such hopefully explanatory ",
         "timestamp": "2024-09-05T07:25:28.708Z"
+      },
+      {
+        "id": "cabryy1ae",
+        "author": "Claude Yugma",
+        "content": "These are standardized frameworks developed by the W3C to support the development of the Semantic Web. They include RDF (Resource Description Framework), OWL (Web Ontology Language), and SPARQL (query language).\nIn the documents, these standards underpin efforts to create digitally interoperable supply chains using structured knowledge models. These concepts support advanced systems like decision support, supply chain analytics, and digital twins by enriching raw data with context and relationships.",
+        "timestamp": "2025-06-23T11:08:25.120Z"
       }
     ]
   },
   {
     "resourceId": "5bc9a44a-91c8-448e-813c-61b012d27ff3",
-    "comments": []
+    "comments": [
+      {
+        "id": "zr4wbmwhn",
+        "author": "Robert",
+        "content": "there is no description. SHall we delete?",
+        "timestamp": "2026-01-28T13:29:33.324Z"
+      }
+    ]
   },
   {
     "resourceId": "c7f3da60-5199-4465-8e31-277b45784236",
@@ -261,6 +489,27 @@
         "author": "Robert",
         "content": "The description still does not say what a Semantic Web is. It is helping and it has a goal. It refers to a vision of linked data. But what is said vision? What are rules for handling data? \n\nAnd who is W3C? ",
         "timestamp": "2024-09-18T13:57:02.558Z"
+      },
+      {
+        "id": "y35ub1mro",
+        "author": "Claude Yugma",
+        "content": "The Semantic Web is an extension of the current web that enables data to be shared and reused across applications, enterprises, and communities by attaching meaning (semantics) to the data.\nIt plays a role in the digital reference ontologies mentioned in the documents, supporting intelligent data access and reasoning in distributed systems.",
+        "timestamp": "2025-06-23T11:07:21.119Z"
+      },
+      {
+        "id": "hvoyn9er4",
+        "author": "Robert",
+        "content": "Claude's description is much better. @Claude: What is the 'current web'? The www? Mentioned in which 'documents'? @Felix: Shall we add 'distributed systems' and 'intelligent data access' also to this vocabulary?",
+        "timestamp": "2025-09-03T08:48:56.035Z"
+      },
+      {
+        "id": "huc9pwmdk",
+        "author": "Felix Engel",
+        "content": "@Robert I agree it is a rather general description that explains its characteristics. I agree to make use of it.  As such we will not need 'distributed systems' and 'intelligent data access'",
+        "timestamp": "2025-09-09T12:48:49.584Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
       }
     ]
   },
@@ -287,6 +536,56 @@
         "author": "felix engel",
         "content": "I have added the DR definition. However, Robert has proposed a more detailed description. PLease let me know which suits better: \"Fabrication. In semiconductor manufacturing, fabrication usually refers to the front-end process of making devices and integrated circuits in semiconductor wafers, but does not include the package assembly (back-end) stages.\"",
         "timestamp": "2024-09-06T07:27:55.583Z"
+      },
+      {
+        "id": "6irz57eat",
+        "author": "Robert",
+        "content": "\"A semiconductor fabrication plant (commonly called a fab; sometimes foundry) is a factory for semiconductor device fabrication.\" (wiki). This is correct in my view. The DR description is nonsense.",
+        "timestamp": "2024-11-05T09:47:16.270Z"
+      },
+      {
+        "id": "67on7fhf9",
+        "author": "Claude Yugma",
+        "content": "A fab (short for fabrication plant) is a manufacturing facility where semiconductor wafers are processed to produce integrated circuits.",
+        "timestamp": "2025-06-23T10:54:18.841Z"
+      },
+      {
+        "id": "fueykokpg",
+        "author": "Robert",
+        "content": "A fab (short for fabrication plant) is a manufacturing facility where semiconductor wafers (discs containing integrated circuits) are produced.",
+        "timestamp": "2025-09-03T08:55:05.178Z"
+      },
+      {
+        "id": "kbx5gdrxu",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma what do you think about @Robert revisiosn? @Maxi Udenio what is your favorite?",
+        "timestamp": "2025-09-04T06:31:53.745Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Claude Yugma",
+          "Robert"
+        ]
+      },
+      {
+        "id": "kkdhebbpn",
+        "author": "Claude Yugma",
+        "content": "Robert’s revision makes the text more accessible, but I think it blurs an important distinction: fabs do not produce wafers, but rather process silicon wafers to create integrated circuits on them.\n\nFor accuracy while keeping it simple, a compromise could be:\n“A fab (short for fabrication plant) is a manufacturing facility where silicon wafers are processed to create integrated circuits (ICs).”\n\nThis keeps the technical precision while still being understandable.",
+        "timestamp": "2025-09-15T10:01:57.638Z"
+      },
+      {
+        "id": "0skd1iu99",
+        "author": "Felix Engel",
+        "content": "@Robert ?",
+        "timestamp": "2025-09-19T06:31:44.500Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
+      },
+      {
+        "id": "qenqqxila",
+        "author": "Maxi Udenio",
+        "content": "Again, can't comment on the details of the process, but I'm inclined to go for the latest definition, which is accessible and fully technical at the same time.",
+        "timestamp": "2025-09-21T16:27:23.974Z"
       }
     ]
   },
@@ -296,19 +595,59 @@
   },
   {
     "resourceId": "0c8d7d97-2f0c-489e-9820-ee8647850254",
-    "comments": []
+    "comments": [
+      {
+        "id": "mkfrzerrr",
+        "author": "Claude Yugma",
+        "content": "Front end\" refers to the initial phases of the production process, primarily wafer fabrication and wafer probe.\nThese stages involve creating the integrated circuits on silicon wafers using processes like photolithography, doping, etching, and deposition. Wafer fabrication and probe are generally referred to as front-end operations.",
+        "timestamp": "2025-06-23T10:55:57.619Z"
+      }
+    ]
   },
   {
     "resourceId": "86a9c39e-c3c0-40db-a9c6-e1b2cdb07a82",
     "comments": [
       {
-        "id": "rzw7b1yrx",
-        "author": "System ADMIN",
-        "content": "@David check the identifier, @Mark should we change the label?",
-        "timestamp": "2025-05-16T12:54:11.555Z",
+        "id": "s21y72cku",
+        "author": "Claude Yugma",
+        "content": "efers to the assembly and test stages of semiconductor manufacturing, typically occurring after wafer fabrication (front end).",
+        "timestamp": "2025-06-23T10:32:18.664Z"
+      },
+      {
+        "id": "vzqwecixs",
+        "author": "Felix Engel",
+        "content": "@Robert Claude has proposed another definition of Back End. Are you ok with this?",
+        "timestamp": "2025-09-02T11:50:32.727Z",
         "mentionedUsers": [
-          "David"
+          "Robert"
         ]
+      },
+      {
+        "id": "8bxl54yk2",
+        "author": "Robert",
+        "content": "yes",
+        "timestamp": "2025-09-03T07:06:56.660Z"
+      },
+      {
+        "id": "yosovveqj",
+        "author": "Felix Engel",
+        "content": "ok, @Robert before starting the consensus building process I will make those changes and then restart consensus",
+        "timestamp": "2025-09-03T08:25:14.284Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
+      },
+      {
+        "id": "hycvrfb26",
+        "author": "Philippe Vialletelle",
+        "content": "I would remove the \"two\" at the end of the definition. In fact, the limit between FE and BE is EWS (Electrical Wafer Sort) which is a full functional test performed on full wafers, before dicing. EWS plant may be distinct from FE and BE plants.",
+        "timestamp": "2025-12-19T15:29:04.097Z"
+      },
+      {
+        "id": "5r49yfxvk",
+        "author": "Robert",
+        "content": "I cannot vote because this is outside my expertise",
+        "timestamp": "2026-01-28T13:40:59.522Z"
       }
     ]
   },
@@ -378,7 +717,71 @@
   },
   {
     "resourceId": "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264",
-    "comments": []
+    "comments": [
+      {
+        "id": "77bfm3lby",
+        "author": "felix",
+        "content": "@Felix Engel",
+        "timestamp": "2025-05-28T06:06:28.857Z",
+        "mentionedUsers": [
+          "Felix Engel"
+        ]
+      },
+      {
+        "id": "zcxs1iqzv",
+        "author": "Claude Yugma",
+        "content": "A BoM is a comprehensive list of raw materials, components, and assemblies required to build a product.",
+        "timestamp": "2025-06-23T10:33:29.556Z"
+      },
+      {
+        "id": "n3xvd3r7c",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma ok, you propose to shorten or generalise the description?",
+        "timestamp": "2025-07-04T08:33:09.428Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
+      },
+      {
+        "id": "2ktbhr908",
+        "author": "Felix Engel",
+        "content": "@Marta Claude proposed a different definition. Are you ok with a replacement?",
+        "timestamp": "2025-09-02T11:58:48.376Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
+      },
+      {
+        "id": "ncyx4emhr",
+        "author": "Claude Yugma",
+        "content": "My intention was to keep the definition aligned with the common industrial use of BoM, i.e. a complete and structured list of what is needed to build a product. That said, if you prefer a shorter or more general version for consistency, I am fine to adapt. For example:\n“A BoM is a structured list of the items required to manufacture a product.”",
+        "timestamp": "2025-09-15T10:03:25.416Z"
+      },
+      {
+        "id": "u51ufexi0",
+        "author": "System ADMIN",
+        "content": "@Claude Yugma are the Term Detail ok with you Or do you want to edit it?",
+        "timestamp": "2025-11-25T07:33:20.223Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
+      },
+      {
+        "id": "ykn0kjrdr",
+        "author": "System ADMIN",
+        "content": "@Claude Yugma ?",
+        "timestamp": "2025-11-25T11:52:37.377Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
+      },
+      {
+        "id": "rhzd6ou2p",
+        "author": "Infineon Admin",
+        "content": "Bill_Of_Materials - is a comprehensive list that outlines the components, parts, and raw materials required to manufacture a product, including their quantities and specifications. It serves as a crucial document within the supply chain process, providing the necessary information for production planning, inventory management, and cost estimation. ",
+        "timestamp": "2026-01-20T16:50:43.879Z"
+      }
+    ]
   },
   {
     "resourceId": "268e91b4-77f7-4a77-a41d-5ce3bb322524",
@@ -399,6 +802,28 @@
         "author": "felix engel",
         "content": "@Lars, can you add a description?",
         "timestamp": "2024-09-06T08:10:16.016Z"
+      },
+      {
+        "id": "mqtkuds80",
+        "author": "Claude Yugma",
+        "content": "A strategy in which semiconductor companies use a globally distributed network of fabs and subcontractors without geographical constraints to increase flexibility and resiliency.",
+        "timestamp": "2025-06-23T10:34:47.074Z"
+      },
+      {
+        "id": "g32ph7jo5",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma Thanks, I have added you definition. @raphael herding what is your opinion?",
+        "timestamp": "2025-09-02T12:54:46.292Z",
+        "mentionedUsers": [
+          "Claude Yugma",
+          "raphael herding"
+        ]
+      },
+      {
+        "id": "ikf3w1eh1",
+        "author": "System ADMIN",
+        "content": ".. any comments on this?",
+        "timestamp": "2025-11-25T07:34:30.544Z"
       }
     ]
   },
@@ -410,6 +835,18 @@
         "author": "felix engel",
         "content": "@Lars, can you provide a description?",
         "timestamp": "2024-09-06T08:11:53.666Z"
+      },
+      {
+        "id": "32pgyumzk",
+        "author": "Felix Engel",
+        "content": "Not sure who added the Term. Can someone provide a description? Otherwise I would start a consensus if we need this term",
+        "timestamp": "2025-09-02T11:56:22.946Z"
+      },
+      {
+        "id": "u6ig7bdk4",
+        "author": "Philippe Vialletelle",
+        "content": "Not sure there a standard definition there. At ST,  the term \"base wafer\" refers to products that are brought \"half way\" through the Front-End process, typically to \"contact\" level. There are only several product lines concerned, i.e., those for which customization is done when building the connection layers (metal levels).",
+        "timestamp": "2025-12-19T15:33:53.482Z"
       }
     ]
   },
@@ -430,7 +867,30 @@
   },
   {
     "resourceId": "abeb6a5c-cc98-4921-a42e-f90b6d6f9533",
-    "comments": []
+    "comments": [
+      {
+        "id": "xid20px3m",
+        "author": "Claude Yugma",
+        "content": "A chip is a small piece of semiconducting material on which an integrated circuit is embedded. Also known as a die.",
+        "timestamp": "2025-06-23T10:36:42.210Z"
+      },
+      {
+        "id": "v5p4dm4lx",
+        "author": "System ADMIN",
+        "content": "@Philipp Ulrich @Yannick Mester and others, please add you opinion",
+        "timestamp": "2025-11-25T11:59:25.422Z",
+        "mentionedUsers": [
+          "Philipp Ulrich",
+          "Yannick Mester"
+        ]
+      },
+      {
+        "id": "7er3futp1",
+        "author": "Robert",
+        "content": "I like Claude's. The shape is irrelevant. ",
+        "timestamp": "2026-01-28T13:56:42.874Z"
+      }
+    ]
   },
   {
     "resourceId": "376d968c-83f7-44fa-9470-e4c0bc0cc5ee",
@@ -438,16 +898,44 @@
   },
   {
     "resourceId": "e655023c-d74f-410a-92f8-8d600cd72d96",
-    "comments": []
+    "comments": [
+      {
+        "id": "dttcv8scn",
+        "author": "Claude Yugma",
+        "content": "A die bank is a stock of tested but unpackaged semiconductor dies stored after wafer dicing, enabling flexibility in packaging and fulfillment.",
+        "timestamp": "2025-06-23T10:53:17.635Z"
+      }
+    ]
   },
   {
     "resourceId": "68392d7e-0253-4edc-96ef-d6f9c8306649",
     "comments": [
       {
-        "id": "tq8jrejpq",
-        "author": "System ADMIN",
-        "content": "description proposed by @Robert    \nThe bottleneck of a routing is the process with the highest utilization. The bottleneck process constrains the capacity of the overall system utilization level, which is the fraction of time a station is not idle and is computed as: utilization = rate into station / capacity of station",
-        "timestamp": "2025-01-09T15:19:52.694Z"
+        "id": "h99kn4m6e",
+        "author": "Adrien Wartelle",
+        "content": "Proposition: Maximum Amount of products that can be produced in a given amount of time. In semiconductor manufacturing, these amounts can quantified as a number of wafers (or lots of wafers) produced per week for Front End and the number of integrated chips for Back End.",
+        "timestamp": "2025-04-23T09:34:19.822Z"
+      },
+      {
+        "id": "8n8eqyhl9",
+        "author": "Adrien Wartelle",
+        "content": "* More specifically Bottleneck refers to the production resources that are limiting this maximal amount",
+        "timestamp": "2025-04-23T09:36:18.089Z"
+      },
+      {
+        "id": "v4y1fna28",
+        "author": "Felix Engel",
+        "content": "@Marta do you agree? We need another Alternative Label",
+        "timestamp": "2025-09-02T12:56:35.624Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
+      },
+      {
+        "id": "3kge075qz",
+        "author": "Infineon Admin",
+        "content": "A CAPACITY BOTTLENECK describes a machine or another element, which constrains the flow of a product. The throughput of the Capacity Bottlenecks define the throughput of a production line.",
+        "timestamp": "2026-01-21T16:37:58.995Z"
       }
     ]
   },
@@ -459,6 +947,12 @@
         "author": "felix",
         "content": "I have added the Term on the behalf of Maxi Udenio",
         "timestamp": "2024-09-09T12:11:18.875Z"
+      },
+      {
+        "id": "od11qps0h",
+        "author": "Claude Yugma",
+        "content": "In this context, the business cycle refers to the periodic fluctuations in economic activity, which influence semiconductor demand due to their sensitivity to consumer electronics and industrial investment.",
+        "timestamp": "2025-06-23T10:35:32.725Z"
       }
     ]
   },
@@ -477,14 +971,14 @@
     "resourceId": "f452a6e2-b533-4a5a-8b36-60d2115d63e3",
     "comments": [
       {
-        "id": "bpysvl8gs",
-        "author": "System ADMIN",
-        "content": "@mark testing multiple mentions",
-        "timestamp": "2025-04-24T10:31:16.944Z"
+        "id": "fbvk0cq5v",
+        "author": "Felix Engel",
+        "content": "@Hans Ehm The label field should just be used for alternative labels or names for a term. Do you have an alternative label or we can as well remove the lobe name alternatively without replacement. I propose a categorisation in Lobes at a later date",
+        "timestamp": "2025-09-09T13:15:32.301Z",
+        "mentionedUsers": [
+          "Hans Ehm"
+        ]
       }
-    ],
-    "mentionedUsers": [
-      "mark"
     ]
   },
   {
@@ -493,39 +987,141 @@
   },
   {
     "resourceId": "c66b03e7-249c-4bf8-962d-8a37200f2ae3",
-    "comments": []
+    "comments": [
+      {
+        "id": "o6lu8ks7i",
+        "author": "Infineon Admin",
+        "content": "A CONFIRMATION is an order acknowledgement with a due date from the supplier.",
+        "timestamp": "2026-01-21T16:38:54.862Z"
+      }
+    ]
   },
   {
     "resourceId": "3be8feac-f780-4f0b-80a3-dc4198d48884",
-    "comments": []
+    "comments": [
+      {
+        "id": "e71ld6eva",
+        "author": "Robert",
+        "content": "I do not understand the Description. ",
+        "timestamp": "2024-11-20T10:14:36.291Z"
+      },
+      {
+        "id": "7516dfwr9",
+        "author": "Robert",
+        "content": "delete because it is general knowledge; or explain what this has to do with the project",
+        "timestamp": "2025-09-03T09:46:34.370Z"
+      }
+    ]
   },
   {
     "resourceId": "73d4e9a6-26b1-46be-ba9d-76886361c851",
-    "comments": []
+    "comments": [
+      {
+        "id": "y8w4hptw8",
+        "author": "Claude Yugma",
+        "content": "Customer logistics management refers to the processes related to delivery, transport, planning, and coordination with customers to ensure high service levels.",
+        "timestamp": "2025-06-23T10:43:02.604Z"
+      },
+      {
+        "id": "a9j07guig",
+        "author": "Infineon Admin",
+        "content": "A CUSTOMER LOGISTICS MANAGEMENT REPRESENTATIVE (CLM) is a typical name for one “face” to the customer, taking care of all customers supply chain topics. He/she is responsible for the demand fulfilment process – Usage of ATP. It is his/her task to ensure in-time delivery to customers based on orders and forecasts. He/she is usually also taking care of forecast in a midterm time horizon (typical for that is the EDI FORECAST)",
+        "timestamp": "2026-01-21T16:40:53.245Z"
+      }
+    ]
   },
   {
     "resourceId": "71fabe0a-bb3f-4e93-83df-daa77c1eb6be",
-    "comments": []
+    "comments": [
+      {
+        "id": "d3awtdz8p",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:41:37.562Z"
+      },
+      {
+        "id": "0vbn5o72t",
+        "author": "Felix Engel",
+        "content": "@Robert I had a look into the DR Ontology. They provide the following definition. Still vote for removing this term?\n\"EDGE in the supply chain refers to the use of edge computing technologies to process data closer to where it is generated?such as warehouses, factories, vehicles or others ?rather than relying on centralized cloud systems. By enabling real-time data analysis and decision-making at the \"edge\" of the network, companies can reduce latency, enhance operational responsiveness, and improve visibility across the supply chain.\"",
+        "timestamp": "2025-09-09T12:44:43.934Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
+      },
+      {
+        "id": "ersykrzbx",
+        "author": "Robert",
+        "content": "I agree to maintain",
+        "timestamp": "2026-01-28T13:42:28.811Z"
+      }
+    ]
   },
   {
     "resourceId": "74bdfced-5c3d-4263-8f34-5984a527affb",
-    "comments": []
+    "comments": [
+      {
+        "id": "1y66d92cv",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:41:00.938Z"
+      }
+    ]
   },
   {
     "resourceId": "517f5c4a-195e-4d71-9748-b81848e9a445",
-    "comments": []
+    "comments": [
+      {
+        "id": "3jcsdg6jq",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:36:38.234Z"
+      },
+      {
+        "id": "0n8gj1nig",
+        "author": "Infineon Admin",
+        "content": "MARKETING DEMAND is a supply chain or production request for a specific product, product group or service, coming from the market. Either demand exists explicitly in form of customer need (e.g. orders or EDI forecast) or implicitly as expected customer need.",
+        "timestamp": "2026-01-21T16:58:50.716Z"
+      }
+    ]
   },
   {
     "resourceId": "c44016c0-d377-4a93-9f22-57bbda510700",
-    "comments": []
+    "comments": [
+      {
+        "id": "8vbic3bjy",
+        "author": "Robert",
+        "content": "delete??",
+        "timestamp": "2024-11-20T10:03:25.599Z"
+      },
+      {
+        "id": "zv1jju3d1",
+        "author": "Infineon Admin",
+        "content": "A nEW is a negative Early Warning and it means that a new customer order confirmation is worse (later order confirmation date) than the previous order confirmation. nEWs is the plural of nEW",
+        "timestamp": "2026-01-21T17:02:14.504Z"
+      }
+    ]
   },
   {
     "resourceId": "9990fa2f-c4c8-45e4-9201-26ee4ccc90e6",
-    "comments": []
+    "comments": [
+      {
+        "id": "27nh834b7",
+        "author": "Infineon Admin",
+        "content": "OPERATIONAL DEMAND is a supply chain or production request for a specific product, product group or service, coming from company intern business division. Either demand exists explicitly in form of customer need (e.g. orders or EDI forecast) or implicitly as expected customer need.",
+        "timestamp": "2026-01-21T17:05:12.489Z"
+      }
+    ]
   },
   {
     "resourceId": "273e9482-c646-4a28-a0a0-8bbdffb94951",
-    "comments": []
+    "comments": [
+      {
+        "id": "h00i81gwf",
+        "author": "Infineon Admin",
+        "content": "Any change in the requested order delivery date or volume in an order line is referred to as an order rescheduling. ",
+        "timestamp": "2026-01-22T12:34:02.523Z"
+      }
+    ]
   },
   {
     "resourceId": "f1595613-c2b3-47b6-b0e8-9c4ecdf222eb",
@@ -536,12 +1132,21 @@
     "comments": []
   },
   {
-    "resourceId": "2e6e96cf-2766-4e03-aac9-6c72f9c80b85",
-    "comments": []
-  },
-  {
     "resourceId": "059720b0-2438-47d0-a07d-14350ba1580c",
-    "comments": []
+    "comments": [
+      {
+        "id": "7rlfxoclx",
+        "author": "Claude Yugma",
+        "content": "Planning refers to the set of activities aimed at aligning supply capabilities with demand requirements over different time horizons, under constraints of capacity, material availability, and manufacturing lead times. Planning activities attempt to reconcile the demand picture with the supply picture to ensure delivery of committed products and optimize fab performance.",
+        "timestamp": "2025-06-23T12:38:15.247Z"
+      },
+      {
+        "id": "sowtjyof4",
+        "author": "Infineon Admin",
+        "content": "PLANNING is an activity with the purpose to determine a plan. Planning is associated with goals, represented by objective functions to be optimized.",
+        "timestamp": "2026-01-22T12:40:16.635Z"
+      }
+    ]
   },
   {
     "resourceId": "890da0b3-74ae-451c-9de6-59557917c973",
@@ -549,11 +1154,25 @@
   },
   {
     "resourceId": "5964a671-3e1f-4718-9a7f-17c01614d745",
-    "comments": []
+    "comments": [
+      {
+        "id": "zu13co8o6",
+        "author": "Infineon Admin",
+        "content": "In the planning domain a PLANNING CONSTRAINTS is often referred to capacity limitation, which limit the quantities that can be produced on an equipment or a fab for a certain product or product groups. Other Constraints can be workforce or material. Constraints can be temporary and can change. \nMost popular academic definition: A PLANNING CONSTRAINT restricts the action space. This space is formed by alternative actions that are a result of the planning decisions (Schneeweis 2003). \n",
+        "timestamp": "2026-01-22T13:17:09.692Z"
+      }
+    ]
   },
   {
     "resourceId": "33a63ab3-941d-4406-ae50-61b19ed8d6c5",
-    "comments": []
+    "comments": [
+      {
+        "id": "r6z3yrsn4",
+        "author": "Infineon Admin",
+        "content": "The PLANNING DECISIONS is the best choice out of options, determined by the DECISION-MAKING UNIT. ",
+        "timestamp": "2026-01-22T13:05:52.470Z"
+      }
+    ]
   },
   {
     "resourceId": "48b9fc4b-cdbc-465a-b3a3-e82fbdb2e7cd",
@@ -577,15 +1196,57 @@
   },
   {
     "resourceId": "e5affe98-acd0-4072-b8ca-6585615fa17e",
-    "comments": []
+    "comments": [
+      {
+        "id": "6ptpvme7p",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:40:31.250Z"
+      },
+      {
+        "id": "mg7cjsozs",
+        "author": "Infineon Admin",
+        "content": "HIERARCHICAL SITUATION refers to the structured, multi-level arrangement of entities, processes, or decision-making authority within the supply chain. It outlines e.g. how different layers—such as suppliers, manufacturers, distributors, and retailers—interact based on levels of control, responsibility, and information flow.",
+        "timestamp": "2026-01-21T16:56:52.431Z"
+      }
+    ]
   },
   {
     "resourceId": "982a684c-ce5d-428a-ac96-abc0cbdacabf",
-    "comments": []
+    "comments": [
+      {
+        "id": "zca3rg4sf",
+        "author": "Infineon Admin",
+        "content": "FROZEN FENCE is used to set a frozen interval in which decision making is not allowed, or a defined exception, to change the previously determined values.",
+        "timestamp": "2026-01-21T16:54:15.212Z"
+      }
+    ]
   },
   {
     "resourceId": "3ac22854-9d82-4a5d-a593-a6042a3c35e9",
-    "comments": []
+    "comments": [
+      {
+        "id": "jy0vbuf70",
+        "author": "Robert",
+        "content": "nonsense? delete or explain in proper language and also what this has to do with the project",
+        "timestamp": "2025-09-03T09:43:34.995Z"
+      },
+      {
+        "id": "jujqceis9",
+        "author": "Felix Engel",
+        "content": "@Marta or @Philipp Ulrich",
+        "timestamp": "2025-09-09T12:45:51.756Z",
+        "mentionedUsers": [
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "5qwden8so",
+        "author": "Philipp Ulrich",
+        "content": "I feel the name of the class is hard to grasp. There is some application with regards to manipulation the survey but I am not sure whether we need to have a class here for the time being as we do not intend to actually get data on it, I would not update this part of the DR within SC4EU for now",
+        "timestamp": "2025-10-16T07:56:11.805Z"
+      }
+    ]
   },
   {
     "resourceId": "9d5f5d9f-e68b-4a72-92c9-2bcc092995d3",
@@ -613,7 +1274,26 @@
   },
   {
     "resourceId": "b833fb54-a3dd-4843-8deb-541138ef5eec",
-    "comments": []
+    "comments": [
+      {
+        "id": "z42r7g6g6",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T10:10:48.658Z"
+      },
+      {
+        "id": "cmf9usav6",
+        "author": "Infineon Admin",
+        "content": "A PROCESS is a collection of subprocesses that meet a specific business objective. E.g. Perform Sourcing or Purchase Materials and Services. A production PROCESS specifies a method of making a product at a location. The process is expressed at a coarse level of granularity suitable for use in production planning. ",
+        "timestamp": "2026-01-22T13:02:00.214Z"
+      },
+      {
+        "id": "vxdngukbq",
+        "author": "Robert",
+        "content": "This has nothing to do with SC4EU. Or does it? IN case not I propose to delete.",
+        "timestamp": "2026-01-28T14:33:35.497Z"
+      }
+    ]
   },
   {
     "resourceId": "8445acc4-4300-4c9b-a9af-20994259b18f",
@@ -623,28 +1303,136 @@
         "author": "Robert",
         "content": "really? ",
         "timestamp": "2024-09-18T14:16:45.304Z"
+      },
+      {
+        "id": "n6fk50f6j",
+        "author": "Robert",
+        "content": "1) this description is not sufficient. The word promise is a normal word. Here apparently it is used in a very specific way. Then the wording should reflect that. E.g.: In chip manufacturing, a 'promise' is ..,etc \n2) is it really \"the uncommitted portion\"? Promise sounds like commitment. ",
+        "timestamp": "2025-11-26T11:49:24.515Z"
+      },
+      {
+        "id": "iud3dxyps",
+        "author": "Infineon Admin",
+        "content": "A PROMISE is the committed portion of supply by the master production schedule and material plan.",
+        "timestamp": "2026-01-22T12:51:43.560Z"
       }
     ]
   },
   {
     "resourceId": "1ccbb124-456d-4c64-9d8e-748d7f2ee139",
-    "comments": []
+    "comments": [
+      {
+        "id": "flelc637p",
+        "author": "Infineon Admin",
+        "content": "The degree of change between an updated plan and a previous plan. ",
+        "timestamp": "2026-01-22T12:50:32.423Z"
+      }
+    ]
   },
   {
     "resourceId": "5e8e7a2c-5de6-4a74-a250-cc7195bbbe50",
-    "comments": []
+    "comments": [
+      {
+        "id": "4hhu0cp62",
+        "author": "Claude Yugma",
+        "content": "Sales demand refers to the quantity of a product that the sales organization expects to sell or has committed to sell over a given period. It may include firm customer orders, sales forecasts, or strategic targets.",
+        "timestamp": "2025-06-23T11:04:23.449Z"
+      },
+      {
+        "id": "u89y7lty5",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Philipp Ulrich any comments on the revised definition?",
+        "timestamp": "2025-09-09T12:51:39.486Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "cv47wnwhv",
+        "author": "Maxi Udenio",
+        "content": "I'm not familiar with this concept. This seems to me to be the \"sales forecast\" maintained by the sales division of a company, which typically includes advanced information. If so, this looks good. It may be interesting to include the explicit difference to \"actual\" sales coming from the true demand. ",
+        "timestamp": "2025-09-21T16:36:00.974Z"
+      },
+      {
+        "id": "uizxzcvic",
+        "author": "Philipp Ulrich",
+        "content": "I like the definition of Claude as a baseline. I would only add that the sales demand is actually the unbound demand from our point of view, so this is what we could sell to customers IF we have unlimited manufacturing capacities (which we dont ;) )\n\nSo Sales demand is quite high and is the baseline to derive what will be produced.",
+        "timestamp": "2025-10-16T07:47:30.027Z"
+      },
+      {
+        "id": "hq7reqdjt",
+        "author": "Infineon Admin",
+        "content": "A SALES DEMAND is a request for a specific product or service that can have different triggers. Either demand exists explicitly in form of customer orders or implicitly as expected customer need that have to be fulfilled by the semiconductor supply chain.",
+        "timestamp": "2026-01-22T12:48:00.585Z"
+      }
+    ]
   },
   {
     "resourceId": "b7277f2f-cef0-4188-81b8-be78f4869e56",
-    "comments": []
+    "comments": [
+      {
+        "id": "r2jmsl5tz",
+        "author": "Claude Yugma",
+        "content": "Supply-demand match refers to the alignment between what is available (supply) and what is needed (demand), considering timing, quantities, and product configurations.\nIn constrained environments, this matching process often requires optimization to balance competing priorities, such as customer service level and inventory efficiency.",
+        "timestamp": "2025-06-23T11:00:40.812Z"
+      },
+      {
+        "id": "buowgk9mz",
+        "author": "Claude Yugma",
+        "content": "The supply picture is a representation of the total available and projected supply both inventory and production over a planning horizon.\nIt provides visibility for planners to assess whether and how current and planned supply can meet demand.",
+        "timestamp": "2025-06-23T11:01:08.338Z"
+      }
+    ]
   },
   {
     "resourceId": "20aa6325-719a-4666-81f6-6d055ee97527",
-    "comments": []
+    "comments": [
+      {
+        "id": "pcpxzyezt",
+        "author": "Infineon Admin",
+        "content": "A SUPPLY PICTURE is a visualization of the supply in its dimensions. Supply is the total amount of specific products that is available to customers. Supply has the dimensions quantity, time, location, product, including aggregation of all dimensions. Supply is defined as inventory or plan replenishment. ",
+        "timestamp": "2026-01-22T12:45:26.232Z"
+      }
+    ]
   },
   {
     "resourceId": "aa266f71-b4da-4673-8fa6-117fb0aa52f7",
-    "comments": []
+    "comments": [
+      {
+        "id": "juo9dxl92",
+        "author": "Claude Yugma",
+        "content": "A target refers to a defined objective or performance goal in the supply chain such as desired inventory levels, service levels, or utilization rates.\nTargets guide decision-making in planning, allocation, and scheduling.",
+        "timestamp": "2025-06-23T11:01:36.189Z"
+      },
+      {
+        "id": "fxl4ygu8o",
+        "author": "Robert",
+        "content": "delete? This is generic knowledge",
+        "timestamp": "2025-09-03T07:31:20.796Z"
+      },
+      {
+        "id": "nhjncjkaf",
+        "author": "Robert",
+        "content": "If Target has a specific meaning in an ontology, that should be explained.",
+        "timestamp": "2025-09-03T08:42:02.218Z"
+      },
+      {
+        "id": "1xy6yocef",
+        "author": "Felix Engel",
+        "content": "@Philipp Ulrich please have a look. What is your opinioin?",
+        "timestamp": "2025-09-09T12:50:53.714Z",
+        "mentionedUsers": [
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "85lf13czo",
+        "author": "Philipp Ulrich",
+        "content": "I think we should keep it as top level class, we can then define targets which are specific to what we would like to achieve e.g. inventory target. \nBut it is good to have the top level class to align with other more generic ontology models, facilitating reuse. Definition by Claude is good",
+        "timestamp": "2025-10-16T07:54:21.259Z"
+      }
+    ]
   },
   {
     "resourceId": "ebb5cfcb-9199-45ef-b0ff-87916086a19a",
@@ -652,30 +1440,103 @@
   },
   {
     "resourceId": "214144da-cbaa-4950-ac65-70c46ded293f",
-    "comments": []
-  },
-  {
-    "resourceId": "15d7b9f4-3174-4a11-887b-4ae5fe6917b4",
     "comments": [
       {
-        "id": "toc71agkl",
+        "id": "2ha3vvu4e",
         "author": "Robert",
-        "content": "So 'Power' is short for 'Power Devices'? ",
-        "timestamp": "2024-09-18T14:15:57.521Z"
+        "content": "delete??",
+        "timestamp": "2024-11-20T10:05:04.910Z"
+      },
+      {
+        "id": "a03xmmz5s",
+        "author": "Infineon Admin",
+        "content": "VERTEX plays a crucial role in the financial and compliance side of the supply chain. Its solutions help businesses calculate, manage, and report indirect taxes (like sales tax, VAT, and GST) at the relevant point in the supply chain, from procurement to distribution.",
+        "timestamp": "2026-01-22T12:41:32.982Z"
       }
     ]
   },
   {
     "resourceId": "f7637daf-b71b-4ced-8b54-888c21a4ed22",
-    "comments": []
+    "comments": [
+      {
+        "id": "04juu03fv",
+        "author": "Eelco Debeij",
+        "content": "In the context of semiconductors, a technology or process node refers to the manufacturing technology used to fabricate integrated circuits (ICs), typically expressed in nanometers (nm). It historically indicated the minimum feature size (such as the gate length of a transistor) that could be reliably produced on a chip. However, in modern semiconductor manufacturing, the term has become more of a marketing label than a precise physical measurement. Today, process node names (e.g., 5 nm, 3 nm) represent a generation of technology rather than an exact dimension. They often imply improvements in: transistor density (more transistors per unit area), performance (higher speed, lower power consumption), power efficiency (better energy per operation).\n\n",
+        "timestamp": "2025-12-15T10:44:04.889Z"
+      }
+    ]
   },
   {
     "resourceId": "5ec8e410-2180-4a1a-87c2-30e68a684555",
-    "comments": []
+    "comments": [
+      {
+        "id": "mkyryml7t",
+        "author": "Adrien Wartelle",
+        "content": "Proposition: Ratio of production rate over maximal production rate infered by the bottleneck of a system",
+        "timestamp": "2025-04-23T09:37:26.512Z"
+      },
+      {
+        "id": "wkk8yq8zc",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester @Philipp Ulrich I found another defintion in the DR. Which definition do you prefer? \"A measure of how intensively a resource is being used to produce a good or service. Some factors that should be considered are internal manufacturing capacity, constraining processes,direct labor availability and key components/ materials availability.\" ",
+        "timestamp": "2025-09-09T12:56:34.049Z",
+        "mentionedUsers": [
+          "Yannick Mester",
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "ewwc23frj",
+        "author": "Yannick Mester",
+        "content": "I prefer the definition already used in the DR",
+        "timestamp": "2025-09-23T11:07:44.743Z"
+      },
+      {
+        "id": "sov6x0khk",
+        "author": "Philipp Ulrich",
+        "content": "Same for me",
+        "timestamp": "2025-10-16T07:43:13.832Z"
+      },
+      {
+        "id": "mk00m6neu",
+        "author": "Robert",
+        "content": "I propose: Ratio of production rate over maximal production rate. ",
+        "timestamp": "2026-01-28T13:59:29.161Z"
+      }
+    ]
   },
   {
     "resourceId": "763f9faa-f1e1-4265-ae07-b65eafc9b570",
-    "comments": []
+    "comments": [
+      {
+        "id": "25p0aqttk",
+        "author": "Robert",
+        "content": "description is a loop. INventory target is the target for inventory",
+        "timestamp": "2025-09-03T09:38:27.698Z"
+      },
+      {
+        "id": "8zy3eoncl",
+        "author": "Felix Engel",
+        "content": "@Robert and @Maxi Udenio can you revise the definition so that it better fits?",
+        "timestamp": "2025-09-04T06:38:14.888Z",
+        "mentionedUsers": [
+          "Robert",
+          "Maxi Udenio"
+        ]
+      },
+      {
+        "id": "p5kwqkttn",
+        "author": "Robert",
+        "content": "The level of inventory that a company would like to have. This can be measured in units, in money or in coverage of days of sales.",
+        "timestamp": "2025-09-08T13:25:47.764Z"
+      },
+      {
+        "id": "y23jvwgzm",
+        "author": "Maxi Udenio",
+        "content": "\"would like to have\" sounds a bit like a passive wish :) \nI would make it a bit more precise by explicitly linking this desired level to the decision making. Something like: Target inventory is the planned level of stock a company aims to maintain in order to balance service level objectives with cost considerations. This target guides replenishment decisions, such as order timing and order quantities.  This can be measured in units, in money or in coverage of days of sales.\"",
+        "timestamp": "2025-09-21T16:33:38.335Z"
+      }
+    ]
   },
   {
     "resourceId": "1a5b2876-b03f-4237-aa07-12f33befade3",
@@ -685,37 +1546,50 @@
     "resourceId": "2aff4e35-8f80-4b3d-95f7-9b27b39cbef5",
     "comments": [
       {
-        "id": "zcmbzt0yb",
-        "author": "System ADMIN",
-        "content": "testing comment in example discussion json, from local mark's",
-        "timestamp": "2025-04-23T10:32:46.189Z"
+        "id": "0o43bfgxz",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:15:50.221Z"
       },
       {
-        "id": "iz74yj960",
-        "author": "System ADMIN",
-        "content": "@mark testing user mentioning in a comment",
-        "timestamp": "2025-04-23T14:12:06.990Z"
+        "id": "jvot6es1z",
+        "author": "felix",
+        "content": "@Robert I have set the status to reject",
+        "timestamp": "2025-03-28T06:55:02.231Z"
       },
       {
-        "id": "eqdicdlc0",
+        "id": "7f25b0lay",
         "author": "System ADMIN",
-        "content": "@mark mentioning new json-field",
-        "timestamp": "2025-04-23T16:09:53.590Z"
+        "content": "the status for this term is rejected",
+        "timestamp": "2025-06-17T15:16:01.064Z"
       },
       {
-        "id": "yg73sa1fw",
-        "author": "System ADMIN",
-        "content": "@mark Take a look at the second comment under the same term.",
-        "timestamp": "2025-05-15T09:41:17.630Z"
+        "id": "i7676af35",
+        "author": "Felix Engel",
+        "content": "@Fawad Khan Test",
+        "timestamp": "2025-06-30T09:52:30.476Z",
+        "mentionedUsers": [
+          "Fawad Khan"
+        ]
+      },
+      {
+        "id": "f1t562tbv",
+        "author": "Robert",
+        "content": "it is still in the list",
+        "timestamp": "2025-11-26T10:39:46.980Z"
       }
-    ],
-    "mentionedUsers": [
-      null
     ]
   },
   {
     "resourceId": "de4cfbaf-964f-4eb0-a155-c9f66340d260",
-    "comments": []
+    "comments": [
+      {
+        "id": "r3xi4c6bn",
+        "author": "Robert",
+        "content": "delete!",
+        "timestamp": "2025-11-26T11:54:30.779Z"
+      }
+    ]
   },
   {
     "resourceId": "b5a1f564-89dd-4896-b162-1a859d4aadf1",
@@ -739,11 +1613,58 @@
   },
   {
     "resourceId": "4f889db8-3815-4672-8d55-f44cb7e45dc1",
-    "comments": []
+    "comments": [
+      {
+        "id": "3n56zw8lw",
+        "author": "Felix Engel",
+        "content": "Seems quite generic to me. Any thoughts?",
+        "timestamp": "2025-09-02T11:57:20.236Z"
+      },
+      {
+        "id": "e2qa75ccx",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T08:43:01.202Z"
+      },
+      {
+        "id": "9ei7ws087",
+        "author": "Bibi de Jong",
+        "content": "A defined reference state or initial set of conditions used for comparison, measurement, or evaluation of changes over time.",
+        "timestamp": "2025-12-05T08:33:04.057Z"
+      }
+    ]
   },
   {
     "resourceId": "8a73b95b-2800-45b6-a7df-94d888fa3e02",
-    "comments": []
+    "comments": [
+      {
+        "id": "f0ab87alb",
+        "author": "Felix Engel",
+        "content": "Any thougths/discussion on this? ",
+        "timestamp": "2025-09-02T11:59:26.307Z"
+      },
+      {
+        "id": "xgrfyyv3f",
+        "author": "Robert",
+        "content": "Aka: Sending an invoice aka Invoicing",
+        "timestamp": "2025-09-03T07:22:52.532Z"
+      },
+      {
+        "id": "em2f03lza",
+        "author": "System ADMIN",
+        "content": "@Robert ok, can you adapt the definition accordingly?",
+        "timestamp": "2025-11-25T07:33:55.262Z",
+        "mentionedUsers": [
+          "Robert"
+        ]
+      },
+      {
+        "id": "4y87gullq",
+        "author": "Robert",
+        "content": "done",
+        "timestamp": "2025-11-26T10:32:01.180Z"
+      }
+    ]
   },
   {
     "resourceId": "38d050a5-eebf-4216-a4c8-f462dd7e42d3",
@@ -751,7 +1672,14 @@
   },
   {
     "resourceId": "13cb7768-171b-46e6-a2a1-a7df3b47494e",
-    "comments": []
+    "comments": [
+      {
+        "id": "5tx087kbo",
+        "author": "Robert",
+        "content": "delete? Common knowledge ",
+        "timestamp": "2025-11-26T11:44:16.434Z"
+      }
+    ]
   },
   {
     "resourceId": "1eb30b69-41c8-47d0-8d45-e199bbaf52d8",
@@ -780,7 +1708,20 @@
   },
   {
     "resourceId": "52362a0d-517b-4d41-969c-dd4c47a657e4",
-    "comments": []
+    "comments": [
+      {
+        "id": "zkauavqy6",
+        "author": "Claude Yugma",
+        "content": "In the supply chain context, time is a key dimension across all planning activities, representing lead times, cycle times, delivery windows, and time fences for freezing plans.\nTime is often segmented into discrete buckets (e.g., daily, weekly, monthly) for operational and strategic planning.",
+        "timestamp": "2025-06-23T11:02:58.974Z"
+      },
+      {
+        "id": "gcl96xb8f",
+        "author": "Robert",
+        "content": "delete!",
+        "timestamp": "2025-11-26T11:54:05.507Z"
+      }
+    ]
   },
   {
     "resourceId": "a3a6033c-6eb2-459d-b60d-7898b1fde5d6",
@@ -795,7 +1736,14 @@
   },
   {
     "resourceId": "1ccc7b36-6107-4ec4-8b83-4d9965ad12ab",
-    "comments": []
+    "comments": [
+      {
+        "id": "wmqo7iisj",
+        "author": "Robert",
+        "content": "It is not a graph but a table, I think. The translation is a simple linear multiplication,",
+        "timestamp": "2024-11-20T10:08:24.551Z"
+      }
+    ]
   },
   {
     "resourceId": "0bcc10a1-cf8b-471d-829c-ad6c2c9e9953",
@@ -809,28 +1757,10 @@
     "resourceId": "d72bc058-65ba-4312-a78e-ca69a3dce947",
     "comments": [
       {
-        "id": "t4pj1nvh3",
-        "author": "System ADMIN",
-        "content": "@mark multiple mentions",
-        "timestamp": "2025-04-24T10:31:28.388Z"
-      },
-      {
-        "id": "3d9modh5x",
-        "author": "David",
-        "content": "@System ADMIN table was used in Eurostat portal",
-        "timestamp": "2025-05-19T22:11:32.547Z",
-        "mentionedUsers": [
-          "System ADMIN"
-        ]
-      },
-      {
-        "id": "wmileoqhr",
-        "author": "Mark",
-        "content": "@System ADMIN My old user was mentioned in a previous comment. Mention this one from now on.",
-        "timestamp": "2025-05-21T09:16:45.329Z",
-        "mentionedUsers": [
-          "System ADMIN"
-        ]
+        "id": "8j7d6or7l",
+        "author": "Claude Yugma",
+        "content": "An analog IC processes continuous signals, as opposed to digital ICs. They are used for tasks like amplification, filtering, and voltage regulation.",
+        "timestamp": "2025-06-23T10:31:55.937Z"
       }
     ]
   },
@@ -850,51 +1780,22 @@
     "resourceId": "e41e8cf4-eb87-4509-9014-42da7a5e7d07",
     "comments": [
       {
-        "id": "4mbxzb7fa",
-        "author": "System ADMIN",
-        "content": "@System ADMIN admin mentioned\n@mark user mentioned",
-        "timestamp": "2025-05-16T11:57:39.316Z",
-        "mentionedUsers": []
+        "id": "eq27n7i5d",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:16:01.670Z"
       },
       {
-        "id": "ex7edjmej",
-        "author": "System ADMIN",
-        "content": "@System ADMIN new comment",
-        "timestamp": "2025-05-16T12:00:45.813Z",
-        "mentionedUsers": []
+        "id": "5h9zb6poc",
+        "author": "felix",
+        "content": "@Robert I have set its status to rejected",
+        "timestamp": "2025-03-28T06:54:16.998Z"
       },
       {
-        "id": "0x1jchs4k",
+        "id": "6z3tviity",
         "author": "System ADMIN",
-        "content": "@mark normal user mentioned",
-        "timestamp": "2025-05-16T12:06:02.419Z",
-        "mentionedUsers": [
-          null
-        ]
-      },
-      {
-        "id": "42j870r98",
-        "author": "System ADMIN",
-        "content": "@David Check if you will have mentions button colour updated",
-        "timestamp": "2025-05-28T09:20:24.372Z"
-      },
-      {
-        "id": "w6us3evt7",
-        "author": "System ADMIN",
-        "content": "@David one more comment",
-        "timestamp": "2025-05-28T09:25:38.521Z",
-        "mentionedUsers": [
-          "David"
-        ]
-      },
-      {
-        "id": "b7mamjdu4",
-        "author": "System ADMIN",
-        "content": "@David check the created_at datetime",
-        "timestamp": "2025-05-28T15:34:18.940Z",
-        "mentionedUsers": [
-          "David"
-        ]
+        "content": "status rejected",
+        "timestamp": "2025-06-17T15:56:02.697Z"
       }
     ]
   },
@@ -908,28 +1809,45 @@
         "timestamp": "2024-09-18T13:35:02.284Z"
       },
       {
-        "id": "rulnmq4vj",
-        "author": "David",
-        "content": "@Mark is description still resembles the latest knowledge graph?",
-        "timestamp": "2025-05-19T22:12:24.789Z",
+        "id": "t0n2uzmto",
+        "author": "Claude Yugma",
+        "content": "Allocation refers to the process of assigning available supply to customer orders, especially when demand exceeds supply. It is often governed by predefined rules or priorities to manage shortages effectively.",
+        "timestamp": "2025-06-23T10:30:00.405Z"
+      },
+      {
+        "id": "ajv2h8lna",
+        "author": "System ADMIN",
+        "content": "@Robert and @Claude Yugma can you agree on this? Can you edit the Terms Detail in case?",
+        "timestamp": "2025-11-25T07:29:09.015Z",
         "mentionedUsers": [
-          "Mark"
+          "Robert",
+          "Claude Yugma"
         ]
       },
       {
-        "id": "i5hstz0md",
-        "author": "System ADMIN",
-        "content": "@George look at the new processor core definition",
-        "timestamp": "2025-09-25T13:07:03.045Z",
-        "mentionedUsers": [
-          "George"
-        ]
+        "id": "elp9bez0n",
+        "author": "Bibi de Jong",
+        "content": "Allocation is a process used in order management in times when demand exceeds available supply. --> Maybe extend with: allocation involves deciding how to distribute limited inventory across multiple demand points (to emphasize that we it is the process of actively deciding how to distribute the supply)",
+        "timestamp": "2025-12-05T08:24:25.865Z"
+      },
+      {
+        "id": "7jyglu6tg",
+        "author": "Robert",
+        "content": "I like Claude's.",
+        "timestamp": "2026-01-28T13:57:37.706Z"
       }
     ]
   },
   {
     "resourceId": "169f110a-5452-4540-a221-aa31ac5c4f93",
-    "comments": []
+    "comments": [
+      {
+        "id": "vb4701koo",
+        "author": "Claude Yugma",
+        "content": "Refers to the detailed information (name, role, email, phone) of a person responsible for handling specific transactions or communications in the supply chain process.",
+        "timestamp": "2025-06-23T10:37:49.779Z"
+      }
+    ]
   },
   {
     "resourceId": "9bc8b2c2-0308-4c68-9458-ea2c99869c13",
@@ -937,31 +1855,99 @@
   },
   {
     "resourceId": "b06c0614-d923-44c2-8130-fbafe16e6871",
-    "comments": []
+    "comments": [
+      {
+        "id": "vrlc3obpq",
+        "author": "Claude Yugma",
+        "content": "Customer data includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.",
+        "timestamp": "2025-06-23T10:42:36.525Z"
+      },
+      {
+        "id": "ra56nb3bv",
+        "author": "Felix Engel",
+        "content": "@Yannick Mester do you agree? Any further comments on this?",
+        "timestamp": "2025-09-09T12:54:22.592Z",
+        "mentionedUsers": [
+          "Yannick Mester"
+        ]
+      },
+      {
+        "id": "hfr9olxzn",
+        "author": "Yannick Mester",
+        "content": "maybe we can also add behavioral data to Claude's definition",
+        "timestamp": "2025-09-23T11:05:05.568Z"
+      },
+      {
+        "id": "uqnzf7owt",
+        "author": "System ADMIN",
+        "content": "@Yannick Mester please revise accordingly",
+        "timestamp": "2025-11-25T11:49:07.293Z",
+        "mentionedUsers": [
+          "Yannick Mester"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "641e8ab9-516d-4a29-b6f5-efd07781d59a",
-    "comments": []
+    "comments": [
+      {
+        "id": "8kad9havy",
+        "author": "Infineon Admin",
+        "content": "A CUSTOMER PLANT refers to the physical location or facility owned or operated by a customer where products, systems, or services are delivered, installed, maintained, or utilized.",
+        "timestamp": "2026-01-21T12:37:39.463Z"
+      }
+    ]
   },
   {
     "resourceId": "17aee842-7e96-456e-912e-8488117dc755",
-    "comments": []
+    "comments": [
+      {
+        "id": "wzok1pfcx",
+        "author": "Infineon Admin",
+        "content": "CUSTOMER PLANT DATA refers to the structured and unstructured information associated with a customer's plant.",
+        "timestamp": "2026-01-21T12:39:47.115Z"
+      }
+    ]
   },
   {
     "resourceId": "6ab3f1c8-870d-43a8-89c0-6261465c647d",
-    "comments": []
+    "comments": [
+      {
+        "id": "cpn0z5wqy",
+        "author": "Infineon Admin",
+        "content": "DELIVERY COMMITMENT refers to the agreed-upon date or timeframe by which a product, service, or solution is promised to be delivered to a customer. It is a key component of supply chain, project management, and customer service operations, ensuring alignment between supplier capabilities and customer expectations.",
+        "timestamp": "2026-01-21T12:40:24.192Z"
+      }
+    ]
   },
   {
     "resourceId": "151064fa-aab0-4edf-bee4-eaf4dd832100",
-    "comments": []
-  },
-  {
-    "resourceId": "e859d3ed-7a10-4cad-9568-09cce2f66156",
-    "comments": []
+    "comments": [
+      {
+        "id": "fp2j4bgvn",
+        "author": "Infineon Admin",
+        "content": "The DELIVERY CONCEPT defines the terms and conditions for delivering an order to the customer. Partial and split delivery has to be taken into account.",
+        "timestamp": "2026-01-21T12:43:15.889Z"
+      }
+    ]
   },
   {
     "resourceId": "126cdd01-1c9b-45b1-948b-3536474e2766",
-    "comments": []
+    "comments": [
+      {
+        "id": "vzbjkd3o2",
+        "author": "Claude Yugma",
+        "content": "Demand trace is the tracking of demand from final customer requests through the supply chain, enabling visibility of demand origins and fulfillment status.",
+        "timestamp": "2025-06-23T10:50:07.618Z"
+      },
+      {
+        "id": "wbkutq95t",
+        "author": "Robert",
+        "content": "How can such demand be tracked? Is that the actual unit that is being traced? Or is this on aggregate level?",
+        "timestamp": "2026-01-28T13:38:07.738Z"
+      }
+    ]
   },
   {
     "resourceId": "5c6d4b2d-5c7c-4890-b9d2-9085fa83dfcb",
@@ -971,32 +1957,104 @@
         "author": "Robert",
         "content": "of currency?",
         "timestamp": "2024-09-18T13:58:08.393Z"
+      },
+      {
+        "id": "cbru34ltk",
+        "author": "Robert",
+        "content": "What is this and where is it used in the project?",
+        "timestamp": "2024-11-20T08:24:59.201Z"
+      },
+      {
+        "id": "mcfvhj1uy",
+        "author": "Robert",
+        "content": "wrong project?",
+        "timestamp": "2026-01-28T14:03:38.577Z"
       }
     ]
   },
   {
     "resourceId": "0529e47e-32db-4ad0-ab2a-28a7ca04140c",
-    "comments": []
+    "comments": [
+      {
+        "id": "ntnd2a3qp",
+        "author": "Infineon Admin",
+        "content": "The IN-TRANSIT INVENTORY describes the quantity of a certain product that is shipped from one location to another. This quantity has left the inventory of one location, but has not yet been received into the inventory of the receiving location.",
+        "timestamp": "2026-01-21T12:59:04.515Z"
+      }
+    ]
   },
   {
     "resourceId": "f29a581e-c896-41e2-a7a5-39b8b69f2a2b",
-    "comments": []
+    "comments": [
+      {
+        "id": "frgx0bj45",
+        "author": "Infineon Admin",
+        "content": "INVENTORY refers to the stock of goods, materials, and components that a business holds for the purpose of production, resale, or operational use. It is a key asset in supply chain and financial management, directly impacting a company's ability to meet customer demand, manage costs, and generate revenue.",
+        "timestamp": "2026-01-21T13:02:53.054Z"
+      }
+    ]
   },
   {
     "resourceId": "b5e044b9-4532-4302-84a8-bac8324be02d",
-    "comments": []
+    "comments": [
+      {
+        "id": "co4am5427",
+        "author": "Robert",
+        "content": "Delete?",
+        "timestamp": "2024-11-20T10:03:52.920Z"
+      },
+      {
+        "id": "5ell1x2b2",
+        "author": "Robert",
+        "content": "the definition is not correct",
+        "timestamp": "2025-11-26T11:58:14.702Z"
+      },
+      {
+        "id": "i1ad0wluj",
+        "author": "Infineon Admin",
+        "content": "An OFFER is a proposal to provide goods, like products or services in exchange for something of value, such as money. ",
+        "timestamp": "2026-01-21T13:09:17.226Z"
+      }
+    ]
   },
   {
     "resourceId": "f722c3a8-a764-42f7-bcad-bfb78585cf2b",
-    "comments": []
+    "comments": [
+      {
+        "id": "yj796uh78",
+        "author": "Robert",
+        "content": "delete?",
+        "timestamp": "2024-11-20T10:04:08.775Z"
+      },
+      {
+        "id": "n6ikta03d",
+        "author": "Infineon Admin",
+        "content": "OPEN ORDER refers to a customer order that has been received and recorded in the system but has not yet been fully processed, shipped, or fulfilled. It represents a pending obligation within the sales or supply chain process.",
+        "timestamp": "2026-01-21T13:13:19.288Z"
+      }
+    ]
   },
   {
     "resourceId": "5f8d7815-a548-47ad-ad6f-45a82797a8de",
-    "comments": []
+    "comments": [
+      {
+        "id": "x5yzqfa7h",
+        "author": "Infineon Admin",
+        "content": "An ORDER CHANGE REQUEST is a formal request initiated by a customer or internal stakeholder to modify an existing order after it has been placed but before it is fully fulfilled or invoiced. This request can include changes to product quantities, item specifications, delivery dates, shipping addresses, or other order-related details.",
+        "timestamp": "2026-01-21T13:37:45.432Z"
+      }
+    ]
   },
   {
     "resourceId": "1d13d30c-a345-4155-a7a6-277b9d369bb0",
-    "comments": []
+    "comments": [
+      {
+        "id": "zd7edw4tr",
+        "author": "Infineon Admin",
+        "content": "ORDER CONFIRMATION is a formal acknowledgment from the seller to the customer that an order has been received, reviewed, and accepted under the specified terms and conditions.",
+        "timestamp": "2026-01-21T13:38:35.313Z"
+      }
+    ]
   },
   {
     "resourceId": "97ac0b0d-1bcb-427c-8a2c-cfbe7420c5b1",
@@ -1020,7 +2078,14 @@
   },
   {
     "resourceId": "9f54cefc-33aa-4536-ac0d-45b32eb89615",
-    "comments": []
+    "comments": [
+      {
+        "id": "whzjqsowq",
+        "author": "Robert",
+        "content": "The mean absolute percentage error is the average of the sum of the absolute values of the percentage differences between forecasted data and the actuals. Forecast Accuracy = 1 - MAPE, is a measure of accuracy commonly used as a KPI for quantitative methods of forecasting. MAPE needs a specification of the time period that it refers to (e.g. januari 2027, or the 12 months of 2027) and the time lag for the forecast (e.g. made three months earlier).",
+        "timestamp": "2025-11-26T12:07:41.179Z"
+      }
+    ]
   },
   {
     "resourceId": "8967e89b-837b-4809-83fc-4eaef28cd2e1",
@@ -1028,328 +2093,765 @@
   },
   {
     "resourceId": "4ed14982-7373-4df3-b716-994ed9bea09f",
-    "comments": []
+    "comments": [
+      {
+        "id": "mw0q61lmq",
+        "author": "Claude Yugma",
+        "content": "An S-curve refers to the characteristic shape of product adoption or technology diffusion over time, typically showing slow initial growth, rapid acceleration, and eventual saturation.",
+        "timestamp": "2025-06-23T11:05:25.549Z"
+      },
+      {
+        "id": "7l25l04kr",
+        "author": "Robert",
+        "content": "Delete? This is generic knowledge and not specific for SC4EU",
+        "timestamp": "2025-09-03T07:28:50.196Z"
+      }
+    ]
   },
   {
     "resourceId": "a46a45d9-bba5-4d06-bc96-3e0f9b8a6be4",
-    "comments": []
+    "comments": [
+      {
+        "id": "ybmkfxukj",
+        "author": "Robert",
+        "content": "a turning point is when the first derivative of a data pattern crosses zero. ",
+        "timestamp": "2024-11-20T10:06:57.106Z"
+      },
+      {
+        "id": "3yafcqnxg",
+        "author": "Robert",
+        "content": "I propose to delete the rest of the text",
+        "timestamp": "2026-01-28T14:02:14.314Z"
+      }
+    ]
   },
   {
     "resourceId": "002ccba2-0b71-4e81-81aa-96ed8c478bf7",
-    "comments": []
-  },
-  {
-    "resourceId": "028b4a96-3d5a-4bf5-aec6-99b396b51b12",
-    "comments": []
-  },
-  {
-    "resourceId": "82429d51-3198-4c78-b0f8-3a8a21994f11",
-    "comments": []
-  },
-  {
-    "resourceId": "3de9252f-5357-4bc5-9a74-01acc39d8462",
-    "comments": []
-  },
-  {
-    "resourceId": "c711ea88-0ea9-44ae-9967-99949d12181c",
-    "comments": []
-  },
-  {
-    "resourceId": "169ccff7-afde-449d-b411-528f50d4a0e5",
-    "comments": []
-  },
-  {
-    "resourceId": "5c40a950-6bfe-4a50-95d9-2fbfee520410",
     "comments": [
       {
-        "id": "pt1ruijsi",
-        "author": "System ADMIN",
-        "content": "proposed by @Robert",
-        "timestamp": "2025-01-09T15:00:49.462Z"
+        "id": "ccufhb13o",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T10:09:58.298Z"
       }
     ]
   },
   {
-    "resourceId": "5b8908be-1b9c-4cc2-b3a7-5d1d9fcaf2ab",
+    "resourceId": "6d221526-27f3-4992-9518-48a616518907",
     "comments": [
       {
-        "id": "fo58loxmb",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:03:41.545Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "b611996f-51c1-4834-8053-54113ebd356a",
-    "comments": [
-      {
-        "id": "njo34wh87",
-        "author": "System ADMIN",
-        "content": "term proposed by @Robert",
-        "timestamp": "2025-01-09T15:05:31.310Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "6fef3709-3cae-4f3d-b0df-5930865e14a4",
-    "comments": [
-      {
-        "id": "xx9qkauuu",
-        "author": "System ADMIN",
-        "content": "term proposed by @Robert",
-        "timestamp": "2025-01-09T15:07:33.449Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "859b22d6-d4a2-49f0-83c2-42c1eb49e35a",
-    "comments": []
-  },
-  {
-    "resourceId": "e7c5e7e8-9c82-4da2-bbde-22918539b2df",
-    "comments": []
-  },
-  {
-    "resourceId": "72a683d8-5a4b-4b9a-951a-107911b8431c",
-    "comments": [
-      {
-        "id": "87jgkq1jv",
-        "author": "System ADMIN",
-        "content": "term proposed by @Robert",
-        "timestamp": "2025-01-09T15:11:17.755Z"
+        "id": "107r5z8o0",
+        "author": "Infineon Admin",
+        "content": "An ORDER is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer.",
+        "timestamp": "2026-01-21T17:08:18.959Z"
       },
       {
-        "id": "wfry6ko79",
-        "author": "System ADMIN",
-        "content": "Alternative description by @Robert\n\nmeasures the inventory in a flow. Generally, this does not include raw materials or finished goods inventory. However, for flows that cut across multiple processes, it may include intermediate crib inventories. While there is some flexibility in defining the start and end of a flow, it is important that the same definitions be used for both WIP and CT in order to make these consistent",
-        "timestamp": "2025-01-09T15:33:36.194Z"
+        "id": "k7gva1khi",
+        "author": "Robert",
+        "content": "The Order is the information carrier that the customer sends to his supplier. It can be based on a preceding offer made by the supplier to the customer. It is often followed by an order confirmation that the supplier sends to the customer. ",
+        "timestamp": "2026-01-28T14:06:52.521Z"
       }
     ]
   },
   {
-    "resourceId": "ec061fed-d427-4636-9565-4a90ce1fec6f",
+    "resourceId": "46f069ab-34e9-48f4-919b-236f578a1375",
     "comments": [
       {
-        "id": "nh5kecppu",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:16:56.808Z"
+        "id": "7ahykls1y",
+        "author": "Infineon Admin",
+        "content": "The AATP (Allocated Available To Promise) is this part of the ATP (Available To Promise) which is already located to a certain customer(group) or a region.",
+        "timestamp": "2026-01-21T16:18:15.665Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "7890d77b-1e10-4c81-888a-0622259f7ac8",
+    "comments": [
+      {
+        "id": "78x6okqgl",
+        "author": "Claude Yugma",
+        "content": "AATP represents a portion of available inventory or future production that is reserved for specific customers or markets, and is a key element in managing customer commitments under constrained supply.",
+        "timestamp": "2025-06-23T10:31:26.136Z"
       },
       {
-        "id": "1107kztbq",
-        "author": "System ADMIN",
-        "content": "Alternative description by @Robert.     Cycle Time (CT) is the time between the release of an entity into a routing and its completion. In a flow that produces subcomponents, cycle time will measure the time from when raw materials are drawn from a stock to when the component is placed in an intermediate crib inventory. In a flow that produces final products, it will measure the time from when the entity starts down the flow to when it is placed in finished goods inventory or shipped to the customer",
-        "timestamp": "2025-01-09T15:32:18.774Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "d2fb9291-5de0-4429-bd35-98748461085c",
-    "comments": [
-      {
-        "id": "gp2twf089",
-        "author": "System ADMIN",
-        "content": "Proposed by @Robert",
-        "timestamp": "2025-01-09T15:18:25.028Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "2bb39f0f-ffac-4950-b54d-3ccb5e2eeb93",
-    "comments": [
-      {
-        "id": "gcsoedj2z",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:22:14.965Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "358b8445-21a5-4aaa-a88c-31ceb4357f1e",
-    "comments": [
-      {
-        "id": "ij2rkbug5",
-        "author": "System ADMIN",
-        "content": "term proposed by @Robert",
-        "timestamp": "2025-01-09T15:23:15.695Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "7757a10e-1173-4f12-9d06-ec278fceff78",
-    "comments": [
-      {
-        "id": "qp03omzno",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:24:41.858Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "40e328b4-581e-4d05-a977-12909633ae38",
-    "comments": [
-      {
-        "id": "8cgltbh4s",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:26:01.637Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "c5af2ed3-dd23-4ab5-99d8-78281245963f",
-    "comments": [
-      {
-        "id": "cuxmin4ck",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:27:55.007Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "8fa1dbde-46f0-4da6-83d6-305dc309fc5c",
-    "comments": [
-      {
-        "id": "tuuiqpz6g",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:28:48.230Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "90754a7b-3185-49c0-87e4-9b9a7334367a",
-    "comments": [
-      {
-        "id": "q7genft3z",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:29:47.409Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "30b1f7cf-cb8f-4a39-a9e8-a1901a097b9b",
-    "comments": [
-      {
-        "id": "0z2t72j7w",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:31:13.008Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "e6c6757f-78d5-4dad-9525-ac997653d280",
-    "comments": [
-      {
-        "id": "d1ix5eg4b",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:34:48.305Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "e722ed90-17c9-4eff-aae6-b85a4e872162",
-    "comments": []
-  },
-  {
-    "resourceId": "6b10af40-4313-4b87-b04e-18b58c6a39ee",
-    "comments": [
-      {
-        "id": "mhstyue17",
-        "author": "System ADMIN",
-        "content": "Term Proposed by @Robert",
-        "timestamp": "2025-01-09T15:36:39.631Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "1b396d96-a5e8-411a-80da-f286dc173120",
-    "comments": [
-      {
-        "id": "yfnwwr385",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:37:20.544Z"
-      }
-    ]
-  },
-  {
-    "resourceId": "11a0b5b7-a7a1-447a-9b9b-739d7dc78c14",
-    "comments": [
-      {
-        "id": "pjilhjjmp",
-        "author": "System ADMIN",
-        "content": "Term proposed by @Robert",
-        "timestamp": "2025-01-09T15:38:04.030Z"
+        "id": "theha3cju",
+        "author": "Felix Engel",
+        "content": "@Marta not sure how is the DR Lobe owner for this. Claude made another proposal for a definition. Please check if you comply with it\n ",
+        "timestamp": "2025-09-02T11:52:59.028Z"
       },
       {
-        "id": "mu3br9m5x",
-        "author": "System ADMIN",
-        "content": "@David check the latest updates for this term, @Mark create draft with new fixes",
-        "timestamp": "2025-05-19T15:23:39.651Z",
+        "id": "xg0thxf61",
+        "author": "Felix Engel",
+        "content": "@Hans Ehm I think you are the lobe owner. Do you have comments on Claudes proposal?",
+        "timestamp": "2025-09-09T13:16:45.423Z",
         "mentionedUsers": [
-          "David",
-          "Mark"
+          "Hans Ehm"
         ]
       },
       {
-        "id": "tvixhfxhv",
-        "author": "System ADMIN",
-        "content": "This comment doesn't have any mention.",
-        "timestamp": "2025-05-19T18:21:24.986Z",
-        "mentionedUsers": []
+        "id": "odn3ue8yl",
+        "author": "Bibi de Jong",
+        "content": "Available-to-Promise (ATP) is a supply chain concept that calculates the quantity of a product that can be committed to new customer orders, based on current inventory, planned production, and existing commitments. It helps companies provide reliable delivery dates without overpromising. (Maybe also add the term Capable-to-Promise; (and add the comparison?))",
+        "timestamp": "2025-12-05T08:27:10.790Z"
       },
       {
-        "id": "a045osj32",
-        "author": "System ADMIN",
-        "content": "another comment without mentioning.",
-        "timestamp": "2025-05-19T18:46:32.711Z"
-      },
+        "id": "qko7rxy1c",
+        "author": "Infineon Admin",
+        "content": "ATP (Available to promise) is todays and future (weeks) Availability of products for demand fulfillment and order promising.",
+        "timestamp": "2026-01-21T16:30:15.070Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "0668f213-be24-471a-8d85-ced08ac329d7",
+    "comments": [
       {
-        "id": "x9zyohfzi",
-        "author": "Mark",
-        "content": "@System ADMIN Okay, I would have a look.",
-        "timestamp": "2025-05-21T09:16:11.825Z",
+        "id": "87b7b6i7o",
+        "author": "Felix Engel",
+        "content": "@Marta we need a differen Alternative Label and definition",
+        "timestamp": "2025-09-02T12:55:52.045Z",
         "mentionedUsers": [
+          "Marta"
+        ]
+      },
+      {
+        "id": "vlxfra0gx",
+        "author": "Felix Engel",
+        "content": "@Philipp Ulrich",
+        "timestamp": "2025-09-09T12:50:08.156Z",
+        "mentionedUsers": [
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "r792h8joa",
+        "author": "Felix Engel",
+        "content": "@Hans Ehm I found this definition in the DR. Shall we use it instead of the current one? \"\nCAPACITY with respect to the Domain Semiconductor and Supply Chains Containing Semiconductor is the maximum number of products or a group of products a machine or a group of machines can produce. As soon as a machine has free capacity: 1. all lots which belongs to a priority class have to be dispatched immediately according to their priority rank.\"",
+        "timestamp": "2025-09-09T13:10:34.531Z",
+        "mentionedUsers": [
+          "Hans Ehm"
+        ]
+      }
+    ]
+  },
+  {
+    "resourceId": "cbbe6d64-1fb0-435f-bcbd-7f4581a22539",
+    "comments": []
+  },
+  {
+    "resourceId": "6312bdca-928c-48ac-84b3-10bf785693ef",
+    "comments": [
+      {
+        "id": "4jhdx0n3s",
+        "author": "Infineon Admin",
+        "content": "An ORDER LINE ITEM is an individual entry within a customer order that specifies the details of a specific product or service being purchased. Each line item represents a unique combination of product, quantity, and pricing, and collectively, line items make up the full contents of an order. A new order line item might be generated when partial fulfillment is committed or delivered.",
+        "timestamp": "2026-01-21T13:41:03.944Z"
+      },
+      {
+        "id": "w53u9q6tq",
+        "author": "Infineon Admin",
+        "content": "Every product on the order is referenced by a record that includes quantity and usually a customer delivery wish date, as well as a reference to which order it belongs.",
+        "timestamp": "2026-01-21T17:11:37.336Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "f8185dab-ab3a-4d20-a90e-7710647595d3",
+    "comments": [
+      {
+        "id": "zon2c2mzs",
+        "author": "Claude Yugma",
+        "content": "It is a quantifiable indicator used to evaluate how effectively a semiconductor supply chain or production system is operating in terms of meeting objectives like responsiveness, efficiency, and service quality. Performance measures must reflect the objectives of the supply chain including customer service, inventory levels, response times, and capacity utilization.",
+        "timestamp": "2025-06-23T12:41:15.949Z"
+      },
+      {
+        "id": "wrtauuy1d",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma do you propose this as a an update for the existing definition?",
+        "timestamp": "2025-07-04T08:51:20.548Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
+      },
+      {
+        "id": "ejv8z3o0b",
+        "author": "Felix Engel",
+        "content": "@Marta The use of \"Alternative Label\" is wrong here. I think you wanted to say that the Term belongs do the DR Lobe \"_DR pl\", right? Can you please either remove this label or replace it by \"An alternative lexical label for a resource\"",
+        "timestamp": "2025-09-02T11:25:52.932Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
+      },
+      {
+        "id": "vjwyahs6d",
+        "author": "Robert",
+        "content": "@Lars: what is your definition of Performance Measure? Because you introduced this for forecast accuracy, I believe, ",
+        "timestamp": "2025-09-03T07:25:41.219Z"
+      },
+      {
+        "id": "owq5y3wdz",
+        "author": "Infineon Admin",
+        "content": "A PERFORMANCE MEASURE is defined by a calculation procedure. Performance measures can be blended using weights to express the importance.",
+        "timestamp": "2026-01-22T12:36:06.411Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "9e680292-5b22-43cf-bd02-51977746409b",
+    "comments": []
+  },
+  {
+    "resourceId": "7daf8517-97e8-488c-87e5-ea13b7e28c10",
+    "comments": []
+  },
+  {
+    "resourceId": "8b1179fe-dc77-4967-b60e-f110069d85da",
+    "comments": [
+      {
+        "id": "7in8cr938",
+        "author": "Robert",
+        "content": "typo in label",
+        "timestamp": "2025-11-26T11:50:39.986Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "f4d05861-1307-4305-8917-14353f96d04e",
+    "comments": [
+      {
+        "id": "je5ajoswf",
+        "author": "Infineon Admin",
+        "content": "A PRODUCT AGGREGATE combines individual products into a product group, called a PRODUCT AGGREGATE. This results in a reduction of complexity, which enables a better overview.",
+        "timestamp": "2026-01-22T13:00:15.003Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "94d6b5ce-da43-4d58-8a41-89d07c5d40a2",
+    "comments": [
+      {
+        "id": "xejdux3pt",
+        "author": "Infineon Admin",
+        "content": "A PRODUCT HIERARCHY characterizes the top-down and bottom-up relationship between different product aggregates. It organizes the product aggregates according to defined criteria. A product aggregate is used to group different products based on certain criteria. The grouping criteria depends often on the planning purpose (e.g. controlling, production). It is a certain view on a set of products.",
+        "timestamp": "2026-01-22T12:54:11.800Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "1279b8e9-5f02-4e14-a7c2-46e05595259b",
+    "comments": [
+      {
+        "id": "g8ziqqu3j",
+        "author": "Felix Engel",
+        "content": "There is another Term with exact same Label. We should establish a distinct vocabulary. Can someone come up with a proposal for better fit for the Label?",
+        "timestamp": "2025-09-02T11:54:18.474Z"
+      },
+      {
+        "id": "g41mbc986",
+        "author": "Felix Engel",
+        "content": "@Marta",
+        "timestamp": "2025-09-02T12:27:51.420Z",
+        "mentionedUsers": [
+          "Marta"
+        ]
+      }
+    ]
+  },
+  {
+    "resourceId": "3fe64d88-12bc-43ad-9d62-9a0338bbe3bb",
+    "comments": []
+  },
+  {
+    "resourceId": "d33f3387-457a-43a1-a2f1-8879e3d5c7a7",
+    "comments": []
+  },
+  {
+    "resourceId": "de8979d5-b927-4538-b800-c820792c805c",
+    "comments": [
+      {
+        "id": "50jro0wtx",
+        "author": "Felix Engel",
+        "content": "We have Costumer twice in our list. @Marta we need another label to distinguish those. In addition we need a proper Alternative Label",
+        "timestamp": "2025-09-02T12:57:46.858Z"
+      },
+      {
+        "id": "05nq9e1pj",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T09:44:57.234Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "4e1b7970-cfb8-4fb8-bf11-c10ca059f418",
+    "comments": [
+      {
+        "id": "os3fv2lkg",
+        "author": "Felix Engel",
+        "content": "We have Costumer twice in our list. @Marta we need another label to distinguish those. In addition we need a proper Alternative Label",
+        "timestamp": "2025-09-02T12:57:52.068Z"
+      },
+      {
+        "id": "hmcbkkuqu",
+        "author": "Robert",
+        "content": "delete because this is common knowledge",
+        "timestamp": "2025-09-03T09:44:47.154Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694",
+    "comments": [
+      {
+        "id": "rb3vcdyr5",
+        "author": "Claude Yugma",
+        "content": "Demand represents the quantity of products requested by customers. It can be firm (confirmed orders) or forecast-based. It is a critical driver in supply chain operations.",
+        "timestamp": "2025-06-23T10:43:30.940Z"
+      },
+      {
+        "id": "fhujx6cdv",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Robert which of the two definition do you prefer? ",
+        "timestamp": "2025-09-04T06:39:13.535Z",
+        "mentionedUsers": [
+          "Maxi Udenio",
+          "Robert"
+        ]
+      },
+      {
+        "id": "sw3ozc27m",
+        "author": "Robert",
+        "content": "Claude's. I would restrict to the first sentence. In my view a confirmed order is not a firm order, but a customer order that is confirmed (e.g. after availability check ATP) by the supplier.",
+        "timestamp": "2025-09-08T13:23:45.396Z"
+      },
+      {
+        "id": "4nv1a901p",
+        "author": "Maxi Udenio",
+        "content": "Agree with Robert.",
+        "timestamp": "2025-09-21T16:28:34.842Z"
+      },
+      {
+        "id": "77zulpgcg",
+        "author": "System ADMIN",
+        "content": "@System ADMIN discussion mention",
+        "timestamp": "2025-09-30T10:14:25.395Z",
+        "mentionedUsers": [
+          "Mark",
           "System ADMIN"
         ]
+      },
+      {
+        "id": "2uuhm5wls",
+        "author": "System ADMIN",
+        "content": "I have updated the definition accordingly",
+        "timestamp": "2025-11-25T11:51:27.161Z"
       }
     ]
   },
   {
-    "resourceId": "69264376-8405-4238-894b-a0a411211b99",
+    "resourceId": "214b7225-5bb1-4956-ab58-f63175c4446b",
+    "comments": []
+  },
+  {
+    "resourceId": "95dbd732-5afc-4add-b6cd-620f0e301286",
     "comments": [
       {
-        "id": "11xfw3ppd",
-        "author": "System ADMIN",
-        "content": "@George New processor core term was added.",
-        "timestamp": "2025-09-25T13:38:41.890Z",
+        "id": "4fae8fy7v",
+        "author": "Infineon Admin",
+        "content": "The DEMAND CLASS is dividing the demand into priority classes.",
+        "timestamp": "2026-01-21T12:44:23.526Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4",
+    "comments": [
+      {
+        "id": "lv4sm2axk",
+        "author": "Claude Yugma",
+        "content": "Demand fulfilment refers to the set of processes by which a company responds to customer demand by delivering products or services. In the semiconductor supply chain, it includes order promising, product allocation, scheduling, and ensuring timely delivery.\nIt represents the interface between the supply chain and external customers, ensuring that demand is met in accordance with business rules and available resources. It represents the interface between the supply chain and its external customers.”\nIt also connects closely with Available to Promise (ATP) mechanisms that decide what can be committed to customers based on current and projected inventory and capacity.",
+        "timestamp": "2025-06-23T10:45:41.605Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "4da75d3b-5cab-46a0-a07d-c9a62cfcf6ae",
+    "comments": [
+      {
+        "id": "0sgmdynh6",
+        "author": "Claude Yugma",
+        "content": "A demand snapshot is a fixed capture of demand data at a given point in time. It allows comparison over time or alignment between supply and demand planning cycles.",
+        "timestamp": "2025-06-23T10:49:49.145Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "98e1dada-debf-4b11-9870-f4a00d028d73",
+    "comments": [
+      {
+        "id": "og1au1oxk",
+        "author": "Infineon Admin",
+        "content": "OPEN ORDER BOOK refers to a real-time record of all active, unfulfilled customer orders within an organization. It includes detailed information on sales orders.",
+        "timestamp": "2026-01-21T13:35:33.359Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "196e96c9-85a6-45fc-bf54-6593c5bba0b6",
+    "comments": []
+  },
+  {
+    "resourceId": "f9048421-8000-4c00-85d7-0fbf5a64d737",
+    "comments": [
+      {
+        "id": "g4ekrwgfj",
+        "author": "Robert",
+        "content": "this is not a description",
+        "timestamp": "2025-11-26T11:56:54.075Z"
+      },
+      {
+        "id": "m33w5gfmi",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2026-01-28T14:04:22.338Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "00828d2b-55c9-4046-8556-5d22873f1e0c",
+    "comments": [
+      {
+        "id": "bz5beaod9",
+        "author": "Robert",
+        "content": "this is not a description",
+        "timestamp": "2025-11-26T11:56:22.034Z"
+      },
+      {
+        "id": "a0phl2xj6",
+        "author": "Infineon Admin",
+        "content": "An OWNER refers to the individual, team, or entity that holds primary responsibility for a specific asset, process, task, or decision within an organization or project.",
+        "timestamp": "2026-01-21T13:45:10.198Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "dcda03b6-c4d2-4903-88a7-cab4819107b1",
+    "comments": []
+  },
+  {
+    "resourceId": "864a88de-dfc7-4313-af47-bba1c6b938a2",
+    "comments": []
+  },
+  {
+    "resourceId": "55582b69-476b-47c7-b73f-615e01aaa2b1",
+    "comments": []
+  },
+  {
+    "resourceId": "dcc56d27-3cfe-4bb2-8155-e6a64a95f9c1",
+    "comments": []
+  },
+  {
+    "resourceId": "74d20cab-563a-4e9a-882b-a08c3bda856b",
+    "comments": [
+      {
+        "id": "kjthfwny0",
+        "author": "Claude Yugma",
+        "content": "A supply chain is the network of organizations, resources, activities, and technologies involved in the production and delivery of a product from raw materials to the final customer. Supply chain management issues have become increasingly important to the semiconductor industry due to the global distribution of facilities and increasing numbers of firms specialising in particular stages.",
+        "timestamp": "2025-06-23T11:09:30.563Z"
+      },
+      {
+        "id": "9lqhwy5e4",
+        "author": "Felix Engel",
+        "content": "@Maxi Udenio @Philipp Ulrich",
+        "timestamp": "2025-09-19T06:53:30.355Z",
         "mentionedUsers": [
-          "George"
+          "Maxi Udenio",
+          "Philipp Ulrich"
+        ]
+      },
+      {
+        "id": "8g6grxlam",
+        "author": "Maxi Udenio",
+        "content": "Good definition! As a minor remark, I would say: organizations, and the resources, activities, and technologies they manage. (In my view, organizations are not separate from resources, etc, they just manage them).",
+        "timestamp": "2025-09-21T16:19:58.542Z"
+      },
+      {
+        "id": "xtz8axpah",
+        "author": "Philipp Ulrich",
+        "content": "Like it as well\n",
+        "timestamp": "2025-10-16T07:52:29.789Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "d3da1b03-7392-4203-be3d-3a3173e6857e",
+    "comments": [
+      {
+        "id": "yd93le15e",
+        "author": "Robert",
+        "content": "delete",
+        "timestamp": "2025-09-03T10:09:26.026Z"
+      },
+      {
+        "id": "fhviewugf",
+        "author": "Marta",
+        "content": "USER ACTION refers to any interaction a user makes with a system, application, or interface—such as clicking a button, submitting a form, or navigating a page—that triggers a response or function.",
+        "timestamp": "2026-01-20T10:21:17.316Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "4d933028-c44a-4557-aac5-528bd15e1ab0",
+    "comments": [
+      {
+        "id": "8t2tm4d5k",
+        "author": "Claude Yugma",
+        "content": "A partner refers to any external organization that collaborates within the supply network, such as foundries, OSATs (outsourced semiconductor assembly and test providers), EDA tool vendors, equipment suppliers, or logistics providers.",
+        "timestamp": "2025-06-23T12:39:15.932Z"
+      },
+      {
+        "id": "f3xnvq7uu",
+        "author": "Robert",
+        "content": "@Claude, I changed the description to limit the meaning to the project alone.",
+        "timestamp": "2025-11-26T11:53:15.435Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "04ebacdf-8b1c-46df-81fd-1665df6a7594",
+    "comments": []
+  },
+  {
+    "resourceId": "cf5404ed-9046-47de-a045-53daa6e3adba",
+    "comments": []
+  },
+  {
+    "resourceId": "07327ac9-a32d-4e7f-8fbd-3197ad96d4e1",
+    "comments": [
+      {
+        "id": "678c127ze",
+        "author": "felix",
+        "content": "I assume that \"Reactive stocking\" is an alternative Label and not a reference. I will change accordingly",
+        "timestamp": "2025-04-11T06:00:36.242Z"
+      },
+      {
+        "id": "fxkg87go9",
+        "author": "Robert",
+        "content": "Reactive stocking is a different mechanism and not an alternative label. PLease change back",
+        "timestamp": "2026-01-28T14:00:42.938Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "3f3b5242-0011-4422-b9cf-02deba5aba3a",
+    "comments": []
+  },
+  {
+    "resourceId": "71eba900-3be9-4eaf-9999-891ea06d1da5",
+    "comments": []
+  },
+  {
+    "resourceId": "b798765f-ace3-497d-a0ba-3b8619d0983f",
+    "comments": []
+  },
+  {
+    "resourceId": "fcb48ce8-6255-4bf0-8032-d794bac11159",
+    "comments": []
+  },
+  {
+    "resourceId": "d13dd919-de64-4263-bd38-f75d96f6239f",
+    "comments": []
+  },
+  {
+    "resourceId": "06a40a37-546d-4e63-bfee-975e62cde8d0",
+    "comments": []
+  },
+  {
+    "resourceId": "9d5127e5-88ec-4df3-9d31-0d93b6711860",
+    "comments": [
+      {
+        "id": "vo0n6bxbb",
+        "author": "Claude Yugma",
+        "content": "Wafer fabrication is the core front-end process in semiconductor manufacturing where integrated circuits (ICs) are created on the surface of silicon wafers. It is also seen as the process by which ICs are produced is one of the most complex technological achievements of the twentieth century… A CMOS manufacturing process of even modest complexity can involve hundreds of unit operations, up to forty layers of material, several hundred individual pieces of production equipment (referred to as tools), and average cycle times of the order of 10–15 weeks",
+        "timestamp": "2025-06-23T10:57:07.987Z"
+      },
+      {
+        "id": "orqfrqc0x",
+        "author": "Robert",
+        "content": "If production takes more than 6 months, isn't  cycle time than >26 weeks?",
+        "timestamp": "2025-09-03T08:50:50.299Z"
+      },
+      {
+        "id": "ubp03v5cc",
+        "author": "Felix Engel",
+        "content": "@Claude Yugma thoughs?",
+        "timestamp": "2025-09-04T06:35:20.479Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ]
+      },
+      {
+        "id": "xykd96p98",
+        "author": "Claude Yugma",
+        "content": "That’s a very good point. I think the key here is the distinction between cycle time and overall production lead time.\n\nCycle time usually refers to the effective processing time of a wafer lot as it moves through all required unit operations in the fab. For a CMOS process, this is often reported as ~10–15 weeks.\n\nHowever, the lead time experienced by customers can be much longer (sometimes >26 weeks), because it includes queueing, waiting for equipment availability, rework loops, engineering holds, and sometimes supply-related delays.\n\nSo while the process cycle time is on the order of 10–15 weeks, the total time from release to delivery can easily extend to six months or more.",
+        "timestamp": "2025-09-15T10:00:38.125Z"
+      },
+      {
+        "id": "5byn3y6qi",
+        "author": "Felix Engel",
+        "content": "@Robert @Maxi Udenio ",
+        "timestamp": "2025-09-19T06:32:21.978Z",
+        "mentionedUsers": [
+          "Robert",
+          "Maxi Udenio"
+        ]
+      },
+      {
+        "id": "2mretmbel",
+        "author": "Maxi Udenio",
+        "content": "True. I'm not an expert in the fabrication process so I can't comment on the estimates. \n\nMaybe it's good to add entries (if they are not there yet?) separating cycle times and lead times? Then we can use these with precision whenever they are needed. A key distinction, I think, is that lead times are variable and a function of utilization, whereas cycle times refer to the physical processing.",
+        "timestamp": "2025-09-21T16:25:50.449Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "80321df7-2b8b-4636-9e5a-cdc45e935263",
+    "comments": []
+  },
+  {
+    "resourceId": "34e92c1c-7f7d-49ed-99fc-195e187f3c9c",
+    "comments": []
+  },
+  {
+    "resourceId": "7c211ee2-4ec3-4bc9-9286-8c657a099e27",
+    "comments": [
+      {
+        "id": "orvbgzljo",
+        "author": "Robert",
+        "content": "completely unclear what this is. Delete",
+        "timestamp": "2025-09-03T09:37:32.180Z"
+      },
+      {
+        "id": "c42z8c6m8",
+        "author": "Felix Engel",
+        "content": "@Robert @Marta in the Digital Reference I found the following definiton. Is it relevant for our project our not? DR: \"These lots are processed after a certain maximum waiting time which is shorter than the maximum waiting time of standard lots. In general, for all classes, if there is more than one product type waiting.\"",
+        "timestamp": "2025-09-04T06:33:34.732Z",
+        "mentionedUsers": [
+          "Robert",
+          "Marta"
+        ]
+      },
+      {
+        "id": "ewbbf1946",
+        "author": "Robert",
+        "content": "Question for @Marta",
+        "timestamp": "2025-09-08T13:34:29.397Z"
+      },
+      {
+        "id": "aopcw209g",
+        "author": "Robert",
+        "content": "Delete",
+        "timestamp": "2026-01-28T13:58:12.882Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "701d4e26-20a8-46f6-bafb-7b7a11e3b91f",
+    "comments": []
+  },
+  {
+    "resourceId": "a359a435-e5a5-40a4-bfb1-c8846308937b",
+    "comments": []
+  },
+  {
+    "resourceId": "14338e58-88a2-4ba3-b221-ae1b3e29b3b1",
+    "comments": []
+  },
+  {
+    "resourceId": "93ec6f6b-e777-4f34-846c-ea57a9ae0967",
+    "comments": []
+  },
+  {
+    "resourceId": "1a2b8640-1c0c-4a65-9414-21b67a2abc0e",
+    "comments": [
+      {
+        "id": "to1vww0bl",
+        "author": "Felix Engel",
+        "content": "@Felix Engel this is a message",
+        "timestamp": "2025-06-04T10:51:53.757Z",
+        "mentionedUsers": [
+          "Felix Engel"
         ]
       }
     ]
   },
   {
-    "resourceId": "1bffdd13-cd50-40aa-9d04-145bf71e933a",
+    "resourceId": "bdff7487-8f92-4747-9aef-597213c091be",
+    "comments": []
+  },
+  {
+    "resourceId": "0310761d-c985-4533-9ab9-710aa1303f86",
+    "comments": []
+  },
+  {
+    "resourceId": "d7252524-ed61-4edd-8381-6ebae9c4e7da",
+    "comments": []
+  },
+  {
+    "resourceId": "7a67f2e6-c1cc-4438-af89-eb0e6b157f13",
     "comments": [
       {
-        "id": "wbj3t5ild",
-        "author": "System ADMIN",
-        "content": "@Martin check new processor core term.",
-        "timestamp": "2025-09-25T13:43:56.054Z"
+        "id": "964sx1h8f",
+        "author": "Marta",
+        "content": "A SUPPLY CONTRACT is a formal agreement between two parties—typically a supplier and a buyer—that outlines the terms and conditions under which goods or services will be provided over a specified period. The contract establishes a legally binding relationship and is commonly used in business-to-business transactions.",
+        "timestamp": "2026-01-20T10:24:35.945Z"
       }
     ]
   },
   {
-    "resourceId": "4351cd6e-c2be-4512-8b29-867527908412",
+    "resourceId": "5879558b-dfd0-4a66-9fba-2a6fb31f1a8b",
+    "comments": [
+      {
+        "id": "ivteg7wg7",
+        "author": "Marta",
+        "content": "SUPPLY INFORMATION provides information of the used and unused supply of a supply chain network.",
+        "timestamp": "2026-01-20T10:23:35.981Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "c9437d92-c7ef-4767-a8d5-5083aa88b5c1",
     "comments": []
+  },
+  {
+    "resourceId": "d3a651e2-505b-410f-b6b1-d7066fea75aa",
+    "comments": []
+  },
+  {
+    "resourceId": "89af3558-12f6-4d8b-a87d-06f931f19aff",
+    "comments": []
+  },
+  {
+    "resourceId": "e5c532a2-9d92-4ba0-8fcd-424c066272f1",
+    "comments": []
+  },
+  {
+    "resourceId": "d69143fe-1b08-47ab-b971-088635bb29da",
+    "comments": []
+  },
+  {
+    "resourceId": "5e1ba6cd-17d5-4ac4-9e96-78f191c03fe7",
+    "comments": [
+      {
+        "id": "m1q9bd5p8",
+        "author": "System ADMIN",
+        "content": "There is no definition. @Marta and  @Philipp Ulrich it comes from the DR can you provide a definition and potential alternative labels?",
+        "timestamp": "2025-11-25T07:30:47.376Z",
+        "mentionedUsers": [
+          "Marta",
+          "Philipp Ulrich"
+        ]
+      }
+    ]
   }
 ]
