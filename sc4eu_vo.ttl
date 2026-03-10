@@ -315,9 +315,9 @@
     rdfs:label "Random coproduction ";
     dcterms:description "@Not defined yet";
     rdfs:seeAlso "N/A";
-    ex:status "draft";
+    ex:status "accept";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-06T08:09:23.434Z"^^xsd:dateTime.
+    dcterms:modified "2026-03-10T18:18:56.090Z"^^xsd:dateTime.
 <https://example.com#d0600216-6f78-4976-a660-a3066baae7da> rdf:type rdfs:Resource;
     dcterms:identifier "d0600216-6f78-4976-a660-a3066baae7da";
     rdfs:label "Borderless Fab Setting";
