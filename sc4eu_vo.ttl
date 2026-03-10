@@ -1692,3 +1692,11 @@
     ex:status "draft";
     dcterms:created "2026-02-10"^^xsd:date;
     dcterms:modified "2026-02-10T12:02:26.333Z"^^xsd:dateTime.
+<https://example.com#5888ee93-6e7f-45e8-ac63-1c951fe3febd> rdf:type rdfs:Resource;
+    dcterms:identifier "5888ee93-6e7f-45e8-ac63-1c951fe3febd";
+    rdfs:label "Test";
+    dcterms:description "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C47891";
+    ex:status "draft";
+    dcterms:created "2026-03-10"^^xsd:date;
+    dcterms:modified "2026-03-10T18:25:56.502Z"^^xsd:dateTime.
