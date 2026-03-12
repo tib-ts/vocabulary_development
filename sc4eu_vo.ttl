@@ -1692,3 +1692,11 @@
     ex:status "draft";
     dcterms:created "2026-02-10"^^xsd:date;
     dcterms:modified "2026-02-10T12:02:26.333Z"^^xsd:dateTime.
+<https://example.com#dce5e222-da6b-45e8-bf44-09d53f683d3f> rdf:type rdfs:Resource;
+    dcterms:identifier "dce5e222-da6b-45e8-bf44-09d53f683d3f";
+    rdfs:label "test";
+    dcterms:description "A test can be considered a technical operation or procedure that consists of determination of one or more characteristics of a given product, process or service according to a specified procedure. Often a test is part of an experiment. The test result can be qualitative (yes/no), categorical, or quantitative (a measured value). It can be a personal observation or the output of a precision measuring instrument. [Wikipedia]";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.allotrope.org%2Fontologies%2Fprocess%23AFP_0002834";
+    ex:status "draft";
+    dcterms:created "2026-03-12"^^xsd:date;
+    dcterms:modified "2026-03-12T19:00:41.833Z"^^xsd:dateTime.
