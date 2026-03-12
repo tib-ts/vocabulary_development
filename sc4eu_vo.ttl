@@ -1700,3 +1700,10 @@
     ex:status "not accept";
     dcterms:created "2026-03-10"^^xsd:date;
     dcterms:modified "2026-03-10T19:41:38.128Z"^^xsd:dateTime.
+<https://example.com#2ebc3ff9-fdb8-4060-b2e1-3821527636ae> rdf:type rdfs:Resource;
+    dcterms:identifier "2ebc3ff9-fdb8-4060-b2e1-3821527636ae";
+    rdfs:label "temp term";
+    dcterms:description "temp term";
+    ex:status "draft";
+    dcterms:created "2026-03-12"^^xsd:date;
+    dcterms:modified "2026-03-12T15:41:21.533Z"^^xsd:dateTime.
