@@ -2853,5 +2853,16 @@
         ]
       }
     ]
+  },
+  {
+    "resourceId": "dce5e222-da6b-45e8-bf44-09d53f683d3f",
+    "comments": [
+      {
+        "id": "l9twco97w",
+        "author": "System ADMIN",
+        "content": "This term should be removed",
+        "timestamp": "2026-03-12T19:01:08.218Z"
+      }
+    ]
   }
 ]
