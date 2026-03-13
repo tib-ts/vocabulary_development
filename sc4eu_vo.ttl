@@ -1692,3 +1692,11 @@
     ex:status "draft";
     dcterms:created "2026-02-10"^^xsd:date;
     dcterms:modified "2026-02-10T12:02:26.333Z"^^xsd:dateTime.
+<https://example.com#7ebbbded-8cf0-4d2f-a1c9-063fe2fa7a30> rdf:type rdfs:Resource;
+    dcterms:identifier "7ebbbded-8cf0-4d2f-a1c9-063fe2fa7a30";
+    rdfs:label "test arrangement";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bau/terms?iri=https%3A%2F%2Fterminology.fraunhofer.de%2Fvoc%2Fbau%23B11619767936_4";
+    ex:status "draft";
+    dcterms:created "2026-03-13"^^xsd:date;
+    dcterms:modified "2026-03-13T10:43:18.278Z"^^xsd:dateTime.
