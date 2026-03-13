@@ -2876,5 +2876,16 @@
         "timestamp": "2026-03-12T19:08:58.575Z"
       }
     ]
+  },
+  {
+    "resourceId": "d5752e5a-247e-44cb-90fb-bbda89c7860a",
+    "comments": [
+      {
+        "id": "b8turb234",
+        "author": "System ADMIN",
+        "content": "Is it save for removal?",
+        "timestamp": "2026-03-13T09:17:49.190Z"
+      }
+    ]
   }
 ]
