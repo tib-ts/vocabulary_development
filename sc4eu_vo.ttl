@@ -12,30 +12,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-11-25T11:53:34.905Z"^^xsd:dateTime.
-<https://example.com#74eaf886-7525-490e-a9a2-cb3bc28c6b54> rdf:type rdfs:Resource;
-    dcterms:identifier "74eaf886-7525-490e-a9a2-cb3bc28c6b54";
-    rdfs:label "Future Demand";
-    skos:altLabel "Forecast";
-    dcterms:description "Sales / Marketing Forecast. Unconstrained customer demand not taking into account the companies capacity. Already adjusted based on multiple business indicators such as orders on hand, historic sales, order backlog, customer information, cycle management and other macro-economic indicators";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-26T13:53:21.238Z"^^xsd:dateTime.
-<https://example.com#8abc6005-c0c0-4c35-869a-77b75750aa48> rdf:type rdfs:Resource;
-    dcterms:identifier "8abc6005-c0c0-4c35-869a-77b75750aa48";
-    rdfs:label "Sales and Marketing Forecast ";
-    skos:altLabel "Unconstrained demand";
-    dcterms:description "(Expectation of what a company thinks they would be able to sell) based on orders, past billings and more";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#07ecb673-52a9-4415-8b08-9c59690c29d0> rdf:type rdfs:Resource;
-    dcterms:identifier "07ecb673-52a9-4415-8b08-9c59690c29d0";
-    rdfs:label "Inventory Reach";
-    dcterms:description "Inventory reach is a measure of how long a company‘s current inventory will last under normal sales conditions.";
-    rdfs:seeAlso "Inventory Coverage, Days of Inventory";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-26T14:01:20.858Z"^^xsd:dateTime.
 <https://example.com#ac8ec0bb-4558-4b19-81b0-c848f4a048fb> rdf:type rdfs:Resource;
     dcterms:identifier "ac8ec0bb-4558-4b19-81b0-c848f4a048fb";
     rdfs:label "True Demand";
@@ -43,14 +19,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T10:58:46.180Z"^^xsd:dateTime.
-<https://example.com#a601e751-d6a2-472b-92d6-c33d16b4aa8e> rdf:type rdfs:Resource;
-    dcterms:identifier "a601e751-d6a2-472b-92d6-c33d16b4aa8e";
-    rdfs:label "Stock Depth";
-    skos:altLabel "SD";
-    dcterms:description "The sum of Desired Inventory Coverage of all the tiers between a company and its End Market. It is measured in time units.";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
     dcterms:identifier "f47de173-cd8e-48c7-8d39-906648d3aef2";
     rdfs:label "Desired Inventory Coverage ";
@@ -74,42 +42,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-09-06T05:27:36.181Z"^^xsd:dateTime.
-<https://example.com#6a7749d4-03cc-4946-9756-5c6ab4159f57> rdf:type rdfs:Resource;
-    dcterms:identifier "6a7749d4-03cc-4946-9756-5c6ab4159f57";
-    rdfs:label "Smoothing";
-    dcterms:description "Averaging recent data; See also SES and DES";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-23T06:29:01.947Z"^^xsd:dateTime.
-<https://example.com#0ba579de-85d8-45f5-b749-95c2a6c54d4c> rdf:type rdfs:Resource;
-    dcterms:identifier "0ba579de-85d8-45f5-b749-95c2a6c54d4c";
-    rdfs:label "Lagging";
-    dcterms:description "Being later in time. E.g. a delivery is always later than the order: the delivery is lagging the order. Is not only caused by lead time but also by averaging or smoothing of data.";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#2d93a0a3-cb4f-4682-bb11-e405538e1bfe> rdf:type rdfs:Resource;
-    dcterms:identifier "2d93a0a3-cb4f-4682-bb11-e405538e1bfe";
-    rdfs:label "Overshoot";
-    dcterms:description "Exceed a target. The opposite is Undershoot. Can e.g. be caused by extrapolation of a changing signal. ";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#a68d9413-ec72-4741-b6c8-6b8c0aa5335f> rdf:type rdfs:Resource;
-    dcterms:identifier "a68d9413-ec72-4741-b6c8-6b8c0aa5335f";
-    rdfs:label "System Dynamics";
-    dcterms:description "System dynamics is an approach to understanding the behaviour of complex systems over time. It deals with internal feedback loops and time delays that affect the behaviour of the entire system. What makes using system dynamics different from other approaches to studying complex systems is the use of feedback loops and stocks and flows. These elements help describe how even seemingly simple systems display baffling nonlinearity";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenSystemComplexity%2FSystemDynamics";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#5b890e93-bfaf-480f-89bd-c9a11b1db3de> rdf:type rdfs:Resource;
-    dcterms:identifier "5b890e93-bfaf-480f-89bd-c9a11b1db3de";
-    rdfs:label "Demand Upstream";
-    dcterms:description "Upstream refers to companies that are located closer to the beginning of the supply chain. So Tier1 is located upstream from the OEM. For Demand see Demand.";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#96e3059c-540c-4b03-b13c-71573c598596> rdf:type rdfs:Resource;
     dcterms:identifier "96e3059c-540c-4b03-b13c-71573c598596";
     rdfs:label "Bullwhip Effect";
@@ -117,21 +49,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-11-25T07:34:51.308Z"^^xsd:dateTime.
-<https://example.com#9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0> rdf:type rdfs:Resource;
-    dcterms:identifier "9be34bbe-7ef6-4cd6-8fb1-7c55086cc5e0";
-    rdfs:label "Desired Inventory";
-    dcterms:description "Desired Inventory Coverage multiplied with Demand. Measured in units.";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#d8c79103-75d0-45f9-a26c-cc2edb6bceb6> rdf:type rdfs:Resource;
-    dcterms:identifier "d8c79103-75d0-45f9-a26c-cc2edb6bceb6";
-    rdfs:label "Demand Endmarket ";
-    dcterms:description "End Market Demand (EMD) is the wish of consumers to buy products. It can be considered the end of the Supply Chain. EMD pulls product out of the chain. EMD is also referred to as True Demand.";
-    rdfs:seeAlso "EMD; True Demand; End Market Demand";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-09-03T08:38:56.845Z"^^xsd:dateTime.
 <https://example.com#2af7f230-5f50-4c49-810c-b3f99d447455> rdf:type rdfs:Resource;
     dcterms:identifier "2af7f230-5f50-4c49-810c-b3f99d447455";
     rdfs:label "Demand Short-Term ";
@@ -139,14 +56,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-11-25T11:57:12.320Z"^^xsd:dateTime.
-<https://example.com#6ec4584c-da72-4e82-8a8c-dbf4eb8648ad> rdf:type rdfs:Resource;
-    dcterms:identifier "6ec4584c-da72-4e82-8a8c-dbf4eb8648ad";
-    rdfs:label "Ontology";
-    dcterms:description "An ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-AT%23Ontology";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#45614f02-6c70-4fcf-811d-1fee1713658b> rdf:type rdfs:Resource;
     dcterms:identifier "45614f02-6c70-4fcf-811d-1fee1713658b";
     rdfs:label "Semantic Technology";
@@ -163,22 +72,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T10:40:52.508Z"^^xsd:dateTime.
-<https://example.com#11ed8074-8172-4007-aaee-73cee59dc5c8> rdf:type rdfs:Resource;
-    dcterms:identifier "11ed8074-8172-4007-aaee-73cee59dc5c8";
-    rdfs:label "Digital Reference Ontology";
-    dcterms:description "Semantic Web (Ontology) for semiconductor supply chains and supply chains containing semiconductors";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#5a73f8fe-df81-4525-8c74-301635a49938> rdf:type rdfs:Resource;
-    dcterms:identifier "5a73f8fe-df81-4525-8c74-301635a49938";
-    rdfs:label "Knowledge Graph";
-    dcterms:description "In knowledge representation and reasoning, a knowledge graph is a knowledge base that uses a graph-structured data model or topology to represent and operate on data. Knowledge graphs are often used to store interlinked descriptions of entities – objects, events, situations or abstract concepts – while also encoding the free-form semantics or relationships underlying these entities";
-    rdfs:seeAlso "https://en.wikipedia.org/wiki/Knowledge_graph";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#45bc671c-15a1-4ee0-931e-af2f6dd3f08f> rdf:type rdfs:Resource;
     dcterms:identifier "45bc671c-15a1-4ee0-931e-af2f6dd3f08f";
     rdfs:label "Semantic Web Standards";
@@ -187,14 +80,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T11:08:25.120Z"^^xsd:dateTime.
-<https://example.com#5bc9a44a-91c8-448e-813c-61b012d27ff3> rdf:type rdfs:Resource;
-    dcterms:identifier "5bc9a44a-91c8-448e-813c-61b012d27ff3";
-    rdfs:label "free-form semantics or relationships";
-    dcterms:description "Felix?";
-    rdfs:seeAlso "N/A";
-    ex:status "not accept";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-01-21T13:03:45.565Z"^^xsd:dateTime.
 <https://example.com#c7f3da60-5199-4465-8e31-277b45784236> rdf:type rdfs:Resource;
     dcterms:identifier "c7f3da60-5199-4465-8e31-277b45784236";
     rdfs:label "Semantic Web";
@@ -211,14 +96,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-09-06T05:29:21.158Z"^^xsd:dateTime.
-<https://example.com#0812332a-b27d-4ae4-94b6-71076d4e76c7> rdf:type rdfs:Resource;
-    dcterms:identifier "0812332a-b27d-4ae4-94b6-71076d4e76c7";
-    rdfs:label "Desired Utilization Rate (DUR)";
-    dcterms:description "The level of usage of a capacity that is considered optimal from a business point of view. DUR is industry specific. A low DUR gives flexibility, but less turnover so less coverage of fixed cost. ";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#e73367f5-3971-4e94-8f95-6ce4aff94578> rdf:type rdfs:Resource;
     dcterms:identifier "e73367f5-3971-4e94-8f95-6ce4aff94578";
     rdfs:label "Fab";
@@ -227,14 +104,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-09-03T08:54:08.631Z"^^xsd:dateTime.
-<https://example.com#527c5858-7259-4ede-804a-5c89fc8c6467> rdf:type rdfs:Resource;
-    dcterms:identifier "527c5858-7259-4ede-804a-5c89fc8c6467";
-    rdfs:label "Dicing";
-    dcterms:description "process of cutting semiconductor wafer into individual chips each containing a complete semiconductor device. Large diameter wafer dicing is carried out by partially cutting the wafer along preferred crystallographic planes using high precision saw with ultra-thin diamond blade. ";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx#F";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#0c8d7d97-2f0c-489e-9820-ee8647850254> rdf:type rdfs:Resource;
     dcterms:identifier "0c8d7d97-2f0c-489e-9820-ee8647850254";
     rdfs:label "Front End";
@@ -253,54 +122,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T10:32:18.664Z"^^xsd:dateTime.
-<https://example.com#e718d17a-4f24-4a9c-acb4-7e144ec14fe4> rdf:type rdfs:Resource;
-    dcterms:identifier "e718d17a-4f24-4a9c-acb4-7e144ec14fe4";
-    rdfs:label "Foundry";
-    dcterms:description "A wafer production and processing plant. Usually used to denote a facility that is available on a contract basis to companies that do not have wafer fab capability of their own, or that wish to supplement their own capabilities.";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-18T14:01:23.862Z"^^xsd:dateTime.
-<https://example.com#b6f6559b-9d69-4128-8d20-2528a986d7cb> rdf:type rdfs:Resource;
-    dcterms:identifier "b6f6559b-9d69-4128-8d20-2528a986d7cb";
-    rdfs:label "NAND Type Flash Memory";
-    dcterms:description "A type of non-volatile memory medium invented in 1987 by Fujio Masuoka (then a Toshiba employee). Compared to the NOR type flash memory, NAND flash is smaller in circuit scale, less costly, and offers larger capacities as well as faster read/write speeds. NAND flash is widely used for USB drives, memory cards for digital cameras, and storage devices for mobile phones and digital music players. As conventional chip scaling technology is reaching its limits, 3D structures have been introduced in flash memory devices in recent years. Chips can be split in Memory (DRAM and NAND) and Logic (all others).";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx; DRAM, LOGIC; MEMORY";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-09-03T10:17:00.692Z"^^xsd:dateTime.
-<https://example.com#378edb24-3b87-4f54-b8e2-dcc748f1a7cd> rdf:type rdfs:Resource;
-    dcterms:identifier "378edb24-3b87-4f54-b8e2-dcc748f1a7cd";
-    rdfs:label "Flash Memory";
-    dcterms:description "An advanced form of electrically erasable programmable read-only memory (EEPROM). Flash memory is non-volatile and the data on the device can be freely rewritten. Flash memory devices are more convenient to use than UVEPROMs that require ultraviolet light to erase data.";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#fe66ac5e-fd80-4a2a-b209-5c7698a31f85> rdf:type rdfs:Resource;
-    dcterms:identifier "fe66ac5e-fd80-4a2a-b209-5c7698a31f85";
-    rdfs:label "Node";
-    dcterms:description "Node refers to the miniaturization level of a semiconductor, expressed in #nm. Smaller Nodes are more advanced. Originally it referred to the thickness of the smallest part of a chip. Fabs usually have a combination of tools that allow them to produce wafers of a certain Node.";
-    rdfs:seeAlso "Fab; Technology Node Group; Tool; Lithography";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-09-03T09:54:46.997Z"^^xsd:dateTime.
-<https://example.com#c67e3931-e4df-41c8-acf1-ef581772784c> rdf:type rdfs:Resource;
-    dcterms:identifier "c67e3931-e4df-41c8-acf1-ef581772784c";
-    rdfs:label "Node Technology Group";
-    dcterms:description "@No description available yet";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-06T08:00:54.635Z"^^xsd:dateTime.
-<https://example.com#4c628f7c-9cb3-419d-92d2-46be565301d1> rdf:type rdfs:Resource;
-    dcterms:identifier "4c628f7c-9cb3-419d-92d2-46be565301d1";
-    rdfs:label "Binning";
-    dcterms:description "BINNING refers to the process of testing and categorizing parts against defined measures and sort them into different bins (Degbotse 2013). Each bin belongs to certain levels of defined measures (e.g. chip speed, current, voltage, energy consumption). Binning is often combined with SUBSTITUTION.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Binning";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#dd1eb576-d83b-4d0d-ac05-d8d09d0e1264> rdf:type rdfs:Resource;
     dcterms:identifier "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264";
     rdfs:label "Bill Of Material";
@@ -310,14 +131,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-07-04T08:33:09.428Z"^^xsd:dateTime.
-<https://example.com#268e91b4-77f7-4a77-a41d-5ce3bb322524> rdf:type rdfs:Resource;
-    dcterms:identifier "268e91b4-77f7-4a77-a41d-5ce3bb322524";
-    rdfs:label "Random coproduction ";
-    dcterms:description "@Not defined yet";
-    rdfs:seeAlso "N/A";
-    ex:status "accept";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-03-10T18:18:56.090Z"^^xsd:dateTime.
 <https://example.com#d0600216-6f78-4976-a660-a3066baae7da> rdf:type rdfs:Resource;
     dcterms:identifier "d0600216-6f78-4976-a660-a3066baae7da";
     rdfs:label "Borderless Fab Setting";
@@ -334,22 +147,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-09-06T08:09:23.434Z"^^xsd:dateTime.
-<https://example.com#6adb2b83-e698-405f-9eb0-38dde30d7922> rdf:type rdfs:Resource;
-    dcterms:identifier "6adb2b83-e698-405f-9eb0-38dde30d7922";
-    rdfs:label "MAPE";
-    dcterms:description "Mean Absolute Percentage Error";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-06T08:13:13.110Z"^^xsd:dateTime.
-<https://example.com#010831c3-ef72-4194-98cf-950e039f178e> rdf:type rdfs:Resource;
-    dcterms:identifier "010831c3-ef72-4194-98cf-950e039f178e";
-    rdfs:label "NCNR orders";
-    dcterms:description "non-cancellable non-refundable orders";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#abeb6a5c-cc98-4921-a42e-f90b6d6f9533> rdf:type rdfs:Resource;
     dcterms:identifier "abeb6a5c-cc98-4921-a42e-f90b6d6f9533";
     rdfs:label "Chip";
@@ -359,15 +156,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T10:36:42.210Z"^^xsd:dateTime.
-<https://example.com#376d968c-83f7-44fa-9470-e4c0bc0cc5ee> rdf:type rdfs:Resource;
-    dcterms:identifier "376d968c-83f7-44fa-9470-e4c0bc0cc5ee";
-    rdfs:label "Die";
-    skos:altLabel "Chip";
-    dcterms:description "a single piece of semiconductor containing entire integrated circuit which has not yet been packaged; A chip.";
-    rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#e655023c-d74f-410a-92f8-8d600cd72d96> rdf:type rdfs:Resource;
     dcterms:identifier "e655023c-d74f-410a-92f8-8d600cd72d96";
     rdfs:label "Die Bank";
@@ -393,14 +181,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T10:35:32.725Z"^^xsd:dateTime.
-<https://example.com#8c989a43-5f21-4109-8ceb-2122a7e7bb6e> rdf:type rdfs:Resource;
-    dcterms:identifier "8c989a43-5f21-4109-8ceb-2122a7e7bb6e";
-    rdfs:label "Exponential Smoothing";
-    dcterms:description "Exponential smoothing methods provide forecasts using weighted averages of past values of the data and forecast errors. They are commonly used in inventory control systems where many items are to be forecast and low cost is a primary concern. The simplest exponential smoothing method is single exponential smoothing (SES), suitable for data with no trend or seasonal patterns. For trended data, Holt’s method is suitable and for seasonal data, Holt-Winters’ method may be used. Pegels’ classification provides a convenient structure in which to study and apply exponential smoothing methods";
-    rdfs:seeAlso "https://robjhyndman.com/mwh3/FG4.pdf";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-09T12:14:40.511Z"^^xsd:dateTime.
 <https://example.com#f452a6e2-b533-4a5a-8b36-60d2115d63e3> rdf:type rdfs:Resource;
     dcterms:identifier "f452a6e2-b533-4a5a-8b36-60d2115d63e3";
     rdfs:label "Aggregated Capacity";
@@ -419,15 +199,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#3be8feac-f780-4f0b-80a3-dc4198d48884> rdf:type rdfs:Resource;
-    dcterms:identifier "3be8feac-f780-4f0b-80a3-dc4198d48884";
-    rdfs:label "Criteria";
-    skos:altLabel "_DR pl";
-    dcterms:description "Typical criteria are maximization, minimization, i.e. if an optimization problem is considered, or larger or smaller than a prescribed value of the certain performance measure, a so-called target, i.e. if a satisfaction problem is solved. In a multi-criteria setting, the dominance concept for plans is of interest.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Criteria";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-11-20T10:14:36.291Z"^^xsd:dateTime.
 <https://example.com#73d4e9a6-26b1-46be-ba9d-76886361c851> rdf:type rdfs:Resource;
     dcterms:identifier "73d4e9a6-26b1-46be-ba9d-76886361c851";
     rdfs:label "Customer Logistics Management Representative";
@@ -725,15 +496,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-06-23T11:01:36.189Z"^^xsd:dateTime.
-<https://example.com#ebb5cfcb-9199-45ef-b0ff-87916086a19a> rdf:type rdfs:Resource;
-    dcterms:identifier "ebb5cfcb-9199-45ef-b0ff-87916086a19a";
-    rdfs:label "Target Allocation";
-    skos:altLabel "_DR pl";
-    dcterms:description "The target allocation is the level of allocation planned by the company.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Target_Allocation";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#214144da-cbaa-4950-ac65-70c46ded293f> rdf:type rdfs:Resource;
     dcterms:identifier "214144da-cbaa-4950-ac65-70c46ded293f";
     rdfs:label "Vertex";
@@ -809,30 +571,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#4784710d-e693-4469-8bb8-be49a65d8380> rdf:type rdfs:Resource;
-    dcterms:identifier "4784710d-e693-4469-8bb8-be49a65d8380";
-    rdfs:label "Confirmed Order";
-    dcterms:description "Order which has been confirmed for fulfillment by the selling company ";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#e7b78a49-567f-47ef-a14f-257e6098360a> rdf:type rdfs:Resource;
-    dcterms:identifier "e7b78a49-567f-47ef-a14f-257e6098360a";
-    rdfs:label "Unconfirmed Order";
-    dcterms:description "Order which has not been confirmed for fulfilment by the selling company";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#4f889db8-3815-4672-8d55-f44cb7e45dc1> rdf:type rdfs:Resource;
-    dcterms:identifier "4f889db8-3815-4672-8d55-f44cb7e45dc1";
-    rdfs:label "Baseline";
-    dcterms:description "A starting point to which things may be compared.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C25213";
-    ex:status "not accept";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-01-21T16:18:13.998Z"^^xsd:dateTime.
 <https://example.com#8a73b95b-2800-45b6-a7df-94d888fa3e02> rdf:type rdfs:Resource;
     dcterms:identifier "8a73b95b-2800-45b6-a7df-94d888fa3e02";
     rdfs:label "Billing";
@@ -850,27 +588,10 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#13cb7768-171b-46e6-a2a1-a7df3b47494e> rdf:type rdfs:Resource;
-    dcterms:identifier "13cb7768-171b-46e6-a2a1-a7df3b47494e";
-    rdfs:label "Survey";
-    dcterms:description "method of gather data and information from a group of participants";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#1eb30b69-41c8-47d0-8d45-e199bbaf52d8> rdf:type rdfs:Resource;
     dcterms:identifier "1eb30b69-41c8-47d0-8d45-e199bbaf52d8";
     rdfs:label "Market Demand";
     dcterms:description "Demand of the whole market";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#3ac5a6b8-0cb9-419e-a5aa-736fc3638080> rdf:type rdfs:Resource;
-    dcterms:identifier "3ac5a6b8-0cb9-419e-a5aa-736fc3638080";
-    rdfs:label "Unique Selling Point ";
-    skos:altLabel "Unique Selling Proposition";
-    dcterms:description "is a distinct feature or characteristic that sets a product, service, or brand apart from its competitors";
     rdfs:seeAlso "N/A";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
@@ -883,14 +604,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-09-23T06:24:59.422Z"^^xsd:dateTime.
-<https://example.com#52362a0d-517b-4d41-969c-dd4c47a657e4> rdf:type rdfs:Resource;
-    dcterms:identifier "52362a0d-517b-4d41-969c-dd4c47a657e4";
-    rdfs:label "time";
-    dcterms:description "This property is required to manage timing aspects of a PLANNING OBJECT. It can be a release time, a finishing time, a single start time, or a set of start time for certain ACTIVITIES to be fulfilled.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23time";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T11:02:58.974Z"^^xsd:dateTime.
 <https://example.com#a3a6033c-6eb2-459d-b60d-7898b1fde5d6> rdf:type rdfs:Resource;
     dcterms:identifier "a3a6033c-6eb2-459d-b60d-7898b1fde5d6";
     rdfs:label "Granularity";
@@ -1125,15 +838,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#1f5ec71f-58fc-4f61-81e4-8cb2c84065c0> rdf:type rdfs:Resource;
-    dcterms:identifier "1f5ec71f-58fc-4f61-81e4-8cb2c84065c0";
-    rdfs:label "Triple Exponential Smoothing";
-    skos:altLabel "TES";
-    dcterms:description "Holt-Winters’ exponential smoothing method : Winters extended Holt’s exponential smoothing method by including an extra equation that is used to adjust the forecast to reflect seasonality. This form of exponential smoothing can thus account for data series that include both trend and seasonal elements. It uses three smoothing parameters controlling the level, trend, and seasonality.";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#bfead7cc-2c48-4d04-9332-1203828391a7> rdf:type rdfs:Resource;
     dcterms:identifier "bfead7cc-2c48-4d04-9332-1203828391a7";
     rdfs:label "Double Exponential Smoothing";
@@ -1221,15 +925,6 @@
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date;
     dcterms:modified "2024-10-04T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#cbbe6d64-1fb0-435f-bcbd-7f4581a22539> rdf:type rdfs:Resource;
-    dcterms:identifier "cbbe6d64-1fb0-435f-bcbd-7f4581a22539";
-    rdfs:label "Customer";
-    skos:altLabel "_DR pl";
-    dcterms:description "A person or entity that buys goods or services  from a shop or business.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Customer";
-    ex:status "draft";
-    dcterms:created "2024-10-04"^^xsd:date;
-    dcterms:modified "2024-10-04T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#6312bdca-928c-48ac-84b3-10bf785693ef> rdf:type rdfs:Resource;
     dcterms:identifier "6312bdca-928c-48ac-84b3-10bf785693ef";
     rdfs:label "Order Line Item";
@@ -1292,24 +987,6 @@
     ex:status "draft";
     dcterms:created "2024-10-10"^^xsd:date;
     dcterms:modified "2024-10-10T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#1279b8e9-5f02-4e14-a7c2-46e05595259b> rdf:type rdfs:Resource;
-    dcterms:identifier "1279b8e9-5f02-4e14-a7c2-46e05595259b";
-    rdfs:label "Allocated Available To Promise";
-    skos:altLabel "_DR sc";
-    dcterms:description "When scarce ATP quantities are allocated to different customer classes or customers, the resulting supply reservations are called allocated ATP (AATP) quantities.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Allocated_Available_To_Promise";
-    ex:status "draft";
-    dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#3fe64d88-12bc-43ad-9d62-9a0338bbe3bb> rdf:type rdfs:Resource;
-    dcterms:identifier "3fe64d88-12bc-43ad-9d62-9a0338bbe3bb";
-    rdfs:label "Available To Promise";
-    skos:altLabel "_DR sc";
-    dcterms:description "The part of the inventory and projected supply that can be used to fulfill customer orders is called ATP.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Available_To_Promise";
-    ex:status "draft";
-    dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#d33f3387-457a-43a1-a2f1-8879e3d5c7a7> rdf:type rdfs:Resource;
     dcterms:identifier "d33f3387-457a-43a1-a2f1-8879e3d5c7a7";
     rdfs:label "Customer";
@@ -1319,24 +996,15 @@
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date;
     dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#de8979d5-b927-4538-b800-c820792c805c> rdf:type rdfs:Resource;
-    dcterms:identifier "de8979d5-b927-4538-b800-c820792c805c";
-    rdfs:label "Customer";
-    skos:altLabel "_DR sc (2)";
-    dcterms:description "Customer is a person or organization that places order or pay the invoice.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Incoterms%23Customer";
-    ex:status "draft";
-    dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#4e1b7970-cfb8-4fb8-bf11-c10ca059f418> rdf:type rdfs:Resource;
     dcterms:identifier "4e1b7970-cfb8-4fb8-bf11-c10ca059f418";
     rdfs:label "Customer";
     skos:altLabel "_DR sc (3)";
     dcterms:description "A customer is an business that purchases another company's goods or services.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer";
-    ex:status "draft";
+    ex:status "not accept";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2026-05-28T10:18:39.455Z"^^xsd:dateTime.
 <https://example.com#8bc1bda0-6a02-48c8-a5c0-b04bd30b7694> rdf:type rdfs:Resource;
     dcterms:identifier "8bc1bda0-6a02-48c8-a5c0-b04bd30b7694";
     rdfs:label "Demand";
@@ -1508,14 +1176,6 @@
     rdfs:label "Pipeline";
     dcterms:description "A stock of raw material orders that have been sent out, but for which the goods have not yet been delivered.";
     rdfs:seeAlso "Underestimation";
-    ex:status "draft";
-    dcterms:created "2024-11-20"^^xsd:date;
-    dcterms:modified "2024-11-20T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#71eba900-3be9-4eaf-9999-891ea06d1da5> rdf:type rdfs:Resource;
-    dcterms:identifier "71eba900-3be9-4eaf-9999-891ea06d1da5";
-    rdfs:label "Underestimation";
-    dcterms:description "Thinking that something is smaller than it actually is. Most companies underestimate their Pipeline and do not take it fully into account when determining how much orders to send out.";
-    rdfs:seeAlso "Pipeline";
     ex:status "draft";
     dcterms:created "2024-11-20"^^xsd:date;
     dcterms:modified "2024-11-20T10:00:00.000Z"^^xsd:dateTime.
