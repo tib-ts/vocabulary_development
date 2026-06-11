@@ -15,10 +15,10 @@
 <https://example.com#ac8ec0bb-4558-4b19-81b0-c848f4a048fb> rdf:type rdfs:Resource;
     dcterms:identifier "ac8ec0bb-4558-4b19-81b0-c848f4a048fb";
     rdfs:label "True Demand";
-    dcterms:description "True Demand is the incoming demand at the semiconductor manufacturer, without deliberate, conscious behavioral distortions such as shortage gaming, speculative inventory buildup and the effects of independent forecast updating.\"";
+    dcterms:description "True demand refers to the actual end market need for a product. True demand is independent of any distortions caused by safety stocks, ordering behavior, or supply constraints traversing the supply chain. In constrained situations, customer orders are not a good indicator of true demand. Instead, demand visibility efforts aim to reconstruct or approximate true demand to support better planning and long-term capacity decisions.";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:58:46.180Z"^^xsd:dateTime.
+    dcterms:modified "2026-06-11T08:48:00.720Z"^^xsd:dateTime.
 <https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
     dcterms:identifier "f47de173-cd8e-48c7-8d39-906648d3aef2";
     rdfs:label "Desired Inventory Coverage ";
