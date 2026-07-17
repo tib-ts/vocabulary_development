@@ -713,7 +713,20 @@
   },
   {
     "resourceId": "4c628f7c-9cb3-419d-92d2-46be565301d1",
-    "comments": []
+    "comments": [
+      {
+        "id": "dlbtwjh5l",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "@Mark testing\n",
+        "timestamp": "2026-07-17T14:41:49.904Z",
+        "mentionedUsers": [
+          "Mark"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   },
   {
     "resourceId": "dd1eb576-d83b-4d0d-ac05-d8d09d0e1264",
