@@ -2369,15 +2369,15 @@
         "mentionedUsers": [
           "System ADMIN"
         ],
-        "votes": 0,
-        "userVote": null
+        "votes": 1,
+        "userVote": "up"
       },
       {
-        "id": "o1bqj8vli",
+        "id": "ivpbv08kq",
         "parentId": "ovr1nfyjx",
         "author": "System ADMIN",
-        "content": "@Mark okay it's actually good ",
-        "timestamp": "2026-07-17T10:23:58.066Z",
+        "content": "@Mark I have no issues with fonts ",
+        "timestamp": "2026-07-17T10:29:13.816Z",
         "mentionedUsers": [
           "Mark"
         ],
