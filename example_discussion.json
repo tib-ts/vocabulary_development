@@ -2369,8 +2369,8 @@
         "mentionedUsers": [
           "System ADMIN"
         ],
-        "votes": 1,
-        "userVote": "up"
+        "votes": -1,
+        "userVote": "down"
       },
       {
         "id": "ivpbv08kq",
