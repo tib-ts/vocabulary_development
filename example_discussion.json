@@ -2369,8 +2369,20 @@
         "mentionedUsers": [
           "System ADMIN"
         ],
-        "votes": 1,
-        "userVote": "up"
+        "votes": 0,
+        "userVote": null
+      },
+      {
+        "id": "o1bqj8vli",
+        "parentId": "ovr1nfyjx",
+        "author": "System ADMIN",
+        "content": "@Mark okay it's actually good ",
+        "timestamp": "2026-07-17T10:23:58.066Z",
+        "mentionedUsers": [
+          "Mark"
+        ],
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
