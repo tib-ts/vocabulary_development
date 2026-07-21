@@ -734,6 +734,15 @@
         "timestamp": "2026-07-17T14:42:00.976Z",
         "votes": 1,
         "userVote": "up"
+      },
+      {
+        "id": "8pjy35a0n",
+        "parentId": "dlbtwjh5l",
+        "author": "System ADMIN",
+        "content": "new comment",
+        "timestamp": "2026-07-21T12:00:29.942Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
