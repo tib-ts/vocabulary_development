@@ -763,7 +763,12 @@
         "content": "BINNING refers to the process of testing and categorizing parts against defined measures and sort them into different bins (Degbotse 2013). Each bin belongs to certain levels of defined measures (e.g. chip speed, current, voltage, energy consumption). Binning is often combined with SUBSTITUTION - final",
         "timestamp": "2026-07-29T09:31:05.496Z",
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "reactions": {
+          "thumbs_up": [
+            "System ADMIN"
+          ]
+        }
       }
     ]
   },
