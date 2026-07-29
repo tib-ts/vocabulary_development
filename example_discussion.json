@@ -724,7 +724,12 @@
           "Mark"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "reactions": {
+          "thumbs_up": [
+            "System ADMIN"
+          ]
+        }
       },
       {
         "id": "f1khu2gze",
