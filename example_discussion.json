@@ -726,9 +726,7 @@
         "votes": 0,
         "userVote": null,
         "reactions": {
-          "thumbs_up": [
-            "Mark"
-          ],
+          "thumbs_up": [],
           "smile": [
             "System ADMIN"
           ]
