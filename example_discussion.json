@@ -732,7 +732,11 @@
             "Mark"
           ]
         },
-        "status": null
+        "status": {
+          "open": {
+            "userDisplayName": "System ADMIN"
+          }
+        }
       },
       {
         "id": "f1khu2gze",
