@@ -754,7 +754,8 @@
         "content": "new comment",
         "timestamp": "2026-07-21T12:00:29.942Z",
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "status": "open"
       },
       {
         "id": "ksmtjbywi",
