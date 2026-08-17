@@ -2654,8 +2654,8 @@
         "author": "System ADMIN",
         "content": "test reply",
         "timestamp": "2026-08-17T10:22:05.284Z",
-        "votes": 0,
-        "userVote": null
+        "votes": -1,
+        "userVote": "down"
       }
     ]
   },
