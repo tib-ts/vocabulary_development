@@ -2658,7 +2658,8 @@
         "userVote": null,
         "reactions": {
           "thumbs_down": []
-        }
+        },
+        "status": "resolved"
       }
     ]
   },
