@@ -363,7 +363,17 @@
   },
   {
     "resourceId": "d8c79103-75d0-45f9-a26c-cc2edb6bceb6",
-    "comments": []
+    "comments": [
+      {
+        "id": "kfr761zaj",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "Demand Endmarket ",
+        "timestamp": "2026-08-28T13:12:15.002Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   },
   {
     "resourceId": "fb798594-491b-4f4c-b49b-f1bef968daf5",
