@@ -2239,6 +2239,15 @@
         "author": "Infineon Admin",
         "content": "The AATP (Allocated Available To Promise) is this part of the ATP (Available To Promise) which is already located to a certain customer(group) or a region.",
         "timestamp": "2026-01-21T16:18:15.665Z"
+      },
+      {
+        "id": "g85sb8ti5",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "new comment",
+        "timestamp": "2026-08-31T08:10:14.984Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
