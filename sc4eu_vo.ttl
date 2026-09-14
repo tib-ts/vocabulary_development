@@ -139,14 +139,6 @@
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2025-09-02T12:50:55.790Z"^^xsd:dateTime.
-<https://example.com#8be0ebc9-cbee-4ebd-9a54-feb7366b65dc> rdf:type rdfs:Resource;
-    dcterms:identifier "8be0ebc9-cbee-4ebd-9a54-feb7366b65dc";
-    rdfs:label "Base Wafers";
-    dcterms:description "Not defined yet";
-    rdfs:seeAlso "N/A";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-09-06T08:09:23.434Z"^^xsd:dateTime.
 <https://example.com#abeb6a5c-cc98-4921-a42e-f90b6d6f9533> rdf:type rdfs:Resource;
     dcterms:identifier "abeb6a5c-cc98-4921-a42e-f90b6d6f9533";
     rdfs:label "Chip";
@@ -295,15 +287,6 @@
     skos:altLabel "_DR pl";
     dcterms:description "FROZEN FENCE is used to set a frozen interval  in which decision making is not allowed to change the previously determined values.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Frozen_Fence";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
-<https://example.com#3ac22854-9d82-4a5d-a593-a6042a3c35e9> rdf:type rdfs:Resource;
-    dcterms:identifier "3ac22854-9d82-4a5d-a593-a6042a3c35e9";
-    rdfs:label "Decison Making Unit Character";
-    skos:altLabel "_DR pl";
-    dcterms:description "In an ANTAGO¬NISTIC SETTING, the different DECISION-MAKING UNITS try to meet their own objectives which are in conflict. In a non-antagonistic setting, the DECISION-MAKING UNITS do not exploit their private knowledge in an opportunistic way.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Decison_Making_Unit_Character";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
     dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
