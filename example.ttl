@@ -46,11 +46,12 @@
 <https://example.com#a601e751-d6a2-472b-92d6-c33d16b4aa8e> rdf:type rdfs:Resource;
     dcterms:identifier "a601e751-d6a2-472b-92d6-c33d16b4aa8e";
     rdfs:label "Stock Depth";
-    skos:altLabel "SD";
+    skos:altLabel "SD", "HD";
     dcterms:description "The sum of Desired Inventory Coverage of all the tiers between a company and its End Market. It is measured in time units.";
+    rdfs:seeAlso "k";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2026-09-17T11:48:40.595Z"^^xsd:dateTime.
+    dcterms:modified "2026-09-17T11:56:16.837Z"^^xsd:dateTime.
 <https://example.com#f47de173-cd8e-48c7-8d39-906648d3aef2> rdf:type rdfs:Resource;
     dcterms:identifier "f47de173-cd8e-48c7-8d39-906648d3aef2";
     rdfs:label "Desired Inventory Coverage ";
