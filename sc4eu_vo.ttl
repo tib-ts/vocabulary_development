@@ -717,12 +717,11 @@
 <https://example.com#74d20cab-563a-4e9a-882b-a08c3bda856b> rdf:type rdfs:Resource;
     dcterms:identifier "74d20cab-563a-4e9a-882b-a08c3bda856b";
     rdfs:label "Supply Chain";
-    skos:altLabel "_DR sc (1)";
-    dcterms:description "Not Available";
+    dcterms:description "A supply chain is the network of organizations, resources, activities, and technologies involved in the production and delivery of a product from raw materials to the final customer. Supply chain management issues have become increasingly important to the semiconductor industry due to the global distribution of facilities and increasing numbers of firms specialising in particular stages.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Supply_Chain";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2025-06-23T11:09:30.563Z"^^xsd:dateTime.
+    dcterms:modified "2026-09-17T12:18:04.667Z"^^xsd:dateTime.
 <https://example.com#d3da1b03-7392-4203-be3d-3a3173e6857e> rdf:type rdfs:Resource;
     dcterms:identifier "d3da1b03-7392-4203-be3d-3a3173e6857e";
     rdfs:label "User Action";
