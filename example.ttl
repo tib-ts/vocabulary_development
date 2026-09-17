@@ -22,12 +22,12 @@
     dcterms:modified "2024-08-26T13:53:21.238Z"^^xsd:dateTime.
 <https://example.com#8abc6005-c0c0-4c35-869a-77b75750aa48> rdf:type rdfs:Resource;
     dcterms:identifier "8abc6005-c0c0-4c35-869a-77b75750aa48";
-    rdfs:label "Sales and Marketing Forecast ";
+    rdfs:label "Sales and Marketing Forecast 1";
     skos:altLabel "Unconstrained demand";
     dcterms:description "(Expectation of what a company thinks they would be able to sell) based on orders, past billings and more";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2024-08-01T10:00:00.000Z"^^xsd:dateTime.
+    dcterms:modified "2026-09-17T11:40:12.493Z"^^xsd:dateTime.
 <https://example.com#07ecb673-52a9-4415-8b08-9c59690c29d0> rdf:type rdfs:Resource;
     dcterms:identifier "07ecb673-52a9-4415-8b08-9c59690c29d0";
     rdfs:label "Inventory Reach";
