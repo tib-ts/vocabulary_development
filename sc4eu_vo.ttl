@@ -433,12 +433,11 @@
 <https://example.com#169f110a-5452-4540-a221-aa31ac5c4f93> rdf:type rdfs:Resource;
     dcterms:identifier "169f110a-5452-4540-a221-aa31ac5c4f93";
     rdfs:label "Contact Person Data";
-    skos:altLabel "_DR sc";
-    dcterms:description "Not Available";
+    dcterms:description "Refers to the detailed information (name, role, email, phone) of a person responsible for handling specific transactions or communications in the supply chain process.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Contact_Person_Data";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:37:49.779Z"^^xsd:dateTime.
+    dcterms:modified "2026-09-23T13:52:54.378Z"^^xsd:dateTime.
 <https://example.com#b06c0614-d923-44c2-8130-fbafe16e6871> rdf:type rdfs:Resource;
     dcterms:identifier "b06c0614-d923-44c2-8130-fbafe16e6871";
     rdfs:label "Customer Data";
