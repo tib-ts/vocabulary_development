@@ -690,12 +690,11 @@
 <https://example.com#4da75d3b-5cab-46a0-a07d-c9a62cfcf6ae> rdf:type rdfs:Resource;
     dcterms:identifier "4da75d3b-5cab-46a0-a07d-c9a62cfcf6ae";
     rdfs:label "Demand Snapshot";
-    skos:altLabel "_DR sc";
-    dcterms:description "Not Available";
+    dcterms:description "A demand snapshot is a fixed capture of demand data at a given point in time. It allows comparison over time or alignment between supply and demand planning cycles.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Demand_Snapshot";
     ex:status "draft";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2025-06-23T10:49:49.145Z"^^xsd:dateTime.
+    dcterms:modified "2026-09-23T06:27:35.867Z"^^xsd:dateTime.
 <https://example.com#98e1dada-debf-4b11-9870-f4a00d028d73> rdf:type rdfs:Resource;
     dcterms:identifier "98e1dada-debf-4b11-9870-f4a00d028d73";
     rdfs:label "Open Order Book";
