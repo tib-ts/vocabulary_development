@@ -3015,32 +3015,5 @@
         "userVote": null
       }
     ]
-  },
-  {
-    "resourceId": "678b4378-9b0d-4d72-8027-2feefd608c65",
-    "comments": []
-  },
-  {
-    "resourceId": "f9211e7d-4a16-456b-9c25-55956e6c55f5",
-    "comments": [
-      {
-        "id": "djod2c56u",
-        "parentId": null,
-        "author": "System ADMIN",
-        "content": "@have added new term, not saved yet though",
-        "timestamp": "2026-10-08T11:13:18.981Z",
-        "votes": 0,
-        "userVote": null
-      },
-      {
-        "id": "86u64jfl7",
-        "parentId": "djod2c56u",
-        "author": "System ADMIN",
-        "content": "reply to my own comment of unsaved weather term",
-        "timestamp": "2026-10-08T11:13:35.001Z",
-        "votes": 0,
-        "userVote": null
-      }
-    ]
   }
 ]
