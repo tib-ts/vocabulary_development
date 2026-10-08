@@ -3001,5 +3001,19 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "178434db-ad67-4f88-a293-d571e3ba9268",
+    "comments": [
+      {
+        "id": "20apwgk7g",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "more technical details",
+        "timestamp": "2026-10-08T10:57:55.525Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
