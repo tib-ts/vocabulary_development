@@ -3031,6 +3031,15 @@
         "timestamp": "2026-10-08T11:13:18.981Z",
         "votes": 0,
         "userVote": null
+      },
+      {
+        "id": "86u64jfl7",
+        "parentId": "djod2c56u",
+        "author": "System ADMIN",
+        "content": "reply to my own comment of unsaved weather term",
+        "timestamp": "2026-10-08T11:13:35.001Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   }
