@@ -611,7 +611,7 @@
     dcterms:identifier "0668f213-be24-471a-8d85-ced08ac329d7";
     rdfs:label "Capacity";
     skos:altLabel "_DR pl";
-    dcterms:description "Additional lobe: Semiconductor Production";
+    dcterms:description "CAPACITY with respect to the Domain Semiconductor and Supply Chains Containing Semiconductor is the maximum number of products or a group of products a machine or a group of machines can produce. As soon as a machine has free capacity: 1. all lots which belongs to a priority class have to be dispatched immediately according to their priority rank.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-Planning%23Capacity";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date;
