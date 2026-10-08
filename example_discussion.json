@@ -1053,6 +1053,18 @@
         "mentionedUsers": [
           "Hans Ehm"
         ]
+      },
+      {
+        "id": "qfnkz0jkp",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "@System ADMIN check new mention",
+        "timestamp": "2026-10-08T14:12:58.749Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ],
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
