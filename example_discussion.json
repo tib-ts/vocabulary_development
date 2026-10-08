@@ -3015,5 +3015,19 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "3fc4866f-04ee-4b8c-b2ff-8202fc69954c",
+    "comments": [
+      {
+        "id": "qskc7zqtu",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "new comment in test term",
+        "timestamp": "2026-10-08T11:33:45.827Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
