@@ -894,9 +894,7 @@
         "id": "xid20px3m",
         "author": "Claude Yugma",
         "content": "A chip is a small piece of semiconducting material on which an integrated circuit is embedded. Also known as a die.",
-        "timestamp": "2025-06-23T10:36:42.210Z",
-        "votes": 2,
-        "userVote": "up"
+        "timestamp": "2025-06-23T10:36:42.210Z"
       },
       {
         "id": "v5p4dm4lx",
@@ -913,6 +911,18 @@
         "author": "Robert",
         "content": "I like Claude's. The shape is irrelevant. ",
         "timestamp": "2026-01-28T13:56:42.874Z"
+      },
+      {
+        "id": "jpmiv9e0n",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "I replaced previous definition by the one provided by @Claude Yugma ",
+        "timestamp": "2026-10-12T12:35:45.397Z",
+        "mentionedUsers": [
+          "Claude Yugma"
+        ],
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
