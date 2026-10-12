@@ -143,11 +143,11 @@
     dcterms:identifier "abeb6a5c-cc98-4921-a42e-f90b6d6f9533";
     rdfs:label "Chip";
     skos:altLabel "Die";
-    dcterms:description "A single square or rectangular piece of semiconductor material into which a specific electrical circuit has been fabricated. Plural: dice. Also called a chip.";
+    dcterms:description "A chip is a small piece of semiconducting material on which an integrated circuit is embedded. Also known as a die";
     rdfs:seeAlso "https://secure.thresholdsystems.com/KnowledgeCenter/Glossary.aspx";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:36:42.210Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-12T12:35:13.741Z"^^xsd:dateTime.
 <https://example.com#e655023c-d74f-410a-92f8-8d600cd72d96> rdf:type rdfs:Resource;
     dcterms:identifier "e655023c-d74f-410a-92f8-8d600cd72d96";
     rdfs:label "Die Bank";
