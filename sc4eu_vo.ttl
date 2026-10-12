@@ -100,10 +100,11 @@
     dcterms:identifier "e73367f5-3971-4e94-8f95-6ce4aff94578";
     rdfs:label "Fab";
     skos:altLabel "Fabrication plant; Frontend";
+    dcterms:description "A fab (short for fabrication plant) is a manufacturing facility where semiconductor wafers (discs containing integrated circuits) are produced.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-09-03T08:54:08.631Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-12T12:39:14.585Z"^^xsd:dateTime.
 <https://example.com#0c8d7d97-2f0c-489e-9820-ee8647850254> rdf:type rdfs:Resource;
     dcterms:identifier "0c8d7d97-2f0c-489e-9820-ee8647850254";
     rdfs:label "Front End";
