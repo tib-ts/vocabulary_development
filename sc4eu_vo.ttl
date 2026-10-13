@@ -445,9 +445,9 @@
     skos:altLabel "_DR sc";
     dcterms:description "CUSTOMER DATA includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Customer_Data";
-    ex:status "draft";
+    ex:status "accept";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:42:36.525Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-13T06:28:58.306Z"^^xsd:dateTime.
 <https://example.com#641e8ab9-516d-4a29-b6f5-efd07781d59a> rdf:type rdfs:Resource;
     dcterms:identifier "641e8ab9-516d-4a29-b6f5-efd07781d59a";
     rdfs:label "Customer Plant";
