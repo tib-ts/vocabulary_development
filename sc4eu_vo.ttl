@@ -666,9 +666,9 @@
     rdfs:label "Demand";
     dcterms:description "Demand represents the quantity of products requested by customers.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand";
-    ex:status "draft";
+    ex:status "accept";
     dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2025-11-25T11:51:07.729Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-28T10:00:08.491Z"^^xsd:dateTime.
 <https://example.com#95dbd732-5afc-4add-b6cd-620f0e301286> rdf:type rdfs:Resource;
     dcterms:identifier "95dbd732-5afc-4add-b6cd-620f0e301286";
     rdfs:label "Demand Class";
