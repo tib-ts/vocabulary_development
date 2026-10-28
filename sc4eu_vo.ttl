@@ -9,9 +9,9 @@
     dcterms:identifier "e3247433-b0b9-48e5-9f10-0003c8ef1cc7";
     rdfs:label "Past Demand";
     dcterms:description "Past demand is the historical record of quantities of a product or service that customers requested or purchased over prior time periods, used as the basis for forecasting and planning";
-    ex:status "draft";
+    ex:status "accept";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-11-25T11:53:34.905Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-28T07:13:06.539Z"^^xsd:dateTime.
 <https://example.com#ac8ec0bb-4558-4b19-81b0-c848f4a048fb> rdf:type rdfs:Resource;
     dcterms:identifier "ac8ec0bb-4558-4b19-81b0-c848f4a048fb";
     rdfs:label "True Demand";
