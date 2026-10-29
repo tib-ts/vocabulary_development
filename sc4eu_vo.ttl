@@ -425,12 +425,11 @@
 <https://example.com#7f3329e8-301e-43f1-b5ba-43c4aee22ddd> rdf:type rdfs:Resource;
     dcterms:identifier "7f3329e8-301e-43f1-b5ba-43c4aee22ddd";
     rdfs:label "Allocation";
-    skos:altLabel "_DR sc";
-    dcterms:description "Allocation is a process used in order management in times when demand exceeds available supply.";
+    dcterms:description "Allocation refers to the process of assigning available supply to customer orders, especially when demand exceeds supply. It is often governed by predefined rules or priorities to manage shortages effectively.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-OM%23Allocation";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date;
-    dcterms:modified "2025-06-23T10:30:00.405Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-29T06:39:34.362Z"^^xsd:dateTime.
 <https://example.com#169f110a-5452-4540-a221-aa31ac5c4f93> rdf:type rdfs:Resource;
     dcterms:identifier "169f110a-5452-4540-a221-aa31ac5c4f93";
     rdfs:label "Contact Person Data";
