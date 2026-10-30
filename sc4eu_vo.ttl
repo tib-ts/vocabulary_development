@@ -601,12 +601,11 @@
 <https://example.com#7890d77b-1e10-4c81-888a-0622259f7ac8> rdf:type rdfs:Resource;
     dcterms:identifier "7890d77b-1e10-4c81-888a-0622259f7ac8";
     rdfs:label "Available To Promise";
-    skos:altLabel "_DR pl";
     dcterms:description "Available to promise is a business function that provides a response to customer order inquiries, based on resource availability. It generates available quantities of the requested product, and delivery due dates.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-SCP%23Available_To_Promise";
     ex:status "draft";
     dcterms:created "2024-10-04"^^xsd:date;
-    dcterms:modified "2025-06-23T10:31:26.136Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-30T08:37:49.261Z"^^xsd:dateTime.
 <https://example.com#0668f213-be24-471a-8d85-ced08ac329d7> rdf:type rdfs:Resource;
     dcterms:identifier "0668f213-be24-471a-8d85-ced08ac329d7";
     rdfs:label "Capacity";
