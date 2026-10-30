@@ -770,3 +770,10 @@
     ex:status "draft";
     dcterms:created "2025-10-08"^^xsd:date;
     dcterms:modified "2025-10-08T12:30:35.303Z"^^xsd:dateTime.
+<https://example.com#17cf55dc-a953-4ca8-ab60-4890f083347b> rdf:type rdfs:Resource;
+    dcterms:identifier "17cf55dc-a953-4ca8-ab60-4890f083347b";
+    rdfs:label "Capable-to-Promise";
+    dcterms:description "Capable-to-Promise (CTP) is a supply chain function that determines whether and when a customer order can be fulfilled by considering available production capacity, resources, materials, and manufacturing constraints.";
+    ex:status "draft";
+    dcterms:created "2026-10-30"^^xsd:date;
+    dcterms:modified "2026-10-30T08:43:07.565Z"^^xsd:dateTime.
