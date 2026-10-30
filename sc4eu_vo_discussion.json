@@ -2533,17 +2533,6 @@
     "comments": []
   },
   {
-    "resourceId": "95dbd732-5afc-4add-b6cd-620f0e301286",
-    "comments": [
-      {
-        "id": "4fae8fy7v",
-        "author": "Infineon Admin",
-        "content": "The DEMAND CLASS is dividing the demand into priority classes.",
-        "timestamp": "2026-01-21T12:44:23.526Z"
-      }
-    ]
-  },
-  {
     "resourceId": "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4",
     "comments": [
       {
@@ -2998,6 +2987,20 @@
         "author": "System ADMIN",
         "content": "Safe for delete +",
         "timestamp": "2026-03-13T09:20:15.276Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "17cf55dc-a953-4ca8-ab60-4890f083347b",
+    "comments": [
+      {
+        "id": "ocoaix873",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "While Available-To-Promise (ATP) considers available inventory and planned supply, Capable-to-Promise (CTP) additionally considers production capacity and resource constraints to determine whether and when a customer order can be fulfilled, including through additional production.\n\nKey distinction:\n- ATP: What quantity can we promise based on available and planned supply?\n- CTP: What quantity and delivery date can we promise considering production capabilities and constraints?\n\nWhat do you think?",
+        "timestamp": "2026-10-30T08:45:58.024Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   }
