@@ -2261,6 +2261,15 @@
         "author": "Infineon Admin",
         "content": "ATP (Available to promise) is todays and future (weeks) Availability of products for demand fulfillment and order promising.",
         "timestamp": "2026-01-21T16:30:15.070Z"
+      },
+      {
+        "id": "wfnff2d7e",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "Based on the discussion I suggest the following: \"is a business function in supply chain management that determines the quantities of a product that can be committed to new customer orders and their expected delivery dates, based on current and projected inventory, planned production, and existing commitments. It provides an overview of current and future product availability to support demand fulfilment and reliable order promising without overcommitting resources.\"",
+        "timestamp": "2026-10-30T08:36:22.331Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
