@@ -667,15 +667,6 @@
     ex:status "accept";
     dcterms:created "2024-10-18"^^xsd:date;
     dcterms:modified "2026-10-28T10:00:08.491Z"^^xsd:dateTime.
-<https://example.com#95dbd732-5afc-4add-b6cd-620f0e301286> rdf:type rdfs:Resource;
-    dcterms:identifier "95dbd732-5afc-4add-b6cd-620f0e301286";
-    rdfs:label "Demand Class";
-    skos:altLabel "_DR sc";
-    dcterms:description "This concept is used for dividing the total forecast for a given product into several priority classes.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-DF%23Demand_Class";
-    ex:status "draft";
-    dcterms:created "2024-10-18"^^xsd:date;
-    dcterms:modified "2024-10-18T10:00:00.000Z"^^xsd:dateTime.
 <https://example.com#66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4> rdf:type rdfs:Resource;
     dcterms:identifier "66a54f5f-b44b-4b99-a3c4-28ee8bf3f7d4";
     rdfs:label "Demand Fulfillement";
