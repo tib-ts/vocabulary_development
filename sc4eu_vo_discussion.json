@@ -2997,7 +2997,7 @@
         "id": "ocoaix873",
         "parentId": null,
         "author": "System ADMIN",
-        "content": "While Available-To-Promise (ATP) considers available inventory and planned supply, Capable-to-Promise (CTP) additionally considers production capacity and resource constraints to determine whether and when a customer order can be fulfilled, including through additional production.\n\nKey distinction:\n- ATP: What quantity can we promise based on available and planned supply?\n- CTP: What quantity and delivery date can we promise considering production capabilities and constraints?\n\nWhat do you think?",
+        "content": "While **Available-To-Promise (ATP)** considers available inventory and planned supply, Capable-to-Promise (CTP) additionally considers production capacity and resource constraints to determine whether and when a customer order can be fulfilled, including through additional production.\n\nKey distinction:\n- ATP: What quantity can we promise based on available and planned supply?\n- CTP: What quantity and delivery date can we promise considering production capabilities and constraints?\n\nWhat do you think?",
         "timestamp": "2026-10-30T08:45:58.024Z",
         "votes": 0,
         "userVote": null
