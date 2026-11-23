@@ -805,11 +805,12 @@
 <https://example.com#d2e5aab2-3a61-466b-a949-b281d4953cdc> rdf:type rdfs:Resource;
     dcterms:identifier "d2e5aab2-3a61-466b-a949-b281d4953cdc";
     rdfs:label "GPU (Graphics Processing Unit)";
+    skos:altLabel "Videocard";
     dcterms:description "A graphics processing unit (graphical processing unit, GPU) is an electronic circuit designed to speed computer graphics and image processing on various devices. These devices include video cards, system boards, mobile phones and personal computers (PCs).  By performing mathematical calculations rapidly, a GPU reduces the time needed for a computer to run multiple programs. This makes it an essential enabler of emerging and future technologies such as machine learning (ML), artificial intelligence (AI) and blockchain.";
     rdfs:seeAlso "https://www.ibm.com/think/topics/gpu";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:21:22.427Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:31:19.602Z"^^xsd:dateTime.
 <https://example.com#4a7d9c34-5263-4b6e-b500-0ee028c01392> rdf:type rdfs:Resource;
     dcterms:identifier "4a7d9c34-5263-4b6e-b500-0ee028c01392";
     rdfs:label "CPU (Central Processing Unit)";
