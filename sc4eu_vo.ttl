@@ -845,3 +845,11 @@
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
     dcterms:modified "2026-11-23T16:36:01.342Z"^^xsd:dateTime.
+<https://example.com#bde43fb1-071f-48b6-b015-a0ba9e76f879> rdf:type rdfs:Resource;
+    dcterms:identifier "bde43fb1-071f-48b6-b015-a0ba9e76f879";
+    rdfs:label "artificial intelligence";
+    dcterms:description "Artificial Intelligence (AI) is a sub-discipline of Computer Science that focuses on creating systems capable of performing tasks that require human-like intelligence, such as learning, reasoning, and problem-solving.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/cto/terms?iri=https%3A%2F%2Fnfdi.fiz-karlsruhe.de%2Fontology%2FNFDI_0001063";
+    ex:status "draft";
+    dcterms:created "2026-11-23"^^xsd:date;
+    dcterms:modified "2026-11-23T16:37:44.335Z"^^xsd:dateTime.
