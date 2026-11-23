@@ -794,3 +794,10 @@
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
     dcterms:modified "2026-11-23T16:14:59.708Z"^^xsd:dateTime.
+<https://example.com#beb0e2b6-1440-4933-b287-a9a2f8f9a364> rdf:type rdfs:Resource;
+    dcterms:identifier "beb0e2b6-1440-4933-b287-a9a2f8f9a364";
+    rdfs:label "Neocloud";
+    dcterms:description "Specialized cloud infrastructure providers dedicated to AI workloads. By leveraging high-performance hardware compute accelerators—primarily GPUs—these providers support the diverse and demanding AI application needs of any organization, including enterprises, model builders, and hyperscalers. Neocloud platforms accommodate the entire AI lifecycle, from large-scale training and fine-tuning to inference, offering flexible consumption models such as on-demand access, reserved instances, and platform-as-a-service. ";
+    ex:status "draft";
+    dcterms:created "2026-11-23"^^xsd:date;
+    dcterms:modified "2026-11-23T16:18:49.971Z"^^xsd:dateTime.
