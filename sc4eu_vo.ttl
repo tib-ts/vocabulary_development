@@ -782,10 +782,10 @@
     rdfs:label "Hyperscaler";
     skos:altLabel "Hyperscale Data Center";
     dcterms:description "Large-scale distributed computing center that supports high volume data processing, computing, storage services. Such data center must utilize at least 5 000 servers and 900 square meters of floor space to be classified as hyperscale,";
-    rdfs:seeAlso "https://www.redhat.com/en/topics/cloud-computing/what-is-a-hyperscaler";
+    rdfs:seeAlso "url:https://www.redhat.com/en/topics/cloud-computing/what-is-a-hyperscaler";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T15:41:15.334Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:39:25.327Z"^^xsd:dateTime.
 <https://example.com#9965c22c-9594-4138-ac95-0c7bb8febd1d> rdf:type rdfs:Resource;
     dcterms:identifier "9965c22c-9594-4138-ac95-0c7bb8febd1d";
     rdfs:label "Compute";
