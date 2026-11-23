@@ -842,10 +842,10 @@
     rdfs:label "LLM";
     skos:altLabel "Large language model";
     dcterms:description "  Large language models (LLMs) are a category of deep learning models trained on immense amounts of data, making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks. LLMs are built on a type of neural network architecture called a transformer which excels at handling sequences of words and capturing patterns in text.  LLMs work as giant statistical prediction machines that repeatedly predict the next word in a sequence. They learn patterns in their text and generate language that follows those patterns.";
-    rdfs:seeAlso "https://www.ibm.com/think/topics/large-language-models";
+    rdfs:seeAlso "url:https://www.ibm.com/think/topics/large-language-models";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:36:01.342Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:42:23.864Z"^^xsd:dateTime.
 <https://example.com#bde43fb1-071f-48b6-b015-a0ba9e76f879> rdf:type rdfs:Resource;
     dcterms:identifier "bde43fb1-071f-48b6-b015-a0ba9e76f879";
     rdfs:label "Artificial Intelligence";
