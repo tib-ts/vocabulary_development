@@ -827,3 +827,12 @@
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
     dcterms:modified "2026-11-23T16:29:00.027Z"^^xsd:dateTime.
+<https://example.com#8fc48d85-89a5-44cf-838c-caa42ef290a8> rdf:type rdfs:Resource;
+    dcterms:identifier "8fc48d85-89a5-44cf-838c-caa42ef290a8";
+    rdfs:label "CUDA";
+    skos:altLabel "Compute Unified Device Architecture";
+    dcterms:description "Proprietary parallel computing platform and application programming interface (API) developed by Nvidia that allows software to use certain types of graphics processing units (GPUs) for accelerated general-purpose processing, significantly broadening their utility in artificial intelligence, scientific and high-performance computing.";
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/CUDA";
+    ex:status "draft";
+    dcterms:created "2026-11-23"^^xsd:date;
+    dcterms:modified "2026-11-23T16:32:07.104Z"^^xsd:dateTime.
