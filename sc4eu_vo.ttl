@@ -798,19 +798,19 @@
     dcterms:identifier "beb0e2b6-1440-4933-b287-a9a2f8f9a364";
     rdfs:label "Neocloud";
     dcterms:description "Specialized cloud infrastructure providers dedicated to AI workloads. By leveraging high-performance hardware compute accelerators—primarily GPUs—these providers support the diverse and demanding AI application needs of any organization, including enterprises, model builders, and hyperscalers. Neocloud platforms accommodate the entire AI lifecycle, from large-scale training and fine-tuning to inference, offering flexible consumption models such as on-demand access, reserved instances, and platform-as-a-service. ";
-    rdfs:seeAlso "url:https://www.cisco.com/site/us/en/learn/topics/computing/what-is-neocloud.html";
+    rdfs:seeAlso "https://www.cisco.com/site/us/en/learn/topics/computing/what-is-neocloud.html";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:40:21.708Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:21:01.730Z"^^xsd:dateTime.
 <https://example.com#d2e5aab2-3a61-466b-a949-b281d4953cdc> rdf:type rdfs:Resource;
     dcterms:identifier "d2e5aab2-3a61-466b-a949-b281d4953cdc";
     rdfs:label "GPU (Graphics Processing Unit)";
     skos:altLabel "Videocard";
     dcterms:description "A graphics processing unit (graphical processing unit, GPU) is an electronic circuit designed to speed computer graphics and image processing on various devices. These devices include video cards, system boards, mobile phones and personal computers (PCs).  By performing mathematical calculations rapidly, a GPU reduces the time needed for a computer to run multiple programs. This makes it an essential enabler of emerging and future technologies such as machine learning (ML), artificial intelligence (AI) and blockchain.";
-    rdfs:seeAlso "https://www.ibm.com/think/topics/gpu";
+    rdfs:seeAlso "url:https://www.ibm.com/think/topics/gpu";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:31:19.602Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:40:42.132Z"^^xsd:dateTime.
 <https://example.com#4a7d9c34-5263-4b6e-b500-0ee028c01392> rdf:type rdfs:Resource;
     dcterms:identifier "4a7d9c34-5263-4b6e-b500-0ee028c01392";
     rdfs:label "CPU (Central Processing Unit)";
