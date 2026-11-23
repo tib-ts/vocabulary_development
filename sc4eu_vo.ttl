@@ -790,10 +790,10 @@
     dcterms:identifier "9965c22c-9594-4138-ac95-0c7bb8febd1d";
     rdfs:label "Compute";
     dcterms:description "Processing capability that allows systems to run applications, perform calculations, analyze data and execute workloads. Compute can run on servers, virtual machines, containers, cloud instances, edge devices, supercomputers, and specialized hardware like GPUs.";
-    rdfs:seeAlso "https://www.hpe.com/us/en/what-is/compute.html";
+    rdfs:seeAlso "url:https://www.hpe.com/us/en/what-is/compute.html";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:14:59.708Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:40:02.383Z"^^xsd:dateTime.
 <https://example.com#beb0e2b6-1440-4933-b287-a9a2f8f9a364> rdf:type rdfs:Resource;
     dcterms:identifier "beb0e2b6-1440-4933-b287-a9a2f8f9a364";
     rdfs:label "Neocloud";
