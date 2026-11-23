@@ -810,3 +810,11 @@
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
     dcterms:modified "2026-11-23T16:21:22.427Z"^^xsd:dateTime.
+<https://example.com#4a7d9c34-5263-4b6e-b500-0ee028c01392> rdf:type rdfs:Resource;
+    dcterms:identifier "4a7d9c34-5263-4b6e-b500-0ee028c01392";
+    rdfs:label "CPU (Central Processing Unit)";
+    dcterms:description "A central processing unit (CPU) is the primary functional component of a computer. The CPU is an assembly of electronic circuits that run a computer’s operating system and apps and manage a variety of other computer operations.. It consists of a control unit, an arithmetic/logic unit, a register where the output of operations is temporarily stored, an interface with storage units, and input/output interfaces with peripherals.";
+    rdfs:seeAlso "https://www.ibm.com/think/topics/central-processing-unit";
+    ex:status "draft";
+    dcterms:created "2026-11-23"^^xsd:date;
+    dcterms:modified "2026-11-23T16:24:21.702Z"^^xsd:dateTime.
