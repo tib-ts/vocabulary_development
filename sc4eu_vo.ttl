@@ -821,12 +821,13 @@
     dcterms:modified "2026-11-23T16:41:10.449Z"^^xsd:dateTime.
 <https://example.com#ba627986-6080-43e9-8fa6-15070ad27659> rdf:type rdfs:Resource;
     dcterms:identifier "ba627986-6080-43e9-8fa6-15070ad27659";
-    rdfs:label "API (Application Programming Interface)";
+    rdfs:label "API";
+    skos:altLabel "Application Programming Interface";
     dcterms:description "An application programming interface (API) is a contract that enables software to access data or invoke functionality exposed by other software.    APIs expose only the data and functionality needed for a specific interaction, keeping other internal implementation details hidden. This abstraction protects system integrity and simplifies how software components communicate.";
-    rdfs:seeAlso "https://www.ibm.com/think/topics/api";
+    rdfs:seeAlso "url:https://www.ibm.com/think/topics/api";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:29:00.027Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-23T16:41:48.545Z"^^xsd:dateTime.
 <https://example.com#8fc48d85-89a5-44cf-838c-caa42ef290a8> rdf:type rdfs:Resource;
     dcterms:identifier "8fc48d85-89a5-44cf-838c-caa42ef290a8";
     rdfs:label "CUDA";
