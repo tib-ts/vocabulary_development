@@ -3045,5 +3045,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "d2e5aab2-3a61-466b-a949-b281d4953cdc",
+    "comments": [
+      {
+        "id": "7i2poe2lc",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": ">Derived from **IBM**  \n  \nSource was selected for their thorough description of all GPU aspects. Especially useful are modern use cases as well as different types of GPUs ",
+        "timestamp": "2026-11-24T11:26:23.895Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
