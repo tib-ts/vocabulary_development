@@ -3115,5 +3115,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "bde43fb1-071f-48b6-b015-a0ba9e76f879",
+    "comments": [
+      {
+        "id": "mwnr02vbn",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Added as existing term from TIB Terminology Service, source: [NFDI4Culture Ontology](https://terminology.tib.eu/ts/ontologies/cto?lang=en)  \n  \nSource is a well-maintained domain-specific module, which is aligned with [Basic Formal Ontology(BFO)](https://bfo-ontology.github.io/). Definition origin for NFDI4Culture Ontology was:     \n\n**Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach. Pearson.**",
+        "timestamp": "2026-11-24T12:03:10.776Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
