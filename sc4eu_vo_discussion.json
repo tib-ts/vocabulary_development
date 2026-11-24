@@ -3087,5 +3087,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "8fc48d85-89a5-44cf-838c-caa42ef290a8",
+    "comments": [
+      {
+        "id": "bty0hu6vi",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Description taken from **Wikipedia**\n\nMain motivation to select Wikipedia was their extensive depiction of _CUDA_ technology. While **Nvidia** is a creator of said parallel computing platform, their description was more intended to be used by professional developers working with the technology as they provide more exercises for a hands-on experience ",
+        "timestamp": "2026-11-24T11:43:29.408Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
