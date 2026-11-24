@@ -3031,5 +3031,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "beb0e2b6-1440-4933-b287-a9a2f8f9a364",
+    "comments": [
+      {
+        "id": "lrtxx72s0",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Definition taken from _Cisco_  \n  \nCisco as-a-source was selected for their clear description of _Neocloud_. At the same time, they dive deeper and give a comparison between **cloud**, **hyperscaler** and **neocloud**.  \nThey also don't stop there and provide benefits and advantages, with future trends. Being experts in delivering critical infrastructure, makes Cisco a highly reputable source ",
+        "timestamp": "2026-11-24T11:23:33.314Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
