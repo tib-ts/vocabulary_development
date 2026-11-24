@@ -3003,5 +3003,19 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "8a4801ff-6e7f-4d97-8dc8-5406c2e7f651",
+    "comments": [
+      {
+        "id": "applgcgul",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Definition taken from **Red Hat** and **IBM**. \n\nSources above were selected due to their high level of experience with distributed computing environments:  \n- IBM is one of the \"Big Five\" hyperscale providers with IBM Cloud  \n- Red Hat ships Red Hat Enterprise Linux - certified for use with all major cloud providers",
+        "timestamp": "2026-11-24T11:10:37.882Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
