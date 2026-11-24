@@ -3101,5 +3101,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "1bb4f9c2-08ac-4215-9360-48d9f2154e6c",
+    "comments": [
+      {
+        "id": "qxgs4x12e",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Description sourced from **IBM**  \n  \nSource was selected among others for the excellent quality of a topic covering _LLMs_. IBM was just recently named as a Leader in the **2026 Gartner® Magic Quadrant™ for AI Application Development**, so they have a top-tier reputation for delivering study materials.",
+        "timestamp": "2026-11-24T11:49:14.502Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
