@@ -3073,5 +3073,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "ba627986-6080-43e9-8fa6-15070ad27659",
+    "comments": [
+      {
+        "id": "wjsmoxiz0",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Definition taken from **IBM** \n  \nSource above was selected, because IBM has provided a full description of _API_ term, explaining the functionality, motivation and types: by access levels and by Web API styles and protocols",
+        "timestamp": "2026-11-24T11:39:17.192Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
