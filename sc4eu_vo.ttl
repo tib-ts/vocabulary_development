@@ -798,10 +798,10 @@
     dcterms:identifier "beb0e2b6-1440-4933-b287-a9a2f8f9a364";
     rdfs:label "Neocloud";
     dcterms:description "Specialized cloud infrastructure providers dedicated to AI workloads. By leveraging high-performance hardware compute accelerators—primarily GPUs—these providers support the diverse and demanding AI application needs of any organization, including enterprises, model builders, and hyperscalers. Neocloud platforms accommodate the entire AI lifecycle, from large-scale training and fine-tuning to inference, offering flexible consumption models such as on-demand access, reserved instances, and platform-as-a-service. ";
-    rdfs:seeAlso "https://www.cisco.com/site/us/en/learn/topics/computing/what-is-neocloud.html";
+    rdfs:seeAlso "url:https://www.cisco.com/site/us/en/learn/topics/computing/what-is-neocloud.html";
     ex:status "draft";
     dcterms:created "2026-11-23"^^xsd:date;
-    dcterms:modified "2026-11-23T16:21:01.730Z"^^xsd:dateTime.
+    dcterms:modified "2026-11-24T11:15:47.026Z"^^xsd:dateTime.
 <https://example.com#d2e5aab2-3a61-466b-a949-b281d4953cdc> rdf:type rdfs:Resource;
     dcterms:identifier "d2e5aab2-3a61-466b-a949-b281d4953cdc";
     rdfs:label "GPU (Graphics Processing Unit)";
