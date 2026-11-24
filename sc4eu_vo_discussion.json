@@ -3059,5 +3059,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "4a7d9c34-5263-4b6e-b500-0ee028c01392",
+    "comments": [
+      {
+        "id": "aej6er3mn",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Definition paraphrased from **IBM**  \n  \nSource delivers extensive explanation of _CPU_ term. From clarifying three primary components:  \n1. Control unit  \n2. Arithmetic/Logic unit  \n3. Memory unit  \n  \nto giving a connection between _CPU_ and [_GPU_](https://service.tib.eu/ocp/vocabulary_support/terms/d2e5aab2-3a61-466b-a949-b281d4953cdc)",
+        "timestamp": "2026-11-24T11:34:31.207Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
