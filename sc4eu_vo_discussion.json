@@ -3017,5 +3017,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "9965c22c-9594-4138-ac95-0c7bb8febd1d",
+    "comments": [
+      {
+        "id": "1h9msg8ds",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "> Definition taken from **HPE (Hewlett Packard Enterprise)**  \n  \n_Compute_ is a general term, HPE glossary for it provides a distinctive description giving answers to the most common questions: \n- why compute matters?  \n- types of compute?  \n- cloud and on-premise compute? ",
+        "timestamp": "2026-11-24T11:15:31.230Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
